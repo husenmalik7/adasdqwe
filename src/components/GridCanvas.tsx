@@ -1,15 +1,57 @@
 import { useEffect, useRef, useState, useCallback } from 'react';
 import { Button } from '@/components/ui/button';
 import { Plus, Minus, RotateCcw } from 'lucide-react';
+import denah from '@/assets/denah.svg';
+import { generateCells } from '@/lib/utils';
 
 const GRID_COLS = 1920;
 const GRID_ROWS = 1080;
 const MIN_SCALE = 0.1;
 const MAX_SCALE = 60;
 const DRAG_THRESHOLD = 4;
-const GRID_OPACITY = 0; // 0 = hilang, 1 = full
+const GRID_OPACITY = 1; // 0 = hilang, 1 = full
 
 type Transform = { scale: number; offsetX: number; offsetY: number };
+type Booth = {
+  cells: { x: number; y: number }[];
+  name: string;
+  description: string;
+  instagram: string;
+  image: string;
+  detailUrl: string;
+};
+
+const BOOTHS: Booth[] = [
+  {
+    cells: generateCells(438, 323, 446, 327),
+    name: 'Livium',
+    description: 'Merupakan VTuber agency dari Indo',
+    instagram: 'https://www.instagram.com/livium',
+    image: '[link gambar]',
+    detailUrl: '[link detail booth]',
+  },
+  {
+    cells: [
+      { x: 10, y: 10 },
+      { x: 9, y: 9 },
+      { x: 9, y: 10 },
+      { x: 10, y: 9 },
+    ],
+    name: 'Tanomiya',
+    description: 'Merupakan gerai merch jejepangan',
+    instagram: 'https://www.instagram.com/tanomiya',
+    image: '[link gambar]',
+    detailUrl: '[link detail booth]',
+  },
+];
+
+// Taruh di luar komponen, setelah BOOTHS
+const CELL_MAP = new Map<string, Booth>();
+for (const booth of BOOTHS) {
+  for (const cell of booth.cells) {
+    CELL_MAP.set(`${cell.x},${cell.y}`, booth);
+  }
+}
 
 const GridCanvas = () => {
   const canvasRef = useRef<HTMLCanvasElement>(null);
@@ -17,6 +59,10 @@ const GridCanvas = () => {
   const transformRef = useRef<Transform>({ scale: 1, offsetX: 0, offsetY: 0 });
   const rafRef = useRef<number | null>(null);
   const sizeRef = useRef({ w: 0, h: 0 });
+
+  const imageRef = useRef<HTMLImageElement | null>(null);
+  const [isInsideGrid, setIsInsideGrid] = useState(false);
+  const [isDragging, setIsDragging] = useState(false);
 
   const pointersRef = useRef<Map<number, { x: number; y: number }>>(new Map());
   const dragStateRef = useRef<{
@@ -52,6 +98,18 @@ const GridCanvas = () => {
     });
   }, []);
 
+  // init image
+  useEffect(() => {
+    const img = new Image();
+    img.src = denah;
+
+    img.onload = () => {
+      console.log('image loaded');
+      imageRef.current = img;
+      scheduleDraw();
+    };
+  }, [scheduleDraw]);
+
   const draw = useCallback(() => {
     const canvas = canvasRef.current;
     if (!canvas) return;
@@ -70,6 +128,26 @@ const GridCanvas = () => {
     ctx.fillStyle = bg ? `hsl(${bg})` : '#ffffff';
     ctx.fillRect(0, 0, w, h);
 
+    const img = imageRef.current;
+    if (img) {
+      ctx.save();
+
+      const { scale, offsetX, offsetY } = transformRef.current;
+
+      ctx.translate(offsetX, offsetY);
+      ctx.scale(scale, scale);
+
+      ctx.drawImage(
+        img,
+        0,
+        0,
+        GRID_COLS, // penting: samain dengan grid world
+        GRID_ROWS
+      );
+
+      ctx.restore();
+    }
+
     // Grid bounds in screen space
     const gridLeft = offsetX;
     const gridTop = offsetY;
@@ -82,8 +160,9 @@ const GridCanvas = () => {
     const gridBgW = Math.min(w, gridRight) - gridBgX;
     const gridBgH = Math.min(h, gridBottom) - gridBgY;
     if (gridBgW > 0 && gridBgH > 0) {
-      ctx.fillStyle = 'hsl(0 0% 99%)';
-      ctx.fillRect(gridBgX, gridBgY, gridBgW, gridBgH);
+      //! I dont get it but its work
+      // ctx.fillStyle = 'hsl(0 0% 99%)';
+      // ctx.fillRect(gridBgX, gridBgY, gridBgW, gridBgH);
     }
 
     // Visible cell range
@@ -277,6 +356,7 @@ const GridCanvas = () => {
         moved: 0,
         pinchDist: null,
       };
+      setIsDragging(true); // ← tambah
     } else if (pointersRef.current.size === 2) {
       const pts = Array.from(pointersRef.current.values());
       const dx = pts[0].x - pts[1].x;
@@ -305,8 +385,10 @@ const GridCanvas = () => {
       cell.y < GRID_ROWS
     ) {
       setHover({ x: cell.x, y: cell.y, sx: x, sy: y });
+      setIsInsideGrid(true); // ← tambah ini
     } else {
       setHover(null);
+      setIsInsideGrid(false); // ← tambah ini
     }
 
     if (
@@ -362,10 +444,17 @@ const GridCanvas = () => {
           cell.y >= 0 &&
           cell.y < GRID_ROWS
         ) {
-          alert(`X: ${cell.x}, Y: ${cell.y}`);
+          // alert(`X: ${cell.x}, Y: ${cell.y}`);
+          const key = `${cell.x},${cell.y}`;
+          const booth = CELL_MAP.get(key);
+          if (booth) {
+            alert(`${booth.name}\n${booth.description}\n${booth.instagram}`);
+            // nanti bisa diganti modal/popup yang lebih proper
+          }
         }
       }
       dragStateRef.current.active = false;
+      setIsDragging(false); // ← tambah
     }
     if (pointersRef.current.size < 2) {
       dragStateRef.current.pinchDist = null;
@@ -385,8 +474,19 @@ const GridCanvas = () => {
       onPointerMove={onPointerMove}
       onPointerUp={onPointerUp}
       onPointerCancel={onPointerUp}
-      onPointerLeave={() => setHover(null)}
-      style={{ cursor: dragStateRef.current.active ? 'grabbing' : 'grab' }}
+      onPointerLeave={() => {
+        setHover(null);
+        setIsInsideGrid(false);
+      }}
+      style={{
+        cursor: isDragging
+          ? isInsideGrid
+            ? 'default'
+            : 'grabbing'
+          : isInsideGrid
+            ? 'default'
+            : 'grab',
+      }}
     >
       <canvas ref={canvasRef} className="block" />
 
