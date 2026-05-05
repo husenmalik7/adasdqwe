@@ -6,11 +6,10 @@ import { generateCells } from '@/lib/utils';
 
 const GRID_COLS = 1920;
 const GRID_ROWS = 1080;
-
 const MIN_SCALE = 0.1;
 const MAX_SCALE = 60;
 const DRAG_THRESHOLD = 4;
-const GRID_OPACITY = 1;
+const GRID_OPACITY = 1; // 0 = hilang, 1 = full
 
 type Transform = { scale: number; offsetX: number; offsetY: number };
 type Booth = {
@@ -46,6 +45,7 @@ const BOOTHS: Booth[] = [
   },
 ];
 
+// Taruh di luar komponen, setelah BOOTHS
 const CELL_MAP = new Map<string, Booth>();
 for (const booth of BOOTHS) {
   for (const cell of booth.cells) {
@@ -59,16 +59,8 @@ const GridCanvas = () => {
   const transformRef = useRef<Transform>({ scale: 1, offsetX: 0, offsetY: 0 });
   const rafRef = useRef<number | null>(null);
   const sizeRef = useRef({ w: 0, h: 0 });
+
   const imageRef = useRef<HTMLImageElement | null>(null);
-
-  // Highlight: pakai ref supaya draw() bisa baca tanpa deps
-  const highlightedBoothRef = useRef<Booth | null>(null);
-  const [selectedBoothName, setSelectedBoothName] = useState<string | null>(
-    null
-  );
-
-  const animRef = useRef<number | null>(null);
-
   const [isInsideGrid, setIsInsideGrid] = useState(false);
   const [isDragging, setIsDragging] = useState(false);
 
@@ -106,10 +98,13 @@ const GridCanvas = () => {
     });
   }, []);
 
+  // init image
   useEffect(() => {
     const img = new Image();
     img.src = denah;
+
     img.onload = () => {
+      console.log('image loaded');
       imageRef.current = img;
       scheduleDraw();
     };
@@ -126,7 +121,7 @@ const GridCanvas = () => {
     const { scale, offsetX, offsetY } = transformRef.current;
 
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-
+    // Background
     const bg = getComputedStyle(document.documentElement)
       .getPropertyValue('--background')
       .trim();
@@ -136,22 +131,47 @@ const GridCanvas = () => {
     const img = imageRef.current;
     if (img) {
       ctx.save();
+
+      const { scale, offsetX, offsetY } = transformRef.current;
+
       ctx.translate(offsetX, offsetY);
       ctx.scale(scale, scale);
-      ctx.drawImage(img, 0, 0, GRID_COLS, GRID_ROWS);
+
+      ctx.drawImage(
+        img,
+        0,
+        0,
+        GRID_COLS, // penting: samain dengan grid world
+        GRID_ROWS
+      );
+
       ctx.restore();
     }
 
+    // Grid bounds in screen space
     const gridLeft = offsetX;
     const gridTop = offsetY;
     const gridRight = offsetX + GRID_COLS * scale;
     const gridBottom = offsetY + GRID_ROWS * scale;
 
+    // Draw grid background (subtle)
+    const gridBgX = Math.max(0, gridLeft);
+    const gridBgY = Math.max(0, gridTop);
+    const gridBgW = Math.min(w, gridRight) - gridBgX;
+    const gridBgH = Math.min(h, gridBottom) - gridBgY;
+    if (gridBgW > 0 && gridBgH > 0) {
+      //! I dont get it but its work
+      // ctx.fillStyle = 'hsl(0 0% 99%)';
+      // ctx.fillRect(gridBgX, gridBgY, gridBgW, gridBgH);
+    }
+
+    // Visible cell range
     const startCol = Math.max(0, Math.floor(-offsetX / scale));
     const endCol = Math.min(GRID_COLS, Math.ceil((w - offsetX) / scale));
     const startRow = Math.max(0, Math.floor(-offsetY / scale));
     const endRow = Math.min(GRID_ROWS, Math.ceil((h - offsetY) / scale));
 
+    // Level of detail: choose step so lines aren't packed too tight
     let step = 1;
     if (scale < 0.5) step = 100;
     else if (scale < 2) step = 10;
@@ -159,8 +179,9 @@ const GridCanvas = () => {
 
     ctx.lineWidth = 1;
     ctx.save();
-    ctx.globalAlpha = GRID_OPACITY;
+    ctx.globalAlpha = GRID_OPACITY; //ini
 
+    // Minor lines
     if (scale >= 4) {
       ctx.strokeStyle = 'hsl(220 13% 91%)';
       ctx.beginPath();
@@ -179,6 +200,7 @@ const GridCanvas = () => {
       ctx.stroke();
     }
 
+    // Step lines (medium)
     if (step <= 10) {
       ctx.strokeStyle = 'hsl(220 13% 85%)';
       ctx.beginPath();
@@ -198,6 +220,7 @@ const GridCanvas = () => {
       ctx.stroke();
     }
 
+    // Major lines (every 100)
     ctx.strokeStyle = 'hsl(220 13% 75%)';
     ctx.beginPath();
     for (let c = Math.ceil(startCol / 100) * 100; c <= endCol; c += 100) {
@@ -212,39 +235,7 @@ const GridCanvas = () => {
     }
     ctx.stroke();
 
-    ctx.restore();
-
-    // ── Highlight booth cells ──────────────────────────────────────────────
-    const activeBooth = highlightedBoothRef.current;
-    if (activeBooth) {
-      const xs = activeBooth.cells.map((c) => c.x);
-      const ys = activeBooth.cells.map((c) => c.y);
-      const minX = Math.min(...xs);
-      const maxX = Math.max(...xs) + 1;
-      const minY = Math.min(...ys);
-      const maxY = Math.max(...ys) + 1;
-
-      const rx = offsetX + minX * scale;
-      const ry = offsetY + minY * scale;
-      const rw = (maxX - minX) * scale;
-      const rh = (maxY - minY) * scale;
-
-      ctx.save();
-
-      // Fill
-      ctx.globalAlpha = 0.4;
-      ctx.fillStyle = 'hsl(45 100% 55%)';
-      ctx.fillRect(rx, ry, rw, rh);
-
-      // Single border
-      ctx.globalAlpha = 0.9;
-      ctx.strokeStyle = 'hsl(38 100% 45%)';
-      ctx.lineWidth = Math.max(1.5, scale * 0.08);
-      ctx.strokeRect(rx + 0.5, ry + 0.5, rw - 1, rh - 1);
-
-      ctx.restore();
-    }
-    // ── End highlight ──────────────────────────────────────────────────────
+    ctx.restore(); //ini
 
     // Outer border
     ctx.strokeStyle = 'hsl(220 13% 60%)';
@@ -256,65 +247,6 @@ const GridCanvas = () => {
       Math.round(GRID_ROWS * scale)
     );
   }, []);
-
-  // ── flyTo: animasi pan + zoom ke center booth ────────────────────────────
-  const flyTo = useCallback(
-    (booth: Booth) => {
-      const xs = booth.cells.map((c) => c.x);
-      const ys = booth.cells.map((c) => c.y);
-      const minX = Math.min(...xs);
-      const maxX = Math.max(...xs) + 1;
-      const minY = Math.min(...ys);
-      const maxY = Math.max(...ys) + 1;
-      const centerX = (minX + maxX) / 2;
-      const centerY = (minY + maxY) / 2;
-
-      const { w, h } = sizeRef.current;
-
-      // Hitung skala supaya booth mengisi ~30% layar, min 10 max 40
-      const boothW = maxX - minX;
-      const boothH = maxY - minY;
-      const fitScale = Math.min(
-        (w * 0.3) / Math.max(boothW, 1),
-        (h * 0.3) / Math.max(boothH, 1)
-      );
-      // const TARGET_SCALE = Math.max(10, Math.min(40, fitScale));
-      const TARGET_SCALE = Math.max(4, Math.min(8, fitScale));
-
-      const targetOffsetX = w / 2 - centerX * TARGET_SCALE;
-      const targetOffsetY = h / 2 - centerY * TARGET_SCALE;
-
-      const startT = { ...transformRef.current };
-      const DURATION = 650;
-      const startTime = performance.now();
-
-      const easeInOut = (t: number) =>
-        t < 0.5 ? 2 * t * t : -1 + (4 - 2 * t) * t;
-
-      if (animRef.current) cancelAnimationFrame(animRef.current);
-
-      const step = (now: number) => {
-        const elapsed = now - startTime;
-        const p = Math.min(elapsed / DURATION, 1);
-        const e = easeInOut(p);
-
-        transformRef.current = {
-          scale: startT.scale + (TARGET_SCALE - startT.scale) * e,
-          offsetX: startT.offsetX + (targetOffsetX - startT.offsetX) * e,
-          offsetY: startT.offsetY + (targetOffsetY - startT.offsetY) * e,
-        };
-        scheduleDraw();
-
-        if (p < 1) {
-          animRef.current = requestAnimationFrame(step);
-        }
-      };
-
-      animRef.current = requestAnimationFrame(step);
-    },
-    [scheduleDraw]
-  );
-  // ── End flyTo ────────────────────────────────────────────────────────────
 
   const resize = useCallback(() => {
     const canvas = canvasRef.current;
@@ -359,6 +291,7 @@ const GridCanvas = () => {
     [scheduleDraw]
   );
 
+  // Init
   useEffect(() => {
     resize();
     fitToScreen();
@@ -382,6 +315,7 @@ const GridCanvas = () => {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
+  // Wheel zoom
   useEffect(() => {
     const el = containerRef.current;
     if (!el) return;
@@ -422,7 +356,7 @@ const GridCanvas = () => {
         moved: 0,
         pinchDist: null,
       };
-      setIsDragging(true);
+      setIsDragging(true); // ← tambah
     } else if (pointersRef.current.size === 2) {
       const pts = Array.from(pointersRef.current.values());
       const dx = pts[0].x - pts[1].x;
@@ -442,6 +376,7 @@ const GridCanvas = () => {
       pointersRef.current.set(e.pointerId, { x, y });
     }
 
+    // Hover coord
     const cell = screenToCell(x, y);
     if (
       cell.x >= 0 &&
@@ -450,10 +385,10 @@ const GridCanvas = () => {
       cell.y < GRID_ROWS
     ) {
       setHover({ x: cell.x, y: cell.y, sx: x, sy: y });
-      setIsInsideGrid(true);
+      setIsInsideGrid(true); // ← tambah ini
     } else {
       setHover(null);
-      setIsInsideGrid(false);
+      setIsInsideGrid(false); // ← tambah ini
     }
 
     if (
@@ -509,15 +444,17 @@ const GridCanvas = () => {
           cell.y >= 0 &&
           cell.y < GRID_ROWS
         ) {
+          // alert(`X: ${cell.x}, Y: ${cell.y}`);
           const key = `${cell.x},${cell.y}`;
           const booth = CELL_MAP.get(key);
           if (booth) {
             alert(`${booth.name}\n${booth.description}\n${booth.instagram}`);
+            // nanti bisa diganti modal/popup yang lebih proper
           }
         }
       }
       dragStateRef.current.active = false;
-      setIsDragging(false);
+      setIsDragging(false); // ← tambah
     }
     if (pointersRef.current.size < 2) {
       dragStateRef.current.pinchDist = null;
@@ -527,18 +464,6 @@ const GridCanvas = () => {
   const zoomCenter = (factor: number) => {
     const { w, h } = sizeRef.current;
     zoomAt(factor, w / 2, h / 2);
-  };
-
-  const handleShowBooth = (booth: Booth) => {
-    highlightedBoothRef.current = booth;
-    setSelectedBoothName(booth.name);
-    flyTo(booth);
-  };
-
-  const handleClearHighlight = () => {
-    highlightedBoothRef.current = null;
-    setSelectedBoothName(null);
-    scheduleDraw();
   };
 
   return (
@@ -580,40 +505,6 @@ const GridCanvas = () => {
       <div className="absolute right-4 top-4 rounded-md border border-border bg-card/90 px-3 py-1.5 text-xs font-mono text-muted-foreground shadow-sm backdrop-blur">
         1920 × 1080 grid
       </div>
-
-      {/* ── Show Booth panel ── */}
-      <div
-        className="absolute bottom-4 left-4 flex flex-col gap-1.5"
-        style={{ maxWidth: 180 }}
-      >
-        <p className="rounded-md border border-border bg-card/90 px-2 py-1 text-xs font-mono text-muted-foreground shadow-sm backdrop-blur">
-          Show Booth
-        </p>
-        {BOOTHS.map((booth) => (
-          <Button
-            key={booth.name}
-            size="sm"
-            variant={selectedBoothName === booth.name ? 'default' : 'secondary'}
-            className="justify-start text-xs"
-            onPointerDown={(e) => e.stopPropagation()}
-            onClick={() => handleShowBooth(booth)}
-          >
-            {booth.name}
-          </Button>
-        ))}
-        {selectedBoothName && (
-          <Button
-            size="sm"
-            variant="ghost"
-            className="text-xs text-muted-foreground"
-            onPointerDown={(e) => e.stopPropagation()}
-            onClick={handleClearHighlight}
-          >
-            ✕ Clear
-          </Button>
-        )}
-      </div>
-      {/* ── End Show Booth panel ── */}
 
       <div className="absolute bottom-4 right-4 flex flex-col gap-2">
         <Button
