@@ -2,7 +2,8 @@ import { useEffect, useRef, useState, useCallback } from 'react';
 import { Button } from '@/components/ui/button';
 import { Plus, Minus, RotateCcw } from 'lucide-react';
 import denah from '@/assets/denah.svg';
-import { generateCells } from '@/lib/utils';
+// import { generateCells } from '@/lib/utils';
+import { BOOTHS } from '@/data/booths';
 
 const GRID_COLS = 1920;
 const GRID_ROWS = 1080;
@@ -15,36 +16,43 @@ const GRID_OPACITY = 1;
 type Transform = { scale: number; offsetX: number; offsetY: number };
 type Booth = {
   cells: { x: number; y: number }[];
+
+  id: number;
+  circle_code: string;
   name: string;
-  description: string;
-  instagram: string;
-  image: string;
-  detailUrl: string;
+  circle_cut: string;
+  circle_facebook: string;
+  circle_instagram: string;
+  circle_twitter: string;
+  circle_other_socials: string;
+  sampleworks_images: string[];
+  day: string;
+  circle_type: string;
 };
 
-const BOOTHS: Booth[] = [
-  {
-    cells: generateCells(438, 323, 446, 327),
-    name: 'Livium',
-    description: 'Merupakan VTuber agency dari Indo',
-    instagram: 'https://www.instagram.com/livium',
-    image: '[link gambar]',
-    detailUrl: '[link detail booth]',
-  },
-  {
-    cells: [
-      { x: 10, y: 10 },
-      { x: 9, y: 9 },
-      { x: 9, y: 10 },
-      { x: 10, y: 9 },
-    ],
-    name: 'Tanomiya',
-    description: 'Merupakan gerai merch jejepangan',
-    instagram: 'https://www.instagram.com/tanomiya',
-    image: '[link gambar]',
-    detailUrl: '[link detail booth]',
-  },
-];
+// const BOOTHS: Booth[] = [
+//   {
+//     cells: generateCells(438, 323, 446, 327),
+//     name: 'Livium',
+//     description: 'Merupakan VTuber agency dari Indo',
+//     instagram: 'https://www.instagram.com/livium',
+//     image: '[link gambar]',
+//     detailUrl: '[link detail booth]',
+//   },
+//   {
+//     cells: [
+//       { x: 10, y: 10 },
+//       { x: 9, y: 9 },
+//       { x: 9, y: 10 },
+//       { x: 10, y: 9 },
+//     ],
+//     name: 'Tanomiya',
+//     description: 'Merupakan gerai merch jejepangan',
+//     instagram: 'https://www.instagram.com/tanomiya',
+//     image: '[link gambar]',
+//     detailUrl: '[link detail booth]',
+//   },
+// ];
 
 const CELL_MAP = new Map<string, Booth>();
 for (const booth of BOOTHS) {
@@ -512,7 +520,8 @@ const GridCanvas = () => {
           const key = `${cell.x},${cell.y}`;
           const booth = CELL_MAP.get(key);
           if (booth) {
-            alert(`${booth.name}\n${booth.description}\n${booth.instagram}`);
+            // alert(`${booth.name}\n${booth.description}\n${booth.instagram}`);
+            alert(`${booth.name}\n`);
           }
         }
       }
