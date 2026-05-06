@@ -1,7 +1,8 @@
 import { useEffect, useRef, useState, useCallback } from 'react';
 import { Button } from '@/components/ui/button';
 import { Plus, Minus, RotateCcw } from 'lucide-react';
-import denah from '@/assets/denah.svg';
+// import denah from '@/assets/denah.svg';
+import denah from '@/assets/comifuro.jpg';
 // import { generateCells } from '@/lib/utils';
 import { BOOTHS } from '@/data/booths';
 
