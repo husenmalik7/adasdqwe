@@ -624,6 +624,7 @@ const GridCanvas = () => {
       </div>
       {/* ── End Show Booth panel ── */}
 
+      {/* ── Navigation panel  */}
       <div className="absolute bottom-4 right-4 flex flex-col gap-2">
         <Button
           size="icon"
@@ -653,6 +654,7 @@ const GridCanvas = () => {
           <RotateCcw className="h-4 w-4" />
         </Button>
       </div>
+      {/* ── End Navigation panel  */}
     </div>
   );
 };
