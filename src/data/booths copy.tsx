@@ -1,164 +1,128 @@
 export const BOOTHS = [
   {
     id: 7851,
-
     circle_code: 'AA-01/AA-02',
     name: 'Ichigowarano',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ichigowarano.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/ichigowarano/',
     circle_twitter: 'https://x.com/ichigowarano',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7852,
-
     circle_code: 'AA-03',
     name: 'soykune',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/soykune.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/sonnya_ws/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7853,
-
     circle_code: 'AA-04',
     name: 'GYM AA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/GYM AA.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/sicamal_id',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7854,
-
     circle_code: 'AA-05',
     name: 'Kuromitsu Kitsune',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kuromitsu Kitsune.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/rist_storypict/',
     circle_twitter: null,
     circle_other_socials: 'https://linktr.ee/kuromitsukitsune',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7855,
-
     circle_code: 'AA-06',
     name: 'Warkop Neco',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warkop Neco.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/WarkopNeco',
     circle_twitter: 'https://x.com/WarkopNeco',
     circle_other_socials: null,
-
     other_fandom:
       "Aria, Silent Hill, Hatsune Miku, Honkai Star Rail, Blue Archive, Umamusume, MyGO, Blue Reflection, JoJo's, Smash Bros",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7856,
-
     circle_code: 'AA-07/AA-08',
     name: 'MUSAN PRO.',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/MUSAN PRO..jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=100080151191663',
     circle_instagram: 'https://www.instagram.com/musan.pro',
     circle_twitter: 'https://x.com/musan_pro',
     circle_other_socials: 'https://linktr.ee/musan.pro',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7857,
-
     circle_code: 'AA-09/AA-10',
     name: 'PANDAVVA UNIVERSE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PANDAVVA UNIVERSE.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/pandavva.id/',
     circle_twitter: 'https://x.com/PANDAVVA_ID',
     circle_other_socials: 'https://www.youtube.com/@PANDAVVA',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7858,
-
     circle_code: 'AA-11/AA-12',
     name: 'Liddle Mise',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Liddle Mise.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7859,
-
     circle_code: 'AA-13',
     name: 'Cattpucino',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cattpucino.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/cattpucino',
     circle_twitter: null,
     circle_other_socials: 'www.cattpucino.com',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/bfaf81fe-4959-4d3c-93da-f8bb17d7307d/5816325c-2eb5-4ea8-ac77-1612ae085604/AA-13.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/bfaf81fe-4959-4d3c-93da-f8bb17d7307d/39fe396f-e77f-4c51-a893-a99f0fb77223/AA-13.png',
@@ -172,25 +136,20 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/bfaf81fe-4959-4d3c-93da-f8bb17d7307d/2a011e60-f147-43c2-af03-b9c2b3c6ecfe/AA-13.jpeg',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7860,
-
     circle_code: 'AA-14',
     name: 'LEOREN',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/LEOREN.jpg',
-
     circle_facebook: 'https://web.facebook.com/LeorenArt/',
     circle_instagram: 'https://www.instagram.com/leorenart',
     circle_twitter: 'https://x.com/leorenart',
     circle_other_socials: 'https://leorenart.carrd.co/',
-
     other_fandom:
       "Resident Evil, Genshin Impact, Honkai Star Rail, Zenless Zone Zero, Love and Deepspace, Nier Automata, Nier Replicant, Devil May Cry, Castlevania, Resident Evil, Baldur's Gate 3, Monster Hunter, Kingdom Hearts, Drakengard, Fire Emblem, Banana Fish, Hunter x Hunter, Jujutsu Kaisen, Kimetsu no Yaiba, Ghibli, Avatar",
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4a83b88a-5434-44a5-ac93-2a2a1281ecc6/f4e6e216-b181-4116-a184-4c9a4bf2e048/AA-14.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4a83b88a-5434-44a5-ac93-2a2a1281ecc6/c4f3bda8-e79a-42d7-b370-c3823533e80b/AA-14.jpg',
@@ -204,23 +163,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4a83b88a-5434-44a5-ac93-2a2a1281ecc6/44491887-e017-498d-8ae5-4f6854e2ac44/AA-14.jpg',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7861,
-
     circle_code: 'AA-15',
     name: '@nan_artwork',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/@nan_artwork.jpg',
-
     circle_facebook: '-',
-    circle_instagram:
-      'https://www.instagram.com/nan_artwork?igsh=YzR0ZTRzY2RwNTQ1&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/nan_artwork?igsh=YzR0ZTRzY2RwNTQ1&utm_source=qr',
     circle_twitter: 'https://x.com/nan_artwork?s=21',
     circle_other_socials: '-',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/720bceb6-2c2a-4d44-9d00-8f26e9a6489b/34902e57-822b-4b97-9bcf-b13cd00d4d52/AA-15.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/720bceb6-2c2a-4d44-9d00-8f26e9a6489b/22e2e15a-af61-4850-91c8-3a4ca22eac77/AA-15.png',
@@ -230,40 +184,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/720bceb6-2c2a-4d44-9d00-8f26e9a6489b/89bb1065-b6b0-4c73-b226-fe18e85d60b3/AA-15.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7862,
-
     circle_code: 'AA-16/AA-17',
     name: 'TANO x KYOMAY x ZUKI x HUYKHO192',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/TANO x KYOMAY x ZUKI x HUYKHO192.jpg',
-
     circle_facebook: 'https://www.facebook.com/ngo.ta.267042/',
     circle_instagram: 'https://www.instagram.com/tanongota/',
     circle_twitter: 'https://x.com/hyko192 https://x.com/TTango_',
     circle_other_socials: 'https://www.facebook.com/tanomerch',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7863,
-
     circle_code: 'AA-18',
     name: 'PuddleArt Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PuddleArt Studio.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/puddleartstudio/?hl=en',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4da4fe63-a84c-42b2-88dc-5dc3a46a19a0/0c99206d-25d7-4591-834b-2cc806d5ba0c/AA-18.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4da4fe63-a84c-42b2-88dc-5dc3a46a19a0/c91e3b22-56b7-4b6b-8f3a-d39c58096aee/AA-18.PNG',
@@ -273,668 +219,77 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4da4fe63-a84c-42b2-88dc-5dc3a46a19a0/1ea49c1a-c3f6-4527-b12e-df9795dd00d4/AA-18.jpg',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7864,
-
     circle_code: 'AA-19',
     name: 'Maya Panda',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Maya Panda.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=100063510397279',
     circle_instagram: 'https://www.instagram.com/maya_panda94/',
     circle_twitter: 'https://x.com/maya_panda94',
     circle_other_socials: null,
-
     other_fandom: "Jojo's Bizzare Adventure, Dorohedoro",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7865,
-
     circle_code: 'AA-20',
     name: 'Bichi Mao',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bichi Mao.jpg',
-
     circle_facebook: 'https://www.facebook.com/share/1AVnBs7bnM/',
     circle_instagram: 'https://www.instagram.com/bichi.mao',
     circle_twitter: null,
     circle_other_socials: 'https://bichimao.com/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
-  {
-    id: 7866,
-
-    circle_code: 'AB-01/AB-02',
-    name: "GHOSTY's COMIC",
-    circle_cut:
-      "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/GHOSTY's COMIC.jpg",
-
-    circle_facebook: 'https://www.facebook.com/GHOSTY.COMIC/',
-    circle_instagram: 'https://www.instagram.com/ghosty_comic',
-    circle_twitter: 'https://x.com/jaretghosty',
-    circle_other_socials: null,
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_B',
-  },
-  {
-    id: 7867,
-
-    circle_code: 'AB-03',
-    name: 'cosmic communication',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/cosmic communication.jpg',
-
-    circle_facebook: null,
-    circle_instagram: null,
-    circle_twitter: 'https://x.com/capybara_roll',
-    circle_other_socials: null,
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_A',
-  },
-  {
-    id: 7868,
-
-    circle_code: 'AB-05/AB-06',
-    name: 'Mythia Batford',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mythia Batford.jpg',
-
-    circle_facebook: null,
-    circle_instagram: 'https://www.instagram.com/mythiavtuber',
-    circle_twitter: 'https://x.com/MythiaVTuber',
-    circle_other_socials: null,
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_B',
-  },
-  {
-    id: 7869,
-
-    circle_code: 'AB-07',
-    name: 'NUSANTARANGER',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/NUSANTARANGER.jpg',
-
-    circle_facebook: 'https://www.facebook.com/SwetaKartikaReborn',
-    circle_instagram: 'https://www.instagram.com/swetakartikacomics/',
-    circle_twitter: 'https://x.com/SwetaKartika',
-    circle_other_socials: 'linktr.ee/swetakartika',
-
-    sampleworks_images: [
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e0a1fb68-bc74-4258-a519-d1d04bb8f13c/031b3517-a558-4ce8-88c9-7371c38c02fc/AB-07.jpg',
-    ],
-    day: 'Both Days',
-
-    circle_type: 'Booth_A',
-  },
-  {
-    id: 7870,
-
-    circle_code: 'AB-08/AB-09',
-    name: 'Figure it out',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Figure it out.jpg',
-
-    circle_facebook: null,
-    circle_instagram: 'https://www.instagram.com/danielsimon3d',
-    circle_twitter: null,
-    circle_other_socials: null,
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_B',
-  },
-  {
-    id: 7871,
-
-    circle_code: 'AB-10/AB-11',
-    name: 'Oishikunare',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Oishikunare.jpg',
-
-    circle_facebook: null,
-    circle_instagram: 'https://www.instagram.com/oishikunaredoujin',
-    circle_twitter: null,
-    circle_other_socials: null,
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_B',
-  },
-  {
-    id: 7872,
-
-    circle_code: 'AB-12/AB-13',
-    name: 'Krisanti Comics X Kisai Entertainment',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Krisanti Comics X Kisai Entertainment.jpg',
-
-    circle_facebook:
-      'https://www.facebook.com/share/1GsLtV2f1R/?mibextid=wwXIfr',
-    circle_instagram:
-      'https://www.instagram.com/krisanti_comics?igsh=MXIzd2oyNXVrZGNybQ==',
-    circle_twitter:
-      'https://x.com/krisanti_comics?s=21&t=qHoi_eSTq5D4U9nDXYaI4Q',
-    circle_other_socials: null,
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_B',
-  },
-  {
-    id: 7873,
-
-    circle_code: 'AB-14',
-    name: 'Pythonkid',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pythonkid.jpg',
-
-    circle_facebook: 'https://www.facebook.com/profile.php?id=100063118635279',
-    circle_instagram: 'https://www.instagram.com/pythonkid2/',
-    circle_twitter: 'https://x.com/pythonkid2013',
-    circle_other_socials: 'http://pythonkid.blog.fc2.com/',
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_A',
-  },
-  {
-    id: 7874,
-
-    circle_code: 'AB-15',
-    name: 'Dango Kyoudai',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Dango Kyoudai.jpg',
-
-    circle_facebook: null,
-    circle_instagram: null,
-    circle_twitter: 'https://x.com/chrone_co',
-    circle_other_socials: null,
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_A',
-  },
-  {
-    id: 7875,
-
-    circle_code: 'AB-16',
-    name: 'Benishoga',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Benishoga.jpg',
-
-    circle_facebook: 'https://facebook.com/benish0ga',
-    circle_instagram: 'https://instagram.com/benish0ga',
-    circle_twitter: 'https://x.com/benish0ga',
-    circle_other_socials: 'https://benishoga.carrd.co/',
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_A',
-  },
-  {
-    id: 7876,
-
-    circle_code: 'AB-17/AB-18',
-    name: 'DouDouDoujin &Japanese Creators',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/DouDouDoujin &Japanese Creators.jpg',
-
-    circle_facebook: null,
-    circle_instagram: null,
-    circle_twitter: 'https://x.com/DouDoujin_PR',
-    circle_other_socials: null,
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_B',
-  },
-  {
-    id: 7877,
-
-    circle_code: 'AB-19/AB-20',
-    name: 'BANSHO＆SunameriDrill',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/BANSHO_SunameriDrill.jpg',
-
-    circle_facebook: null,
-    circle_instagram: 'https://www.instagram.com/anetarou_monkid/?hl=ja',
-    circle_twitter: 'https://x.com/ANETAROU',
-    circle_other_socials: null,
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_B',
-  },
-  {
-    id: 7878,
-
-    circle_code: 'AB-21/AB-22',
-    name: 'St4rLux',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/St4rLux.jpg',
-
-    circle_facebook: null,
-    circle_instagram: 'https://www.instagram.com/frederett/',
-    circle_twitter: 'https://x.com/Frederett_',
-    circle_other_socials: null,
-
-    sampleworks_images: [
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/97fe9d0d-dc3f-436f-b7c8-61557fa4cb21/31b2daef-3af1-4f25-bfd2-0be2fb0bae95/AB-21/AB-22.jpeg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/97fe9d0d-dc3f-436f-b7c8-61557fa4cb21/cc40f878-2392-41ce-b402-5dcf37bca9af/AB-21/AB-22.png',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/97fe9d0d-dc3f-436f-b7c8-61557fa4cb21/b5545935-e358-41a1-8085-197c4fc518ba/AB-21/AB-22.jpeg',
-    ],
-    day: 'Both Days',
-
-    circle_type: 'Booth_B',
-  },
-  {
-    id: 7879,
-
-    circle_code: 'AB-24/AB-25',
-    name: 'M.C.Bunny: Kelinci Rambut Poni',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/M.C.Bunny Kelinci Rambut Poni.jpg',
-
-    circle_facebook: null,
-    circle_instagram: 'https://www.instagram.com/funcican/',
-    circle_twitter: null,
-    circle_other_socials: 'https://cicanstore.com',
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_B',
-  },
-  {
-    id: 7880,
-
-    circle_code: 'AB-26',
-    name: 'Xeph',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Xeph.jpg',
-
-    circle_facebook: 'https://www.facebook.com/XephArt/',
-    circle_instagram: 'https://www.instagram.com/xephartworks/',
-    circle_twitter: 'https://x.com/Xeph_Artworks',
-    circle_other_socials: null,
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_A',
-  },
-  {
-    id: 7881,
-
-    circle_code: 'AB-27/AB-28',
-    name: 'xFate=ThiccCult',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/xFate=ThiccCult.jpg',
-
-    circle_facebook: 'https://www.facebook.com/XFateArtworks',
-    circle_instagram: 'https://www.instagram.com/xfateart/',
-    circle_twitter: 'https://x.com/xFateZH',
-    circle_other_socials: 'https://lit.link/en/xfate',
-
-    sampleworks_images: [
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b494d875-87dd-46e5-a4f2-6eb6ed0aa414/9516da0a-ce29-4159-89a8-df9569451fe6/AB-27/AB-28.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b494d875-87dd-46e5-a4f2-6eb6ed0aa414/1e9681fe-6cad-46af-ac5d-4f83b7b55098/AB-27/AB-28.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b494d875-87dd-46e5-a4f2-6eb6ed0aa414/de3833ad-a8cb-4a01-8055-2a68d610f74a/AB-27/AB-28.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b494d875-87dd-46e5-a4f2-6eb6ed0aa414/744b9da8-e064-46fb-9f12-8907157087db/AB-27/AB-28.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b494d875-87dd-46e5-a4f2-6eb6ed0aa414/3b7fd6d5-7c12-4053-b813-92e2321c9032/AB-27/AB-28.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b494d875-87dd-46e5-a4f2-6eb6ed0aa414/f6ee0b03-6b31-4aeb-b051-1e6fc9eb2b4d/AB-27/AB-28.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b494d875-87dd-46e5-a4f2-6eb6ed0aa414/46093604-75cd-4b62-b50f-ecea8daca31f/AB-27/AB-28.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b494d875-87dd-46e5-a4f2-6eb6ed0aa414/4921c0c7-d95c-4d90-bb89-45735ed1cb66/AB-27/AB-28.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b494d875-87dd-46e5-a4f2-6eb6ed0aa414/1a99d2e3-744d-4214-97a2-a25423d9a429/AB-27/AB-28.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b494d875-87dd-46e5-a4f2-6eb6ed0aa414/3a0553c2-5354-443a-9239-bee0ff36e11e/AB-27/AB-28.jpg',
-    ],
-    day: 'Both Days',
-
-    circle_type: 'Booth_B',
-  },
-  {
-    id: 7882,
-
-    circle_code: 'AB-29',
-    name: 'World Without Sleep',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/World Without Sleep.jpg',
-
-    circle_facebook:
-      'https://facebook.com/worldwithoutsleep; https://facebook.com/minyakbumi; https://www.facebook.com/dedy.rukunjaya',
-    circle_instagram:
-      'https://instagram.com/worldwithoutsleep; https://instagram.com/minyakbumi; https://instagram.com/dedy.koerniawan',
-    circle_twitter: null,
-    circle_other_socials: null,
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_A',
-  },
-  {
-    id: 7883,
-
-    circle_code: 'AB-31/AB-32',
-    name: 'Bingumon x Crovius',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bingumon x Crovius.jpg',
-
-    circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/bingumon/ | https://www.instagram.com/crovius/',
-    circle_twitter: 'https://x.com/bingumon | https://x.com/Crovius_',
-    circle_other_socials: 'bingumon.carrd.co | https://immanuelacrovius.com/',
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_B',
-  },
-  {
-    id: 7884,
-
-    circle_code: 'AB-33',
-    name: 'MAO! Studio X Dis Is LeLe',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/MAO! Studio X Dis Is LeLe.jpg',
-
-    circle_facebook: 'https://www.facebook.com/maostudio.id',
-    circle_instagram: 'https://www.instagram.com/maostudio.id/',
-    circle_twitter: 'https://x.com/MAOStudioID',
-    circle_other_socials: 'https://linktr.ee/dis.is.lele',
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_A',
-  },
-  {
-    id: 7885,
-
-    circle_code: 'AB-34/AB-35',
-    name: 'Tenjin Scrollworks',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tenjin Scrollworks.jpg',
-
-    circle_facebook: null,
-    circle_instagram: 'https://www.instagram.com/tenjin.scrollworks',
-    circle_twitter: null,
-    circle_other_socials: null,
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_B',
-  },
-  {
-    id: 7886,
-
-    circle_code: 'AB-36/AB-37',
-    name: 'Eastwood Gun',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Eastwood Gun.jpg',
-
-    circle_facebook: null,
-    circle_instagram: 'https://www.instagram.com/eastwood.gun/',
-    circle_twitter: 'https://x.com/eastwood_gun',
-    circle_other_socials: 'https://www.youtube.com/@EastwoodGunworks',
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_B',
-  },
-  {
-    id: 7887,
-
-    circle_code: 'AB-38/AB-39',
-    name: 'TON N KAY & PETE IJO',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/TON N KAY & PETE IJO.jpg',
-
-    circle_facebook: null,
-    circle_instagram:
-      'https://instagram.com/peteijo_ https://instagram.com/ton.n.kay',
-    circle_twitter: null,
-    circle_other_socials: null,
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_B',
-  },
-  {
-    id: 7888,
-
-    circle_code: 'AB-40/AB-41',
-    name: 'BACAAN DI SEPEREMPAT MALAM',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/BACAAN DI SEPEREMPAT MALAM.jpg',
-
-    circle_facebook: null,
-    circle_instagram: 'https://www.instagram.com/bd.sm.4/',
-    circle_twitter: 'https://x.com/Bdsm4Twt',
-    circle_other_socials: 'https://seperempatmalam.com/',
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_B',
-  },
-  {
-    id: 7889,
-
-    circle_code: 'AB-42',
-    name: 'Neelamayu_n',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Neelamayu_n.jpg',
-
-    circle_facebook: 'https://www.facebook.com/neelamayun/',
-    circle_instagram: 'https://www.instagram.com/neelamayu_n/',
-    circle_twitter: 'https://x.com/neelamayu_n',
-    circle_other_socials: null,
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_A',
-  },
-  {
-    id: 7890,
-
-    circle_code: 'AB-43',
-    name: 'LandacWorks',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/LandacWorks.jpg',
-
-    circle_facebook: 'https://www.facebook.com/landacdeus/',
-    circle_instagram: 'https://www.instagram.com/landacdeus/',
-    circle_twitter: 'https://x.com/landacdeus',
-    circle_other_socials: null,
-
-    sampleworks_images: [
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/89ca8683-b1b5-47a7-a2b5-288cf12f363b/d4fabf34-56dd-4ffe-b7e2-1a545b2d8745/AB-43.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/89ca8683-b1b5-47a7-a2b5-288cf12f363b/7c4e8eab-f3b9-44b3-826d-8033ce1dc3ae/AB-43.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/89ca8683-b1b5-47a7-a2b5-288cf12f363b/86891d76-748a-4c3d-964f-4c58c616138b/AB-43.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/89ca8683-b1b5-47a7-a2b5-288cf12f363b/e93623bc-857e-4092-853d-8f3aef050e31/AB-43.jpg',
-    ],
-    day: 'Both Days',
-
-    circle_type: 'Booth_A',
-  },
-  {
-    id: 7891,
-
-    circle_code: 'AB-44',
-    name: 'KHINZ X FOSCURIO',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KHINZ X FOSCURIO.jpg',
-
-    circle_facebook: null,
-    circle_instagram: 'https://www.instagram.com/khinz.id',
-    circle_twitter: null,
-    circle_other_socials: 'https://khinz.id/',
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_A',
-  },
-  {
-    id: 7892,
-
-    circle_code: 'AB-45/AB-46',
-    name: 'TSUCHINOCO',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/TSUCHINOCO.jpg',
-
-    circle_facebook: 'https://www.facebook.com/noorea.kimak.1/',
-    circle_instagram: 'https://www.instagram.com/tsuchino.co_',
-    circle_twitter: 'https://x.com/jknor719',
-    circle_other_socials: 'https://jknor.carrd.co/',
-
-    sampleworks_images: [
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8ec5f6c5-d738-4093-8c5c-4bdb63b81198/6665fc79-3c0a-4aef-b5c9-812bffa26191/AB-45/AB-46.png',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8ec5f6c5-d738-4093-8c5c-4bdb63b81198/a0960549-043b-4987-ae51-539aa56ed584/AB-45/AB-46.png',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8ec5f6c5-d738-4093-8c5c-4bdb63b81198/7e11f8bb-5d73-410f-98dd-d2514cd2d88e/AB-45/AB-46.png',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8ec5f6c5-d738-4093-8c5c-4bdb63b81198/baaa1a00-12e0-4ff2-88b9-0f107b790af3/AB-45/AB-46.png',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8ec5f6c5-d738-4093-8c5c-4bdb63b81198/970d4c18-6f46-4539-a6cb-5d32a24e7f90/AB-45/AB-46.png',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8ec5f6c5-d738-4093-8c5c-4bdb63b81198/86cab65e-57a5-45c2-9d42-43cf6c8e22be/AB-45/AB-46.png',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8ec5f6c5-d738-4093-8c5c-4bdb63b81198/f67264ab-c3c3-4256-b6f7-cd1f8a115000/AB-45/AB-46.png',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8ec5f6c5-d738-4093-8c5c-4bdb63b81198/091b6f71-2a89-43c3-b32e-bd5bd11c1596/AB-45/AB-46.png',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8ec5f6c5-d738-4093-8c5c-4bdb63b81198/84ee9dba-cb87-4335-ae8c-edc8f5535859/AB-45/AB-46.png',
-    ],
-    day: 'Both Days',
-
-    circle_type: 'Booth_B',
-  },
-  {
-    id: 7893,
-
-    circle_code: 'AB-47',
-    name: 'UnoDay & Mokafi',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/UnoDay & Mokafi.jpg',
-
-    circle_facebook: 'https://www.facebook.com/Mokaficomic',
-    circle_instagram: 'https://www.instagram.com/mokafi_',
-    circle_twitter: 'https://x.com/UnoDayStudio, https://x.com/Mokafi_/',
-    circle_other_socials: 'https://www.facebook.com/unodaystudio',
-
-    sampleworks_images: [
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/85625acc-00fc-49b2-8898-9aa55f3c9960/1cc23d71-bdd2-46a4-a58e-f1f68e39be82/AB-47.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/85625acc-00fc-49b2-8898-9aa55f3c9960/9f14890c-444d-45a8-8b2b-d67cd750858d/AB-47.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/85625acc-00fc-49b2-8898-9aa55f3c9960/a5216067-73e7-4796-8694-07651ed4c07d/AB-47.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/85625acc-00fc-49b2-8898-9aa55f3c9960/e871d477-0f5d-458f-beaf-588b2cb9576c/AB-47.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/85625acc-00fc-49b2-8898-9aa55f3c9960/95dac958-c2d2-4b5d-b0cb-be18cb8c2f67/AB-47.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/85625acc-00fc-49b2-8898-9aa55f3c9960/6b29dc5a-7bf2-4ac2-a006-305619d2eb57/AB-47.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/85625acc-00fc-49b2-8898-9aa55f3c9960/95b03932-3899-4fe6-a56a-dc6b9225e542/AB-47.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/85625acc-00fc-49b2-8898-9aa55f3c9960/9b214e08-7d94-4cae-ad47-8cc29c483c12/AB-47.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/85625acc-00fc-49b2-8898-9aa55f3c9960/b78e1718-0c03-4d9f-8c2e-706eb7dcec20/AB-47.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/85625acc-00fc-49b2-8898-9aa55f3c9960/38a95861-a502-4cae-b4a7-9b6976e49c85/AB-47.jpg',
-    ],
-    day: 'Both Days',
-
-    circle_type: 'Booth_A',
-  },
-  {
-    id: 7894,
-
-    circle_code: 'AB-48',
-    name: 'SAIVENUE',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SAIVENUE.jpg',
-
-    circle_facebook: null,
-    circle_instagram: 'https://www.instagram.com/saikako_/',
-    circle_twitter: 'https://www.x.com/saikako_/',
-    circle_other_socials: null,
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_A',
-  },
-  {
-    id: 7895,
-
-    circle_code: 'AB-50',
-    name: 'MYUN.CO',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/MYUN.CO.jpg',
-
-    circle_facebook: null,
-    circle_instagram: 'https://www.instagram.com/myun.co/?hl=en',
-    circle_twitter: null,
-    circle_other_socials: 'https://duckiemyun.com/',
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_A',
-  },
-  {
-    id: 7896,
-
-    circle_code: 'AB-51/AB-52',
-    name: 'Ring Road',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ring Road.jpg',
-
-    circle_facebook: 'https://www.facebook.com/Nakama.Yuri',
-    circle_instagram: null,
-    circle_twitter: null,
-    circle_other_socials: null,
-
-    sampleworks_images: null,
-    day: 'Both Days',
-
-    circle_type: 'Booth_B',
-  },
+  
+  
+  
+ 
+ 
+  
+
+
+
+
+  
+  
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+  beungeut sia hurung
+ 
+ 
+ 
+ 
+  
+  
+ 
   {
     id: 7897,
-
     circle_code: 'AC-01',
     name: 'Haluminium',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Haluminium.jpg',
-
     circle_facebook: 'https://www.facebook.com/haluminiumcircle/',
     circle_instagram: 'https://www.instagram.com/haluminiumcircle',
     circle_twitter: 'https://x.com/haluminium13',
     circle_other_socials: 'https://haluminium.carrd.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5e49893c-2fc1-4f0d-8ea3-71dc4fcdd9d3/1f1a78d4-1334-464a-b8fc-e604c375c05a/AC-01.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5e49893c-2fc1-4f0d-8ea3-71dc4fcdd9d3/7687f976-3f01-4ecd-a813-0978a7d56d6d/AC-01.jpg',
@@ -945,22 +300,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5e49893c-2fc1-4f0d-8ea3-71dc4fcdd9d3/c69df617-f4e3-4dca-a899-2c658d45c663/AC-01.jpg',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7898,
-
     circle_code: 'AC-02',
     name: 'FPSMOE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/FPSMOE.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/fpsmoe',
     circle_twitter: 'https://x.com/fpsmoe',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8865464c-6315-4787-8a77-8394aee71634/8fe41b78-e75f-4cbf-8427-9d4972ab2df9/AC-02.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8865464c-6315-4787-8a77-8394aee71634/225f2228-5c3a-4217-bd65-c1ccfb376f91/AC-02.jpg',
@@ -974,112 +325,88 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8865464c-6315-4787-8a77-8394aee71634/9dd0ff84-3f29-40a6-bc9f-dbc0ee7bbc19/AC-02.jpg',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7899,
-
     circle_code: 'AC-03',
     name: 'Honoko',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Honoko.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/rg.bit/',
     circle_twitter: 'https://x.com/RedGreenBit1',
     circle_other_socials: 'https://vgen.co/RGBit/portfolio',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7900,
-
     circle_code: 'AC-04/AC-05',
     name: 'Deep Weebs Production',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Deep Weebs Production.jpg',
-
     circle_facebook: 'https://www.facebook.com/DeepWeebsProduction',
     circle_instagram: null,
     circle_twitter: 'https://x.com/deepweebspro',
     circle_other_socials: 'https://deepweebsglobal.store.link',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7901,
-
     circle_code: 'AC-06',
     name: 'SoraNori',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SoraNori.jpg',
-
     circle_facebook: 'https://www.facebook.com/SoranoriArt/',
     circle_instagram: 'https://www.instagram.com/soranoriart/',
     circle_twitter: 'https://x.com/Soranoriart',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7902,
-
     circle_code: 'AC-07',
     name: 'Prism:NOVA Entertainment',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PrismNOVA Entertainment.jpg',
-
     circle_facebook: 'https://facebook.com/PrismNOVA',
     circle_instagram: 'https://instagram.com/prism.nova',
     circle_twitter: 'https://x.com/PrismNOVA',
     circle_other_socials: 'https://prismnova.pro/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7903,
-
     circle_code: 'AC-08/AC-09',
     name: 'LIVIUM HEROES',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/LIVIUM HEROES.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/projectlivium/',
     circle_twitter: 'https://x.com/ProjectLivium',
     circle_other_socials: 'https://project-livium.com/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7904,
-
     circle_code: 'AC-10/AC-11',
     name: 'Caroline Phoenixa',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Caroline Phoenixa.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/CarolinePheoni',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/280b8371-c638-49ed-a607-e6dd0fa79db4/7c193056-032c-4bca-a908-dabb4c62ad45/AC-10/AC-11.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/280b8371-c638-49ed-a607-e6dd0fa79db4/991f9a0d-540e-45aa-97c6-0d04e521a94f/AC-10/AC-11.png',
@@ -1087,173 +414,137 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/280b8371-c638-49ed-a607-e6dd0fa79db4/d36b502c-0de0-4867-8014-9bbd21133b97/AC-10/AC-11.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7905,
-
     circle_code: 'AC-12/AC-13',
     name: 'Meister Factory',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Meister Factory.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/PinguinKotak',
     circle_other_socials: 'https://www.pixiv.net/en/users/5532877',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7906,
-
     circle_code: 'AC-14/AC-15',
     name: 'AFTERAIN',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/AFTERAIN.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/afterainproject.official/',
     circle_twitter: 'https://x.com/afterainPROJECT',
     circle_other_socials: 'https://afterain.id/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7907,
-
     circle_code: 'AC-16',
     name: 'Erudesu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Erudesu.jpg',
-
     circle_facebook: 'https://www.facebook.com/erudesu.neetwork',
     circle_instagram: 'https://www.instagram.com/erudesu.neet',
     circle_twitter: 'https://x.com/erudesu_neet',
     circle_other_socials: 'https://erudesu.com/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/db706d1b-8638-4b30-9ca3-7f17498bf8e0/c0a6aa72-c55a-4472-a558-fa2a3dd28a6e/AC-16.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/db706d1b-8638-4b30-9ca3-7f17498bf8e0/d94532d9-a621-4ab5-ab1c-733ae720d327/AC-16.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/db706d1b-8638-4b30-9ca3-7f17498bf8e0/3a1baaaf-c6af-42ab-82df-995b2d587f18/AC-16.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7908,
-
     circle_code: 'AC-17',
     name: 'HAWK2ART',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/HAWK2ART.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/rokusketch',
     circle_twitter: 'https://x.com/raikko_9',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7909,
-
     circle_code: 'AC-18/AC-19',
     name: 'Nananatch',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nananatch.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/Nananatch7',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7910,
-
     circle_code: 'AC-20',
     name: 'Kelly Honk Sect',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kelly Honk Sect.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61565618205287',
     circle_instagram: 'https://www.instagram.com/kelly.cathlyn/',
     circle_twitter: 'https://x.com/kellycathlyn',
     circle_other_socials: 'https://www.youtube.com/@KellyCathlyn',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/30f1f661-0bb4-423c-b34c-dd21eea87bdc/b65d0270-9bd7-4cb0-904e-894576f9238a/AC-20.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/30f1f661-0bb4-423c-b34c-dd21eea87bdc/ed1ae427-22cf-4844-86b4-d5cd9adbf25f/AC-20.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7911,
-
     circle_code: 'AC-21',
     name: 'Hai Halo Epel!',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Hai Halo Epel!.jpg',
-
     circle_facebook: 'https://www.facebook.com/HaiHalo.Epel/',
     circle_instagram: 'https://www.instagram.com/haihalo.epel/',
     circle_twitter: 'https://x.com/HaiHaloEpel',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7912,
-
     circle_code: 'AC-22/AC-23',
     name: 'Holo Jaya Abadi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Holo Jaya Abadi.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/HoloJayaAbadi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7913,
-
     circle_code: 'AC-25',
     name: 'CozyCazt',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CozyCazt.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/cozycazt/',
     circle_twitter: 'https://x.com/CozyCazt',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a453b968-549f-4b71-86bc-756e5fe591c8/d520559a-ba5b-42b5-b8ca-5aa153ae1207/AC-25.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a453b968-549f-4b71-86bc-756e5fe591c8/75a28dc2-3890-43c2-849b-11c790daa57f/AC-25.png',
@@ -1262,41 +553,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a453b968-549f-4b71-86bc-756e5fe591c8/4c48b7fd-627a-42cd-bf40-5e037edaae9e/AC-25.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7914,
-
     circle_code: 'AC-26/AC-27',
     name: "Hiu x Kai's Observatory",
     circle_cut:
       "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Hiu x Kai's Observatory.jpg",
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/KaiYen_',
     circle_other_socials: 'https://x.com/satsumaki1',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7915,
-
     circle_code: 'AC-28',
     name: 'TensaiDomo FC/TSDM FC',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/TensaiDomo FC_TSDM FC.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/aziz_ngr0?igsh=eGIwZXF0ejFpMTRo',
+    circle_instagram: 'https://www.instagram.com/aziz_ngr0?igsh=eGIwZXF0ejFpMTRo',
     circle_twitter: 'https://x.com/AnnnAclip?t=iRch-rrEa3PRGuVfi_eyLA&s=09',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9aa4476a-1ad1-4a81-8ec9-a1e3548e8649/90669e0c-cc7b-4d85-8009-e638cbe3e963/AC-28.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9aa4476a-1ad1-4a81-8ec9-a1e3548e8649/88d6d543-5bd5-4cdb-95df-4891d757bcd6/AC-28.png',
@@ -1309,22 +591,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9aa4476a-1ad1-4a81-8ec9-a1e3548e8649/323be63f-bd3f-4a7a-a90e-edd1b7dd4d05/AC-28.jpg',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7916,
-
     circle_code: 'AC-29',
     name: 'Doruken',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Doruken.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/doruken_',
     circle_twitter: 'https://x.com/doruken_',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f7b828fc-dcad-4aaa-90b0-d817b61899b6/78aea693-f272-4a41-8c19-64dbde5b48de/AC-29.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f7b828fc-dcad-4aaa-90b0-d817b61899b6/60045913-2450-4168-8b34-c88b2e85d94b/AC-29.png',
@@ -1334,94 +612,74 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f7b828fc-dcad-4aaa-90b0-d817b61899b6/20c2e070-a824-4c0b-a06a-2f1d0cda929c/AC-29.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7917,
-
     circle_code: 'AC-30',
     name: 'LaPalace',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/LaPalace.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/lavatialaflarld/',
     circle_twitter: 'https://x.com/LavatiaLaflarld',
     circle_other_socials: 'https://lavatialaflarld.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7918,
-
     circle_code: 'AC-31',
     name: "Dodo's Puppies",
     circle_cut:
       "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Dodo's Puppies.jpg",
-
     circle_facebook: 'https://www.facebook.com/gaming/SenaRedoVtuber',
     circle_instagram: 'https://www.instagram.com/senaredovtuber/',
     circle_twitter: 'https://x.com/SenaRedo',
     circle_other_socials: 'https://www.youtube.com/@SenaRedo',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7919,
-
     circle_code: 'AC-32',
     name: 'Snowdrop',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Snowdrop.jpg',
-
     circle_facebook: 'https://www.facebook.com/SnowdropLiveID/',
     circle_instagram: 'https://www.instagram.com/snowdroplive.id/',
     circle_twitter: 'https://x.com/LiveSnowdrop',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7920,
-
     circle_code: 'AC-33',
     name: 'Dawnfolks',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Dawnfolks.jpg',
-
     circle_facebook: 'https://www.facebook.com/share/1C5ZTUTcse/',
     circle_instagram: 'https://www.instagram.com/kazecrot',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7921,
-
     circle_code: 'AC-34',
     name: 'LIAR',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/LIAR.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/avnoredaryush/',
     circle_twitter: 'https://x.com/avnoredaryushh',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9d4a4490-b16b-41e5-b8b0-8b3495f3fab3/48270951-0098-4af6-9444-61b92f854545/AC-34.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9d4a4490-b16b-41e5-b8b0-8b3495f3fab3/3b92fad1-e5ed-47b7-b9e9-5784969aee36/AC-34.png',
@@ -1431,40 +689,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9d4a4490-b16b-41e5-b8b0-8b3495f3fab3/7fa6bdf6-a29f-4c63-8076-71c23c5db224/AC-34.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7922,
-
     circle_code: 'AC-35',
     name: 'Mikaasuma & Friends',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mikaasuma & Friends.jpg',
-
     circle_facebook: 'facebook.com/mikaasumavtuber',
     circle_instagram: 'instagram.com/mikaasuma',
     circle_twitter: 'https://x.com/mikaasuma',
     circle_other_socials: 'https://www.youtube.com/@Mikaasuma',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7923,
-
     circle_code: 'AC-36',
     name: 'Limitless Actress Virtual',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Limitless Actress Virtual.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/lav_idn',
     circle_twitter: 'https://x.com/lav_idn',
     circle_other_socials: 'lav-idn.com',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/29e7ef13-2996-49a7-9b03-4bf54c62b03a/b99b83bf-6abb-45be-b1ca-6d3285c98ccf/AC-36.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/29e7ef13-2996-49a7-9b03-4bf54c62b03a/85bb357c-907d-4ced-aaf2-a710b1de7368/AC-36.png',
@@ -1475,77 +725,60 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/29e7ef13-2996-49a7-9b03-4bf54c62b03a/525a0558-bc39-4030-9e35-525cf49e1405/AC-36.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7924,
-
     circle_code: 'AC-37',
     name: 'CTRL+CEGIL',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CTRL+CEGIL.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/yourlulunie/',
     circle_twitter: 'https://x.com/YourLuLunie',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7925,
-
     circle_code: 'AC-38/AC-39',
     name: 'Atelier KarraKon & Eruru',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Atelier KarraKon & Eruru.jpg',
-
     circle_facebook: 'https://www.facebook.com/atelierkarrakon/',
     circle_instagram: 'https://www.instagram.com/atelierkarrakon/',
     circle_twitter: 'https://x.com/AtelierKarrarin',
     circle_other_socials: 'https://atelierkarrakon.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7926,
-
     circle_code: 'AC-40',
     name: 'NANAKEN',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/NANAKEN.jpg',
-
     circle_facebook: 'https://www.facebook.com/share/18MFoPsAkd/',
-    circle_instagram:
-      'https://www.instagram.com/lmgam1013?igsh=ZXF4dWEyaXFjdHEz',
+    circle_instagram: 'https://www.instagram.com/lmgam1013?igsh=ZXF4dWEyaXFjdHEz',
     circle_twitter: 'https://x.com/qijian23092715',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7927,
-
     circle_code: 'AC-41',
     name: 'Rabbit Hole Requiem',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Rabbit Hole Requiem.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/r_h_requiem/',
     circle_twitter: 'https://x.com/R_H_Requiem',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d9580f26-667c-46bc-87fe-2c16610119eb/776b9f59-d8cc-4d05-8aa5-f6218cdc12f7/AC-41.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d9580f26-667c-46bc-87fe-2c16610119eb/8dcecb2d-cf07-46c6-a641-5267528ba564/AC-41.png',
@@ -1554,333 +787,258 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d9580f26-667c-46bc-87fe-2c16610119eb/c8b230b8-fe07-438c-ab04-bd8dc5dda429/AC-41.jpg',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7928,
-
     circle_code: 'AC-42',
     name: 'Ori and Friends',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ori and Friends.jpg',
-
     circle_facebook: '-',
     circle_instagram:
       'https://www.instagram.com/ori.and.friends?igsh=MXA5MGlvczdxdnhlOA&utm_source=qr',
     circle_twitter: 'https://x.com/oriandfriends?s=21',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7929,
-
     circle_code: 'AC-43',
     name: 'BAPACK-BAPACK JUALAN DESKMAT',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/BAPACK-BAPACK JUALAN DESKMAT.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/bapack_station/?hl=id',
     circle_twitter: null,
-    circle_other_socials:
-      'https://www.tiktok.com/@bapack.station?_r=1&_t=ZS-93Rky7qHsE0',
-
+    circle_other_socials: 'https://www.tiktok.com/@bapack.station?_r=1&_t=ZS-93Rky7qHsE0',
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7930,
-
     circle_code: 'AC-44',
     name: 'LOLO',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/LOLO.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/lolomadethese',
     circle_twitter: null,
     circle_other_socials:
       'https://drive.google.com/drive/folders/1ACxfumUWQrbntTOVFgGMbqGEQ64Bv6Ts?usp=drive_link',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7931,
-
     circle_code: 'AC-45',
     name: 'Miko sketch',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Miko sketch.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/MIKO_DESH',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7932,
-
     circle_code: 'AC-46',
     name: 'Leendoodles',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Leendoodles.jpg',
-
     circle_facebook: null,
     circle_instagram: 'Https://Instagram.com/leendoodles',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7933,
-
     circle_code: 'AC-47',
     name: 'ITSPINATS CORNER',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ITSPINATS CORNER.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/itspinatscorner',
     circle_twitter: 'https://x.com/itspinatscorner',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7934,
-
     circle_code: 'AC-48',
     name: 'Asuneko',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Asuneko.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61554025385696',
     circle_instagram: 'https://www.instagram.com/adrianelinerush/',
     circle_twitter: null,
     circle_other_socials: 'https://marybellgallery.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7935,
-
     circle_code: 'AC-49',
     name: 'Claykoe',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Claykoe.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/claykoe.id',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7936,
-
     circle_code: 'AC-50',
     name: 'ICHARA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ICHARA.jpg',
-
     circle_facebook: 'https://www.facebook.com/ichaichara',
     circle_instagram: 'https://www.instagram.com/_ichara',
     circle_twitter: 'https://x.com/ichaichara',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7937,
-
     circle_code: 'AC-51/AC-52',
     name: 'Jagad Raya',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Jagad Raya.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/cerita.jagadraya',
     circle_twitter: 'x.com/ceritajagadraya',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7938,
-
     circle_code: 'AD-01/AD-02',
     name: 'Naini X Pitamanis',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Naini X Pitamanis.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/naini.funwear/',
     circle_twitter: null,
-    circle_other_socials:
-      'https://www.instagram.com/pitamanis.co?igsh=Nm90OTRyZDhnbzNy',
-
+    circle_other_socials: 'https://www.instagram.com/pitamanis.co?igsh=Nm90OTRyZDhnbzNy',
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7939,
-
     circle_code: 'AD-03/AD-04',
     name: 'Artura Camp',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Artura Camp.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/arturapalette/',
     circle_twitter: 'https://x.com/arturapalette',
     circle_other_socials: 'https://arturapalette.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7940,
-
     circle_code: 'AD-05/AD-06',
     name: 'Myth-Ink Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Myth-Ink Studio.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61587553040123',
-    circle_instagram:
-      'https://www.instagram.com/mythinkstudio?igsh=MXJsd2h6YXgyeDR6aw==',
+    circle_instagram: 'https://www.instagram.com/mythinkstudio?igsh=MXJsd2h6YXgyeDR6aw==',
     circle_twitter: 'https://x.com/myth_ink53751',
     circle_other_socials: 'myth-ink.com',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7941,
-
     circle_code: 'AD-07/AD-08',
     name: 'Studio Bumbu Kentang',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Studio Bumbu Kentang.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/bumbu.kentang/?hl=en',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7942,
-
     circle_code: 'AD-09',
     name: 'Gerobak Naga',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Gerobak Naga.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/gerobaknaga/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7943,
-
     circle_code: 'AD-10',
     name: 'Lismanida Suhirman & Rekan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lismanida Suhirman & Rekan.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.facebook.com/namine.sae.1/',
     circle_twitter: 'https://x.com/naminesae',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7944,
-
     circle_code: 'AD-11/AD-12',
     name: 'Sweet lil Gems',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sweet lil Gems.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/sweetlilgems',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7945,
-
     circle_code: 'AD-13',
     name: 'Hacyra',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Hacyra.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/hacyra?igsh=dGZpMW1kNzg4b3Nz',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4661c294-8064-49ea-b9c6-ea24c831e52e/c805c31d-270f-4cf6-a98a-86e743bc9b73/AD-13.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4661c294-8064-49ea-b9c6-ea24c831e52e/3f4ade74-c029-4956-8f56-45700849bea4/AD-13.jpg',
@@ -1894,22 +1052,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4661c294-8064-49ea-b9c6-ea24c831e52e/e4ed8014-b504-4b23-b906-a0f73f40afcf/AD-13.jpg',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7946,
-
     circle_code: 'AD-14',
     name: 'Pica Pica',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pica Pica.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/picapica.id',
     circle_twitter: null,
     circle_other_socials: 'shopee.co.id/picapica.id',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0db259e9-f0a2-445c-83ad-60f64f540b98/c74e50e7-ea2d-4db7-bff2-babfb590fd65/AD-14.PNG',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0db259e9-f0a2-445c-83ad-60f64f540b98/ed48fd7b-fc2a-47d0-9801-48e8c897a772/AD-14.png',
@@ -1921,22 +1075,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0db259e9-f0a2-445c-83ad-60f64f540b98/e0890def-e2ce-4318-bd6e-5cf6c184b93b/AD-14.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7947,
-
     circle_code: 'AD-15/AD-16',
     name: 'HORIZON',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/HORIZON.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/HORIZON_cmnty',
     circle_other_socials: 'https://www.youtube.com/@HORIZON_cmnty',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/03558de1-310e-4238-9cc3-9db8a787b52f/aaf80256-ab9e-4b94-a7f2-8d009552b183/AD-15/AD-16.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/03558de1-310e-4238-9cc3-9db8a787b52f/4086bfb0-212c-49e3-af7b-880205ea269c/AD-15/AD-16.png',
@@ -1950,132 +1100,103 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/03558de1-310e-4238-9cc3-9db8a787b52f/81489895-0d8a-44e5-b0b1-906f87488f99/AD-15/AD-16.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7948,
-
     circle_code: 'AD-17',
     name: 'MadebyHenk Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/MadebyHenk Studio.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/toppi.stories/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7949,
-
     circle_code: 'AD-18',
     name: 'IKI',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/IKI.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/iki.event/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7950,
-
     circle_code: 'AD-19',
     name: 'Sonata InC',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sonata InC.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/sonata_inc',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7951,
-
     circle_code: 'AD-20',
     name: 'Allbakaziy',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Allbakaziy.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/allbakaziy',
     circle_twitter: null,
     circle_other_socials:
       'https://drive.google.com/file/d/11HUwmCpCZsFDwZ9TI48vqctIn-rbD81e/view?usp=sharing',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7952,
-
     circle_code: 'AD-21',
     name: 'Vitamiinshi + GoodSheep',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Vitamiinshi + GoodSheep.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/vitamiinshi/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7953,
-
     circle_code: 'AD-22',
     name: 'Dreamscape of Love',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Dreamscape of Love.jpg',
-
     circle_facebook: 'https://www.facebook.com/dreamscapeoflove',
     circle_instagram: 'https://www.instagram.com/dreamscapeoflove.id/',
     circle_twitter: 'https://x.com/dreamscapeid',
     circle_other_socials: 'https://dsol.solestiastudio.com/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7954,
-
     circle_code: 'AD-23',
     name: 'HaloMiyu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/HaloMiyu.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/halomiyu?igsh=MWcxeWEyaXBheW1vcw==',
+    circle_instagram: 'https://www.instagram.com/halomiyu?igsh=MWcxeWEyaXBheW1vcw==',
     circle_twitter: null,
     circle_other_socials: 'https://www.halomiyu.com/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c2469055-fe04-42a0-889f-97b126ec6d16/9cd728df-dad8-48d1-86bb-51387d1d69f9/AD-23.jpeg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c2469055-fe04-42a0-889f-97b126ec6d16/8b2eb5cb-7a77-46b4-a898-70efb7c865f1/AD-23.jpeg',
@@ -2083,58 +1204,46 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c2469055-fe04-42a0-889f-97b126ec6d16/49807c34-dce7-4a9b-b462-c1e1bc2e7b8d/AD-23.jpeg',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7955,
-
     circle_code: 'AD-24',
     name: 'Asobi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Asobi.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/_asobi?igsh=ZHRhamoxaDlqZHF5',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7956,
-
     circle_code: 'AD-25/AD-26',
     name: 'Re:Memories',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ReMemories.jpg',
-
     circle_facebook: 'https://www.facebook.com/rememories.id',
     circle_instagram: 'https://www.instagram.com/Rememories.id',
     circle_twitter: 'https://x.com/Rememories_id',
     circle_other_socials: 'www.rememories.id',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7957,
-
     circle_code: 'AD-27',
     name: 'NONIKARTS',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/NONIKARTS.jpg',
-
     circle_facebook: 'NA',
     circle_instagram: 'https://www.instagram.com/nonikarts/',
     circle_twitter: 'NA',
     circle_other_socials: 'linktr.ee/nonikarts',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3682671a-f797-427d-9a66-7c1c0c134708/1ae3d189-fe9a-4db1-bef6-cb72a5f9fef1/AD-27.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3682671a-f797-427d-9a66-7c1c0c134708/94b4b1fd-491d-4367-92f3-ff6ba6dfe122/AD-27.png',
@@ -2142,132 +1251,103 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3682671a-f797-427d-9a66-7c1c0c134708/69673d20-6cfd-4de0-bc67-39c651032090/AD-27.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7958,
-
     circle_code: 'AD-28',
     name: 'GB Studio RPG',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/GB Studio RPG.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/gbstudio.rpg',
     circle_twitter: null,
     circle_other_socials: 'https://gbstudiorpg.com/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7959,
-
     circle_code: 'AD-29/AD-30',
     name: 'WizDream Games',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/WizDream Games.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/wizdreamgames/',
     circle_twitter: 'https://x.com/WizdreamGames',
     circle_other_socials: 'https://wizdreamgames.com/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7960,
-
     circle_code: 'AD-31/AD-32',
     name: 'Gamedev Jakarta',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Gamedev Jakarta.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/gamedevjakarta/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7961,
-
     circle_code: 'AD-33/AD-34',
     name: 'Talkvern x Evitapetals',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/talkvern.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/talkvern.id/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7962,
-
     circle_code: 'AD-35',
     name: 'Ataraxia Gear',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ataraxia Gear.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/atrxgear.id/',
     circle_twitter: 'https://x.com/kenn_arts',
     circle_other_socials: null,
-
     other_fandom: "Girls' Frontline 2, Arknights",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7963,
-
     circle_code: 'AD-36',
     name: 'LOREDANGOO',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/LOREDANGOO.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/loredangoo/',
     circle_twitter: 'https://x.com/Loredangoo',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7964,
-
     circle_code: 'AD-37',
     name: 'Canaveil',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Canaveil.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/canaveil/',
     circle_twitter: 'https://x.com/canaveil',
     circle_other_socials: 'https://canaveil.carrd.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4da75a62-1cef-46eb-8d51-19549f30a090/e0854296-776a-4f4a-8b9a-b050fb55a500/AD-37.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4da75a62-1cef-46eb-8d51-19549f30a090/58b69bd0-466d-4074-9dff-20a74e8aa1c8/AD-37.jpg',
@@ -2279,95 +1359,75 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4da75a62-1cef-46eb-8d51-19549f30a090/bd6e32da-1b1f-42d6-b17b-9b239bd1bdba/AD-37.jpg',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7965,
-
     circle_code: 'AD-38/AD-39',
     name: 'Bnuuy',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bnuuy.jpg',
-
     circle_facebook: 'https://www.facebook.com/LittleMissSutcliff',
     circle_instagram: 'https://www.instagram.com/iambnuuy/',
     circle_twitter: 'https://x.com/bnuuy_land',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7966,
-
     circle_code: 'AD-40/AD-41',
     name: 'KITC',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KITC.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/kitc_',
     circle_twitter: null,
     circle_other_socials: 'www.kitc.co.id',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7967,
-
     circle_code: 'AD-42',
     name: 'Frutiger Lapak Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Frutiger Lapak Studio.jpg',
-
     circle_facebook: 'https://www.facebook.com/dyolowmusic',
     circle_instagram: 'https://www.instagram.com/justdyolow/',
     circle_twitter: 'https://x.com/JustDyolow',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7968,
-
     circle_code: 'AD-43',
     name: "Gumu's Bedroom Studio",
     circle_cut:
       "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Gumu's Bedroom Studio.jpg",
-
     circle_facebook: 'https://www.facebook.com/helloitsgumu',
     circle_instagram: 'https://www.instagram.com/helloitsgumu/',
     circle_twitter: null,
     circle_other_socials: 'https://helloitsgumu.vercel.app/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7969,
-
     circle_code: 'AD-44',
     name: 'The Cure to Male Loneliness',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/The Cure to Male Loneliness.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/elliotm_asante?igsh=MWgxZDVnMGZicmd1NQ&utm_source=qr',
     circle_twitter: 'https://x.com/elliot_marvel?s=21',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4eaf66f1-8898-43d3-9830-cfda454e5ef6/d4ae34a1-a892-4ba9-9d55-6f00702bc578/AD-44.jpeg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4eaf66f1-8898-43d3-9830-cfda454e5ef6/5b462ac2-0a20-47f6-8655-6e702a0c232b/AD-44.jpeg',
@@ -2378,59 +1438,47 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4eaf66f1-8898-43d3-9830-cfda454e5ef6/1ebb5a11-068b-4b39-80a8-d488f42b03b0/AD-44.jpg',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7970,
-
     circle_code: 'AD-45/AD-46',
     name: 'Oentukmu x Popejoyy',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Oentukmu x Popejoyy.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials:
       'https://www.instagram.com/oentukmu.id?igsh=cXd4NjVhcDM3bW0y dan https://www.instagram.com/popejoyy?igsh=MWJyOW54Z3FmaGlkNQ==',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7971,
-
     circle_code: 'AD-47',
     name: 'Prismatic Collections',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Prismatic Collections.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/prismcollect_',
     circle_other_socials: 'https://prismaticcollections.com',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7972,
-
     circle_code: 'AD-48',
     name: 'CLAY BY VET',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CLAY BY VET.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/claybyvet/',
     circle_twitter: '-',
     circle_other_socials: '-',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b21ef7b2-781d-41a4-b32d-a190b3709758/96e5b622-c46a-4601-aa64-69756ff73d34/AD-48.jpeg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b21ef7b2-781d-41a4-b32d-a190b3709758/cebede3d-a679-46f5-a1eb-b6154f13cd16/AD-48.jpeg',
@@ -2444,154 +1492,119 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b21ef7b2-781d-41a4-b32d-a190b3709758/e1b8c958-d102-41dd-b1c7-3560c540aa28/AD-48.jpeg',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7973,
-
     circle_code: 'AD-50',
     name: 'Dear Sun Hand',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Dear Sun Hand.jpg',
-
     circle_facebook: '-',
-    circle_instagram:
-      'https://www.instagram.com/dear.sunhand?igsh=cjRrdTh6cnVzaXZh&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/dear.sunhand?igsh=cjRrdTh6cnVzaXZh&utm_source=qr',
     circle_twitter: '-',
     circle_other_socials: 'https://id.shp.ee/bXEvTK3',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7974,
-
     circle_code: 'AD-51',
     name: 'Manusia Pagi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Manusia Pagi.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/Manusia__Pagi',
     circle_twitter: 'https://x.com/Manusia_Pagi',
     circle_other_socials: 'raibrary.my.id',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7975,
-
     circle_code: 'AD-52',
     name: 'Rise Production',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Rise Production.jpg',
-
     circle_facebook: 'https://www.facebook.com/riseproductionco',
     circle_instagram: 'https://www.instagram.com/riseproduction_co/',
     circle_twitter: 'https://x.com/RiseProdManga',
     circle_other_socials: 'https://riseproductionco.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7976,
-
     circle_code: 'AE-01',
     name: 'Squash Alternative Works',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Squash Alternative Works.jpg',
-
     circle_facebook: 'https://www.facebook.com/SquashAlternativeWorks',
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7977,
-
     circle_code: 'AE-02',
     name: 'Euforia Visual Works',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Euforia Visual Works.jpg',
-
     circle_facebook: 'Facebook.com/euforiaamuritanatsumi',
     circle_instagram: null,
     circle_twitter: null,
-    circle_other_socials:
-      'https://euforiaamuritanatsumilkbsa.wixsite.com/judoeuforia',
-
+    circle_other_socials: 'https://euforiaamuritanatsumilkbsa.wixsite.com/judoeuforia',
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7978,
-
     circle_code: 'AE-03',
     name: 'Super Knight',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Super Knight.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/superknight.official?igsh=MWI1YWQ5ZTBpd3hnbQ&utm_source=qr',
     circle_twitter: null,
     circle_other_socials:
       'Image https://www.instagram.com/fantaku.co?igsh=a2sydXByMGU0Ymtz&utm_source=qr',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7979,
-
     circle_code: 'AE-04',
     name: 'Tyson',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tyson.jpg',
-
     circle_facebook: '-',
-    circle_instagram:
-      'https://www.instagram.com/tysontheroad?igsh=MWUxZm4yOGxwd2hy',
+    circle_instagram: 'https://www.instagram.com/tysontheroad?igsh=MWUxZm4yOGxwd2hy',
     circle_twitter: '-',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7980,
-
     circle_code: 'AE-05',
     name: 'shineyokay',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/shineyokay.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/shineyokay/',
     circle_twitter: null,
     circle_other_socials:
       'https://linktr.ee/shinyokay?utm_source=linktree_profile_share&ltsid=c15d8bdb-7605-4484-a98c-b8fed72fa391',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/291570d6-e49f-42f9-9d49-8a4e06b37cfe/0a716bff-2e4d-4de4-8bf2-d06562774b17/AE-05.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/291570d6-e49f-42f9-9d49-8a4e06b37cfe/f4a226d3-581e-4435-91fe-2ac31ea4387d/AE-05.jpg',
@@ -2601,22 +1614,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/291570d6-e49f-42f9-9d49-8a4e06b37cfe/5d94db70-451a-4631-803a-24182d2788df/AE-05.jpg',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7981,
-
     circle_code: 'AE-06',
     name: 'Piekachoux',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Piekachoux.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/piekachoux/',
     circle_twitter: 'https://x.com/piekachoux/',
     circle_other_socials: 'https://piekachoux.com/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4958b8b5-6d4f-4310-9a21-3c17e36a43be/3187a2b6-4b99-459a-9a56-51851b8a493e/AE-06.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4958b8b5-6d4f-4310-9a21-3c17e36a43be/09526b4f-0ef3-4de2-8305-f59ca8037996/AE-06.png',
@@ -2630,80 +1639,63 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4958b8b5-6d4f-4310-9a21-3c17e36a43be/672df0a7-7b40-4d7d-9e7f-c9efcc903185/AE-06.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7982,
-
     circle_code: 'AE-07/AE-08',
     name: 'SOUMEKI',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SOUMEKI.jpg',
-
     circle_facebook: 'https://www.facebook.com/SR.Soumeki/',
     circle_instagram: 'https://www.instagram.com/sr_soumeki/',
     circle_twitter: 'https://x.com/SR_Soumeki',
     circle_other_socials:
       'www.soumeki.com | Artist Profile: https://drive.google.com/file/d/1Q2UWNor2qJO5qECCH98aCHAyGyLV6xbm/view?usp=drivesdk',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7983,
-
     circle_code: 'AE-09/AE-10',
     name: 'LinlyexLeonie',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/LinlyexLeonie.jpg',
-
     circle_facebook:
       'https://www.facebook.com/profile.php?id=100090818167697, https://www.facebook.com/linlye.merch',
     circle_instagram:
       'https://www.instagram.com/leonie_htn28/, https://www.instagram.com/linlye.merch/',
-    circle_twitter:
-      'https://x.com/Leonie2814, https://x.com/linlye_merch/media',
+    circle_twitter: 'https://x.com/Leonie2814, https://x.com/linlye_merch/media',
     circle_other_socials: 'https://linlyexleonie.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7984,
-
     circle_code: 'AE-11/AE-12',
     name: 'Skye x Chee',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Skye x Chee.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/skaiiria/',
     circle_twitter: 'https://x.com/skaiiria',
     circle_other_socials: 'skaiiria.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7985,
-
     circle_code: 'AE-13',
     name: 'C-Crew',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/C-Crew.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/a_ni.on/',
     circle_twitter: 'https://x.com/its_arleigh',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/46203165-4222-47b5-beee-0276ab53d999/b5b4ad62-9e44-4dc8-9f1b-ca038a20ef89/AE-13.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/46203165-4222-47b5-beee-0276ab53d999/131538a9-bdee-40f1-87db-69f0d96d8ef6/AE-13.png',
@@ -2717,58 +1709,46 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/46203165-4222-47b5-beee-0276ab53d999/18f799fd-0390-4808-b3a2-27aa7e67bc85/AE-13.jpg',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7986,
-
     circle_code: 'AE-14',
     name: 'parfaitbird',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/parfaitbird.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/parfaitbird',
     circle_twitter: 'https://x.com/parfaitbird',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7987,
-
     circle_code: 'AE-15/AE-16',
     name: 'Ademema Club',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ademema Club.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/ademema.club/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7988,
-
     circle_code: 'AE-17/AE-18',
     name: 'Barongsai Brotherhood',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Barongsai Brotherhood.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=100095066986538',
     circle_instagram: 'https://www.instagram.com/jamesatthepierworks/',
     circle_twitter: 'https://x.com/JamesAtTPW',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6202e402-8dc1-4d0e-bd19-8f86e2b22a9c/76a1100c-8235-48a9-bccc-9bf16b65205e/AE-17/AE-18.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6202e402-8dc1-4d0e-bd19-8f86e2b22a9c/e512edf7-1c9b-47ac-9d23-adcf5274c00a/AE-17/AE-18.png',
@@ -2778,58 +1758,46 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6202e402-8dc1-4d0e-bd19-8f86e2b22a9c/12c124e9-375a-4f43-93ea-62ff9a9206c2/AE-17/AE-18.jpeg',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7989,
-
     circle_code: 'AE-19',
     name: 'Pandass',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pandass.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/hi.pandass/',
     circle_twitter: 'https://x.com/AbelSantorino',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7990,
-
     circle_code: 'AE-20',
     name: 'CandyKitties X YraShaimase',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CandyKitties X YraShaimase.jpg',
-
     circle_facebook: 'https://www.facebook.com/iirashaimase',
     circle_instagram: 'https://www.instagram.com/yrashaimase/',
     circle_twitter: 'https://x.com/YraShaimase',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7991,
-
     circle_code: 'AE-21/AE-22',
     name: 'Bulu Biru x KANAU Virtual x SVID',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bulu Biru x KANAU Virtual x SVID.jpg',
-
     circle_facebook: 'https://facebook.com/bulubiru.id',
     circle_instagram: 'https://instagram.com/bulubiru_id',
     circle_twitter: 'https://x.com/bulubiru_id',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7227ff4b-a459-46c6-a99e-8598c3d794c4/3ce31267-44df-4d03-8a09-9d8a592505ec/AE-21/AE-22.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7227ff4b-a459-46c6-a99e-8598c3d794c4/7d4e460d-a1e2-41d3-8d09-d940ae1470f6/AE-21/AE-22.png',
@@ -2840,40 +1808,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7227ff4b-a459-46c6-a99e-8598c3d794c4/3d393a51-6060-467c-89c1-ad454e5b3c10/AE-21/AE-22.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7992,
-
     circle_code: 'AE-23',
     name: 'Red Tunnel Vision',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Red Tunnel Vision.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/_shim.my/',
     circle_twitter: null,
     circle_other_socials: 'https://cara.app/redtunnelvision',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7993,
-
     circle_code: 'AE-24',
     name: 'Gheraldo Artwork',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Gheraldo Artwork.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/gheraldoart/',
     circle_twitter: 'https://x.com/alfaro_gheraldo',
     circle_other_socials: 'https://www.behance.net/gheraldoart',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f9e9601e-d2af-4631-903e-f7409851baad/6df01370-116b-4755-9e06-7b33459bd155/AE-24.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f9e9601e-d2af-4631-903e-f7409851baad/09e76146-5552-4476-8674-d599822d166e/AE-24.jpg',
@@ -2887,23 +1847,19 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f9e9601e-d2af-4631-903e-f7409851baad/827ab175-8ef9-44b8-bcb8-7f36d54800ec/AE-24.jpg',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7994,
-
     circle_code: 'AE-25/AE-26',
     name: 'Li Đi Bộ x Chill on Pyres',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/lidibo.jpg',
-
     circle_facebook: 'https://www.facebook.com/chillonpyre',
     circle_instagram:
       'https://www.instagram.com/chill_on_pyre?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==',
     circle_twitter: 'https://x.com/pawteto_',
     circle_other_socials: 'https://beacons.ai/lidibo_arts',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/be19fc14-c4bb-4ad0-b799-a1942de48906/0e428413-ec34-4d69-bf5f-e4bc2cc57b05/AE-25/AE-26.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/be19fc14-c4bb-4ad0-b799-a1942de48906/67309792-4b04-4212-9cdc-ea6a725f3ccc/AE-25/AE-26.png',
@@ -2917,114 +1873,88 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/be19fc14-c4bb-4ad0-b799-a1942de48906/901119cb-e222-484c-92cd-bff9f6e5e0d6/AE-25/AE-26.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7995,
-
     circle_code: 'AE-27',
     name: 'Saikou Attire',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Saikou Attire.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/saikouattire?igsh=MTNua2Y3djFoZ201Ng==',
+    circle_instagram: 'https://www.instagram.com/saikouattire?igsh=MTNua2Y3djFoZ201Ng==',
     circle_twitter: 'x.com/Ruoxicyh',
     circle_other_socials: 'x.com/reenacyh',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7996,
-
     circle_code: 'AE-28/AE-29',
     name: 'STRAKAT X SOERI',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/STRAKAT X SOERI.jpg',
-
     circle_facebook: null,
     circle_instagram: 'strakat.factory',
     circle_twitter: 'Soeri',
     circle_other_socials: 'tiktok/strakat',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 7997,
-
     circle_code: 'AE-30',
     name: 'vertical 194 studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/vertical 194 studio.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/vertical194_cosplay',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7998,
-
     circle_code: 'AE-31',
     name: 'Nozomi Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nozomi Studio.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/nozomiistudio/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 7999,
-
     circle_code: 'AE-32',
     name: 'WARKOP LEBLANC',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/WARKOP LEBLANC.jpg',
-
-    circle_facebook:
-      'https://www.facebook.com/people/Cecilia-RinChan/61554749228737/',
+    circle_facebook: 'https://www.facebook.com/people/Cecilia-RinChan/61554749228737/',
     circle_instagram: 'https://www.instagram.com/cecilia_rinchan/?hl=en',
     circle_twitter: 'https://x.com/Cecilia_RinChan',
     circle_other_socials: 'https://warkopleblanc.my.id/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8000,
-
     circle_code: 'AE-33',
     name: 'RICHARD SUWONO',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/RICHARD SUWONO.jpg',
-
     circle_facebook: 'https://www.facebook.com/Richard.Suwono',
     circle_instagram: 'https://www.instagram.com/richardsuwono/',
     circle_twitter: 'https://x.com/richardsuwono/',
     circle_other_socials: 'https://www.artstation.com/r-chie',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a4bca898-86a1-4662-b6b7-7ddabde24b48/b28e7782-8ed7-421e-894f-1bb4acf69f9e/AE-33.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a4bca898-86a1-4662-b6b7-7ddabde24b48/98bec6dd-a5be-4542-9695-13063c40d4c1/AE-33.png',
@@ -3033,78 +1963,60 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a4bca898-86a1-4662-b6b7-7ddabde24b48/a684523a-11f6-4fc8-a5ef-f1601df57cb4/AE-33.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8001,
-
     circle_code: 'AE-34',
     name: 'Koalisi Qualiarts',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Koalisi Qualiarts.jpg',
-
     circle_facebook: 'https://www.facebook.com/SakurarinMochi',
-    circle_instagram:
-      'https://www.instagram.com/sakurarinmochi?igsh=MTJ5YW81Y3Z3eGN1Yg==',
+    circle_instagram: 'https://www.instagram.com/sakurarinmochi?igsh=MTJ5YW81Y3Z3eGN1Yg==',
     circle_twitter: 'https://x.com/SakurarinMochi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8002,
-
     circle_code: 'AE-35',
     name: 'To.Love.Nagi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/To.Love.Nagi.jpg',
-
     circle_facebook: 'https://www.instagram.com/nagiislove',
     circle_instagram: 'https://www.instagram.com/tolovenagi',
     circle_twitter: 'https://x.com/tolovenagi',
     circle_other_socials: 'tolovenagi.com',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8003,
-
     circle_code: 'AE-36',
     name: 'Plain Jane Studios',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Plain Jane Studios.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/plainjane_studios/',
     circle_twitter: null,
-    circle_other_socials:
-      'https://plainjaneestudios.wixsite.com/plainjaneestudios',
-
+    circle_other_socials: 'https://plainjaneestudios.wixsite.com/plainjaneestudios',
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8004,
-
     circle_code: 'AE-37/AE-38',
     name: 'HaiDongLao',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/HaiDongLao.jpg',
-
     circle_facebook: 'https://www.facebook.com/callusrancomics',
     circle_instagram: 'https://www.instagram.com/callus_ran/',
     circle_twitter: 'https://x.com/RanNguyen3',
     circle_other_socials: 'https://haidonglao.carrd.co',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/86695604-372d-4aa6-bf07-0b995ed75ed3/2ca418e0-f10a-4090-8e7b-a4d42314c37f/AE-37/AE-38.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/86695604-372d-4aa6-bf07-0b995ed75ed3/3fa68a49-0bca-4fed-8e3b-c004b7707da0/AE-37/AE-38.jpg',
@@ -3117,148 +2029,116 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/86695604-372d-4aa6-bf07-0b995ed75ed3/b7fc96f5-8276-4e3b-9538-e6c35e01a133/AE-37/AE-38.PNG',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8005,
-
     circle_code: 'AE-39',
     name: 'SWK',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SWK.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/lingkaran.swk/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8006,
-
     circle_code: 'AE-40',
     name: 'VINRYLGRAVE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/VINRYLGRAVE.jpg',
-
     circle_facebook: 'https://www.facebook.com/artvinrylgrave/',
     circle_instagram: 'https://www.instagram.com/vinrylgrave',
     circle_twitter: null,
     circle_other_socials: 'vinrylgrave.com',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8007,
-
     circle_code: 'AE-41',
     name: 'Shattā Kuriku',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Shatta_Kuriku.jpg',
-
     circle_facebook: 'https://www.facebook.com/ShattaKuriku/',
     circle_instagram: 'https://www.instagram.com/shattakuriku/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8008,
-
     circle_code: 'AE-42',
     name: '/IMG/erak',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/imgerak.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/alvtetvla',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8009,
-
     circle_code: 'AE-43/AE-44',
     name: 'Jual Poster Laffey',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Jual Poster Laffey.jpg',
-
     circle_facebook: 'https://facebook.com/roriworks',
     circle_instagram: 'https://instagram.com/roriworks.id',
     circle_twitter: 'https://x.com/purorori',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8010,
-
     circle_code: 'AE-45',
     name: 'Lewdlilly X SnowValley',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lewdlilly X SnowValley.jpg',
-
     circle_facebook: 'https://www.facebook.com/lewdlily.2025',
     circle_instagram: 'https://www.instagram.com/aliciaravenna16/',
     circle_twitter: 'https://x.com/AliciaRave_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8011,
-
     circle_code: 'AE-46',
     name: 'Ashionglee and friends',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ashionglee and friends.jpg',
-
     circle_facebook: 'web.facebook.com/ashionglee/',
     circle_instagram: 'https://www.instagram.com/ashionglee/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8012,
-
     circle_code: 'AE-47',
     name: 'RairiiArt',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/RairiiArt.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/rairiiart/',
     circle_twitter: 'https://x.com/RairiiArt',
     circle_other_socials: 'https://rairii.myportfolio.com/illustrations',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/76946c35-e95b-41b0-93e2-60c84f30189f/0db1da50-2220-468c-bd18-a2040ff517d7/AE-47.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/76946c35-e95b-41b0-93e2-60c84f30189f/bf4674d6-b48a-4179-ac00-ec857749ac14/AE-47.jpg',
@@ -3266,22 +2146,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/76946c35-e95b-41b0-93e2-60c84f30189f/64f5e804-2977-4210-8800-6ba63d13017d/AE-47.jpg',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8013,
-
     circle_code: 'AE-48',
     name: 'Bluemeowcat',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bluemeowcat.jpg',
-
     circle_facebook: 'https://www.facebook.com/bluemeowcat/',
     circle_instagram: 'https://www.instagram.com/bluemeowcat.illust/',
     circle_twitter: 'https://x.com/bluemeowcat',
     circle_other_socials: 'https://www.pixiv.net/en/users/12366066',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/deb00156-9e90-4c13-b21e-9ba529027d10/3878f8c2-aed0-4788-a7f3-c43f3f9b10ad/AE-48.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/deb00156-9e90-4c13-b21e-9ba529027d10/ffecf264-cb0e-4ebb-b1fc-f74e2852b8cd/AE-48.jpg',
@@ -3295,40 +2171,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/deb00156-9e90-4c13-b21e-9ba529027d10/923ec3af-8607-46b5-a828-f6caf6129f07/AE-48.jpg',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8014,
-
     circle_code: 'AE-49',
     name: 'aWoooFaStore X Ichigo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/aWoooFaStore X Ichigo.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/Awooofa',
     circle_other_socials: 'https://vgen.co/aWoooFa',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8015,
-
     circle_code: 'AE-50',
     name: 'Artknights',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Artknights.jpg',
-
     circle_facebook: 'https://www.facebook.com/stefani.herlianto/',
     circle_instagram: null,
     circle_twitter: 'https://x.com/Sarasenia92',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/49fe87c0-836f-4317-84f2-ec313e1e2f2f/9eefb2b5-fb0e-4a1a-9094-cb5e691e3966/AE-50.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/49fe87c0-836f-4317-84f2-ec313e1e2f2f/26c1f981-c32a-4529-9af5-8e0e9f6ff58a/AE-50.png',
@@ -3340,22 +2208,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/49fe87c0-836f-4317-84f2-ec313e1e2f2f/cd8dd666-e3e1-41f6-814e-6ac46034d447/AE-50.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8016,
-
     circle_code: 'AE-51',
     name: 'Vayreceane & XanaduAvici',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Vayreceane & XanaduAvici.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/vayreceane',
     circle_twitter: 'https://x.com/vayrealist',
     circle_other_socials: 'http://vayreceane.com/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6b6cc900-6791-4030-b9ca-41d238780d73/ed8ac72e-20c9-47c2-9e46-64628e77c9d9/AE-51.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6b6cc900-6791-4030-b9ca-41d238780d73/e59fa70a-89e7-4ba2-8767-04623c2bc1c2/AE-51.png',
@@ -3369,59 +2233,46 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6b6cc900-6791-4030-b9ca-41d238780d73/555877d9-8e4b-4b6c-9753-793066d1da7b/AE-51.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8017,
-
     circle_code: 'AE-52',
     name: 'dinokano',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/dinokano.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/dinokanoo/',
-    circle_twitter:
-      'https://www.x.com/dinokanoo/ | doujin account : https://www.x.com/nnonosui',
+    circle_twitter: 'https://www.x.com/dinokanoo/ | doujin account : https://www.x.com/nnonosui',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8018,
-
     circle_code: 'AF-01',
     name: 'Riela_2',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Riela_2.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/riela_2/',
     circle_twitter: 'https://x.com/riela_2?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8019,
-
     circle_code: 'AF-02',
     name: 'AESTHYIA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/AESTHYIA.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/aesthyia',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/989d279b-75c0-4cb8-aa7b-51967427b3fe/6c5b0b85-5e2e-4e59-bacc-5a44715712d3/AF-02.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/989d279b-75c0-4cb8-aa7b-51967427b3fe/da751dad-4dd7-40ab-89ec-25da0b1932a6/AF-02.png',
@@ -3433,96 +2284,75 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/989d279b-75c0-4cb8-aa7b-51967427b3fe/48ecfac8-c83f-4646-b94a-f6f8aa0f1401/AF-02.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8020,
-
     circle_code: 'AF-03',
     name: 'Freetime',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Freetime.jpg',
-
     circle_facebook:
       'https://www.facebook.com/profile.php?id=100092493912820&rdid=FOXy2ipnOIpAYKjG&share_url=httpswww.facebook.comshare1BDKyGj8Mm#',
     circle_instagram: 'https://www.instagram.com/eggyabigail',
     circle_twitter: 'https://x.com/eggyabeegail',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8021,
-
     circle_code: 'AF-04',
     name: 'SeiJuuXei Corner',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SeiJuuXei Corner.jpg',
-
     circle_facebook: '-',
-    circle_instagram:
-      'https://www.instagram.com/ice.ju__?igsh=MWloczI1MGdjbHRyeg&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/ice.ju__?igsh=MWloczI1MGdjbHRyeg&utm_source=qr',
     circle_twitter: '-',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8022,
-
     circle_code: 'AF-05/AF-06',
     name: 'Myavi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Myavi.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/myavi.id',
     circle_twitter: 'https://x.com/myavi_id',
     circle_other_socials: 'https://www.myavi-official.com/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8023,
-
     circle_code: 'AF-07/AF-08',
     name: 'CIRCUS OF THE FOOL',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CIRCUS OF THE FOOL.jpg',
-
     circle_facebook: 'https://web.facebook.com/kurosaki.kagami.9?_rdc=1&_rdr#',
     circle_instagram: 'https://www.instagram.com/matcha_rain/?hl=en',
     circle_twitter: 'https://www.x.com/rafa_kecap',
     circle_other_socials: 'https://inthenameofthefool.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8024,
-
     circle_code: 'AF-09/AF-10',
     name: 'Chaldea Picnic Club',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Chaldea Picnic Club.jpg',
-
     circle_facebook: 'www.facebook.com/avicebron.cosu',
     circle_instagram: 'https://www.instagram.com/senichinya/',
     circle_twitter: 'https://x.com/yuki_setsura',
     circle_other_socials: 'https://www.instagram.com/ayfur_official',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d4404f1c-3cd5-42a7-83d8-43da98e45757/c71126c9-faf0-4904-b2f5-771f66876760/AF-09/AF-10.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d4404f1c-3cd5-42a7-83d8-43da98e45757/0e33a917-7186-413b-9e23-e3dabd1df91c/AF-09/AF-10.jpg',
@@ -3531,58 +2361,46 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d4404f1c-3cd5-42a7-83d8-43da98e45757/1e2b0272-23a8-484f-ab1a-4c34861f84a2/AF-09/AF-10.jpg',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8025,
-
     circle_code: 'AF-11/AF-12',
     name: 'fey_cia',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/fey_cia.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/fey_cia/',
     circle_twitter: 'https://x.com/fey_cia',
     circle_other_socials: 'https://feycia.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8026,
-
     circle_code: 'AF-13',
     name: 'Triple O Crafts',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Triple O Crafts.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/tripleo_crafts/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8027,
-
     circle_code: 'AF-14',
     name: 'Seraphelia',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Seraphelia.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/seraphelia.id',
     circle_twitter: 'https://x.com/seraphelia1403?s=21',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1b139c3b-f35a-486b-b378-b01213ef0c28/ca16591d-7a37-4516-9521-d11d5c8a2c33/AF-14.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1b139c3b-f35a-486b-b378-b01213ef0c28/1cd42fa1-46f1-4f68-b517-243ce1e359f8/AF-14.png',
@@ -3594,334 +2412,257 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1b139c3b-f35a-486b-b378-b01213ef0c28/43845a38-eb24-4028-9a83-3c65c4a4063d/AF-14.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8028,
-
     circle_code: 'AF-15/AF-16',
     name: 'EVESOEN',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/EVESOEN.jpg',
-
     circle_facebook: 'https://www.facebook.com/evesoenofficial/',
     circle_instagram: 'https://www.instagram.com/evesoen/?hl=en',
     circle_twitter: 'https://x.com/Evesoen',
     circle_other_socials: 'https://evesoen.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8029,
-
     circle_code: 'AF-17/AF-18',
     name: 'CUANZAII!!',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CUANZAII!!.jpg',
-
     circle_facebook: 'https://www.facebook.com/cuanzaii/',
     circle_instagram: 'https://www.instagram.com/cuanzaii/',
     circle_twitter: 'https://x.com/cuanzaii',
     circle_other_socials: 'https://cuanzaii.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8030,
-
     circle_code: 'AF-19',
     name: 'SEEUNANDA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SEEUNANDA.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/seeunanda/',
     circle_twitter: 'https://x.com/seeunandaaa',
     circle_other_socials: 'https://linktr.ee/seeunanda',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8031,
-
     circle_code: 'AF-20',
     name: 'The Commonwealth',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/The Commonwealth.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/sloanesmortuary',
     circle_twitter: 'https://x.com/sloanesmortuary',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8032,
-
     circle_code: 'AF-21/AF-22',
     name: 'HZKSH x Mala Gurls',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/HZKSH x Mala Gurls.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/hzksh.official https://www.instagram.com/mala_gurls',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8033,
-
     circle_code: 'AF-23/AF-24',
     name: 'apemask',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/apemask.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/apemask/',
     circle_twitter: '-',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8034,
-
     circle_code: 'AF-25/AF-26',
     name: 'RV! & GEMIMIMO',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/RV! & GEMIMIMO.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://instagram.com/arvyewaldo , https://instagram.com/gemimimo',
+    circle_instagram: 'https://instagram.com/arvyewaldo , https://instagram.com/gemimimo',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8035,
-
     circle_code: 'AF-27/AF-28',
     name: 'Munoko x Senyuki',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Munoko x Senyuki.jpg',
-
     circle_facebook: 'https://www.facebook.com/MunokoCoser',
     circle_instagram: 'https://www.instagram.com/_senyuki_/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8036,
-
     circle_code: 'AF-29/AF-30',
     name: '小桃 SiuTao X Silver✱Here',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SiuTao X Silver_Here.jpg',
-
     circle_facebook: 'https://www.facebook.com/siutaoCOS/',
     circle_instagram: 'https://www.instagram.com/silverxhere/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8037,
-
     circle_code: 'AF-31/AF-32',
     name: 'Paguyuban Anomali',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Paguyuban Anomali.jpg',
-
     circle_facebook: 'https://www.facebook.com/krrn.rin/',
     circle_instagram: 'https://www.instagram.com/krrn_rin',
     circle_twitter: 'https://x.com/krrn_rin',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8038,
-
     circle_code: 'AF-33/AF-34',
     name: 'O.D.G.J.',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/O.D.G.J..jpg',
-
     circle_facebook: 'https://www.facebook.com/valeshialaurencosplay',
-    circle_instagram:
-      'https://www.instagram.com/melfrogg?igsh=MW9hbjd5aTl2cHV0MQ',
+    circle_instagram: 'https://www.instagram.com/melfrogg?igsh=MW9hbjd5aTl2cHV0MQ',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8039,
-
     circle_code: 'AF-35/AF-36',
     name: 'THE PLENGERZ',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/THE PLENGERZ.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/rumie.rre',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8040,
-
     circle_code: 'AF-37',
     name: 'Takodesss',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Takodesss.jpg',
-
-    circle_facebook:
-      'https://www.facebook.com/share/1C7etwTrxx/?mibextid=wwXIfr',
-    circle_instagram:
-      'https://www.instagram.com/takodesss?igsh=aTcxdmR0cmsyMWNk&utm_source=qr',
+    circle_facebook: 'https://www.facebook.com/share/1C7etwTrxx/?mibextid=wwXIfr',
+    circle_instagram: 'https://www.instagram.com/takodesss?igsh=aTcxdmR0cmsyMWNk&utm_source=qr',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8041,
-
     circle_code: 'AF-38/AF-39',
     name: 'KopoyoPop x Andyphebe x Limcosfit',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KopoyoPop x Andyphebe x Limcosfit.jpg',
-
     circle_facebook: 'Andyphebe',
-    circle_instagram:
-      'Instagram.com/kopoyostudio Instagram.com/andyphebe Instagram.com/chika.chu3',
+    circle_instagram: 'Instagram.com/kopoyostudio Instagram.com/andyphebe Instagram.com/chika.chu3',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8042,
-
     circle_code: 'AF-40/AF-41',
     name: 'yuura X karam.elt',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/yuura X karam.elt.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/karam.elt/',
     circle_twitter: 'https://x.com/karam_elt',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8043,
-
     circle_code: 'AF-42',
     name: 'Sushii Cosplayer',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sushii Cosplayer.jpg',
-
     circle_facebook: 'https://www.facebook.com/sushiicosplayer/',
     circle_instagram: 'https://www.instagram.com/sushiicosplayer/',
     circle_twitter: 'https://x.com/sushiicosplayer/',
     circle_other_socials: 'https://linktr.ee/sushiicosplayer',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8044,
-
     circle_code: 'AF-43/AF-44',
     name: 'Ivy (Faixvey)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ivy (Faixvey).jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/faixvey/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8045,
-
     circle_code: 'AF-45/AF-46',
     name: 'YukirexFam',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/YukirexFam.jpg',
-
     circle_facebook: 'https://www.facebook.com/Chanelyuii',
     circle_instagram: 'https://www.instagram.com/yukitora_keiji',
     circle_twitter: 'https://x.com/Yukitorakeiji',
     circle_other_socials: 'https://www.instagram.com/kristy.yue_',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e0d441be-78fe-4ad0-bdb6-cb84a3653777/f2a4fc7d-4a65-4028-b4d3-7c3c05e021ff/AF-45/AF-46.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e0d441be-78fe-4ad0-bdb6-cb84a3653777/9887041c-6b1e-4e70-aade-7193fea15034/AF-45/AF-46.png',
@@ -3930,554 +2671,428 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e0d441be-78fe-4ad0-bdb6-cb84a3653777/d28a16ed-37d7-48b8-941b-034972e4e858/AF-45/AF-46.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8046,
-
     circle_code: 'AF-47',
     name: 'JILI♡',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/JILI.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/ilovely1007_/',
     circle_twitter: 'https://x.com/ilovely1007_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8047,
-
     circle_code: 'AF-48',
     name: 'ViKU猫梨梨',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ViKu.jpg',
-
     circle_facebook: 'https://www.facebook.com/people/Viku/100077910335726/',
     circle_instagram: 'https://www.instagram.com/viku_li/?hl=en',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8048,
-
     circle_code: 'AF-49/AF-50',
     name: 'Jetsukii x Carol x Iris',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Jetsukii x Carol x Iris.jpg',
-
     circle_facebook: 'https://www.facebook.com/CarolxIris',
     circle_instagram: 'https://www.instagram.com/jetsukii/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8049,
-
     circle_code: 'AF-51/AF-52',
     name: 'XIAOYUKIKO小魚',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/XIAOYUKIKO.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/xiaoyukiko?igsh=MTRubDM5cHRhNDk5ZA==',
+    circle_instagram: 'https://www.instagram.com/xiaoyukiko?igsh=MTRubDM5cHRhNDk5ZA==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8050,
-
     circle_code: 'AG-07',
     name: 'Seirabel',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Seirabel.jpg',
-
     circle_facebook: 'https://www.facebook.com/seirabel',
     circle_instagram: 'https://www.instagram.com/seirabel/',
     circle_twitter: 'https://x.com/seirabel',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1283d0b8-ff03-4e28-a149-e9ee850decd7/02934560-c7c9-41e4-9646-882ea637037d/AG-07.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1283d0b8-ff03-4e28-a149-e9ee850decd7/223bce29-4c31-47a9-967f-9f01d14bbd30/AG-07.png',
     ],
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8051,
-
     circle_code: 'AG-08',
     name: 'RYONEESAN',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/RYONEESAN.jpg',
-
     circle_facebook: 'https://www.facebook.com/ryjakio',
     circle_instagram: 'https://www.instagram.com/ryoneesan',
     circle_twitter: '-',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8052,
-
     circle_code: 'AG-09',
     name: 'Usami usa',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Usami usa.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/usami_usa',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8053,
-
     circle_code: 'AG-10',
     name: 'Rue Netta',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Rue Netta.jpg',
-
     circle_facebook: 'https://www.facebook.com/Rue.Cosplayer',
     circle_instagram: 'https://instagram.com/rue.netta',
     circle_twitter: 'https:x.com/ruenetta',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8054,
-
     circle_code: 'AG-11',
     name: 'Micaanesan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Micaanesan.jpg',
-
     circle_facebook: 'https://www.facebook.com/baby.micaa.2025',
     circle_instagram: 'https://www.instagram.com/micaanesan',
     circle_twitter: 'https://x.com/micaanee',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8055,
-
     circle_code: 'AG-12',
     name: '相葉(Aiba)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/aiba.jpg',
-
     circle_facebook: 'https://www.facebook.com/aiva.xyz/',
     circle_instagram: 'https://www.instagram.com/aiva_xyz?',
     circle_twitter: 'https://x.com/aiva_xyz',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8056,
-
     circle_code: 'AG-13',
     name: 'Meltedfoxx',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Meltedfoxx.jpg',
-
-    circle_facebook:
-      'https://www.facebook.com/share/17wuYT9hjz/?mibextid=wwXIfr',
-    circle_instagram:
-      'https://www.instagram.com/meltedfoxx?igsh=OXpjMzIxZGFyOG0w&utm_source=qr',
+    circle_facebook: 'https://www.facebook.com/share/17wuYT9hjz/?mibextid=wwXIfr',
+    circle_instagram: 'https://www.instagram.com/meltedfoxx?igsh=OXpjMzIxZGFyOG0w&utm_source=qr',
     circle_twitter: '-',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8057,
-
     circle_code: 'AG-14',
     name: 'Dai Dairy X Queen Airie',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Dai Dairy X Queen Airie.jpg',
-
     circle_facebook: 'https://www.facebook.com/airi25/',
     circle_instagram: 'https://www.instagram.com/dai_dairy.th/?hl=en',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8058,
-
     circle_code: 'AG-15',
     name: 'Miyuki Yoruna',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Miyuki Yoruna.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/miyuki.yoruna/',
     circle_twitter: 'https://x.com/miyuki_yoruna',
     circle_other_socials: 'linktr.ee/miyuki.yoruna',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8059,
-
     circle_code: 'AG-16',
     name: 'Airine Panpan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Airine Panpan.jpg',
-
-    circle_facebook:
-      'https://www.facebook.com/people/Airine-Panpan/61554118296609/',
+    circle_facebook: 'https://www.facebook.com/people/Airine-Panpan/61554118296609/',
     circle_instagram: 'https://www.instagram.com/airine_panpan/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8060,
-
     circle_code: 'AG-17',
     name: 'Operation Sengkle',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Operation Sengkle.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/seraray.q?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8061,
-
     circle_code: 'AG-18',
     name: 'KEVIN OINKY x JAY.AGT',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KEVIN OINKY x JAY.AGT.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'Https://instagram.com/kevintwindicha , https://instagram.com/jay.agt',
+    circle_instagram: 'Https://instagram.com/kevintwindicha , https://instagram.com/jay.agt',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8062,
-
     circle_code: 'AG-19/AG-20',
     name: 'cxiela',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/cxiela.jpg',
-
     circle_facebook: 'https://www.facebook.com/aquamarine112',
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8063,
-
     circle_code: 'AG-33/AG-34',
     name: 'YingTze',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/YingTze.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/yingtze/?hl=en',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8064,
-
     circle_code: 'AG-35/AG-36',
     name: 'Punipun',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/punipun.jpg',
-
     circle_facebook: 'https://www.facebook.com/punipun07',
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8065,
-
     circle_code: 'AG-37/AG-38',
     name: 'Erria Eri',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Erria Eri.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61551770109177#',
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_B',
   },
   {
     id: 8066,
-
     circle_code: 'AG-39',
     name: 'Azulacan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Azulacan.jpg',
-
     circle_facebook: 'Facebook.com/azulacancosplay',
     circle_instagram: 'instagram.com/azulacann',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8067,
-
     circle_code: 'AG-40',
     name: 'Meenfox',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Meenfox.jpg',
-
     circle_facebook: 'https://www.facebook.com/meenfoxcosplay',
     circle_instagram: 'https://www.instagram.com/meenfox_/',
     circle_twitter: 'https://x.com/meenfox',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8068,
-
     circle_code: 'AG-41',
     name: 'Nekonoi Katsu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nekonoi Katsu.jpg',
-
     circle_facebook: 'https://www.facebook.com/nekonoikatsu',
     circle_instagram: 'https://www.instagram.com/nekonoikatsu',
     circle_twitter: 'https://x.com/NekonoiKatsu',
     circle_other_socials: 'https://www.instagram.com/nekonoikatsu',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8069,
-
     circle_code: 'AG-42',
     name: 'Janine Intansari',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Janine Intansari.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/janineintansari/',
     circle_twitter: 'https://x.com/janineintansari',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8070,
-
     circle_code: 'AG-43',
     name: 'Rithe Daddy',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Rithe Daddy.jpg',
-
     circle_facebook: 'https://www.facebook.com/ritheania/',
     circle_instagram: 'https://www.instagram.com/rithedaddy/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8071,
-
     circle_code: 'AG-44',
     name: 'Taotan Cos',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Taotan Cos.jpg',
-
     circle_facebook: 'https://www.facebook.com/taotan1412',
     circle_instagram: 'https://www.instagram.com/taotan_cos/',
     circle_twitter: 'https://x.com/Taotan_cos',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8072,
-
     circle_code: 'AG-45',
     name: 'Ruri琉璃',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ruri.jpg',
-
     circle_facebook: 'https://www.facebook.com/xxruriru',
     circle_instagram: 'https://www.instagram.com/xxruriiiiiii/',
     circle_twitter: null,
     circle_other_socials: 'https://linktr.ee/xxruriru',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8073,
-
     circle_code: 'AG-46',
     name: 'Sherry Moe',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sherry Moe.jpg',
-
-    circle_facebook:
-      'https://www.facebook.com/share/1Topnz5Bsw/?mibextid=wwXIfr',
+    circle_facebook: 'https://www.facebook.com/share/1Topnz5Bsw/?mibextid=wwXIfr',
     circle_instagram: 'https://www.instagram.com/sherrymoe_',
     circle_twitter: 'https://x.com/sherrymoe_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: 'Booth_A',
   },
   {
     id: 8074,
-
     circle_code: 'A-01a',
     name: 'Cessa',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cessa.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/Cessa_sama',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8075,
-
     circle_code: 'A-01b',
     name: 'Babu OC',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Babu OC.jpg',
-
     circle_facebook: '',
     circle_instagram: 'https://www.instagram.com/rrakina_/',
     circle_twitter: 'https://x.com/rakinacchi',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d7e5ef8e-00c5-4f75-8d15-0a4f4bfe86a5/b33fcc84-2817-4b22-a1df-1a34d28d0da6/A-01b.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d7e5ef8e-00c5-4f75-8d15-0a4f4bfe86a5/a15c8d1d-bb51-400c-8210-9b6d8be7214f/A-01b.jpg',
@@ -4491,133 +3106,103 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d7e5ef8e-00c5-4f75-8d15-0a4f4bfe86a5/91901035-46a7-4ade-93ac-9aa21c94cd03/A-01b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8076,
-
     circle_code: 'A-02ab',
     name: 'Forte Comics',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Forte Comics.jpg',
-
     circle_facebook: 'https://www.facebook.com/fortecomics',
     circle_instagram: 'https://www.instagram.com/fortecomics/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8077,
-
     circle_code: 'A-03ab',
     name: 'Talerian Comics',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Talerian Comics.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'X: @rararamax_, @aruvhie32182, @Kshatriya666, @kohimakko',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8078,
-
     circle_code: 'A-04ab',
     name: 'Miilki Cookies',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Miilki Cookies.jpg',
-
     circle_facebook: 'https://www.facebook.com/artbydwiki',
     circle_instagram: 'https://www.instagram.com/miilkicookies/',
     circle_twitter: 'x.com/dwikipanstudio',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8079,
-
     circle_code: 'A-05ab',
     name: 'Collabcanvas',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Collabcanvas.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/sandysoon610/?hl=en https://www.instagram.com/popsineko_art/?hl=en',
     circle_twitter: 'https://x.com/sandysoon6101',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8080,
-
     circle_code: 'A-06ab',
     name: 'Mimi N x SUN Project',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mimi N x SUN Project.jpg',
-
     circle_facebook: 'https://www.facebook.com/mimisannn33',
-    circle_instagram:
-      'https://instagram.com/mimisannn33 , https://instagram.com/futarinotaiyou',
+    circle_instagram: 'https://instagram.com/mimisannn33 , https://instagram.com/futarinotaiyou',
     circle_twitter: 'https://x.com/mimisannn33 , https://x.com/futarinotaiyou',
     circle_other_socials: 'http://mimisannn33.wixsite.com/home',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8081,
-
     circle_code: 'A-07ab',
     name: 'Archfriend',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Archfriend.jpg',
-
     circle_facebook: null,
     circle_instagram: 'archietheredcat',
     circle_twitter: 'ucingbeureum',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8082,
-
     circle_code: 'A-08ab',
     name: 'Yellow Duckling',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Yellow Duckling.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/myyellowduckling?igsh=aDRlYXMwcnJwZjhp',
+    circle_instagram: 'https://www.instagram.com/myyellowduckling?igsh=aDRlYXMwcnJwZjhp',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ac2fcb8a-4482-4d63-9273-18e096ee412e/31360b18-e9fc-4869-8ddf-873e8ea806e2/A-08ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ac2fcb8a-4482-4d63-9273-18e096ee412e/48424e3b-43d5-44ea-aa3a-e139b3d1d6e1/A-08ab.jpg',
@@ -4631,62 +3216,49 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ac2fcb8a-4482-4d63-9273-18e096ee412e/880bb19a-06fe-446b-bc7a-eb1d4e549286/A-08ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8083,
-
     circle_code: 'A-09ab/A-10ab',
     name: 'Puine & PENG☆PENG',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Puine & PENGPENG.jpg',
-
     circle_facebook: 'https://www.facebook.com/puinewood',
     circle_instagram: 'https://instagram.com/polamelia',
     circle_twitter: 'https://twitter.com/nindianda',
     circle_other_socials: 'https://www.polamelia.com/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/924885b5-3437-4f66-9192-733270a57bbb/a0252418-b8a4-473f-ab2c-610bf4ebea22/A-09ab/A-10ab.webp',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/924885b5-3437-4f66-9192-733270a57bbb/38cea716-f210-471e-a2d9-3eb5aad749ae/A-09ab/A-10ab.jpeg',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8084,
-
     circle_code: 'A-11ab/A-12ab',
     name: 'Cafetivation',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cafetivation.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/jam8366_dday?igshid=MzRlODBiNWFlZA',
+    circle_instagram: 'https://www.instagram.com/jam8366_dday?igshid=MzRlODBiNWFlZA',
     circle_twitter: 'https://x.com/jam8366',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8085,
-
     circle_code: 'A-13ab/A-14ab',
     name: 'Arteins',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Arteins.jpg',
-
     circle_facebook: 'https://www.facebook.com/khairunnisaul.azizah/',
     circle_instagram: 'https://www.instagram.com/eints01/',
     circle_twitter: 'https://x.com/Eints01',
     circle_other_socials: 'https://id.shp.ee/NtANK85',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c374b0b4-d237-407d-a435-1db523547cd6/23e613de-7dfd-4615-8706-549a7a2c38f9/A-13ab/A-14ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c374b0b4-d237-407d-a435-1db523547cd6/f8afdd25-139f-42f6-9ad3-8f2fd725a593/A-13ab/A-14ab.png',
@@ -4700,113 +3272,89 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c374b0b4-d237-407d-a435-1db523547cd6/b858979f-91f9-4c6a-8553-bc7c0637bd5c/A-13ab/A-14ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8086,
-
     circle_code: 'A-15ab/A-16ab',
     name: 'CAP TIGA DARA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CAP TIGA DARA.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://instagram.com/deirikaa',
     circle_twitter: 'https://x.com/deirikaa',
     circle_other_socials: 'Deirikaa.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8087,
-
     circle_code: 'A-17ab',
     name: 'Padepokan Cilok',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Padepokan Cilok.jpg',
-
     circle_facebook: 'https://web.facebook.com/CilokArtworks/',
     circle_instagram: 'https://www.instagram.com/kang_ciloks_/',
     circle_twitter: 'https://x.com/kang_ciloks_',
     circle_other_socials: 'https://linktr.ee/kangciloks',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8088,
-
     circle_code: 'A-18ab',
     name: 'Whim Circle',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Whim Circle.jpg',
-
     circle_facebook: 'https://www.facebook.com/whimcircle',
     circle_instagram: null,
     circle_twitter: 'https://twitter.com/hisuikouha',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8089,
-
     circle_code: 'A-19ab/A-20ab',
     name: 'Hello Vita',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Hello Vita.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/vita.bun/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8090,
-
     circle_code: 'A-21ab',
     name: 'TCG JANOK',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/TCG JANOK.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/pihu_ana',
     circle_twitter: 'https://x.com/pihu_ana',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8091,
-
     circle_code: 'A-22ab',
     name: 'Is Yuniarto x Luii Lafete',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Is Yuniarto x Luii Lafete.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/is.yuniarto/ ; https://www.instagram.com/luiilafete/',
     circle_twitter: 'https://x.com/LuiiLafete',
     circle_other_socials: 'https://vgen.co/LuiiLafete',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/11dd695a-9b65-44b6-8355-388d413d2877/83cacca1-485b-4ac4-b104-03715447315c/A-22ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/11dd695a-9b65-44b6-8355-388d413d2877/c4ee4be9-3d99-435b-bc6e-7426ee8f6d2b/A-22ab.jpg',
@@ -4814,95 +3362,75 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/11dd695a-9b65-44b6-8355-388d413d2877/09629bce-04ef-40ea-9977-b29caac8ec14/A-22ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8092,
-
     circle_code: 'A-23ab',
     name: '4 Anak Ayam',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/4 Anak Ayam.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/laverinne/ , https://www.instagram.com/shortnglass/ , https://www.instagram.com/ambercraft9/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8093,
-
     circle_code: 'A-24ab',
     name: 'Memorhyme*',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Memorhyme.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/memorhyme',
     circle_twitter: 'https://x.com/YumenoMisu',
     circle_other_socials: 'https://yumenomisu.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8094,
-
     circle_code: 'A-25ab',
     name: 'Benda Mati Universe',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Benda Mati Universe.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/luthfihinelo/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8095,
-
     circle_code: 'A-26ab',
     name: 'Leker Meses',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Leker Meses.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/sihanjir/',
     circle_twitter: 'https://x.com/sihanjir',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8096,
-
     circle_code: 'A-28ab',
     name: 'Omorphia Visual',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Omorphia Visual.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/omor.merch/',
     circle_twitter: 'https://x.com/Omorphia1',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2297dd50-ab5e-4431-bafc-40196691c42d/015e78e0-acbe-42e1-b512-b88f6441e176/A-28ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2297dd50-ab5e-4431-bafc-40196691c42d/fad1cc4c-7f68-4686-a722-767b71e9d022/A-28ab.png',
@@ -4916,280 +3444,217 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2297dd50-ab5e-4431-bafc-40196691c42d/0d47fe67-ef32-4099-93b4-e1c48e0c8cac/A-28ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8097,
-
     circle_code: 'A-29ab/A-30ab',
     name: 'Zerotabi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Zerotabi.jpg',
-
     circle_facebook: 'https://www.facebook.com/zerotabi/',
     circle_instagram: 'https://www.instagram.com/zerotabi1210/',
     circle_twitter: 'https://x.com/zerotabi1210',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8098,
-
     circle_code: 'A-31a',
     name: 'Bagi loker 🥺',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bagi loker.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/momalyaa_?igsh=aGNobWQ1N2EyOWgy&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/momalyaa_?igsh=aGNobWQ1N2EyOWgy&utm_source=qr',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8099,
-
     circle_code: 'A-31b',
     name: 'TESTDDEVICE &',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/TESTDDEVICE &.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/testddevice/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8100,
-
     circle_code: 'A-32ab',
     name: 'GEPENGERS',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/GEPENGERS.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/ellygretta?igsh=MTh4czdoaTU1a3ZkMg==',
+    circle_instagram: 'https://www.instagram.com/ellygretta?igsh=MTh4czdoaTU1a3ZkMg==',
     circle_twitter:
       'https://x.com/ellygretta?s=21 ; https://x.com/shshshsh_lle?s=21 ; https://x.com/deettonjok?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8101,
-
     circle_code: 'A-33ab/A-34ab',
     name: 'Bakwan Merch',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bakwan Merch.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/_bakwan.jagung?igsh=MTFubGhvM2N0djAyeQ==',
+    circle_instagram: 'https://www.instagram.com/_bakwan.jagung?igsh=MTFubGhvM2N0djAyeQ==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8102,
-
     circle_code: 'A-35ab',
     name: 'Konbineko',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Konbineko.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/nacchatte?igsh=aHY5OXl5bHR6NG1q https://www.instagram.com/samooryuu?igsh=eDl3c3A5NG9weGJv https://www.instagram.com/bomiibunny?igsh=MTZrY3N1emFmbXhqcA==',
     circle_twitter: 'https://x.com/samooryuu https://x.com/nacchatte',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8103,
-
     circle_code: 'A-36a',
     name: 'Chocolatte',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Chocolatte.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/chocolatte_39/',
     circle_twitter: 'https://x.com/chocolatte_39',
     circle_other_socials: 'https://chocolatte.uwu.ai',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8104,
-
     circle_code: 'A-36b',
     name: 'OtsuyonXRythae',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/OtsuyonXRythae.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/haya_yon/',
     circle_twitter: 'https://x.com/Rytha_e',
     circle_other_socials: 'rythae.com',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8105,
-
     circle_code: 'A-37ab',
     name: 'Whalekun777',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Whalekun777.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/whalekun777/',
     circle_twitter: 'https://x.com/whalekun777',
     circle_other_socials: 'https://whalekun777.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8106,
-
     circle_code: 'A-38a (SAT)',
     name: 'FeyMori',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/FeyMori.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/fel.lizard/',
     circle_twitter: 'https://x.com/fellizard',
     circle_other_socials: 'fellizard.carrd.co',
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8107,
-
     circle_code: 'A-38ab (SUN)',
     name: 'Favoritea',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Favoritea.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/arisatorin/',
     circle_twitter: 'https://x.com/HimazuF',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8108,
-
     circle_code: 'A-39ab (SAT)',
     name: 'Darkavey',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Darkavey.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/darkavelter/',
     circle_twitter: 'https://x.com/darkavey',
     circle_other_socials: 'https://darkavey.wixsite.com/darkavey',
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8109,
-
     circle_code: 'A-39ab (SUN)',
     name: 'Baishuang Literary Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Baishuang Literary Studio.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/jiuchives',
     circle_twitter: null,
     circle_other_socials:
       'https://bsky.app/profile/bamioayam.bsky.social ; https://bsky.app/profile/baishuangls.bsky.social',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8110,
-
     circle_code: 'A-40ab (SAT)',
     name: 'APHIN123',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/APHIN123.jpg',
-
     circle_facebook: 'https://www.facebook.com/aphin.fujoshi',
     circle_instagram: null,
     circle_twitter: 'https://x.com/aphin123',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8111,
-
     circle_code: 'A-40ab (SUN)',
     name: 'KrapirafaS',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KrapirafaS.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61579790156653',
     circle_instagram: null,
     circle_twitter: 'https://x.com/greenopi1',
     circle_other_socials: 'https://www.facebook.com/Krapirafas',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6c531d5f-d0f3-4530-9ed2-3db7b98605f4/db176e72-597a-4d37-a99f-de9f90635731/A-40ab (SUN).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6c531d5f-d0f3-4530-9ed2-3db7b98605f4/decd7b20-ece9-4e98-a02f-c07bfff460d7/A-40ab (SUN).png',
@@ -5202,130 +3667,102 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6c531d5f-d0f3-4530-9ed2-3db7b98605f4/bac10b40-59fe-4580-a3a4-f909f0128c58/A-40ab (SUN).jpg',
     ],
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8112,
-
     circle_code: 'Z-01ab/Z-02ab',
     name: 'IDK!? x catnichiwa',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/IDK_x_catnichiwa.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/efuaka00/',
     circle_twitter: 'https://x.com/Ruu_GI',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8113,
-
     circle_code: 'Z-03ab/Z-04ab',
     name: 'KaejunnixInkotorixKuro018Rin',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KaejunnixInkotorixKuro018Rin.jpg',
-
     circle_facebook: 'https://www.facebook.com/belinda.carensia',
     circle_instagram: 'https://www.instagram.com/inkotori/',
     circle_twitter: 'https://www.threads.com/@kaejunni',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8114,
-
     circle_code: 'Z-05ab/Z-06ab',
     name: "miothle's atelier",
     circle_cut:
       "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/miothle's atelier.jpg",
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/miothle',
     circle_twitter: 'https://x.com/m_iothle',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8115,
-
     circle_code: 'Z-07ab/Z-08ab',
     name: 'Kongsi YBBA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kongsi YBBA.jpg',
-
     circle_facebook: 'https://facebook.com/maggot666draws',
     circle_instagram: null,
     circle_twitter: 'https://x.com/vermilli000n',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8116,
-
     circle_code: 'Z-09ab/Z-10ab',
     name: '70Yii Kanishiima',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/70Yii Kanishiima.jpg',
-
     circle_facebook: 'https://www.facebook.com/monsohot1',
     circle_instagram: null,
     circle_twitter: 'https://x.com/Kanishiima',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8117,
-
     circle_code: 'Z-11a',
     name: 'SynzMayu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SynzMayu.jpg',
-
     circle_facebook: 'https://www.facebook.com/wyheng221354/',
     circle_instagram: 'https://www.instagram.com/synzmayu/',
     circle_twitter: 'https://x.com/mayu221354',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8118,
-
     circle_code: 'Z-11b',
     name: 'WittleRed',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/WittleRed.jpg',
-
     circle_facebook: 'https://www.facebook.com/wittlereddesign',
     circle_instagram: 'https://www.instagram.com/wittleredd/',
     circle_twitter: 'https://x.com/wittleredd',
     circle_other_socials: 'https://wittleredd.carrd.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6dcb6bfd-0e95-4abd-924a-5ed6cde27373/3bedede1-c8d7-4fee-bb58-83b470ecfc60/Z-11b.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6dcb6bfd-0e95-4abd-924a-5ed6cde27373/ff58902b-c74f-4d0e-9497-b9fb45a17ece/Z-11b.jpg',
@@ -5337,42 +3774,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6dcb6bfd-0e95-4abd-924a-5ed6cde27373/c8f1d3f4-7050-4aa3-b667-0b051dd48006/Z-11b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8119,
-
     circle_code: 'Z-12ab',
     name: 'shenkous',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/shenkous.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/kokonudz/, https://www.instagram.com/shensouss/',
+    circle_instagram: 'https://www.instagram.com/kokonudz/, https://www.instagram.com/shensouss/',
     circle_twitter: 'https://x.com/kokonud , https://x.com/shensous',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8120,
-
     circle_code: 'Z-13ab',
     name: 'Tri Koro Baka',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tri Koro Baka.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/zhienzhienx_x?igsh=MTNzMTZuNGdqdm85MA==',
+    circle_instagram: 'https://www.instagram.com/zhienzhienx_x?igsh=MTNzMTZuNGdqdm85MA==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8360235c-c680-449a-9b06-79b1a2c28dae/5b092e63-9939-4704-bf18-12f47d7fb3bf/Z-13ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8360235c-c680-449a-9b06-79b1a2c28dae/2fc76e5d-33b3-47e2-b3e8-8815475dbc8a/Z-13ab.jpg',
@@ -5383,41 +3810,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8360235c-c680-449a-9b06-79b1a2c28dae/0999a1ff-d060-4743-b9eb-7634d1c80fa9/Z-13ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8121,
-
     circle_code: 'Z-14a',
     name: 'Gambarinman',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Gambarinman.jpg',
-
     circle_facebook: '-',
-    circle_instagram:
-      'https://www.instagram.com/lukmanul.h.a?igsh=cWRsZjFhaHZnNG0y&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/lukmanul.h.a?igsh=cWRsZjFhaHZnNG0y&utm_source=qr',
     circle_twitter: '-',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8122,
-
     circle_code: 'Z-14b',
     name: 'PB & J',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PB & J.jpg',
-
     circle_facebook: 'https://www.instagram.com/kosuneko.awrt/',
     circle_instagram: 'https://www.instagram.com/grassjellymakesart',
     circle_twitter: 'https://www.instagram.com/ang_z8s/',
     circle_other_socials: 'https://www.instagram.com/yyurein/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1f9984c8-6aa5-4c82-ba5d-99b7e05e539d/90d28e9a-28fe-4c99-9b24-533707c2a043/Z-14b.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1f9984c8-6aa5-4c82-ba5d-99b7e05e539d/d93b6e60-cdea-4787-b81d-e4afa3a35ce7/Z-14b.jpg',
@@ -5431,22 +3849,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1f9984c8-6aa5-4c82-ba5d-99b7e05e539d/0562f3f7-304c-43d8-bddc-6ce0da458fe3/Z-14b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8123,
-
     circle_code: 'Z-15ab',
     name: 'Three Wolves One Pig',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Three Wolves One Pig.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/chiaebiya/?hl=en',
     circle_twitter: 'https://x.com/ebiyafui',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/02031f22-68ab-4f75-9da2-0a8a1b6da5e0/3f3641bb-6345-4ba2-b689-5500817b715a/Z-15ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/02031f22-68ab-4f75-9da2-0a8a1b6da5e0/2b30d017-8ef1-44c1-b843-bea51bf41524/Z-15ab.png',
@@ -5455,153 +3869,120 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/02031f22-68ab-4f75-9da2-0a8a1b6da5e0/60e28174-7785-4974-9b9e-eeb7d7048a83/Z-15ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8124,
-
     circle_code: 'Z-16ab',
     name: 'Afelise x ixac.art',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Afelise x ixac.art.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/afelise.exwind/ , https://www.instagram.com/ixac.art/',
     circle_twitter: null,
     circle_other_socials: 'https://linktr.ee/cozycircle',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8125,
-
     circle_code: 'Z-17ab/Z-18ab',
     name: 'Lemon Choux x Vioarry',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lemon Choux x Vioarry.jpg',
-
     circle_facebook: 'https://www.facebook.com/saru.scimmia.2024',
     circle_instagram: 'https://www.instagram.com/vioarry/',
     circle_twitter: 'https://x.com/xNoahru',
     circle_other_socials: 'https://lemonchouxsample.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8126,
-
     circle_code: 'Z-19ab',
     name: 'GOMxTAE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/GOMxTAE.jpg',
-
     circle_facebook: '-',
     circle_instagram: '-',
     circle_twitter: 'https://x.com/G0MMI/',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8127,
-
     circle_code: 'Z-20ab',
     name: 'LiNKARIA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/LiNKARIA.jpg',
-
     circle_facebook: 'https://www.facebook.com/Nyxtoria',
     circle_instagram: 'https://www.instagram.com/nyxtoria_/',
     circle_twitter: 'https://x.com/LiNKARYZE',
     circle_other_socials: 'https://lit.link/en/linkaryze',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8128,
-
     circle_code: 'Z-21ab',
     name: 'Hknwsymphony',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Hknwsymphony.jpg',
-
     circle_facebook: 'https://www.facebook.com/hknwsymphony',
     circle_instagram: 'https://www.instagram.com/hknwsymphony',
     circle_twitter: 'https://x.com/hknwsymphony_tw',
     circle_other_socials: 'https://linkr.bio/hknwsymphony',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8129,
-
     circle_code: 'Z-22ab',
     name: 'LOST 50/50',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/lost_50_50.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/cykedelia',
     circle_twitter:
       'https://x.com/arsaries05, https://x.com/zeradok, https://x.com/RH_OG69, https://x.com/jaihu_, https://x.com/cyticalis',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8130,
-
     circle_code: 'Z-23ab',
     name: 'MIKAN',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/MIKAN.jpg',
-
     circle_facebook: 'https://facebook.com/michellemint357',
     circle_instagram: 'https://instagram.com/mint.tan',
     circle_twitter: 'https://twitter.com/mintificial',
     circle_other_socials: 'https://minttan.wixsite.com/works',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8131,
-
     circle_code: 'Z-24ab',
     name: 'Nestvirgo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nestvirgo.jpg',
-
     circle_facebook: 'https://www.facebook.com/nestv1rgo',
     circle_instagram: 'https://www.instagram.com/nest_virgo/',
     circle_twitter: 'https://x.com/nest_virgo',
     circle_other_socials: 'nestvirgo.com',
-
     fandom:
       'Hoyoverse (Genshin Impact, Zenless Zone Zero, Honkai Star Rail), Frieren, Dandadan, Chainsaw Man, Apothecary Diaries',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8c9d91f6-d628-495a-ade5-b4b2cc25de7b/3247480a-7aa2-44e0-b611-34af7aee8c47/Z-24ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8c9d91f6-d628-495a-ade5-b4b2cc25de7b/081c2284-cfbf-4bc3-987c-895bf6120f25/Z-24ab.jpg',
@@ -5613,448 +3994,348 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8c9d91f6-d628-495a-ade5-b4b2cc25de7b/2ae393eb-d965-4fcc-b5ed-abd04d101523/Z-24ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8132,
-
     circle_code: 'Z-25ab/Z-26ab',
     name: 'Miraimei',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Miraimei.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/amekakushi',
     circle_twitter: 'https://x.com/Ameirinzosan',
     circle_other_socials: 'https://ameirin.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8133,
-
     circle_code: 'Z-27ab/Z-28ab',
     name: 'Salmontachi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Salmontachi.jpg',
-
     circle_facebook: 'https://www.facebook.com/Yammkioo',
     circle_instagram: 'https://www.instagram.com/oyakorodesu/',
     circle_twitter:
       'https://x.com/Oyakorodesu, https://x.com/kshahrerawr, https://x.com/pokana_po, https://x.com/re_kioo',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8134,
-
     circle_code: 'Z-29ab/Z-30ab',
     name: 'Salty Eggs',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Salty Eggs.jpg',
-
     circle_facebook: 'https://x.com/VMelodyta',
     circle_instagram: 'https://www.instagram.com/vania_melodyta/?hl=en',
     circle_twitter: 'https://x.com/VMelodyta',
     circle_other_socials: 'https://vanarts.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8135,
-
     circle_code: 'Z-31ab/Z-32ab',
     name: 'Hot Coffee and Noodle',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Hot Coffee and Noodle.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/eucalypink',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a391cf59-2061-4894-b54e-26d1f40e75fb/4d71b48d-fdbc-49b3-ab0c-6f2efd6422be/Z-31ab/Z-32ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8136,
-
     circle_code: 'B-01a',
     name: 'Risaghana',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Risaghana.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.google.co.id/url?q=https://www.instagram.com/konijnsate/&sa=U&ved=2ahUKEwjW6u-Q066SAxX4nGMGHfzMNdkQFnoECAUQAg&usg=AOvVaw06VrPLFqu7SogbCJJcbO_Y',
     circle_twitter: 'https://x.com/konijnsate',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8137,
-
     circle_code: 'B-01b',
     name: 'JAYXCE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/JAYXCE.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/jay.xce/',
     circle_twitter: 'https://x.com/jayxce_',
     circle_other_socials: 'https://jayxce.uwu.ai/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8138,
-
     circle_code: 'B-02ab/B-03ab',
     name: 'NONCONMAN',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/NONCONMAN.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/nonconman/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8139,
-
     circle_code: 'B-04a (SAT)',
     name: 'Warkop KKN',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warkop KKN.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kyanaruu/?hl=en',
     circle_twitter: 'https://x.com/kyanaruu',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8140,
-
     circle_code: 'B-04a (SUN)',
     name: 'Rikonikonomi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Rikonikonomi.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'http://instagram.com/kkaerikko ; http://instagram.com/memonjyu',
+    circle_instagram: 'http://instagram.com/kkaerikko ; http://instagram.com/memonjyu',
     circle_twitter: 'http://x.com/memonjyu',
     circle_other_socials: 'http://memonjyu.carrd.co/',
-
-    other_fandom:
-      "Trains, Hades, Baldur's Gate 3, Honkai Star Rail, Reverse 1999",
-
+    other_fandom: "Trains, Hades, Baldur's Gate 3, Honkai Star Rail, Reverse 1999",
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8141,
-
     circle_code: 'B-04b (SAT)',
     name: 'Kameonk',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kameonk.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/k4xdkskmeonk',
     circle_twitter: 'https://x.com/k4xdkskmeonk',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8142,
-
     circle_code: 'B-04b (SUN)',
     name: 'sssaltygum',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/sssaltygum.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/sssaltygum',
     circle_twitter: 'https://x.com/sgarchivee',
     circle_other_socials: 'https://garamlaut.carrd.co/',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8143,
-
     circle_code: 'B-06a (SAT)',
     name: 'Kucing Kecebur',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kucing Kecebur.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/himaflo_',
     circle_twitter: 'https://x.com/HimaFlo',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8144,
-
     circle_code: 'B-06a (SUN)',
     name: "Mucho's Little Corner",
     circle_cut:
       "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mucho's Little Corner.jpg",
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/realmuchomacho/',
     circle_twitter: 'https://x.com/realmuchomacho',
     circle_other_socials: 'https://muchomacho.carrd.co/#',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8145,
-
     circle_code: 'B-06b (SAT)',
     name: 'Cimol Sbubu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cimol Sbubu.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'x.com/adolaeir',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8146,
-
     circle_code: 'B-06b (SUN)',
     name: 'The Bloons Club',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/The Bloons Club.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/thebloonsclub/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8147,
-
     circle_code: 'B-07a (SAT)',
     name: 'PT. Cari Cuan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PT. Cari Cuan.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/NyxNyr',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8148,
-
     circle_code: 'B-07a (SUN)',
     name: 'caffeiline',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/caffeiline.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/caffeiline',
     circle_twitter: 'https://www.x.com/caffeiline_',
     circle_other_socials: 'https://www.threads.com/caffeiline',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8149,
-
     circle_code: 'B-07b (SAT)',
     name: 'By Bawi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/By Bawi.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/bawi.draws/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8150,
-
     circle_code: 'B-07b (SUN)',
     name: 'Planet Frofo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Planet Frofo.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/frowfi',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8151,
-
     circle_code: 'B-08ab (SAT)',
     name: 'Merch Merona',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Merch Merona.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/packs.off, https://instagram.com/artsynda, https://instagram.com/floxiria',
     circle_twitter: 'https://twitter.com/artsynda',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8152,
-
     circle_code: 'B-08ab (SUN)',
     name: '1608 verse',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/1608 verse.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/teakuya/',
     circle_twitter: 'https://x.com/teakuyas',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8153,
-
     circle_code: 'B-09ab (SAT)',
     name: 'KUCING KAYANG',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KUCING KAYANG.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/hunnyjell_?igsh=MWo2NjVmcGttcmVmbg==, https://www.instagram.com/kazaaaaxzys?igsh=Zm9ldGJmbXM4cTNt, https://www.instagram.com/mirukuroo?igsh=MXNrMW1rcDV0dDFkeg==',
     circle_twitter:
       'https://x.com/catstra_, https://x.com/ayatosorbet, https://x.com/onlyforkazuha, https://x.com/spoiled_milk14?t=teNjYjIiUVLnuNQ_gicLOQ&s=09, https://www.instagram.com/hunnyjell_?igsh=MWo2NjVmcGttcmVmbg==, https://www.instagram.com/kazaaaaxzys?igsh=Zm9ldGJmbXM4cTNt, https://www.instagram.com/mirukuroo?igsh=MXNrMW1rcDV0dDFkeg==',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8154,
-
     circle_code: 'B-09ab (SUN)',
     name: 'Kegabutan Hqq',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kegabutan Hqq.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/kegabutanhkk?igsh=MTllMmY1eDc0MG92NA==',
+    circle_instagram: 'https://www.instagram.com/kegabutanhkk?igsh=MTllMmY1eDc0MG92NA==',
     circle_twitter: null,
     circle_other_socials: 'https://kegabutanberhqq.carrd.co/#',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8155,
-
     circle_code: 'B-10ab (SAT)',
     name: 'Hotaru Goodies',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Hotaru Goodies.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/mygrayside/',
     circle_twitter: 'https://x.com/mygrayside_',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/99651bd4-5731-4c03-8310-8014c1eadb7a/4cb7e97d-cf48-4a5e-b7d5-e22c23830762/B-10ab (SAT).jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/99651bd4-5731-4c03-8310-8014c1eadb7a/8433addf-c967-406d-ae50-76f58806ed1b/B-10ab (SAT).jpg',
@@ -6068,248 +4349,193 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/99651bd4-5731-4c03-8310-8014c1eadb7a/dad6f24a-4d73-4a68-8eab-a7c1c173f660/B-10ab (SAT).jpg',
     ],
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8156,
-
     circle_code: 'B-10ab (SUN)',
     name: 'Artlabs',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Artlabs.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/artlab.sky/',
     circle_twitter: 'https://x.com/artlabsky',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8157,
-
     circle_code: 'B-11ab/B-12ab',
     name: 'ink chords',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ink chords.jpg',
-
     circle_facebook: 'https://bsky.app/profile/maiki.bsky.social',
     circle_instagram: 'https://instagram.com/3mo_sa',
     circle_twitter: 'https://x.com/festinate',
     circle_other_socials: 'https://www.instagram.com/sychee9',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8158,
-
     circle_code: 'B-13ab/B-14ab',
     name: 'PASAR TUMPAH',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PASAR TUMPAH.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/pitscraft.store , https://www.instagram.com/usakisscraft , https://www.instagram.com/private_pr0perty',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9299b54e-e86d-470f-99bd-8e471b7cafaf/e12e85ef-b694-4b2e-80ff-ebdbccc6bcb8/B-13ab/B-14ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9299b54e-e86d-470f-99bd-8e471b7cafaf/3a0828f5-05d6-48a4-883d-b47e545cfb9d/B-13ab/B-14ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8159,
-
     circle_code: 'B-15ab',
     name: 'BOXERS CLUB',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/BOXERS CLUB.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/doodlebox.co',
     circle_twitter: 'x.com/doodleboxers',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8160,
-
     circle_code: 'B-16ab',
     name: 'Koalisi Komikus Musiman',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Koalisi Komikus Musiman.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/yukimpoi/',
     circle_twitter: 'https://x.com/yukimpoi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8161,
-
     circle_code: 'B-17ab/B-18ab',
     name: 'Ruruu.run',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ruruu.run.jpg',
-
     circle_facebook: 'https://www.facebook.com/ruruu.run',
     circle_instagram: 'https://www.instagram.com/ruruu.run/',
     circle_twitter: 'https://x.com/RunRuruu',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8162,
-
     circle_code: 'B-19ab/B-20ab',
     name: 'Konfetti Kolektif',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Konfetti Kolektif.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/thesmoleland/?hl=en',
     circle_twitter: 'https://x.com/smoleland',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8163,
-
     circle_code: 'B-21ab (SAT)',
     name: 'BEBAS SERAH',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/BEBAS SERAH.jpg',
-
     circle_facebook: 'https://web.facebook.com/nyken90r',
     circle_instagram: 'https://www.instagram.com/nyken90r',
     circle_twitter: 'https://x.com/nyken90r',
     circle_other_socials: '-',
-
     other_fandom:
       "L'arc~en~Ciel, One Ok Rock, Gazette, Harry Potter, ARASHI, Naruto, Sakamoto Days",
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8164,
-
     circle_code: 'B-21ab (SUN)',
     name: 'tik★ dewe & naolo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/tik dewe & naolo.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/naolotica, https://www.instagram.com/tiktik_kecil/, https://www.instagram.com/nikdewe',
-    circle_twitter:
-      'https://x.com/naolocrossing, https://x.com/dewe, https://x.com/tiktik_kecil',
+    circle_twitter: 'https://x.com/naolocrossing, https://x.com/dewe, https://x.com/tiktik_kecil',
     circle_other_socials: 'https://deweandbeatrice.carrd.co/',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8165,
-
     circle_code: 'B-22ab (SAT)',
     name: 'FHB Circle',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/FHB Circle.jpg',
-
     circle_facebook: 'https://www.facebook.com/sashacallfp',
     circle_instagram: 'https://www.instagram.com/yamyouw/',
     circle_twitter: 'https://x.com/selpuku',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8166,
-
     circle_code: 'B-22ab (SUN)',
     name: 'Mokki: The Soft Dept',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mokki The Soft Dept.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/bythesoftdept?igsh=M2hhdmxzemc3ZmRo',
+    circle_instagram: 'https://www.instagram.com/bythesoftdept?igsh=M2hhdmxzemc3ZmRo',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8167,
-
     circle_code: 'B-23ab',
     name: 'Akumado x Perakit komik',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Akumado x Perakit komik.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/akumado.co/',
     circle_twitter: null,
     circle_other_socials: 'https://www.instagram.com/perakitkomik/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8168,
-
     circle_code: 'B-24ab',
     name: 'Lentera Komik Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lentera Komik Studio.jpg',
-
     circle_facebook: 'Alan wijaya',
     circle_instagram: '@alanwijaya793; @lenterakomik_studio',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/db892e1f-1304-4ba7-a7f1-93d000243d40/ebdd66a4-e63a-4c7c-a257-7fe0a20fe578/B-24ab.jpeg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/db892e1f-1304-4ba7-a7f1-93d000243d40/8e8de4cb-de71-4ea4-8b7f-ef073af3ac00/B-24ab.jpeg',
@@ -6317,22 +4543,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/db892e1f-1304-4ba7-a7f1-93d000243d40/7e92be95-67b9-4ecb-87ea-5f4aa5739b9f/B-24ab.jpeg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8169,
-
     circle_code: 'B-25ab',
     name: 'RGB Team',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/RGB Team.jpg',
-
     circle_facebook: 'https://www.facebook.com/YuriEBD',
     circle_instagram: 'https://www.instagram.com/magnolia_ebd',
     circle_twitter: 'https://x.com/magnolia_ebd',
     circle_other_socials: 'https://its-rgb-team.carrd.co',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b4067aee-28dc-44c7-8d16-8e73f3e72026/8ac40443-765d-4a6d-bbff-6588b34342dc/B-25ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b4067aee-28dc-44c7-8d16-8e73f3e72026/66885c24-d665-46ad-9894-5dabe0e75285/B-25ab.jpg',
@@ -6345,22 +4567,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b4067aee-28dc-44c7-8d16-8e73f3e72026/2fb7f448-231f-4f9c-af3e-c4a10f61fe41/B-25ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8170,
-
     circle_code: 'B-27ab',
     name: 'bunbun studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/bunbun studio.jpg',
-
     circle_facebook: 'https://www.facebook.com/hikariin25',
     circle_instagram: 'https://www.instagram.com/hikapikaa/',
     circle_twitter: 'https://x.com/hikariin25',
     circle_other_socials: 'https://hikariin.carrd.co',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8dd67ae2-8f8a-4768-b9d9-428a47d85260/2ff5cb1e-e7d0-4910-8868-776adc74dfa8/B-27ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8dd67ae2-8f8a-4768-b9d9-428a47d85260/19f17741-b14c-4809-9c7f-57dbe7d4391c/B-27ab.jpg',
@@ -6372,40 +4590,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8dd67ae2-8f8a-4768-b9d9-428a47d85260/989fa9ef-7218-489f-a92a-75169c6a1a4f/B-27ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8171,
-
     circle_code: 'B-28a',
     name: 'PINKIN',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PINKIN.jpg',
-
     circle_facebook: 'https://www.facebook.com/Aprilkun13/',
     circle_instagram: 'https://www.instagram.com/skelletory/',
     circle_twitter: null,
     circle_other_socials: 'https://skartlie.tumblr.com/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8172,
-
     circle_code: 'B-28b',
     name: 'Potlucky',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Potlucky.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/vrsvns',
     circle_twitter: 'https://x.com/vrsvns',
     circle_other_socials: 'https://www.tiktok.com/@vrs.vns',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e5039eb4-e338-4425-8986-1bb59709a254/eb9376fd-398b-460a-944f-b80f05585085/B-28b.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e5039eb4-e338-4425-8986-1bb59709a254/fe2297aa-8a61-4651-967d-80776a016383/B-28b.jpg',
@@ -6415,22 +4625,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e5039eb4-e338-4425-8986-1bb59709a254/507b2768-62bb-455e-959e-ce975e8be72a/B-28b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8173,
-
     circle_code: 'B-29a',
     name: 'Deruupanda',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Deruupanda.jpg',
-
     circle_facebook: 'https://www.facebook.com/Desimewebtoon',
     circle_instagram: 'https://www.instagram.com/deruuyo/',
     circle_twitter: '-',
     circle_other_socials: '-',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6eb87fae-87c2-4bde-94ef-084d6cbe0066/6f4479e5-d415-46bc-b430-c536070a152d/B-29a.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6eb87fae-87c2-4bde-94ef-084d6cbe0066/0f0ffd43-06b2-4060-bcf7-2f120647b5f1/B-29a.jpg',
@@ -6443,150 +4649,118 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6eb87fae-87c2-4bde-94ef-084d6cbe0066/02e3824e-7fa4-4682-ad45-528a3c76affe/B-29a.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8174,
-
     circle_code: 'B-29b',
     name: 'Telat Gajian Co.',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Telat Gajian Co..jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/telatgajianco/',
     circle_twitter: null,
     circle_other_socials: 'https://shopee.co.id/shop/1606404054',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8175,
-
     circle_code: 'B-30ab',
     name: 'Risza Perdhana',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Risza Perdhana.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/riszaperdhana/',
     circle_twitter: null,
     circle_other_socials: 'https://www.artstation.com/riszaperdhana',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8176,
-
     circle_code: 'B-31ab',
     name: 'Gajah Ngomik',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Gajah Ngomik.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://instagram.com/gajahngomik/ , https://instagram.com/fruit_sy/ , https://instagram.com/srikayart/',
     circle_twitter:
       'https://x.com/gajahngomik/ , https://x.com/mawaballs/ , https://x.com/thisisallybtw/ , https://x.com/butterfigurenal/',
     circle_other_socials: 'https://vgen.co/12welven',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8177,
-
     circle_code: 'B-32ab/B-33ab',
     name: 'Happykrel & Dooraruu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Happykrel & Dooraruu.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/happykrel/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8178,
-
     circle_code: 'B-34a',
     name: 'airenaiy',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/airenaiy.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/airenaiy/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8179,
-
     circle_code: 'B-34b',
     name: 'Superlery',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Superlery.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/superlery/',
     circle_twitter: 'https://x.com/superlery_hehe',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8180,
-
     circle_code: 'B-36ab',
     name: 'NGNGKNG ACT!ON X WARUNG MAK IJAH',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/NGNGKNG ACT!ON X WARUNG MAK IJAH.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/nonoleno',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8181,
-
     circle_code: 'B-37a',
     name: 'CikiTora',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CikiTora.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/cikitora/',
     circle_twitter: 'https://x.com/Cikitora_',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4107c8bc-8dc7-4b9e-a9f8-2bea7d07f05c/7c91e4a9-3ea1-4d38-a1d4-0cf64b3664a8/B-37a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4107c8bc-8dc7-4b9e-a9f8-2bea7d07f05c/3014c727-b37f-4e9e-9229-cb8200924b2f/B-37a.png',
@@ -6600,59 +4774,46 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4107c8bc-8dc7-4b9e-a9f8-2bea7d07f05c/84955649-9618-4156-8a78-1061ad88afe2/B-37a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8182,
-
     circle_code: 'B-37b',
     name: 'Sunponny',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sunponny.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/sunponny/',
     circle_twitter: 'https://x.com/Sunponny',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8183,
-
     circle_code: 'B-38a',
     name: 'Seblak Kencoor',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Seblak Kencoor.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/seblakkencoor?igsh=cDY3eDVubjczZ2p1',
+    circle_instagram: 'https://www.instagram.com/seblakkencoor?igsh=cDY3eDVubjczZ2p1',
     circle_twitter: 'https://x.com/seblakkencoor',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8184,
-
     circle_code: 'B-38b',
     name: 'xuemart',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/xuemart.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/xuejjin/',
     circle_twitter: 'https://x.com/xuekaa',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/82c4ab03-7b56-44e2-9cc7-42e7ff38a623/a8c228f2-78d9-42dd-b547-28967cb90338/B-38b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/82c4ab03-7b56-44e2-9cc7-42e7ff38a623/bd76b34e-bd84-40fa-9243-8319f8837ee6/B-38b.png',
@@ -6660,23 +4821,19 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/82c4ab03-7b56-44e2-9cc7-42e7ff38a623/f5bddad8-c05d-44b8-b26e-a58f4d602391/B-38b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8185,
-
     circle_code: 'B-39ab',
     name: 'HONEYYPEACH X HUMAN_DRAWN',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/HONEYYPEACH X HUMAN_DRAWN.jpg',
-
     circle_facebook: '-',
     circle_instagram:
       'https://www.instagram.com/honeyypeach , https://www.instagram.com/human_drawn',
     circle_twitter: 'https://x.com/honeyype_ch , https://x.com/human_drawn',
     circle_other_socials: '-',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2ece2084-fcea-4f55-b41e-33ab091a52de/3cba3fdd-d716-49d1-b633-37bd6dc0c05d/B-39ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2ece2084-fcea-4f55-b41e-33ab091a52de/3083d8fb-9614-4f16-8c20-36e4bae4f0a1/B-39ab.jpg',
@@ -6685,42 +4842,34 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2ece2084-fcea-4f55-b41e-33ab091a52de/66584ce7-8243-4b69-94e5-746292e84587/B-39ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8186,
-
     circle_code: 'B-40a',
     name: 'Demi Cuan Nikah',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Demi Cuan Nikah.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/hardantee',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8187,
-
     circle_code: 'B-40b',
     name: 'Waroeng2an',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Waroeng2an.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://instagram.com/waroeng2an , https://instagram.com/matchaoverdeez , https://instagram.com/talampandann',
     circle_twitter:
       'https://x.com/waroeng2an , https://x.com/matchelia , https://x.com/talampandann',
     circle_other_socials: 'https://linktr.ee/waroeng2an',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d73ac860-96f8-4fea-bf4e-6766cbae0b36/e5b207b0-e17e-4424-b885-e810fa911db3/B-40b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d73ac860-96f8-4fea-bf4e-6766cbae0b36/2ddc0dcd-a839-4aa2-917e-f5b74612b3c7/B-40b.png',
@@ -6734,114 +4883,90 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d73ac860-96f8-4fea-bf4e-6766cbae0b36/41cf5515-36d2-46be-a2fe-8f10f3534673/B-40b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8188,
-
     circle_code: 'B-41ab/B-42ab',
     name: 'Antariksa',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Antariksa.jpg',
-
     circle_facebook: 'https://www.facebook.com/getuproduction',
     circle_instagram: 'https://www.instagram.com/getuproduction',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8189,
-
     circle_code: 'B-43ab/B-44ab',
     name: 'Jambu Racil Sugyh',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Jambu Racil Sugyh.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/tokohidunggjambu.eps/',
     circle_twitter: '-',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8190,
-
     circle_code: 'B-45ab',
     name: 'All Niche No Bite',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/All Niche No Bite.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/ashcat470?igsh=cTIxZHowMnY5bXpl&utm_source=qr - https://www.instagram.com/fewlfru?igsh=MW5lZXNmaGIyM3NsNg== - https://www.instagram.com/pisang_gorenk_balado?igsh=MWVvNzlsaWdvNHJqZQ== - https://www.instagram.com/meer4ncore?igsh=ZDh2d284MWc0Y3I= - https://www.instagram.com/matcha4artz?igsh=MWs2bWl6cHg0MWd3Zg==',
     circle_twitter:
       'https://x.com/ashcat470?s=21 - https://x.com/kierished?s=21&t=iIEih8qPdQgiy7WHLt9yOg - https://x.com/RacchusRefrain - https://x.com/mentella_squid?s=21&t=iIEih8qPdQgiy7WHLt9yOg - https://x.com/pearlynovarice?s=21 - https://x.com/202noceda',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8191,
-
     circle_code: 'B-46ab',
     name: 'SereniSea',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SereniSea.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/rendeeta',
     circle_twitter: 'https://x.com/reneruuu',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8192,
-
     circle_code: 'B-47ab/B-48ab',
     name: 'Jualan Demi Modal Gacha x SamaLilia',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Jualan Demi Modal Gacha x SamaLilia.jpg',
-
     circle_facebook: 'https://www.facebook.com/JDMGCircle',
     circle_instagram: 'https://www.instagram.com/hiromasajun/',
     circle_twitter: 'https://x.com/JDMGCircle',
     circle_other_socials: 'https://linktr.ee/JDMGcirlce',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8193,
-
     circle_code: 'B-49ab/B-50ab',
     name: 'Maquire x Milky&Me',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Maquire x Milky&Me.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/milky_andme/',
     circle_twitter: 'https://x.com/Misty_scwarlang',
     circle_other_socials: 'https://www.instagram.com/maquiremqr/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c93093ed-1cc7-4e79-b86b-853aaa52b30d/dcdf2a33-0bc6-4746-bd6a-7efc080852ad/B-49ab/B-50ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c93093ed-1cc7-4e79-b86b-853aaa52b30d/1ef4d766-4aed-45d9-a0f6-bf155c2da9da/B-49ab/B-50ab.png',
@@ -6855,115 +4980,89 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c93093ed-1cc7-4e79-b86b-853aaa52b30d/3f902946-b213-41c0-972a-f6a68bb849eb/B-49ab/B-50ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8194,
-
     circle_code: 'B-51ab (SAT)',
     name: 'BisaJadi Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/BisaJadi Studio.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://x.com/qukiestart',
     circle_twitter: 'https://www.instagram.com/qukiest/',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8195,
-
     circle_code: 'B-51a (SUN)',
     name: 'Space Craft',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Space Craft.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/space_craft_star?igsh=a2Fobmo5c2Vqd3Mx&utm_source=qr',
     circle_twitter: null,
     circle_other_socials: 'https://linktr.ee/Space_Craft_Star',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8196,
-
     circle_code: 'B-51b (SUN)',
     name: 'Lolatelone',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lolatelone.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/lolatelone/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8197,
-
     circle_code: 'B-52ab (SAT)',
     name: 'pecinta uban duda muda',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/pecinta uban duda muda.jpg',
-
     circle_facebook: '-',
-    circle_instagram:
-      'https://www.instagram.com/pecintaubanudud/?igsh=YzljYTk1ODg3Zg#',
+    circle_instagram: 'https://www.instagram.com/pecintaubanudud/?igsh=YzljYTk1ODg3Zg#',
     circle_twitter: 'https://x.com/pecintaudud',
     circle_other_socials: 'https://pecintaudud.carrd.co/',
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8198,
-
     circle_code: 'B-52a (SUN)',
     name: 'Yakin Makmur',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Yakin Makmur.jpg',
-
     circle_facebook: '-',
-    circle_instagram:
-      'https://www.instagram.com/paintputra/ , https://www.instagram.com/525.mars/',
+    circle_instagram: 'https://www.instagram.com/paintputra/ , https://www.instagram.com/525.mars/',
     circle_twitter: '-',
     circle_other_socials: 'https://saputraditia.com/',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8199,
-
     circle_code: 'B-53ab',
     name: 'Basakila',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Basakila.jpg',
-
     circle_facebook: 'https://www.facebook.com/C3nmt.Basa',
     circle_instagram: 'https://www.instagram.com/c3nmt.do/',
     circle_twitter: 'https://x.com/C3nmt1',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/77bd60ac-1515-4f12-a2b6-444c2b856058/7b45b165-4fbe-4884-9425-c4472b4c12a5/B-53ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/77bd60ac-1515-4f12-a2b6-444c2b856058/8ff3998b-eb35-4c71-a71d-f9a26252ca0e/B-53ab.jpg',
@@ -6977,58 +5076,46 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/77bd60ac-1515-4f12-a2b6-444c2b856058/ea0cc1c0-fbf4-4303-b968-bb2ce418aa6d/B-53ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8200,
-
     circle_code: 'B-54ab',
     name: 'Suaka Warga Stress',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Suaka Warga Stress.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: 'https://suakawargastress.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8201,
-
     circle_code: 'B-55a',
     name: 'Bubble Mumble',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bubble Mumble.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/bubble.mumble',
     circle_twitter: null,
     circle_other_socials: 'https://cataloc.my.canva.site/bubblemumble',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8202,
-
     circle_code: 'B-55b',
     name: 'Balai Pengkajian Wibu dan Jejepangan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Balai Pengkajian Wibu dan Jejepangan.jpg',
-
     circle_facebook: 'https://facebook.com/YPKBN/',
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: 'https://facebook.com/neohybridkai/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a2dd4d20-8cad-4564-a26f-e59a810b2fc7/586f891c-9542-41a7-b983-7413aa8d0ed5/B-55b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a2dd4d20-8cad-4564-a26f-e59a810b2fc7/b36de5dd-5a10-451f-aadf-65045edff230/B-55b.png',
@@ -7042,97 +5129,76 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a2dd4d20-8cad-4564-a26f-e59a810b2fc7/d6373c68-b6c3-4aeb-9295-24f5b31f22c1/B-55b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8203,
-
     circle_code: 'B-57a',
     name: 'Kuroketto',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kuroketto.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/vesperdawnz?igsh=d204MzNxdmt3Z2Vp',
+    circle_instagram: 'https://www.instagram.com/vesperdawnz?igsh=d204MzNxdmt3Z2Vp',
     circle_twitter: 'https://x.com/vesperdawnz?s=21&t=uiIumCe_ZXMzbQZuoZvF9g',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8204,
-
     circle_code: 'B-57b',
     name: 'Warung Kokop',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warung Kokop.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/aqueousarts_?igsh=MTlsM2lqeGVjN3JycQ== , https://www.instagram.com/th1rt3en_3.0?igsh=N2VoOWNud3h2OHd2 , https://www.instagram.com/wigglywormies_/',
     circle_twitter: 'https://x.com/ch4rless_draws/',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8205,
-
     circle_code: 'B-58ab/B-59ab',
     name: 'Anse & MUTAMAKES & Lisa',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Anse & MUTAMAKES & Lisa.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/an.se.410 https://www.instagram.com/mutamakes/ https://www.instagram.com/harem37/',
     circle_twitter: 'twitter.com/mutamakes',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8206,
-
     circle_code: 'B-60ab',
     name: 'Winter Tide',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Winter Tide.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/st4ngray',
     circle_twitter: 'https://x.com/st4ngray',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8207,
-
     circle_code: 'C-01ab',
     name: 'Afterhours Antics',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Afterhours Antics.jpg',
-
     circle_facebook: 'https://x.com/2dfiend',
     circle_instagram: 'https://instagram.com/iwatachibana.png',
     circle_twitter: 'https://www.instagram.com/zepippi',
     circle_other_socials: 'https://afterhours-antics.carrd.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8cc46b91-6124-479d-b30c-daaf61a14b6e/09b3e9c6-829e-49e7-9a50-9992b3372363/C-01ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8cc46b91-6124-479d-b30c-daaf61a14b6e/be35541b-d078-4289-8cf3-ca22211fd60b/C-01ab.png',
@@ -7145,40 +5211,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8cc46b91-6124-479d-b30c-daaf61a14b6e/505da952-750e-4ee0-bc55-61ae9abddae4/C-01ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8208,
-
     circle_code: 'C-02ab/C-03ab',
     name: 'Braincell Attack',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Braincell Attack.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/onesixbraincell/',
     circle_twitter: 'https://x.com/onesixbraincell',
     circle_other_socials: 'https://onesixbraincell.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8209,
-
     circle_code: 'C-04a',
     name: 'Humaville',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Humaville.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/humaville_',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/18a38a79-39d1-42c5-b4ba-9ca4502f7c0b/fee4acbe-1df7-4cbe-8c77-21120a097ff2/C-04a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/18a38a79-39d1-42c5-b4ba-9ca4502f7c0b/3ed478a3-dd91-4861-8179-da936bcbd00d/C-04a.png',
@@ -7191,22 +5249,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/18a38a79-39d1-42c5-b4ba-9ca4502f7c0b/b16412cb-e169-45a0-b553-276cbdeed4df/C-04a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8210,
-
     circle_code: 'C-04b',
     name: 'Pugibuni',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pugibuni.jpg',
-
     circle_facebook: 'https://www.facebook.com/pugibuni/',
     circle_instagram: 'https://www.instagram.com/pugibuni/',
     circle_twitter: null,
     circle_other_socials: 'https://pugibuni.carrd.co',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/320c18a1-0188-457d-a122-494d7f28d144/3744b689-37e7-4696-bcfd-0a79894a181a/C-04b.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/320c18a1-0188-457d-a122-494d7f28d144/f1119f9b-480a-452b-ba22-e0c93c9b0003/C-04b.jpg',
@@ -7220,23 +5274,19 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/320c18a1-0188-457d-a122-494d7f28d144/323d1a66-68b1-4528-8bf1-11713bc8ca94/C-04b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8211,
-
     circle_code: 'C-05ab',
     name: 'Innervalue X STRAY GODS',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Innervalue X STRAY GODS.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/innervalue/, https://www.instagram.com/hime_masdemon/',
     circle_twitter: 'https://x.com/MaerelHibadita',
     circle_other_socials: 'https://www.artstation.com/innervalue',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ede869b4-1dd4-4de4-91ef-804af0191e2d/c868c54d-6c60-4539-9acb-023c717b7e28/C-05ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ede869b4-1dd4-4de4-91ef-804af0191e2d/f390d952-af30-4131-8707-6dca802874f3/C-05ab.jpg',
@@ -7246,22 +5296,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ede869b4-1dd4-4de4-91ef-804af0191e2d/6f69a3aa-0664-45e4-a8ba-822bbffa9439/C-05ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8212,
-
     circle_code: 'C-06ab',
     name: 'Jondeenart x kmgllry',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Jondeenart x kmgllry.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/jondeenart/',
     circle_twitter: 'https://x.com/kmgllry',
     circle_other_socials: 'https://linktr.ee/jondeenart_kmgllry',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7e87fc95-bccc-4e13-a5ba-8202f91a3f66/97ea34f3-68e0-4e57-b5c0-ba26a5bbbc16/C-06ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7e87fc95-bccc-4e13-a5ba-8202f91a3f66/83573796-4c80-4a6a-a416-5b4db5fb03b1/C-06ab.jpg',
@@ -7275,76 +5321,60 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7e87fc95-bccc-4e13-a5ba-8202f91a3f66/f9f8d41a-d569-4173-bf2c-8bdd376f9a8c/C-06ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8213,
-
     circle_code: 'C-07a',
     name: 'AYRChan Merchandising',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/AYRChan Merchandising.jpg',
-
     circle_facebook: 'https://www.facebook.com/share/1JfTUGXkzE',
     circle_instagram: 'https://instagram.com/ayrchan0826/',
     circle_twitter: 'https://x.com/ayrchan0826',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8214,
-
     circle_code: 'C-07b',
     name: 'CRUSTISSUES',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CRUSTISSUES.jpg',
-
     circle_facebook: 'https://www.facebook.com/share/1AbCn1wVm2/',
     circle_instagram: 'https://www.instagram.com/beadsbylny/',
     circle_twitter: 'https://x.com/dinoiiyo',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8215,
-
     circle_code: 'C-08a',
     name: 'mini bao',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/mini bao.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/baogeemu',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8216,
-
     circle_code: 'C-08b',
     name: 'TasikPositivity',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/TasikPositivity.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/ta6positivity/',
     circle_twitter: 'https://x.com/ta6positivity?t=wA6yjeWNenSArEDUvWu6Jg&s=08',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6668c733-0743-47e9-86d5-a42dba1158c4/80d5d86a-af65-4547-9886-c92fefbded28/C-08b.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6668c733-0743-47e9-86d5-a42dba1158c4/925fae7e-6729-4e0a-980b-c583fa4d8c90/C-08b.jpg',
@@ -7352,22 +5382,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6668c733-0743-47e9-86d5-a42dba1158c4/faed9745-4619-4fce-a382-c9c426425802/C-08b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8217,
-
     circle_code: 'C-09ab',
     name: 'Amatears Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Amatears Studio.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/amatears.studio/',
     circle_twitter: 'https://x.com/amatearsstudio',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6666a090-2a8d-4283-8ee5-8b91e966bfc3/1428df73-bb35-4ff4-ae91-4e4311e178e5/C-09ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6666a090-2a8d-4283-8ee5-8b91e966bfc3/5644592a-d86d-4152-9fce-ab4f856dec9e/C-09ab.png',
@@ -7380,22 +5406,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6666a090-2a8d-4283-8ee5-8b91e966bfc3/a5c7f7df-0cd1-4832-9397-1548fe09abd2/C-09ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8218,
-
     circle_code: 'C-10ab',
     name: 'Velvetive',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Velvetive.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/la_velvetive',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c420f0a7-fb01-4314-9703-56d818e22a60/4c0f71ae-4246-47ef-9520-ed933eef31e7/C-10ab.jpeg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c420f0a7-fb01-4314-9703-56d818e22a60/2e5b18bc-c4dd-4871-a14a-0ab11145e5a5/C-10ab.jpeg',
@@ -7405,186 +5427,145 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c420f0a7-fb01-4314-9703-56d818e22a60/d959f78c-05e5-4548-ac50-7f8b7c1dd0b6/C-10ab.jpeg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8219,
-
     circle_code: 'C-11ab/C-12ab',
     name: 'Namanya Apa Ya',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Namanya Apa Ya.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/_yinghuo , instagram.com/niccolab.id',
     circle_twitter: 'x.com/_yinghuo, x.com/chokapucino',
     circle_other_socials: 'https://www.artstation.com/yinghuo',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8220,
-
     circle_code: 'C-13ab/C-14ab',
     name: 'Asylum Cinta x Caream',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Asylum Cinta x Caream.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/careammmm/',
     circle_twitter: 'https://x.com/careammmm_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8221,
-
     circle_code: 'C-15ab',
     name: 'Lameloen',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lameloen.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/lameloen',
     circle_twitter: 'https://x.com/heniloenar',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8222,
-
     circle_code: 'C-16ab',
     name: 'StillWIP',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/StillWIP.jpg',
-
     circle_facebook: 'https://www.facebook.com/sathu.u001',
     circle_instagram: null,
     circle_twitter: 'https://x.com/qwee_po',
     circle_other_socials: 'https://vgen.co/s_thuu',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8223,
-
     circle_code: 'C-17ab/C-18ab',
     name: 'Yaminoya',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/circle_cut_blank.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8224,
-
     circle_code: 'C-19ab/C-20ab',
     name: 'Toko Berima Ria',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Toko Berima Ria.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'instagram.com/jul_in_june ; instagram.com/blublu.arts ; instagram.com/pouna.byza ; instagram.com/chiadorable.co ; instagram.com/nandirajournal ;',
     circle_twitter: 'x.com/jul_in_june',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8225,
-
     circle_code: 'C-21ab',
     name: 'uforabits',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/uforabits.jpg',
-
     circle_facebook: 'https://www.facebook.com/coretanhariankomik',
     circle_instagram: 'https://www.instagram.com/coretan_harian/',
     circle_twitter: 'https://x.com/Coretanharian',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8226,
-
     circle_code: 'C-22ab',
     name: 'Toko Mayochi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Toko Mayochi.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/tokomayochi/',
     circle_twitter: 'https://x.com/Hectorzzz__',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8227,
-
     circle_code: 'C-23a',
     name: 'Buatanku.13',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Buatanku.13.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/buatanku.13?igsh=M3h0d3gyaTQ3aDNm',
+    circle_instagram: 'https://www.instagram.com/buatanku.13?igsh=M3h0d3gyaTQ3aDNm',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8228,
-
     circle_code: 'C-23b',
     name: 'The Nerds',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/The Nerds.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/rhe_nerds',
     circle_twitter: 'https://x.com/rhe_nerds',
     circle_other_socials: 'https://nerds.my.id',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0e556afb-c58c-4089-b92c-07edac4f824e/3c7e0f8d-c1af-46a0-bb80-64a6371ff39c/C-23b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0e556afb-c58c-4089-b92c-07edac4f824e/5e6043d0-fd03-4ffb-920c-d04ee6527985/C-23b.png',
@@ -7592,60 +5573,48 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0e556afb-c58c-4089-b92c-07edac4f824e/d10cf95c-b7b8-42b0-9254-a97e0fba6cd1/C-23b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8229,
-
     circle_code: 'C-24a',
     name: 'Wairovers',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Wairovers.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/wairovers',
     circle_twitter: 'x.com/wairovers',
     circle_other_socials: 'wairoverisa.com',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/38690139-7dad-4403-a81d-3555cfeaef18/9e338e59-fa07-47dd-9d9d-3e7adc217979/C-24a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8230,
-
     circle_code: 'C-24b',
     name: 'Jeen_nyaa',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Jeen_nyaa.jpg',
-
     circle_facebook: 'https://www.facebook.com/share/1C8z6czT3q/',
     circle_instagram: 'https://www.instagram.com/jeen_nyaa/',
     circle_twitter: 'https://x.com/jeen_nyaa',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8231,
-
     circle_code: 'C-25ab',
     name: 'Yumelicious',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Yumelicious.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/lemonrini',
     circle_twitter: 'https://x.com/lemonrini?s=21',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f9a79433-f0e2-4701-a4b2-b3c28663f8eb/a0933387-3f4c-48a2-9f2f-d2bc1479d026/C-25ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f9a79433-f0e2-4701-a4b2-b3c28663f8eb/116216e5-b0ee-4048-b372-4e1abe7296aa/C-25ab.png',
@@ -7656,22 +5625,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f9a79433-f0e2-4701-a4b2-b3c28663f8eb/9a9bde9e-ab7e-424e-8202-7e99a9af4240/C-25ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8232,
-
     circle_code: 'C-26ab',
     name: 'tealpinkblue x veriwinklle x cold.summerday',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/tealpinkblue x veriwinklle x cold.summerday.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/tealpinkblue',
     circle_twitter: 'x.com/tealpinkblue',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/53c7d950-b749-4bd1-803c-908b7ae9a6b0/f513aae0-77e7-428a-9aa2-538fc9e1eb2e/C-26ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/53c7d950-b749-4bd1-803c-908b7ae9a6b0/dbd6fc79-cb86-4cf0-a41f-29f2a4f10477/C-26ab.png',
@@ -7681,114 +5646,89 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/53c7d950-b749-4bd1-803c-908b7ae9a6b0/8e283d55-df39-408f-b7c1-0b514362f5c7/C-26ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8233,
-
     circle_code: 'C-27ab',
     name: 'rinchanted',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/rinchanted.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/rinchanted/',
     circle_twitter: 'https://x.com/rinchanted',
     circle_other_socials: 'https://linktr.ee/rinchanted',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8234,
-
     circle_code: 'C-28ab/C-29ab',
     name: 'Little Pleasure x Lunaquete',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Little Pleasure x Lunaquete.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/little.pleasureee?igsh=cno2dHBkbDQzbDUz, https://www.instagram.com/lunaquete?igsh=a3Fmdzh6aDEyY2c2',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8235,
-
     circle_code: 'C-30ab (SAT)',
     name: 'Nyunyunyanya',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nyunyunyanya.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/Nyunyu_nyanya',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8236,
-
     circle_code: 'C-30ab (SUN)',
     name: 'Freshly drawn',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Freshly drawn.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/jssowashere?igsh=MWZmazN2cTV6OHpybg==',
+    circle_instagram: 'https://www.instagram.com/jssowashere?igsh=MWZmazN2cTV6OHpybg==',
     circle_twitter: 'https://x.com/rinnrei1',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8237,
-
     circle_code: 'C-31ab',
     name: 'Yapoo Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Yapoo Studio.jpg',
-
     circle_facebook: null,
     circle_instagram: 'Https://instagram.com/yapoo_std',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8238,
-
     circle_code: 'C-32ab/C-33ab',
     name: 'Aricato x Barkandwooffle',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Aricato x Barkandwooffle.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/barkandwooffle/',
     circle_twitter: null,
     circle_other_socials: 'https://www.instagram.com/aricato.id/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/007fa18d-3c26-4d3c-9167-18d54b14007b/1cc4b173-3db6-4a6f-aac2-692d4b4519d8/C-32ab/C-33ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/007fa18d-3c26-4d3c-9167-18d54b14007b/1adede8d-c905-447e-839a-c39b3d828009/C-32ab/C-33ab.jpg',
@@ -7797,245 +5737,188 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/007fa18d-3c26-4d3c-9167-18d54b14007b/b208ed47-279a-4f71-b836-00ea2dfb9d43/C-32ab/C-33ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8239,
-
     circle_code: 'C-34a',
     name: 'Archie Eka',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Archie Eka.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/fsellustration/',
     circle_twitter: null,
     circle_other_socials: 'https://sites.google.com/view/archieeka',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8240,
-
     circle_code: 'C-34b',
     name: 'Reneosyare',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Reneosyare.jpg',
-
     circle_facebook: null,
     circle_instagram: 'reneosyare',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8241,
-
     circle_code: 'C-35ab',
     name: 'DAN NAGA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/DAN NAGA.jpg',
-
-    circle_facebook:
-      'https://www.facebook.com/AstridRKart/?ref=_xav_ig_profile_page_web#',
+    circle_facebook: 'https://www.facebook.com/AstridRKart/?ref=_xav_ig_profile_page_web#',
     circle_instagram: 'https://www.instagram.com/astridrk/',
     circle_twitter: 'https://x.com/taniamarsha_t',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8242,
-
     circle_code: 'C-36ab',
     name: 'KIDFUTURE STUDIO',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KIDFUTURE STUDIO.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/therashard/',
     circle_twitter: 'https://x.com/thekidfuture',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8243,
-
     circle_code: 'C-37a',
     name: 'Xycariven',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Xycariven.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/xycariven_',
     circle_twitter: 'https://x.com/xycariven_/ , https://x.com/leafwiltingwind',
     circle_other_socials: 'https://xycariven.carrd.co/',
-
-    other_fandom:
-      "Omniscient Reader's Viewpoint, Got Dropped into a Ghost Story, Genshin Impact",
-
+    other_fandom: "Omniscient Reader's Viewpoint, Got Dropped into a Ghost Story, Genshin Impact",
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8244,
-
     circle_code: 'C-37b',
     name: 'NauCa Lacquarent',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/NauCa Lacquarent.jpg',
-
     circle_facebook: 'https://web.facebook.com/callumoo12/',
     circle_instagram: '',
     circle_twitter: 'https://x.com/nauca_12',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8245,
-
     circle_code: 'C-38a',
     name: 'CCAROL X Brunch Catto',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CCAROL X Brunch Catto.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/ccarol.atelier',
     circle_twitter: null,
     circle_other_socials: 'ccarol.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8246,
-
     circle_code: 'C-38b',
     name: 'CUAN TOGETHER',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cuan Together.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/himawaridesuyone/',
     circle_twitter: 'https://x.com/himawaracchi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8247,
-
     circle_code: 'C-39ab',
     name: 'tan2w & saengart',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/tan2w & saengart.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/tan2w , https://x.com/pxvsng',
     circle_other_socials: 'https://tan2w.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8248,
-
     circle_code: 'C-40ab',
     name: 'Calon Besan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Calon Besan.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/peterpor.n?igsh=MWQ2cGRiNW83YnZ1Mw==',
+    circle_instagram: 'https://www.instagram.com/peterpor.n?igsh=MWQ2cGRiNW83YnZ1Mw==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8249,
-
     circle_code: 'C-41ab/C-42ab',
     name: 'Toko Bonbeen x Story of Nature',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Toko Bonbeen x Story of Nature.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'www.instagram.com/toko.bonbeen & www.instagram.com/anungprabowo',
+    circle_instagram: 'www.instagram.com/toko.bonbeen & www.instagram.com/anungprabowo',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8250,
-
     circle_code: 'C-43ab',
     name: 'Moachimo x Chutopiaaa',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Moachimo x Chutopiaaa.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/moachimo.craft, https://www.instagram.com/chutopiaaa',
     circle_twitter: 'https://x.com/4yaoricca, https://x.com/chutopiaaa',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8251,
-
     circle_code: 'C-44ab',
     name: 'Faunafu x ☆ZORA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Faunafu x ZORA.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/zzzora_a',
     circle_twitter: null,
     circle_other_socials: 'https://www.youtube.com/@Faunafu',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8ccee434-dd44-4881-8995-e698f122e672/c5adf61b-4d0d-4168-9d3b-18d69a482b62/C-44ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8ccee434-dd44-4881-8995-e698f122e672/0631bad4-df95-41af-8b61-7c4af298fbfc/C-44ab.png',
@@ -8044,22 +5927,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8ccee434-dd44-4881-8995-e698f122e672/3cbf4e1d-c58a-4354-857e-2e29653a39fe/C-44ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8252,
-
     circle_code: 'C-45ab',
     name: 'Pliyuna',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pliyuna.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/pliyuna',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/66ddf3db-8131-4f9e-910f-6b9ec38809ab/37f39aca-19a5-486b-9836-e03a6bbcfc69/C-45ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/66ddf3db-8131-4f9e-910f-6b9ec38809ab/94cb29a0-d64f-4ce2-89ec-fba0fb5200e0/C-45ab.png',
@@ -8068,188 +5947,147 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/66ddf3db-8131-4f9e-910f-6b9ec38809ab/10df6527-6e90-4d07-973e-d2f7c23c9581/C-45ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8253,
-
     circle_code: 'C-46a',
     name: 'peppertarii',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/peppertarii.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/peppertarii',
     circle_twitter: 'https://x.com/peppertarii',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8254,
-
     circle_code: 'C-46b (SAT)',
     name: 'feila',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/feila.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8255,
-
     circle_code: 'C-46b (SUN)',
     name: 'Komik.Biru',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Komik.Biru.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/komik.biru/',
     circle_twitter: '-',
     circle_other_socials: 'https://www.tiktok.com/@komik.biru',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8256,
-
     circle_code: 'C-47ab/C-48ab',
     name: 'Matchaos',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Matchaos.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/matcha.os',
     circle_twitter: 'https://x.com/warung_matchaos',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8257,
-
     circle_code: 'C-49ab/C-50ab',
     name: 'Posizeetringkriung',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/circle_cut_blank.jpg',
-
     circle_facebook: 'https://www.instagram.com/tringcat/',
     circle_instagram: 'https://www.instagram.com/zeeyups/',
     circle_twitter: 'https://www.instagram.com/posiufo/',
     circle_other_socials: 'https://www.instagram.com/tokokriung/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8258,
-
     circle_code: 'C-51ab',
     name: 'Bleak City',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bleak City.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/bbbleakcity',
     circle_twitter: null,
     circle_other_socials:
       'https://drive.google.com/file/d/10WARZHQpc6vIvINaL_baolK5whFM6wKd/view?usp=sharing',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8259,
-
     circle_code: 'C-52ab',
     name: 'Jualan Demi Oshi Lu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Jualan Demi Oshi Lu.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/jualandemioshi?igsh=MTRqZ3BocnVlbGxtZg https://www.instagram.com/guramae?igsh=MW1jMGFxdnRmaTQyeA https://www.instagram.com/seiragora?igsh=MTB2N3Y5bDN3c2ZpNA https://www.instagram.com/lilie_katrina_?igsh=eHczeHhpMnA1amQx https://www.instagram.com/artaccavar?igsh=MWN1Y2ZxMmVxMjhtOA https://www.instagram.com/nanahoan_?igsh=M2ZvdGIzMTNhYnc0 https://www.instagram.com/lloviabe?igsh=MnM5czRlazI0dGpj',
     circle_twitter:
       'https://x.com/jualandemioshi?s=21 https://x.com/guraamae?s=21 https://x.com/seiragora?s=21 https://x.com/lloviabe_?s=21 https://x.com/liliekatrina?s=21 https://x.com/nanahoan?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8260,
-
     circle_code: 'C-53a',
     name: 'Chi San Shimai',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Chi San Shimai.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61568651474832',
     circle_instagram: 'https://www.instagram.com/chisanshimai/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8261,
-
     circle_code: 'C-53b',
     name: 'Sunshine Tonic',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sunshine Tonic.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/sunshinetonic__/?hl=en',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8262,
-
     circle_code: 'C-54a',
     name: 'Pip Napsalot',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pip Napsalot.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/pipthegram?igsh=bWJmZm51dWZ1Yzlq&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/pipthegram?igsh=bWJmZm51dWZ1Yzlq&utm_source=qr',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9c217fb5-54e6-4a5e-ab2e-45f0689c0faa/3dddda07-5679-43dc-b04b-92ea682fce55/C-54a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9c217fb5-54e6-4a5e-ab2e-45f0689c0faa/7c72f3fb-5f95-48d2-9507-fab157f4e3d3/C-54a.png',
@@ -8260,174 +6098,136 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9c217fb5-54e6-4a5e-ab2e-45f0689c0faa/5ee8b487-bd4d-4217-b22c-762e3c1360de/C-54a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8263,
-
     circle_code: 'C-54b',
     name: 'jjajan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/jjajan.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/hello.itsok/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8264,
-
     circle_code: 'C-55ab',
     name: 'Paw Paw Cafe',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Paw Paw Cafe.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/pawpawcafe_club',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8265,
-
     circle_code: 'C-56ab',
     name: 'Sekte Gelap',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sekte Gelap.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/sekte.gelap/',
     circle_twitter: null,
     circle_other_socials: 'https://sektegelap-intro.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8266,
-
     circle_code: 'C-57ab',
     name: 'D.D.L Omega',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/D.D.L Omega.jpg',
-
     circle_facebook: 'https://www.facebook.com/basilosaurus789/',
     circle_instagram: null,
     circle_twitter: 'https://x.com/orcaomega',
     circle_other_socials: 'pixiv.me/drie',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ceda7b39-1ce7-40d0-9d98-c8ed3b78f97b/19091f9c-d94b-4de9-959d-c983c054c7b6/C-57ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ceda7b39-1ce7-40d0-9d98-c8ed3b78f97b/eb7e6ea4-4fd1-47dc-85d2-36aa99ed6d02/C-57ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ceda7b39-1ce7-40d0-9d98-c8ed3b78f97b/6be7693a-5708-4254-9c25-9b9d6e08492a/C-57ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8267,
-
     circle_code: 'C-58ab/C-59ab',
     name: 'Luth_Art Author of OMEGA Comic',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Luth_Art Author of OMEGA Comic.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/luth_m_art/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8268,
-
     circle_code: 'C-60ab (SAT)',
     name: 'Bakenekow',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bakenekow.jpg',
-
     circle_facebook: 'facebook.com/khansa.karima',
     circle_instagram: 'instagram.com/khansadk_',
     circle_twitter: 'x.com/khansadewi',
     circle_other_socials: 'https://www.behance.net/khansadewieb3e',
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8269,
-
     circle_code: 'C-60a (SUN)',
     name: 'AnimalsDoReadManga',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/AnimalsDoReadManga.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/zdanramadhan/',
     circle_twitter: '-',
     circle_other_socials: '-',
-
-    fandom:
-      'Original IP, Animal Fan Art, Cartoon Network/American cartoon style',
-
+    fandom: 'Original IP, Animal Fan Art, Cartoon Network/American cartoon style',
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8270,
-
     circle_code: 'C-60b (SUN)',
     name: 'Asik Taman Dinosaurus',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Asik Taman Dinosaurus.jpg',
-
     circle_facebook: '-',
     circle_instagram:
       'https://www.instagram.com/moeapa_art/ - https://www.instagram.com/spineless.chordate/',
     circle_twitter: 'https://x.com/alfaizinsakit',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8271,
-
     circle_code: 'D-01ab',
     name: 'Ada Ayangmu Disini Cihuy (AADC)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ada Ayangmu Disini Cihuy (AADC).jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/circleaadc/',
     circle_twitter: 'https://x.com/circleaadc',
     circle_other_socials: 'https://linktr.ee/circleaadc',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/19551cbe-110d-4f76-8d60-30686a09fff9/ce2a333f-a929-45b2-a465-0127b86d77fb/D-01ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/19551cbe-110d-4f76-8d60-30686a09fff9/bc210c71-e47e-4305-b369-379cb57a1397/D-01ab.png',
@@ -8439,60 +6239,47 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/19551cbe-110d-4f76-8d60-30686a09fff9/7bab12f2-56b4-4351-bf4b-8ed0e07c1502/D-01ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8272,
-
     circle_code: 'D-02ab/D-03ab',
     name: 'Wibusaurus',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Wibusaurus.jpg',
-
     circle_facebook: '-',
     circle_instagram:
       'https://www.instagram.com/londosaurus45/?hl=en , https://www.instagram.com/itoyokocho/',
     circle_twitter: 'https://x.com/Poffymeelk17 , https://x.com/itoyokocho',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8273,
-
     circle_code: 'D-04ab',
     name: 'Len & Pacca',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Len & Pacca.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/lenpacca/',
     circle_twitter: 'https://x.com/lenpacca',
     circle_other_socials: 'https://lenpacca.carrd.co/#illustration',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8274,
-
     circle_code: 'D-05ab/D-06ab',
     name: 'Moonseekr.shop',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Moonseekr.shop.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/moonseekr.shop?igsh=d2FhYjZ5eW55Y3J0',
+    circle_instagram: 'https://www.instagram.com/moonseekr.shop?igsh=d2FhYjZ5eW55Y3J0',
     circle_twitter: 'https://x.com/moonseekr_shop',
     circle_other_socials: '',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0a88ef50-437b-4f48-aa80-e6d44b4291b3/4fd6f202-4524-4c0e-bf87-139324fc628e/D-05ab/D-06ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0a88ef50-437b-4f48-aa80-e6d44b4291b3/154f0ed4-f8f9-4966-97f7-926243940cf5/D-05ab/D-06ab.jpg',
@@ -8506,22 +6293,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0a88ef50-437b-4f48-aa80-e6d44b4291b3/4d81f182-d319-4b2e-9eda-031d2b6f91af/D-05ab/D-06ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8275,
-
     circle_code: 'D-07a',
     name: 'bits & bobs',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/bits & bobs.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/bitsandbobs.id/',
     circle_twitter: '-',
     circle_other_socials: '-',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8148cc90-e6d1-4150-bca0-2b424d352bbc/7c05780b-9f43-42e4-9e27-88862e41cfea/D-07a.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8148cc90-e6d1-4150-bca0-2b424d352bbc/63530ff0-bf36-454b-b33b-698b0807b1d3/D-07a.jpg',
@@ -8535,113 +6318,89 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8148cc90-e6d1-4150-bca0-2b424d352bbc/8f31d99d-e38f-4fa6-8031-84910690a050/D-07a.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8276,
-
     circle_code: 'D-07b',
     name: 'Pengelucuan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pengelucuan.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://instagram.com/pengelucuan/',
     circle_twitter: '-',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8277,
-
     circle_code: 'D-08a',
     name: 'EsTehBunny',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/EsTehBunny.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/estehbunny',
     circle_twitter: 'https://x.com/estehbunny',
     circle_other_socials: 'https://estehbunny.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8278,
-
     circle_code: 'D-08b',
     name: 'IDM Market',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/IDM Market.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/isoladigitalmedia_/',
     circle_twitter: null,
     circle_other_socials: 'isoladigitalmedia.com',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8279,
-
     circle_code: 'D-09ab',
     name: 'Empat Ketupat',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Empat Ketupat.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8280,
-
     circle_code: 'D-10ab',
     name: 'smolworld circle',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/smolworld circle.jpg',
-
     circle_facebook: null,
     circle_instagram: '@smolworldcircle',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8281,
-
     circle_code: 'D-11ab/D-12ab',
     name: 'Cheexy Studio x Whoop De Doo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cheexy Studio x Whoop De Doo.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/cheexystudio/ , https://www.instagram.com/whoopdedoo_id/',
     circle_twitter: 'https://x.com/cheexystudio , https://x.com/whoopdedoo_id',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0b41f41a-f978-4270-ab64-d93102cb1ce1/36e98e2c-4188-4df8-9e22-36865c974897/D-11ab/D-12ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0b41f41a-f978-4270-ab64-d93102cb1ce1/46053a6b-7a52-4c9b-bca3-86a2a87b4b61/D-11ab/D-12ab.png',
@@ -8650,42 +6409,33 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0b41f41a-f978-4270-ab64-d93102cb1ce1/fd8875c0-f370-4bbf-99fa-bd0148961b76/D-11ab/D-12ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8282,
-
     circle_code: 'D-13ab',
     name: 'Kurifuto',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kurifuto.jpg',
-
     circle_facebook: null,
     circle_instagram: 'www.instagram.com/kurifuto_/',
     circle_twitter: null,
     circle_other_socials: null,
-
     other_fandom: "Pokemon, Sailormoon, Dandy's World, etc",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8283,
-
     circle_code: 'D-14ab',
     name: 'rinerunpao',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/rinerunpao.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/cilorine',
     circle_twitter: 'https://x.com/cilorine',
     circle_other_socials: 'https://x.com/nemurrun',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0b56c425-0052-4d5d-8f6c-5fde34d9a25f/82bafd7e-65c8-4a10-b602-7dea07298bcf/D-14ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0b56c425-0052-4d5d-8f6c-5fde34d9a25f/26121a91-87ee-4a2e-9d88-de8bc125baed/D-14ab.png',
@@ -8696,22 +6446,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0b56c425-0052-4d5d-8f6c-5fde34d9a25f/2ed34ba7-af7e-4f5d-b491-a2e04ba4ada4/D-14ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8284,
-
     circle_code: 'D-15a',
     name: 'ILVLday',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ILVLday.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/ILVLday',
     circle_twitter: 'https://x.com/ILVLday',
     circle_other_socials: 'ilvlday.carrd.co',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/aa9617b5-c0a6-4d4e-91a1-819442540f17/80f5dd95-d240-463f-aa22-bec4e3cf5b38/D-15a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/aa9617b5-c0a6-4d4e-91a1-819442540f17/f7797b1a-cfcf-45ff-ae18-702f8822519e/D-15a.png',
@@ -8725,138 +6471,109 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/aa9617b5-c0a6-4d4e-91a1-819442540f17/62f8d688-b22d-4038-8405-055ae074db28/D-15a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8285,
-
     circle_code: 'D-15b',
     name: 'Ucktz-san x Happy Birthday',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ucktz-san x Happy Birthday.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/sujiko.sujio/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8286,
-
     circle_code: 'D-16a',
     name: "D'Warteg Circle",
     circle_cut:
       "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/D'Warteg Circle.jpg",
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/d.wartegcircle/?hl=en',
     circle_twitter: 'https://x.com/D_WartegCircle',
     circle_other_socials: 'https://linktr.ee/d.wartegcircle',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8287,
-
     circle_code: 'D-16b',
     name: 'Sashimee',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sashimee.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/sash_imee',
     circle_twitter: 'https://x.com/sash_imee',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8288,
-
     circle_code: 'D-17ab/D-18ab',
     name: 'FuwaFuwaParty',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/FuwaFuwaParty.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/fuwafuwaparty',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/767892c1-bc23-4ebd-a040-c3d944ea3f91/06a41dc9-e6d1-4aa5-8828-ab323acae3cf/D-17ab/D-18ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/767892c1-bc23-4ebd-a040-c3d944ea3f91/d7fa8d8c-149c-48c7-85ad-e246d378fe23/D-17ab/D-18ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8289,
-
     circle_code: 'D-19ab/D-20ab',
     name: 'MeijinToys',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/MeijinToys.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/abrahameijin/',
     circle_twitter: 'https://x.com/abrahameijin',
     circle_other_socials: 'https://meijintoys.bigcartel.com/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8290,
-
     circle_code: 'D-21ab',
     name: 'Mashroom',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mashroom.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/mashroom.animationofficial/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8291,
-
     circle_code: 'D-22ab',
     name: 'NYENYENYE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/NYENYENYE.jpg',
-
     circle_facebook: 'https://www.facebook.com/share/1B738kykEa/',
     circle_instagram:
       'https://www.instagram.com/depravationcp , https://www.instagram.com/seeonggok_apel , https://www.instagram.com/illbllu_prince , https://www.instagram.com/justicheaaa',
     circle_twitter:
       'https://x.com/DepravationCP , https://x.com/seonggokapel , https://x.com/illbllu_prince , https://x.com/ichaahnbaeee',
     circle_other_socials: 'https://nyenyenye-catalogue.carrd.co',
-
     fandom:
       'Original Character & Personal Mascot : Aesthetic Theme, Animals Series, Titus Family, Ilna the Cat, Trixx (Maskot), Apel kun, Animal x japanese food.',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/198d4262-bb8d-455d-a30b-d0f6a11d7fcd/b10bd717-a4c2-4b2d-9069-9ac1d8e7f2d4/D-22ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/198d4262-bb8d-455d-a30b-d0f6a11d7fcd/bbe53c5f-fa3f-419a-b7b8-cd1367862e11/D-22ab.jpg',
@@ -8867,22 +6584,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/198d4262-bb8d-455d-a30b-d0f6a11d7fcd/3be80386-1520-48a7-a6a9-d692bc67438e/D-22ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8292,
-
     circle_code: 'D-23a',
     name: 'Bembie',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bembie.jpg',
-
     circle_facebook: '',
     circle_instagram: 'https://www.instagram.com/bembie.bvt',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8811ac3e-8baf-4707-8d31-2361d9bab078/301e2b1e-df1c-4a9f-be0d-9bd81bd8e849/D-23a.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8811ac3e-8baf-4707-8d31-2361d9bab078/0ef133ce-f8de-459e-a37d-ae6fad62085e/D-23a.jpg',
@@ -8892,22 +6605,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8811ac3e-8baf-4707-8d31-2361d9bab078/90bff912-1ce7-4877-9a44-eafcce2495d3/D-23a.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8293,
-
     circle_code: 'D-23b',
     name: 'Hype Gang Stories',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Hype Gang Stories.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/hypegangstories/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/04c836ef-b9e4-479a-8c7a-fecf556cbfe6/69f90492-e999-4a0d-be3b-493fbcf09498/D-23b.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/04c836ef-b9e4-479a-8c7a-fecf556cbfe6/37535eba-94a6-4293-bba6-e08afcb9698a/D-23b.jpg',
@@ -8918,23 +6627,19 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/04c836ef-b9e4-479a-8c7a-fecf556cbfe6/2c01836e-7f44-4101-be7a-58da6266cd76/D-23b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8294,
-
     circle_code: 'D-24a',
     name: 'Toko Abadi nan Jaya',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Toko Abadi nan Jaya.jpg',
-
     circle_facebook: null,
     circle_instagram: 'Instagram.com/life.of.namu',
     circle_twitter: null,
     circle_other_socials:
       'Instagram.com/insting_kt ; instagram.com/ta.ma.wok ; instagram.com/life.of.namu',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6ad3c4af-3575-44db-af2e-60e328771514/1fbf7e7f-1600-4db3-aa10-baf2d6c5335f/D-24a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6ad3c4af-3575-44db-af2e-60e328771514/c032640d-202e-44ed-ac4c-4f6111f1549e/D-24a.png',
@@ -8947,67 +6652,53 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6ad3c4af-3575-44db-af2e-60e328771514/5f119542-8939-485c-9ce8-c3c2b36646c0/D-24a.jpeg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8295,
-
     circle_code: 'D-24b',
     name: 'FlySky',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/FlySky.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/naurue_',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3dd12ea5-e566-4840-9656-3520b3bb9240/137ebe6b-aa11-45b1-b26a-e86e8112ac04/D-24b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3dd12ea5-e566-4840-9656-3520b3bb9240/38b7afbd-cc75-4315-9e44-c3cdd8741583/D-24b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3dd12ea5-e566-4840-9656-3520b3bb9240/7fba8613-8a23-4830-8643-3f6bb6705073/D-24b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8296,
-
     circle_code: 'D-25ab',
     name: '7L (Live Laugh Love Lelah Letih Lesu Lunglai Lapar)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/7L (Live Laugh Love Lelah Letih Lesu Lunglai Lapar).jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/crowling_',
     circle_twitter:
       'https://x.com/pensirru https://x.com/konachaa17 https://x.com/crowling_ https://x.com/maple_rusa https://x.com/relicimmy https://x.com/tekirururu https://x.com/chocominthoshii',
     circle_other_socials: null,
-
     other_fandom:
       "‎Genshin, Vocaloid, Zelda, Project Moon, Project Sekai, Blue Lock, Dandy's World",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8297,
-
     circle_code: 'D-26ab',
     name: 'FromKoji Pottery x Kotaeku',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/FromKoji Pottery x Kotaeku.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/fromkoji/ & https://www.instagram.com/kotae.ku/',
+    circle_instagram: 'https://www.instagram.com/fromkoji/ & https://www.instagram.com/kotae.ku/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/405deb8b-fdec-469e-a74b-6bed344f7ab7/f8e6bbca-6cdc-40ce-8c63-12b11f95675b/D-26ab.jpeg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/405deb8b-fdec-469e-a74b-6bed344f7ab7/ca4f21fd-ef62-4af1-8f40-dec3e73de9d9/D-26ab.jpeg',
@@ -9021,22 +6712,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/405deb8b-fdec-469e-a74b-6bed344f7ab7/569c55fd-7dcd-40d4-a2e1-ebf57af44f28/D-26ab.jpeg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8298,
-
     circle_code: 'D-27ab',
     name: 'Dreamer',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Dreamer.jpg',
-
     circle_facebook: 'https://www.facebook.com/natashaintan.ventuslen',
     circle_instagram: 'https://www.instagram.com/lunarrin_nii/',
     circle_twitter: 'https://x.com/lunarrin_nii',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/47ce3b0c-dd28-4e28-ba59-b310d1dbf042/f2fc7b84-3e92-4f47-8e7c-ccc569ac454a/D-27ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/47ce3b0c-dd28-4e28-ba59-b310d1dbf042/7c3b46c1-6e24-41e2-b5ae-59ae672b7a2f/D-27ab.jpg',
@@ -9048,41 +6735,33 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/47ce3b0c-dd28-4e28-ba59-b310d1dbf042/4539ecd9-0358-405f-9a1d-b19e44277cf8/D-27ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8299,
-
     circle_code: 'D-28ab/D-29ab',
     name: 'Dili Deli',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Dili Deli.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/espresho , https://www.instagram.com/harre_clown , https://www.instagram.com/maruimomo14',
     circle_twitter: 'https://x.com/espresho_/',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8300,
-
     circle_code: 'D-30ab',
     name: 'Wolflunars',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Wolflunars.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/wolflunars/',
     circle_twitter: 'https://x.com/wolflunars',
     circle_other_socials: '-',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c8119172-66d0-4969-8ba8-681362278388/ac5eef30-8d4f-41a1-95c4-339332bc908f/D-30ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c8119172-66d0-4969-8ba8-681362278388/ecacd517-86b5-48f8-a271-434d3148d92c/D-30ab.png',
@@ -9096,448 +6775,344 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c8119172-66d0-4969-8ba8-681362278388/2a936469-4514-4db2-a44b-da3861349db6/D-30ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8301,
-
     circle_code: 'D-31ab',
     name: 'HAMU_NE VANDA JARINYALI',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/HAMU_NE VANDA JARINYALI.jpg',
-
     circle_facebook: 'https://instagram.com/jarinyali',
     circle_instagram: 'https://instagram.com/hamu_ne',
     circle_twitter: 'https://instagram.com/vandania17',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8302,
-
     circle_code: 'D-32ab/D-33ab',
     name: 'Cat Buddies',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cat Buddies.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/shizzle__wizzle?igsh=azRwZWlkYmN0Y3Jz',
+    circle_instagram: 'https://www.instagram.com/shizzle__wizzle?igsh=azRwZWlkYmN0Y3Jz',
     circle_twitter: 'https://x.com/radd_ds',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8303,
-
     circle_code: 'D-34ab',
     name: 'Pine and Mulberry',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pine and Mulberry.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/pine.mulberry',
     circle_twitter: null,
     circle_other_socials: 'pineandmulberry.com',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8304,
-
     circle_code: 'D-35ab',
     name: 'Nimiaoo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nimiaoo.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/nimiaoo?igsh=MWlyYWw5ZjJyYzQ3ZQ==',
+    circle_instagram: 'https://www.instagram.com/nimiaoo?igsh=MWlyYWw5ZjJyYzQ3ZQ==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8305,
-
     circle_code: 'D-36ab',
     name: 'Glitchwit',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Glitchwit.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/315logy/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8306,
-
     circle_code: 'D-37a',
     name: 'happy sunday co.',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/happy sunday co..jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/happy.sunday.co/',
     circle_twitter: null,
     circle_other_socials: 'https://www.abigailtan.com/happysundayco/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8307,
-
     circle_code: 'D-37b',
     name: 'AladiaMerch',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/AladiaMerch.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/aladiamerch/',
     circle_twitter: '-',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8308,
-
     circle_code: 'D-38a',
     name: 'Memantra',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Memantra.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/ginteguh',
     circle_twitter: null,
     circle_other_socials: 'www.papperpop.com/#memantra',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8309,
-
     circle_code: 'D-38b',
     name: 'skyliciart',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/skyliciart.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/skyliciart/',
     circle_twitter: 'https://x.com/skyliciart',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8310,
-
     circle_code: 'D-39ab',
     name: 'Plult Has Maw x Irvheena',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Plult Has Maw x Irvheena.jpg',
-
     circle_facebook: null,
     circle_instagram: 'http://instagram.com/plult.has.maw',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8311,
-
     circle_code: 'D-40ab',
     name: 'Zora',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Zora.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/zorageraldus/',
     circle_twitter: null,
     circle_other_socials: 'https://ozorarahyu.wixstudio.com/ozora',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8312,
-
     circle_code: 'D-41ab/D-42ab',
     name: 'annh.nana x artsbyrenji',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/annh.nana x artsbyrenji.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/artsbyrenji?igsh=MXBkaDY5cmcydWpxNA==',
+    circle_instagram: 'https://www.instagram.com/artsbyrenji?igsh=MXBkaDY5cmcydWpxNA==',
     circle_twitter: 'https://x.com/artsbyrenji?t=OsbL13ENB6f4H21tji3KVg&s=09',
     circle_other_socials: 'https://artsbyrenji.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8313,
-
     circle_code: 'D-43ab',
     name: 'Tsubo x Senaco',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tsubo x Senaco.jpg',
-
     circle_facebook: 'NONE',
     circle_instagram: 'https://www.instagram.com/tsubo.gallery/?hl=en',
     circle_twitter: 'https://x.com/tsubogallery?lang=en',
-    circle_other_socials:
-      'https://www.webtoons.com/en/drama/seagull/list?title_no=5803',
-
+    circle_other_socials: 'https://www.webtoons.com/en/drama/seagull/list?title_no=5803',
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8314,
-
     circle_code: 'D-44ab',
     name: 'PUSHY DOODLE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PUSHY DOODLE.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https.//instagram.com/pushy.doodle/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8315,
-
     circle_code: 'D-45a',
     name: 'Paifaits',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Paifaits.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/fairuzzuyyina/',
     circle_twitter: 'https://x.com/Fai_Ruzz',
     circle_other_socials: 'https://www.behance.net/fairuzzuyyina',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8316,
-
     circle_code: 'D-45b',
     name: 'HORIZOONS',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/HORIZOONS.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/shadyz2104?igsh=YWZoYmJpamM1amFu',
+    circle_instagram: 'https://www.instagram.com/shadyz2104?igsh=YWZoYmJpamM1amFu',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8317,
-
     circle_code: 'D-46a',
     name: 'Backyart Garden',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Backyart Garden.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/backyart.garden/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8318,
-
     circle_code: 'D-46b',
     name: 'Pseudo Line',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pseudo Line.jpg',
-
     circle_facebook: null,
     circle_instagram: 'bit.ly/49dh5z1',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8319,
-
     circle_code: 'D-47ab',
     name: 'Chubby Unnie',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Chubby Unnie.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/shyunniecraft/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8320,
-
     circle_code: 'D-48ab',
     name: 'ReiRant X Fibiola Husely',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ReiRant X Fibiola Husely.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/reirant_',
     circle_twitter: null,
     circle_other_socials: 'https://www.instagram.com/fibiolahusely',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8321,
-
     circle_code: 'D-49ab',
     name: 'Belamour x littl3deer',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Belamour x littl3deer.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/belamour.gift?igsh=NXpwMzNldWh1OHBt',
+    circle_instagram: 'https://www.instagram.com/belamour.gift?igsh=NXpwMzNldWh1OHBt',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8322,
-
     circle_code: 'D-50ab',
     name: 'TRINKEITS X Pingbu Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/TRINKEITS X Pingbu Studio.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/trinkeits , instagram.com/pingbu.studio',
     circle_twitter: 'x.com/trinkeits',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8323,
-
     circle_code: 'D-51ab',
     name: 'Kerajaan Meng',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kerajaan Meng.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/foyhead',
     circle_twitter: 'https://x.com/foyhead',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e7243c5a-a694-45a3-887b-bba9f7f73287/c2421ef8-16dc-4806-86dc-39c7874a2bbb/D-51ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e7243c5a-a694-45a3-887b-bba9f7f73287/5d720105-edd0-4ba9-8c2e-a7b2c8892947/D-51ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8324,
-
     circle_code: 'D-52ab',
     name: 'Pengguna Stand',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pengguna Stand.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/penggunastand.id/',
     circle_twitter: 'https://x.com/Penggunastandid',
     circle_other_socials: null,
-
-    other_fandom:
-      "JoJo's Bizarre Adventure, Chainsawman, Berserk, PITA, CRAFT, HAIR BOW",
-
+    other_fandom: "JoJo's Bizarre Adventure, Chainsawman, Berserk, PITA, CRAFT, HAIR BOW",
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b0676df3-535c-490e-b79c-186f16d6bf3a/758a9ef6-9655-4d09-bcbf-6d60f50a62ca/D-52ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b0676df3-535c-490e-b79c-186f16d6bf3a/93ca9af1-1580-402a-9404-d3a07c703067/D-52ab.png',
@@ -9551,150 +7126,116 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b0676df3-535c-490e-b79c-186f16d6bf3a/122059cf-0054-4588-9d9b-c7de6a5f6486/D-52ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8325,
-
     circle_code: 'D-53ab',
     name: 'Raina Invasion',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Raina Invasion.jpg',
-
-    circle_facebook:
-      'https://www.facebook.com/share/1DawBF392T/?mibextid=wwXIfr',
+    circle_facebook: 'https://www.facebook.com/share/1DawBF392T/?mibextid=wwXIfr',
     circle_instagram: 'https://instagram.com/rainainvasion/',
     circle_twitter: 'https://x.com/rainapulang',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8326,
-
     circle_code: 'D-54ab',
     name: 'bingbongspace x visualasido',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/bingbongspace x visualasido.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'instagram.com/bing.bong.space and instagram.com/visualasido',
+    circle_instagram: 'instagram.com/bing.bong.space and instagram.com/visualasido',
     circle_twitter: 'x.com/__ardya',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8327,
-
     circle_code: 'D-55ab',
     name: 'pikiran.gambar',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/pikiran.gambar.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/pikiran.gambar/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8328,
-
     circle_code: 'D-56ab',
     name: 'KB (Kesalahan Berpikir)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KB (Kesalahan Berpikir).jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/ak_ami_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8329,
-
     circle_code: 'D-57ab',
     name: 'Nekiiru & junyjuny.art',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nekiiru & junyjuny.art.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/nekiiru/',
     circle_twitter: 'https://x.com/NekiiruKurochi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8330,
-
     circle_code: 'D-58ab/D-59ab',
     name: 'Kambodja Comic',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kambodja Comic.jpg',
-
     circle_facebook: 'https://www.facebook.com/itsgetingwirder',
     circle_instagram: 'https://www.instagram.com/wdsusanto/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8331,
-
     circle_code: 'D-60ab',
     name: 'Nyanyan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nyanyan.jpg',
-
     circle_facebook: null,
     circle_instagram: 'Kaniyan.nyia',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8332,
-
     circle_code: 'E-01ab',
     name: 'AMBATUBUY',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/AMBATUBUY.jpg',
-
     circle_facebook: 'https://www.facebook.com/ambatubuy',
     circle_instagram: 'https://www.instagram.com/ambatucircle/',
     circle_twitter: 'https://x.com/ambatucircle',
     circle_other_socials: 'https://linktr.ee/Ambatubuy.circle',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6d7f37d7-3966-4984-939b-91ce62a92e79/3dcfb844-1aac-4d00-968e-23e5dab5a267/E-01ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6d7f37d7-3966-4984-939b-91ce62a92e79/53422f67-759f-4244-ac32-7ee236413a3e/E-01ab.png',
@@ -9705,207 +7246,160 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6d7f37d7-3966-4984-939b-91ce62a92e79/5de2ff07-8d3a-497c-84ac-3fb2569f9bf1/E-01ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8333,
-
     circle_code: 'E-02ab',
     name: 'Takaragumi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Takaragumi.jpg',
-
     circle_facebook: 'https://www.facebook.com/takaragumi',
     circle_instagram: 'https://www.instagram.com/takaragumicf/',
     circle_twitter: 'https://x.com/takaragumicf',
     circle_other_socials: 'https://takaragumi.carrd.co/',
-
     fandom: "Erika Won't Back Down",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8334,
-
     circle_code: 'E-04ab/E-05ab',
     name: 'The Sleeping Brush',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/The Sleeping Brush.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/thesleepingbrush/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8335,
-
     circle_code: 'E-06ab',
     name: 'LOHAGOODS',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/LOHAGOODS.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/lohagoods/',
     circle_twitter: '-',
     circle_other_socials: 'https://www.behance.net/lohagoods',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8336,
-
     circle_code: 'E-07ab',
     name: 'SYBAU = SaYa Butuh Asupan Uang',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SYBAU = SaYa Butuh Asupan Uang.jpg',
-
     circle_facebook: null,
     circle_instagram: 'circlesybau',
     circle_twitter: null,
     circle_other_socials: 'https://linktr.ee/kyumtty',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8337,
-
     circle_code: 'E-08ab',
     name: 'Astana Tinta',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Astana Tinta.jpg',
-
     circle_facebook: 'https://www.facebook.com/astanatinta',
     circle_instagram: 'https://www.instagram.com/astana_tinta32/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8338,
-
     circle_code: 'E-09ab',
     name: 'arcanature',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/arcanature.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/_lnng_/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8339,
-
     circle_code: 'E-10ab',
     name: 'Tarot by Anastasiasyah',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tarot by Anastasiasyah.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/anastasiamutiaa/',
     circle_twitter: null,
     circle_other_socials: 'https://anastasiasyah.com/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8340,
-
     circle_code: 'E-11ab/E-12ab',
     name: 'Kriya-Chan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kriya-Chan.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'www.instagram.com/makaci.studio , www.instagram.com/sketchic.id , www.instagram.com/gumy.flo',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8341,
-
     circle_code: 'E-13ab',
     name: 'District Deco x Ruang Kriya',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/District Deco x Ruang Kriya.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'instagram.com/district.decoo instagram.com/ruangkriya.art',
+    circle_instagram: 'instagram.com/district.decoo instagram.com/ruangkriya.art',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8342,
-
     circle_code: 'E-14ab',
     name: 'Rombongan Cilinn',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Rombongan Cilinn.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/ci.linn_/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8343,
-
     circle_code: 'E-15ab',
     name: 'Earl Grey Atelier',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Earl Grey Atelier.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'www.instagram.com/teasomnia, www.instagram.com/crying_duckie',
+    circle_instagram: 'www.instagram.com/teasomnia, www.instagram.com/crying_duckie',
     circle_twitter: 'https://x.com/teasomnia, https://x.com/yuminachai',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a3213bca-43b4-4d38-bd7c-d5f5189fabd0/ca14c52b-bded-4636-b731-83fdd0d3d097/E-15ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a3213bca-43b4-4d38-bd7c-d5f5189fabd0/ddb60dce-cc39-4538-b912-b6067cd14743/E-15ab.png',
@@ -9914,22 +7408,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a3213bca-43b4-4d38-bd7c-d5f5189fabd0/daf7e9f7-a125-476f-9ffc-934e8d1be815/E-15ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8344,
-
     circle_code: 'E-16ab',
     name: 'LEHA-LEHA CLUB',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/LEHA-LEHA CLUB.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/lehaleha.club',
     circle_twitter: 'https://x.com/lehaleha_club',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/74b7b410-6120-40fa-b288-ee2f648f52ea/8abc4c5d-41d9-45c7-96a1-0f0055faa9e9/E-16ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/74b7b410-6120-40fa-b288-ee2f648f52ea/7fe3c272-aa2a-4a3a-b3c5-f8eb4119533f/E-16ab.png',
@@ -9940,96 +7430,76 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/74b7b410-6120-40fa-b288-ee2f648f52ea/133fef51-00e4-4709-8971-7a034598d74f/E-16ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8345,
-
     circle_code: 'E-17ab',
     name: 'BINKS BONKS',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/BINKS BONKS.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/irasshoi',
     circle_twitter: 'https://x.com/irasshoi?s=21,',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8346,
-
     circle_code: 'E-18ab',
     name: 'ROTM & Soda water pool',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ROTM & Soda water pool.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/roomainykai',
     circle_twitter: 'https://x.com/roomainykai2',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8347,
-
     circle_code: 'E-19ab',
     name: 'KIDS ARE US CLUB',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KIDS ARE US CLUB.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/kdeeillustrationz/. https://www.instagram.com/eunji.comic/',
     circle_twitter: null,
     circle_other_socials: 'https://linktr.ee/Kdeeillustrationz',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8348,
-
     circle_code: 'E-20ab',
     name: "Rabbit's Caddy x Kerosetan",
     circle_cut:
       "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Rabbit's Caddy x Kerosetan.jpg",
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com /kerosetan/',
     circle_twitter: 'https://x.com/kerosetan/',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8349,
-
     circle_code: 'E-21ab',
     name: 'Saya Bisa Menghitung',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Saya Bisa Menghitung.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/kirinify https://www.instagram.com/meongmelon https://www.instagram.com/sasskyuu https://www.instagram.com/assinanne',
     circle_twitter: 'https://x.com/meongmelon',
     circle_other_socials: 'https://rentry.co/CF22-E21',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/bdc5d96f-0d93-47dd-85d3-1080532d55d6/2e76c01f-7283-4eb6-94e8-bdc56b168080/E-21ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/bdc5d96f-0d93-47dd-85d3-1080532d55d6/0bcde0dd-e1ac-4050-9bc6-9cb1918e2fe8/E-21ab.png',
@@ -10038,62 +7508,49 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/bdc5d96f-0d93-47dd-85d3-1080532d55d6/9b9b3715-d250-4435-9258-97f83e8488cf/E-21ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8350,
-
     circle_code: 'E-22ab',
     name: 'Look Up Vibe',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Look Up Vibe.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/lookupvibe?',
     circle_twitter: null,
     circle_other_socials: 'https://www.tiktok.com/@lookupvibe',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c79fce3f-1b20-4494-990d-38b56e5fa311/b0695880-d82d-4951-ac3f-d524b80d84d2/E-22ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c79fce3f-1b20-4494-990d-38b56e5fa311/cfee6577-cd13-4c8a-ad75-874825c1b92a/E-22ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8351,
-
     circle_code: 'E-23ab',
     name: 'CobyVerse',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CobyVerse.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/hanungchr?igsh=M3EwOXhxZDdxcXo0&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/hanungchr?igsh=M3EwOXhxZDdxcXo0&utm_source=qr',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8352,
-
     circle_code: 'E-24ab',
     name: 'LOEXIA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/LOEXIA.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/loe.xia/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f7336ad7-40a5-4dd1-867f-efe9952243e3/9fb75f72-3dfb-4101-9218-9796cc361438/E-24ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f7336ad7-40a5-4dd1-867f-efe9952243e3/358a8501-bd3e-4505-8284-23399425c5dc/E-24ab.jpg',
@@ -10106,170 +7563,132 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f7336ad7-40a5-4dd1-867f-efe9952243e3/bdb8675f-5e09-4989-b01c-6bfb5ea0d493/E-24ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8353,
-
     circle_code: 'E-25ab',
     name: 'Sunny Day Circle',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sunny Day Circle.jpg',
-
     circle_facebook: 'fb.com/merchbyqei',
     circle_instagram: 'instagram.com/shei00__',
     circle_twitter: 'x.com/shei00__',
     circle_other_socials: 'linktr.ee/merchbyqei',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8354,
-
     circle_code: 'E-26ab',
     name: 'Mora & Olfi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mora & Olfi.jpg',
-
     circle_facebook: '-',
-    circle_instagram:
-      'https://www.instagram.com/moraolfi?igsh=MTc1dXV0M3h4bGpscQ==',
+    circle_instagram: 'https://www.instagram.com/moraolfi?igsh=MTc1dXV0M3h4bGpscQ==',
     circle_twitter: '-',
     circle_other_socials:
       'https://drive.google.com/file/d/1lP68piqRkQNkGroJcqVombsQC2K5JxN9/view?usp=drivesdk',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8355,
-
     circle_code: 'E-27ab',
     name: 'Mandilo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mandilo.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/hellomandilo/',
     circle_twitter: '-',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8356,
-
     circle_code: 'E-28ab/E-29ab',
     name: 'CYBERTIZEN x NOETHINGZ x THE GLOBE ARCHIVE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CYBERTIZEN x NOETHINGZ x THE GLOBE ARCHIVE.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/cyber_tizen/ https://www.instagram.com/noethingz/ https://www.instagram.com/bhanuprabasworo/',
-    circle_twitter:
-      'https://x.com/cyber_tizen https://x.com/tabe_thay https://x.com/bhanoep',
+    circle_twitter: 'https://x.com/cyber_tizen https://x.com/tabe_thay https://x.com/bhanoep',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8357,
-
     circle_code: 'E-30ab',
     name: 'Rapapaow',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Rapapaow.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/rapapaow',
     circle_twitter: 'https://x.com/rapapaow?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8358,
-
     circle_code: 'E-31ab',
     name: 'funkyfontaclub',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/funkyfontaclub.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/funkyfontaclub',
     circle_twitter: 'https://x.com/funkyfontaclub',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8359,
-
     circle_code: 'E-32ab/E-33ab',
     name: 'tahu rasa mawar',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/tahu rasa mawar.jpg',
-
     circle_facebook: 'https://x.com/tahurasamawar',
     circle_instagram: 'https://www.instagram.com/tahurasamawar/',
     circle_twitter: 'https://x.com/tahurasamawar',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8360,
-
     circle_code: 'E-34ab/E-35ab',
     name: 'PIZZARS',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PIZZARS.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/qiqiyaww/',
     circle_twitter: 'https://x.com/matcharie',
     circle_other_socials: 'https://pizzars.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8361,
-
     circle_code: 'E-36ab',
     name: 'Kraken Saos Padang',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kraken Saos Padang.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61578632513940',
     circle_instagram: 'instagram.com/phn_ppp',
     circle_twitter: 'x.com/rezukita',
     circle_other_socials: 'https://hijabolic.carrd.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9599816a-a104-444f-9881-20a2f6c4986a/e629aefe-8a73-4bf7-934e-9b7832fb74f7/E-36ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9599816a-a104-444f-9881-20a2f6c4986a/6bca7fe8-9ff5-4d8f-b4e0-1140c1dfa83a/E-36ab.png',
@@ -10277,185 +7696,144 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9599816a-a104-444f-9881-20a2f6c4986a/692136af-5906-4e77-b394-1db470b278b2/E-36ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8362,
-
     circle_code: 'E-37ab',
     name: 'CHIELkecil',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CHIELkecil.jpg',
-
     circle_facebook: null,
     circle_instagram: 'Https://instagram.com/chielkecil.20',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8363,
-
     circle_code: 'E-38ab',
     name: 'Malsdude x Aldez Toyz',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Malsdude x Aldez Toyz.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/malsdude instagram.com/aldeztoyz',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8364,
-
     circle_code: 'E-39ab',
     name: 'Madakitanai',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Madakitanai.jpg',
-
     circle_facebook: 'https://www.facebook.com/madakitanai',
     circle_instagram: 'https://www.instagram.com/anayhaciger/',
     circle_twitter: 'https://x.com/anayhaciger',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8365,
-
     circle_code: 'E-40ab',
     name: 'Sektor Ganda Putr',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sektor Ganda Putr.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/mifasolalaa',
     circle_twitter: 'https://x.com/teri_7z',
     circle_other_socials: 'https://x.com/from_danjjak',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8366,
-
     circle_code: 'E-41ab',
     name: 'kisekaree',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/kisekaree.jpg',
-
     circle_facebook: 'https://www.facebook.com/kisekaree/',
     circle_instagram: 'https://www.instagram.com/kisekaree/',
     circle_twitter: 'https://x.com/kisekaree',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8367,
-
     circle_code: 'E-42ab',
     name: 'Children of Art',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Children of Art.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/childrenof.art',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8368,
-
     circle_code: 'E-43ab',
     name: 'Ramekin x Toyi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/RAMEKIN X TOYI.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/toyifactori',
     circle_twitter: 'x.com/toyifactori',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8369,
-
     circle_code: 'E-44ab',
     name: 'Dopaminique',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Dopaminique.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/dopaminique/',
     circle_twitter: 'https://x.com/chiizamozzalero',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8370,
-
     circle_code: 'E-45ab',
     name: 'Sunnygorgeouss',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sunnygorgeouss.jpg',
-
     circle_facebook: 'https://www.facebook.com/sunnygorgeouss?',
-    circle_instagram:
-      'https://www.instagram.com/sunnygorgeouss?igsh=ZjAwcjcwYzE0bjFq',
+    circle_instagram: 'https://www.instagram.com/sunnygorgeouss?igsh=ZjAwcjcwYzE0bjFq',
     circle_twitter: 'https://x.com/MentarIndahP',
     circle_other_socials: 'Sunnygorgeouss.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8371,
-
     circle_code: 'E-46ab',
     name: 'Mussbolo Studio & Danig Eil',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mussbolo Studio & Danig Eil.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/mussbolo.studio/',
     circle_twitter: null,
     circle_other_socials: 'https://mussbolostudio.carrd.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/38098fa2-e8b8-4d1c-82f8-27192dc6d97b/6561adaa-df96-4836-9741-b7067820f3f4/E-46ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/38098fa2-e8b8-4d1c-82f8-27192dc6d97b/a6429735-399b-40d1-bc1d-b0ccb4a6b551/E-46ab.JPG',
@@ -10469,173 +7847,135 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/38098fa2-e8b8-4d1c-82f8-27192dc6d97b/11ec1846-f721-4b75-ac3e-9b4502f5bf4b/E-46ab.jpeg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8372,
-
     circle_code: 'E-47ab',
     name: 'From Hobby To Something',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/From Hobby To Something.jpg',
-
     circle_facebook: null,
     circle_instagram: 'fromhobbytosomething',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8373,
-
     circle_code: 'E-48ab',
     name: 'cafe ber-uang',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/cafe ber-uang.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com',
     circle_twitter: 'https://x.com/Kitsunatcha',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8374,
-
     circle_code: 'E-49ab',
     name: 'Town²',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Town.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/town2quare',
     circle_twitter: 'https://x.com/tamagoatchie',
     circle_other_socials: 'https://linktr.ee/tamagoatchie',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8375,
-
     circle_code: 'E-50ab',
     name: 'selelunars x mazeyellows',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/selelunars x mazeyellows.jpg',
-
     circle_facebook: null,
     circle_instagram: 'http://instagram.com/selelunars',
     circle_twitter: 'http://x.com/selelunars',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8376,
-
     circle_code: 'E-51ab',
     name: 'Banboo.corner',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Banboo.corner.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/banboo.corner?igsh=cDFpa3RicWpyOGx0',
+    circle_instagram: 'https://www.instagram.com/banboo.corner?igsh=cDFpa3RicWpyOGx0',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2b08dc97-a58e-41b4-a59c-28af29f68cb9/7caba29e-e90a-47c9-86e5-b494f3a51a61/E-51ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2b08dc97-a58e-41b4-a59c-28af29f68cb9/78bc0588-ae6b-4c18-8fcd-030015bb09a7/E-51ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2b08dc97-a58e-41b4-a59c-28af29f68cb9/53761eaa-9481-4c1c-8975-3cede491a0ce/E-51ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8377,
-
     circle_code: 'E-52ab',
     name: 'Kuroppi konbini',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kuroppi konbini.jpg',
-
     circle_facebook: '-',
     circle_instagram:
       'https://www.instagram.com/kuroppi.konbini?igsh=MXByYnp1amgyZ2cwNQ&utm_source=qr',
     circle_twitter: 'https://x.com/x_yuurei?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8378,
-
     circle_code: 'E-53ab',
     name: 'Club Sandvvich',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Club Sandvvich.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/club.sandvvich/',
     circle_twitter: null,
     circle_other_socials: 'https://clubsandvvich.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8379,
-
     circle_code: 'E-54ab',
     name: 'Barter.inc',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Barter.inc.jpg',
-
     circle_facebook: 'https://barterinc.carrd.co/',
     circle_instagram: 'https://barterinc.carrd.co/',
     circle_twitter: 'https://barterinc.carrd.co/',
     circle_other_socials: 'https://barterinc.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8380,
-
     circle_code: 'E-55ab',
     name: 'Its.Lymonade',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Its.Lymonade.jpg',
-
-    circle_facebook:
-      'https://www.facebook.com/people/ItsLymonade/61585714170918/',
+    circle_facebook: 'https://www.facebook.com/people/ItsLymonade/61585714170918/',
     circle_instagram: 'https://www.instagram.com/its.lymonade',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/66d1c0f3-45e2-485a-9968-6c70c81c565d/ccdd113b-72a8-46b6-8c2c-12d1889e29e5/E-55ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/66d1c0f3-45e2-485a-9968-6c70c81c565d/4b48705b-245b-4f5b-b1cb-ddd893989022/E-55ab.jpg',
@@ -10649,41 +7989,33 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/66d1c0f3-45e2-485a-9968-6c70c81c565d/79c115d0-73c8-4f95-8f54-070abcc5ec99/E-55ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8381,
-
     circle_code: 'E-56ab/E-57ab',
     name: 'SCARSAN X SULKYCATZ',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SCARSAN X SULKYCATZ.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/scarsan.jpg/ , https://www.instagram.com/sulkycatz/',
     circle_twitter: 'https://x.com/sulkycatz',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8382,
-
     circle_code: 'E-58ab/E-59ab',
     name: 'ADHD(artwork of digihereos den) feat Comxnaut BDG',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ADHD(artwork of digihereos den) feat Comxnaut BDG.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/zhang_vins/',
     circle_twitter: 'https://x.com/zhang_digiden',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2e04a353-bf8b-4f6e-81b1-fa462d5fb727/8488e15d-1fd1-4697-9159-01261ad27b8b/E-58ab/E-59ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2e04a353-bf8b-4f6e-81b1-fa462d5fb727/198e76de-71d2-40a9-b55c-a5863fa27152/E-58ab/E-59ab.png',
@@ -10696,149 +8028,117 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2e04a353-bf8b-4f6e-81b1-fa462d5fb727/f3ae30e2-96b7-43d3-977b-c55f4d6d7c7a/E-58ab/E-59ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8383,
-
     circle_code: 'E-60a',
     name: 'Wakuta',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Wakuta.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/wakuta.merch/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8384,
-
     circle_code: 'E-60b',
     name: 'ASDW (Aku Sendirian Disini Woy)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ASDW (Aku Sendirian Disini Woy).jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/celinemfp/',
     circle_twitter: 'https://x.com/FpMarceline',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8385,
-
     circle_code: 'F-01ab',
     name: 'waci-illstr',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/waci-illstr.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/waci_illstr',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8386,
-
     circle_code: 'F-02ab/F-03ab',
     name: 'Pasar Malam',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pasar Malam.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/fritzwart/ , https://www.instagram.com/tudung.sajii/, https://www.instagram.com/mazumizu/ , https://www.instagram.com/naikanssss/',
     circle_twitter: 'https://x.com/fritzwart',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8387,
-
     circle_code: 'F-04ab/F-05ab',
     name: 'JiJi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/JiJi.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/icejiinhalamy/',
     circle_twitter: 'x.com/icejiinhalamy',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8388,
-
     circle_code: 'F-06ab',
     name: 'Empang Sucipto',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Empang Sucipto.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/stargzzrr',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8389,
-
     circle_code: 'F-07a',
     name: 'So Saweet!',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/So Saweet!.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/so.saweet_',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8390,
-
     circle_code: 'F-07b',
     name: 'StarLetter',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/StarLetter.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/starletter99',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4d4e68f9-268b-4b52-9196-fa25f7d3dc56/fb84ce0d-92bb-4ea6-b17a-a878537b161f/F-07b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4d4e68f9-268b-4b52-9196-fa25f7d3dc56/0ef40793-cfea-4221-b4ce-c77ac9246879/F-07b.png',
@@ -10852,59 +8152,47 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4d4e68f9-268b-4b52-9196-fa25f7d3dc56/25a04f5f-898f-4aed-b606-f6008dda224b/F-07b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8391,
-
     circle_code: 'F-08ab',
     name: 'EMJI HANDCRAFT',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/EMJI HANDCRAFT.jpg',
-
     circle_facebook: 'https://facebook.com/emjihandcraft',
     circle_instagram: 'https://www.instagram.com/emjihandcraft/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8392,
-
     circle_code: 'F-09ab',
     name: 'Money Money Come To Me',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Money Money Come To Me.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/sunwhipcake?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==',
     circle_twitter: 'https://x.com/sunwhipcake?s=20',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8393,
-
     circle_code: 'F-10ab',
     name: 'LAZULIZIP x Drawnrue',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/LAZULIZIP x Drawnrue.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/lazulizip',
     circle_twitter: 'https://x.com/drawnrue',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f47baf6e-fc56-4af7-95e7-f2559cd148f3/b5d10bc5-2a41-4197-92a1-c8a1b357b5d9/F-10ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f47baf6e-fc56-4af7-95e7-f2559cd148f3/dca66027-a0b8-4d3a-9d41-14277f5a9501/F-10ab.png',
@@ -10913,411 +8201,315 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f47baf6e-fc56-4af7-95e7-f2559cd148f3/501e267a-6d79-49bd-bbbc-c8c523474b6d/F-10ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8394,
-
     circle_code: 'F-11ab/F-12ab',
     name: 'SodaPop Cart x Virydia x Beads Kola x Peachlastic',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SodaPop Cart x Virydia x Beads Kola x Peachlastic.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/sodapop_cart?igsh=MWh0anpjYWJlcXR3MQ==',
+    circle_instagram: 'https://www.instagram.com/sodapop_cart?igsh=MWh0anpjYWJlcXR3MQ==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8395,
-
     circle_code: 'F-13ab',
     name: 'Doa (W)ibu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Doa (W)ibu.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/mewy101/',
     circle_twitter: 'https://www.instagram.com/mewy101/',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8396,
-
     circle_code: 'F-14ab',
     name: 'Nemui(n duit amin)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nemui(n duit amin).jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/Nemui_Circle',
     circle_other_socials: 'https://nemuicircle.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8397,
-
     circle_code: 'F-15a',
     name: 'Blobins Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Blobins Studio.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/blobins_studio?igsh=MTl0Z3pkeGZ3cG1zdQ&utm_source=qr',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8398,
-
     circle_code: 'F-15b',
     name: 'Inifahifahir',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Inifahifahir.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/inifahifahir',
     circle_twitter: 'https://x.com/inifahifahir',
     circle_other_socials: 'inifahifahir.carrd.com',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8399,
-
     circle_code: 'F-16a',
     name: 'SCENTIST',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SCENTIST.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/scentist.id/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8400,
-
     circle_code: 'F-16b',
     name: 'Bura Biba',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bura Biba.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/bura.biba',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8401,
-
     circle_code: 'F-17ab',
     name: 'Hibiscus Meadow',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Hibiscus Meadow.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/hibiscusmeadow/',
     circle_twitter: null,
     circle_other_socials: 'https://hibiscusmeadow.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8402,
-
     circle_code: 'F-18ab',
     name: 'Shoujo Corner',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Shoujo Corner.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/sprinkanao , https://www.instagram.com/ririaseyo',
+    circle_instagram: 'https://www.instagram.com/sprinkanao , https://www.instagram.com/ririaseyo',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8403,
-
     circle_code: 'F-19a (SAT)',
     name: 'Mint Choco Puff',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mint Choco Puff.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/mintchopuff/',
     circle_twitter: null,
     circle_other_socials: 'mintchopuff.carrd.co',
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8404,
-
     circle_code: 'F-19a (SUN)',
     name: 'Digidaw Station',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Digidaw Station.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/zona_digidawstation?igsh=MWF0MDZsa2FvNzI1MA==',
+    circle_instagram: 'https://www.instagram.com/zona_digidawstation?igsh=MWF0MDZsa2FvNzI1MA==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8405,
-
     circle_code: 'F-19b (SAT)',
     name: 'Little.Space.Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Little.Space.Studio.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/little.space.studio',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8406,
-
     circle_code: 'F-19b (SUN)',
     name: 'Myuw Arts',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Myuw Arts.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/silvimd_208',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8407,
-
     circle_code: 'F-20a (SAT)',
     name: 'Kelinci Duyung',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kelinci Duyung.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/sani.rbbt/',
     circle_twitter: 'https://x.com/halokelincipagi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8408,
-
     circle_code: 'F-20a (SUN)',
     name: 'Rindang',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Rindang.jpg',
-
     circle_facebook: '-',
-    circle_instagram:
-      'https://www.instagram.com/bigwinnaet?igsh=MTdkbGp3Zngxa253cQ==',
+    circle_instagram: 'https://www.instagram.com/bigwinnaet?igsh=MTdkbGp3Zngxa253cQ==',
     circle_twitter: 'https://x.com/BigWinnAet',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8409,
-
     circle_code: 'F-20b (SAT)',
     name: 'Circle orang stress',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Circle orang stress.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/kezee17?igsh=MTE2enMwMWx2MThkaQ==',
+    circle_instagram: 'https://www.instagram.com/kezee17?igsh=MTE2enMwMWx2MThkaQ==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8410,
-
     circle_code: 'F-20b (SUN)',
     name: 'Crossover Mania',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Crossover Mania.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: '',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8411,
-
     circle_code: 'F-21ab (SAT)',
     name: 'Rate On!',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Rate On!.jpg',
-
     circle_facebook: null,
     circle_instagram: 'rate._on',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8412,
-
     circle_code: 'F-21ab (SUN)',
     name: 'Tajiryu.kata',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tajiryu.kata.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/tajiryu_kata/',
     circle_twitter: 'https://x.com/tajiryu_kata',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8413,
-
     circle_code: 'F-22ab (SAT)',
     name: 'PNPG (Pencari Nafkah Pria Gepeng)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PNPG (Pencari Nafkah Pria Gepeng).jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/emithystly/',
     circle_twitter: 'https://x.com/emithystly',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8414,
-
     circle_code: 'F-22ab (SUN)',
     name: 'Picnic at Goiky',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Picnic at Goiky.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/alister6ratis?igsh=MWt3OWpndTB5YXEwdg==',
+    circle_instagram: 'https://www.instagram.com/alister6ratis?igsh=MWt3OWpndTB5YXEwdg==',
     circle_twitter: 'https://x.com/ch1pcase',
     circle_other_socials: 'https://s.shopee.co.id/60LhMMrJi7',
-
     other_fandom:
       "Dispatch, Epic The Musical, Sonic, Dandy's World, Portal, Jumpcut, LegoMonkieKid, Eddsworld, Kereta Api Indonesia",
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8415,
-
     circle_code: 'F-23ab (SAT)',
     name: 'Rampak Regency',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Rampak Regency.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/h1mal4yan?igsh=ZmFsZjYwdzRlbXR3',
+    circle_instagram: 'https://www.instagram.com/h1mal4yan?igsh=ZmFsZjYwdzRlbXR3',
     circle_twitter: 'https://x.com/pixalifreeze?s=21',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f94f9326-b66d-4c5a-aa3a-e8278e7b86ba/8fe8646d-04bc-4a1b-8c47-63cdff03d7e1/F-23ab (SAT).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f94f9326-b66d-4c5a-aa3a-e8278e7b86ba/0c525293-c25d-4a69-93b6-d6356ec93065/F-23ab (SAT).png',
@@ -11330,232 +8522,182 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f94f9326-b66d-4c5a-aa3a-e8278e7b86ba/cf6961c5-4bca-4937-90a4-eee6627ec957/F-23ab (SAT).png',
     ],
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8416,
-
     circle_code: 'F-23ab (SUN)',
     name: 'SisSquad',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SisSquad.jpg',
-
     circle_facebook: 'https://www.facebook.com/igamercon/',
     circle_instagram: 'https://www.instagram.com/accesoriescraft',
     circle_twitter: 'https://x.com/Igamercon, https://x.com/teawinphu',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8417,
-
     circle_code: 'F-24ab',
     name: 'Catboy Dealer',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Catboy Dealer.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/hontokki',
     circle_twitter: 'https://x.com/hontokki',
     circle_other_socials: 'https://hontokki.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8418,
-
     circle_code: 'F-25ab',
     name: 'My Booth Gweh',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/My Booth Gweh.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/crescensoo?igsh=dnFwYm1sYnpnOTkz',
+    circle_instagram: 'https://www.instagram.com/crescensoo?igsh=dnFwYm1sYnpnOTkz',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8419,
-
     circle_code: 'F-26ab/F-27ab',
     name: 'Jiji Destined',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Jiji Destined.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/onionholicdraws/',
     circle_twitter: 'https://x.com/onion_holic ',
     circle_other_socials: 'https://x.com/seiryuuden',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f6966b46-dd40-4502-a8fd-67831dc1d44c/e026dcbf-536f-4c6b-9019-80a317948848/F-26ab/F-27ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8420,
-
     circle_code: 'F-28ab/F-29ab',
     name: 'Dorinku Series',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Dorinku Series.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/arenlattes https://www.instagram.com/banamiruku https://www.instagram.com/minumtehtarik https://www.instagram.com/di.series',
     circle_twitter:
       'https://www.x.com/arenlattes https://www.x.com/youbilv https://www.x.com/minumtehtarik https://www.x.com/di_series',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8421,
-
     circle_code: 'F-30a',
     name: 'BEGGARTS',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/BEGGARTS.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/yu_pk1009',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8422,
-
     circle_code: 'F-30b',
     name: 'IMRECCI',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/IMRECCI.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/imrecci',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8423,
-
     circle_code: 'F-31a',
     name: 'tempotempe',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/tempotempe.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/tempotempe/',
     circle_twitter: 'https://x.com/tempotempe11',
     circle_other_socials: 'https://linktr.ee/tempotempe',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8424,
-
     circle_code: 'F-31b',
     name: 'haiya.ink',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/haiya.ink.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/haiya.ink/',
     circle_twitter: 'https://x.com/haiya_ink',
     circle_other_socials: 'https://www.artstation.com/ivanchristiansurya',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9a7fb5fc-1db1-47da-854d-aab937c0d3d3/9d8a6d86-4837-4aa9-9a93-6f5e88c3fc93/F-31b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9a7fb5fc-1db1-47da-854d-aab937c0d3d3/4f4b3ec6-439d-4437-8da7-3b01e0f0707b/F-31b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9a7fb5fc-1db1-47da-854d-aab937c0d3d3/cee70c02-ebd5-40aa-aa75-6d640c56e8c6/F-31b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8425,
-
     circle_code: 'F-32ab/F-33ab',
     name: 'Seafood 888',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Seafood 888.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/seafoodelapan88/?hl=en',
     circle_twitter: 'https://x.com/seafooddelapan',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8426,
-
     circle_code: 'F-34ab/F-35ab',
     name: 'Stipeanut x Yoon.claws',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Stipeanut x Yoon.claws.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/yoon.claws',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8427,
-
     circle_code: 'F-36ab',
     name: 'POKTOPUS',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/POKTOPUS.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/poktopus_',
     circle_twitter: null,
     circle_other_socials: null,
-
     other_fandom:
       "Genshin Impact, Honkai Star Rail, Valorant, Arknight Endfield, Love And Deepspace, Omniscient Reader's Viewpoint, Link Click, Alien Stage, Jujutsu Kaisen, Demon Slayer, Haikyuu, Shoujo, Frieren, HunterXHunter, Tamon's B Side, Original, Singer, Animal",
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3ce4179c-33e5-4db4-971d-8d9a09371952/94e4b3b2-fb0b-4584-ac19-f14ac48a67ef/F-36ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3ce4179c-33e5-4db4-971d-8d9a09371952/4deca4b8-8730-4379-9132-4915094926bf/F-36ab.png',
@@ -11564,40 +8706,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3ce4179c-33e5-4db4-971d-8d9a09371952/aefb408b-ccdc-4efc-a5fd-a8f93853360a/F-36ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8428,
-
     circle_code: 'F-37ab',
     name: 'Sakit Jiwa Server',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sakit Jiwa Server.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/shayakagi/',
     circle_twitter: 'https://x.com/shayakagi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8429,
-
     circle_code: 'F-38ab',
     name: 'orenjineko.studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/orenjineko.studio.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/orenjineko.studio/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/77fdd0b8-e784-42cb-8f35-2c96c28c5a24/3166007f-227b-4747-b454-a99f90f0fa33/F-38ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/77fdd0b8-e784-42cb-8f35-2c96c28c5a24/f9450491-8f0c-47e3-a355-c04cff2a1378/F-38ab.jpg',
@@ -11608,22 +8742,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/77fdd0b8-e784-42cb-8f35-2c96c28c5a24/730f3f2a-de2c-44cd-a69a-ed546e6b81ea/F-38ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8430,
-
     circle_code: 'F-39ab',
     name: 'Veve Kawai',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Veve Kawai.jpg',
-
     circle_facebook: 'https://www.facebook.com/anastasia.a.chandra/',
     circle_instagram: 'https://www.instagram.com/veve.atelier21/',
     circle_twitter: 'https://x.com/TinkerEmon',
     circle_other_socials: 'https://www.behance.net/Alverina',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/34ecbac9-8e6d-45f7-bbda-779ba9e13021/7342a0ce-1f2c-4c30-8007-8270beb3c5c4/F-39ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/34ecbac9-8e6d-45f7-bbda-779ba9e13021/67bd2dcc-f85d-4c33-9066-ec8af04432c4/F-39ab.jpg',
@@ -11633,250 +8763,193 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/34ecbac9-8e6d-45f7-bbda-779ba9e13021/9afcd8d1-4352-465c-a1e4-ca9027e456d6/F-39ab.jpeg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8431,
-
     circle_code: 'F-40ab',
     name: 'Tochi Pottery',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tochi Pottery.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/tochipottery/',
     circle_twitter: '-',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8432,
-
     circle_code: 'F-41ab/F-42ab',
     name: 'TACTYLE Art & Hobby',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/TACTYLE Art & Hobby.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'Instagram.com/dragon_wilbert , Instagram.com/cornedbeef.art',
+    circle_instagram: 'Instagram.com/dragon_wilbert , Instagram.com/cornedbeef.art',
     circle_twitter: 'x.com/cindy_wilbert',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8433,
-
     circle_code: 'F-43ab',
     name: 'exhozt',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/exhozt.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/exhozt_/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8434,
-
     circle_code: 'F-44ab',
     name: 'Tambak Paus Botol',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tambak Paus Botol.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/lefthandmermaid',
     circle_twitter: 'https://x.com/spesdelune',
     circle_other_socials: 'shopee.co.id/canticlarinta',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8435,
-
     circle_code: 'F-45ab',
     name: 'Warkop FF',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warkop FF.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/avery_spree?igsh=MWV2bDllMHF6OXliZw&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/avery_spree?igsh=MWV2bDllMHF6OXliZw&utm_source=qr',
     circle_twitter: 'https://x.com/hersiliyaya?s=11',
     circle_other_socials: null,
-
     fandom: "Dandy's World",
     other_fandom:
       "Twisted Wonderland, Project Sekai, Vocaloid, Unstable Universe, MCYT, Five Nights at Freddy's, Cookie Run Kingdom, Gachiakuta, Alien Stage",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8436,
-
     circle_code: 'F-46ab',
     name: 'Everlasting Dream Atelier',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Everlasting Dream Atelier.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/everlastingdream.atl/',
     circle_twitter: 'https://x.com/runastellarrr/',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8437,
-
     circle_code: 'F-47ab',
     name: 'Double Deez',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Double Deez.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/seokatuhlah',
     circle_twitter: 'https://x.com/kunaondan , https://x.com/loviemedovie',
     circle_other_socials:
       'https://docs.google.com/presentation/d/1PBsae-3F-hgXxuCOF0fWYROjQo5UOmuJGFtyeVTS5qc/edit?usp=sharing',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8438,
-
     circle_code: 'F-48ab',
     name: 'BUKAN BOROS INI CINTA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/BUKAN BOROS INI CINTA.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/mamenmimimi/',
     circle_twitter: 'https://x.com/mamenmimimi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8439,
-
     circle_code: 'F-49ab',
     name: 'Dedemit Rangers',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Dedemit Rangers.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/jfscribs',
     circle_twitter: 'https://x.com/talthtale',
     circle_other_socials: 'https://www.instagram.com/hiimnarii',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8440,
-
     circle_code: 'F-50ab',
     name: 'Momaeko & Hapidough',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Momaeko & Hapidough.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://instagram.com/hapidough',
     circle_twitter: 'https://x.com/momaeko_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8441,
-
     circle_code: 'F-51ab',
     name: 'Misfits+',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Misfits+.jpg',
-
     circle_facebook: '-',
     circle_instagram:
       'https://www.instagram.com/mikachurl/ ; https://www.instagram.com/hobieous/ ; https://www.instagram.com/rubberband_kun/',
     circle_twitter: 'https://x.com/sereaals',
     circle_other_socials: 'artstation.com/mikachurl',
-
     other_fandom:
       "BTB nijisanji EN, Tamon's b side, Kusuriya no hitorigoto,plave, eve harapeco, tamon's b side, isekai worker, kusuriya no hitorigoto, karaoke/famiresu iko isekai worker,digimon, bleach, dandadan, worthikids, bts",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8442,
-
     circle_code: 'F-52ab',
     name: 'Alpha Mart',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Alpha Mart.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/2oarin',
     circle_twitter: 'https://x.com/2OARIN',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8443,
-
     circle_code: 'F-53ab',
     name: '!3AKUDAN',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/!3AKUDAN.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/bakudan.studio?igsh=MWVxMG1kYnVmdHl6Yw==',
+    circle_instagram: 'https://www.instagram.com/bakudan.studio?igsh=MWVxMG1kYnVmdHl6Yw==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b918cf47-fd4c-4b58-bb67-e412cc9b0ad4/22763607-7441-4037-a0a7-3fc4ba81d899/F-53ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b918cf47-fd4c-4b58-bb67-e412cc9b0ad4/b477daf8-18a8-4075-a5f6-e673508a9ba6/F-53ab.png',
@@ -11887,115 +8960,88 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b918cf47-fd4c-4b58-bb67-e412cc9b0ad4/3d3e755a-2f8d-4d24-a10e-095aa864f5a3/F-53ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8444,
-
     circle_code: 'F-54ab',
     name: 'Blueforest.id',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Blueforest.id.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/blueforest.id/?hl=en',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8445,
-
     circle_code: 'F-55ab',
     name: 'Sora',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sora.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/nothofogus?igsh=ZGUwY2NudmRhZTNj',
+    circle_instagram: 'https://www.instagram.com/nothofogus?igsh=ZGUwY2NudmRhZTNj',
     circle_twitter: 'https://x.com/0zuk1e?t=9kGKyZzKWXOMPo-n0gX2EA&s=09',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8446,
-
     circle_code: 'F-56ab/F-57ab',
     name: 'KKUMATOWN x MEHCAXZ',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KKUMATOWN x MEHCAXZ.jpg',
-
     circle_facebook: 'https://facebook.com/mehcaxz',
-    circle_instagram:
-      'https://instagram.com/thekkumatown ; https://instagram.com/mehcaxz',
+    circle_instagram: 'https://instagram.com/thekkumatown ; https://instagram.com/mehcaxz',
     circle_twitter: 'https://x.com/kkumatown ; https://x.com/mehcaxz',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8447,
-
     circle_code: 'F-58ab/F-59ab',
     name: 'Gib Moni x anoartacc',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Gib Moni x anoartacc.jpg',
-
     circle_facebook: 'https://www.facebook.com/artofkucingkecil/',
     circle_instagram: 'https://www.instagram.com/yorushi_66/',
     circle_twitter: 'https://x.com/gib_moni',
     circle_other_socials: 'https://arkawidya.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8448,
-
     circle_code: 'F-60ab',
     name: 'Gajahkecil',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Gajahkecil.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/gajahkecil.crafts',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8449,
-
     circle_code: 'G-01ab',
     name: 'hellomayu x yankasmiles',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/hellomayu x yankasmiles.jpg',
-
     circle_facebook: 'https://www.facebook.com/yankasmiles',
-    circle_instagram:
-      'https://www.instagram.com/hellomayu_/ , https://www.instagram.com/punkguchi',
+    circle_instagram: 'https://www.instagram.com/hellomayu_/ , https://www.instagram.com/punkguchi',
     circle_twitter: 'https://x.com/hellomayu_ , https://x.com/yankasmiles',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/118188fd-9b02-4798-9e3e-d6da174fe7de/b2384ef1-ee2c-4718-aca2-45046725d300/G-01ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/118188fd-9b02-4798-9e3e-d6da174fe7de/b527d784-19f3-4cbd-9f59-4f23b6d0ccb5/G-01ab.png',
@@ -12008,80 +9054,61 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/118188fd-9b02-4798-9e3e-d6da174fe7de/c7a9dca7-2fac-4e1a-a1c4-5e7b7853b43d/G-01ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8450,
-
     circle_code: 'G-02ab/G-03ab',
     name: 'Mirurin x Starry Messenger',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mirurin x Starry Messenger.jpg',
-
     circle_facebook: 'https://www.facebook.com/mirugi.chan?',
-    circle_instagram:
-      'https://www.instagram.com/mirugi11?igsh=MTRpeWVsM2s0Nmh5Zw&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/mirugi11?igsh=MTRpeWVsM2s0Nmh5Zw&utm_source=qr',
     circle_twitter: 'https://x.com/mirugi11?s=21&t=sYwua2ORu5VetVm5aGGSuw',
-    circle_other_socials:
-      'https://www.instagram.com/creamyferin?igsh=MXZ6YnFqcnpyY2NxOA==',
-
+    circle_other_socials: 'https://www.instagram.com/creamyferin?igsh=MXZ6YnFqcnpyY2NxOA==',
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8451,
-
     circle_code: 'G-04ab/G-05ab',
     name: 'Sapoto Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sapoto Studio.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/sapoto_studio?igsh=MWd4OWV5anlmbDd5eQ==',
+    circle_instagram: 'https://www.instagram.com/sapoto_studio?igsh=MWd4OWV5anlmbDd5eQ==',
     circle_twitter: 'https://x.com/nthndn',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8452,
-
     circle_code: 'G-06ab',
     name: 'KAPOW!',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KAPOW!.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/kap.owi',
     circle_twitter: 'https://x.com/sorasti',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8453,
-
     circle_code: 'G-07ab',
     name: 'Mari Belanja GuyZ (MBG)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mari Belanja GuyZ (MBG).jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/113rii/ , ',
     circle_twitter:
       'https://x.com/113rii , https://x.com/zzantuy , https://x.com/nibble_fang , https://x.com/MVNGBN , https://x.com/hetachiin318 , https://x.com/gatogummi',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f699a66c-2f25-4551-907b-34623a5eb5c9/55507413-e6e4-4e04-be17-082d418070a5/G-07ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f699a66c-2f25-4551-907b-34623a5eb5c9/8c56953b-4013-4690-b185-3716cdee5827/G-07ab.jpg',
@@ -12093,59 +9120,47 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f699a66c-2f25-4551-907b-34623a5eb5c9/b57bf9a3-8d36-4b1b-95a9-a616a4a1e9d4/G-07ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8454,
-
     circle_code: 'G-08ab',
     name: 'Maso Gang',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Maso Gang.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/maso_gang',
     circle_twitter: 'https://x.com/gangmaso',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8455,
-
     circle_code: 'G-09a',
     name: 'Tsuinn22',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tsuinn22.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/tsuinny22',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8456,
-
     circle_code: 'G-09b',
     name: 'Tiny Lune',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tiny Lune.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/ineevable/ , https://www.instagram.com/oioioisobagi/',
     circle_twitter: 'https://x.com/ineevable , https://x.com/oioioisobagi',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d409a776-8c1b-4ae8-809f-6d7600d0e688/788b1b42-c3a8-4db6-b24c-3107609dc133/G-09b.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d409a776-8c1b-4ae8-809f-6d7600d0e688/824edb8d-ed29-4056-b036-84e5912c3d36/G-09b.jpg',
@@ -12155,278 +9170,218 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d409a776-8c1b-4ae8-809f-6d7600d0e688/94fb1e0d-acf8-4c44-987f-52e2400a0958/G-09b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8457,
-
     circle_code: 'G-10ab',
     name: 'Art-Nerds in Crime',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Art-Nerds in Crime.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'instagram.com/artnerdsincrime, instagram.com/s_yuki_444 , instagram.com/yj_ping7 , instagram.com/its_rieverie , instagram.com/tinybunny_24',
     circle_twitter:
       'x.com/artnerdsincrime , x.com/s_yuki_444 , x.com/yj_ping7 , x.com/tinybunny_24 , x.com/its_rieverie, x.com/zynkt00n',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8458,
-
     circle_code: 'G-11ab/G-12ab',
     name: 'sam yaong',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/sam yaong.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'instagram.com/littlejavacraft , instagram.com/manikiyowo , instagram.com/hanamade_26 , instagram.com/untai.senar',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8459,
-
     circle_code: 'G-13ab',
     name: 'Lebah Gantenk',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lebah Gantenk.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/saltedcaramelpops',
     circle_twitter: 'https://twitter.com/nikerzkart',
     circle_other_socials: 'http://saltedcaramelpops.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8460,
-
     circle_code: 'G-14ab',
     name: 'Miisuboru',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Miisuboru.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/miisuboru',
     circle_twitter: 'x.com/miisuboru',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8461,
-
     circle_code: 'G-15a',
     name: "Witri's Project × Addorable Mii",
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/WitrisProjectAddorable Mii.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/witrisproject.id',
     circle_twitter: 'https://x.com/witrisproject',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8462,
-
     circle_code: 'G-15b',
     name: 'Haluverse',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Haluverse.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/haluverse.ac/',
     circle_twitter: 'https://x.com/haIuverse',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8463,
-
     circle_code: 'G-16ab',
     name: 'Jupiterbear',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Jupiterbear.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/jupiterbear_x',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8464,
-
     circle_code: 'G-17ab',
     name: 'Lancar Jaya Abadi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lancar Jaya Abadi.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter:
       'https://x.com/LJA_space https://x.com/donotfreeze__ https://x.com/quinneko https://x.com/bysketchva https://x.com/qowlyn https://x.com/moondemande',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8465,
-
     circle_code: 'G-18ab',
     name: 'fejufej',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/fejufej.jpg',
-
     circle_facebook: 'https://facebook.com/fejufej',
     circle_instagram: 'https://instagram.com/fejufej',
     circle_twitter: 'https://x.com/fejufej',
     circle_other_socials: 'linktr.ee/fejufejshop',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8466,
-
     circle_code: 'G-19ab',
     name: 'Grey Rabbit',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Grey Rabbit.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/madbunny__/',
     circle_twitter: 'https://x.com/earlgrey_ky',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8467,
-
     circle_code: 'G-20ab',
     name: 'Bebek Pitak',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bebek Pitak.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: 'https://linktr.ee/BebekPitak',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8468,
-
     circle_code: 'G-21ab',
     name: 'zeamayo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/zeamayo.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/zeamayo',
     circle_twitter: 'x.com/zeamayos',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8469,
-
     circle_code: 'G-22ab',
     name: 'Aktifis Lele',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Aktifis Lele.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/matsuyakki',
     circle_twitter: 'https://x.com/s0nnnnyle',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8470,
-
     circle_code: 'G-23a',
     name: 'Pandao Express',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pandao Express.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/itzn4o',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8471,
-
     circle_code: 'G-23b',
     name: 'Chareo.art',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Chareo.art.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/chareo.art',
     circle_twitter: 'https://x.com/chareo_art?s=21&t=6ZotDMTlt94yuC9Ibh58pw',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f86bac9a-db89-487e-80e8-b7dcee5a1b2f/19c0ab8b-f5bd-4c48-8ae9-11e66db0471a/G-23b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f86bac9a-db89-487e-80e8-b7dcee5a1b2f/993fa903-7db9-4bfe-b1b2-19b7bfd513ac/G-23b.png',
@@ -12440,41 +9395,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f86bac9a-db89-487e-80e8-b7dcee5a1b2f/77ab8662-8e8f-490a-b02e-7af3627d801d/G-23b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8472,
-
     circle_code: 'G-24ab (SAT)',
     name: 'Skena Gado-Gado',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Skena Gado-Gado.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/amafication',
     circle_twitter: 'https://x.com/amafication',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8473,
-
     circle_code: 'G-24a (SUN)',
     name: 'Takasihmurah',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Takasihmurah.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/dairez_t.art?igsh=MWs2aXcyYXVmYXE1Ng==',
+    circle_instagram: 'https://www.instagram.com/dairez_t.art?igsh=MWs2aXcyYXVmYXE1Ng==',
     circle_twitter: 'https://x.com/Zahra_Grandis',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/438e1e8b-f201-4fa4-aeca-ecb544dfc036/479db131-5d2a-41f2-9424-256933903fcc/G-24a (SUN).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/438e1e8b-f201-4fa4-aeca-ecb544dfc036/409ed8b9-0f1e-421e-b928-9b906a9f1f2f/G-24a (SUN).png',
@@ -12487,63 +9433,48 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/438e1e8b-f201-4fa4-aeca-ecb544dfc036/4901e537-b896-4702-93cf-ffffbaacc92b/G-24a (SUN).jpeg',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8474,
-
     circle_code: 'G-24b (SUN)',
     name: 'hanoki.id',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/hanoki.id.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/hanoki.id?igsh=MTlwZ3N0d2V3enNmdQ==',
+    circle_instagram: 'https://www.instagram.com/hanoki.id?igsh=MTlwZ3N0d2V3enNmdQ==',
     circle_twitter: 'https://x.com/Hanoki_id',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8475,
-
     circle_code: 'G-25a (SAT)',
     name: 'Muム',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mu.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/sh1romugi_ardine/',
     circle_twitter: 'https://x.com/Sh1romugi',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2875bc88-4388-400f-89e8-ee3ae3733b6c/25f15eb2-75db-44e7-835b-dc563fc29d3c/G-25a (SAT).jpg',
     ],
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8476,
-
     circle_code: 'G-25a (SUN)',
     name: 'Smol Nation',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Smol Nation.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/flames_and_fortune_?igsh=MTk3eTVucXMwbmo4MA==',
+    circle_instagram: 'https://www.instagram.com/flames_and_fortune_?igsh=MTk3eTVucXMwbmo4MA==',
     circle_twitter: null,
-    circle_other_socials:
-      'https://www.tiktok.com/@s4lvatric3?_r=1&_t=ZS-95vxXFfXkal',
-
+    circle_other_socials: 'https://www.tiktok.com/@s4lvatric3?_r=1&_t=ZS-95vxXFfXkal',
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a7137814-a5a5-4d93-988c-890ecb21d7ed/880e4e77-02fc-4954-98b2-7184b91379fd/G-25a (SUN).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a7137814-a5a5-4d93-988c-890ecb21d7ed/c745efed-7431-4d59-b1b2-a88b4374bf4f/G-25a (SUN).png',
@@ -12557,433 +9488,332 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a7137814-a5a5-4d93-988c-890ecb21d7ed/eca65a0d-9b6e-4137-850d-6a038aef86df/G-25a (SUN).jpg',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8477,
-
     circle_code: 'G-25b',
     name: 'Membangun Harapan Kehidupan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Membangun Harapan Kehidupan.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/amdeily?igsh=MTFmbnpqaW1uajI0Ng==',
+    circle_instagram: 'https://www.instagram.com/amdeily?igsh=MTFmbnpqaW1uajI0Ng==',
     circle_twitter: 'https://x.com/amdeily?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8478,
-
     circle_code: 'G-26ab/G-27ab',
     name: 'Bigmadamee',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bigmadamee.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/bigmadamerch',
     circle_twitter: 'https://www.x.com/bigmadamee',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8479,
-
     circle_code: 'G-28ab/G-29ab',
     name: 'Orenmania',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Orenmania.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/hafiism/',
     circle_twitter: 'https://x.com/hafiism_',
     circle_other_socials: 'https://orenmania.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8480,
-
     circle_code: 'G-30a',
     name: 'ASOPEDAI',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ASOPEDAI.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/farahsyhd/',
     circle_twitter: 'https://x.com/jarijemariai',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8481,
-
     circle_code: 'G-30b',
     name: 'Fruity Volleyball Corner',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Fruity Volleyball Corner.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://x.com/kiyoreii?s=21&t=vuvOYmUNPXxhDqueSvPzug',
     circle_twitter: 'https://x.com/shotosomi?s=21&t=vuvOYmUNPXxhDqueSvPzug',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8482,
-
     circle_code: 'G-31ab',
     name: 'HALU Corner',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/HALU Corner.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: 'linktr.ee/halucorner',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8483,
-
     circle_code: 'G-32ab/G-33ab',
     name: 'Kakap Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kakap Studio.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kakapstudio/',
     circle_twitter: 'https://x.com/zahrageprek',
     circle_other_socials: 'https://kakapstudio.com/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8484,
-
     circle_code: 'G-34ab/G-35ab',
     name: 'TBA x MNK',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/TBA x MNK.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/sept.rain?igsh=MXVmOWdxamNsZ3Jo',
+    circle_instagram: 'https://www.instagram.com/sept.rain?igsh=MXVmOWdxamNsZ3Jo',
     circle_twitter: 'https://twitter.com/ameamakunai',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8485,
-
     circle_code: 'G-36ab',
     name: 'TOSERBA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/TOSERBA.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/toserbaes',
-    circle_twitter:
-      'Https://x.com/toserbaes, https://x.com/kusanyagii, https://x.com/casperlune',
+    circle_twitter: 'Https://x.com/toserbaes, https://x.com/kusanyagii, https://x.com/casperlune',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8486,
-
     circle_code: 'G-37a',
     name: 'Silly Mates',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Silly Mates.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/sillymates.studio?igsh=ajU2N2h3enkxcjAw&utm_source=qr',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8487,
-
     circle_code: 'G-37b',
     name: 'Bucin Donat',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bucin Donat.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/svnnysvmmer/',
     circle_twitter: 'https://x.com/nie_hotaru',
     circle_other_socials: 'https://bucindonat.carrd.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3d8a8a15-7120-4da5-99f3-a575edb33504/5466b2dc-085a-478a-9e12-878d3dc2aea7/G-37b.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3d8a8a15-7120-4da5-99f3-a575edb33504/f49cbc26-8319-48e6-b2c4-51f4d165a19a/G-37b.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3d8a8a15-7120-4da5-99f3-a575edb33504/ab3835ed-da65-4761-9d2d-7d5acf2d7eb4/G-37b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8488,
-
     circle_code: 'G-38ab',
     name: 'Lingkaran Kecil',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lingkaran Kecil.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/yakito_pen/',
     circle_twitter: 'https://x.com/yakito_pen',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8489,
-
     circle_code: 'G-39ab',
     name: 'Sugar Aunties',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sugar Aunties.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/nintnot',
     circle_twitter: 'https://twitter.com/o_ningiri',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8490,
-
     circle_code: 'G-40ab',
     name: 'Dreamycafe',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Dreamycafe.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/dreamycafeart',
     circle_twitter: 'https://x.com/dreamycafes',
     circle_other_socials: 'https://dreamycafe.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8491,
-
     circle_code: 'G-41ab',
     name: 'Lyn & Pich',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lyn & Pich.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/pichiruu/ , https://www.instagram.com/lyneart18/',
-    circle_twitter:
-      'https://x.com/pichiruu , https://x.com/Shokupanpa , https://x.com/lyneart18',
+    circle_instagram: 'https://www.instagram.com/pichiruu/ , https://www.instagram.com/lyneart18/',
+    circle_twitter: 'https://x.com/pichiruu , https://x.com/Shokupanpa , https://x.com/lyneart18',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8492,
-
     circle_code: 'G-42ab',
     name: 'Sweet Journey x Katsukitsch',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sweet Journey x Katsukitsch.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/sweet_journey12?igsh=bGppazJkbmE3aWc2',
+    circle_instagram: 'https://www.instagram.com/sweet_journey12?igsh=bGppazJkbmE3aWc2',
     circle_twitter: 'https://x.com/sweetjourney12',
     circle_other_socials: 'katsukitsch.works',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8493,
-
     circle_code: 'G-43ab',
     name: 'Pucuk Dodolan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pucuk Dodolan.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/tokkigwii/ , https://www.instagram.com/_haclyon/',
-    circle_twitter:
-      'https://x.com/yuuepye , https://x.com/_haclyon , https://x.com/_tokkigwii',
+    circle_instagram: 'https://www.instagram.com/tokkigwii/ , https://www.instagram.com/_haclyon/',
+    circle_twitter: 'https://x.com/yuuepye , https://x.com/_haclyon , https://x.com/_tokkigwii',
     circle_other_socials: 'https://pucukdodolan.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8494,
-
     circle_code: 'G-44ab',
     name: 'TERIDI',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/TERIDI.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/seaauknow',
     circle_twitter: 'https://x.com/seaauknow',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8495,
-
     circle_code: 'G-45a',
     name: 'Warteg husbu-waifu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warteg husbu-waifu.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/momoisayu',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8496,
-
     circle_code: 'G-45b',
     name: 'Di Sudut Kerling Matamu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Di Sudut Kerling Matamu.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https:/instagram.com/kylietoraa',
     circle_twitter: 'https://x.com/kylietora',
     circle_other_socials: 'https://www.tiktok.com/@kylietora',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8497,
-
     circle_code: 'G-46a (SAT)',
     name: 'Brondong well done',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Brondong well done.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/kamiweuri?igsh=aThodHUxZGlqZGV4',
+    circle_instagram: 'https://www.instagram.com/kamiweuri?igsh=aThodHUxZGlqZGV4',
     circle_twitter: 'https://x.com/kamiweuri?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8498,
-
     circle_code: 'G-46a (SUN)',
     name: 'VGNchan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/VGNchan.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/karupupita/ , https://www.instagram.com/vvv.gif/ , https://www.instagram.com/outofhere.zip/',
     circle_twitter: 'https://x.com/T_______4n',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8499,
-
     circle_code: 'G-46b (SAT)',
     name: 'Freakytiw',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Freakytiw.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/runereinn',
     circle_twitter: 'https://x.com/bbringblack',
     circle_other_socials: 'https://www.tiktok.com/@brin9black',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2e1e449b-ff4a-4cbc-9e0f-49543196b4ed/593e42e9-9d9c-4739-a91f-36e090b94389/G-46b (SAT).jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2e1e449b-ff4a-4cbc-9e0f-49543196b4ed/ba1ca1d8-1fdb-4a10-86ae-b1dbc2b8c31e/G-46b (SAT).png',
@@ -12995,41 +9825,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2e1e449b-ff4a-4cbc-9e0f-49543196b4ed/0a10fae1-fa25-4c15-a74e-5635267a05e0/G-46b (SAT).jpg',
     ],
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8500,
-
     circle_code: 'G-46b (SUN)',
     name: 'Cringe Pookies',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cringe Pookies.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/alexiasrei?igsh=MW55MXF5ZnJsYXh5aQ==',
+    circle_instagram: 'https://www.instagram.com/alexiasrei?igsh=MW55MXF5ZnJsYXh5aQ==',
     circle_twitter: 'https://x.com/AlexiasRei',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8501,
-
     circle_code: 'G-47ab',
     name: 'doodle by deedee',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/doodle by deedee.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/doodlebydeedee/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3f907bf5-7a73-49bc-ad0d-65cc2f261a72/dc3e479a-5c76-4687-8751-d5c9dd7c3581/G-47ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3f907bf5-7a73-49bc-ad0d-65cc2f261a72/32274082-6d79-4363-87ce-13cb8039a73f/G-47ab.jpg',
@@ -13043,174 +9864,136 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3f907bf5-7a73-49bc-ad0d-65cc2f261a72/c59db6d5-451d-4f5d-8477-eae3001ebb1c/G-47ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8502,
-
     circle_code: 'G-48ab',
     name: 'Kekentang Merch',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kekentang Merch.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kekentang/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8503,
-
     circle_code: 'G-49ab',
     name: 'Beerahi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Beerahi.jpg',
-
     circle_facebook: 'https://www.facebook.com/tsarinadani',
     circle_instagram: 'https://www.instagram.com/tsarinadani/',
     circle_twitter: 'https://x.com/Nutritsari',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/74ff998f-2b09-4c01-8083-60ba28a2f401/73ac255c-b0e9-444a-9411-616955287073/G-49ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8504,
-
     circle_code: 'G-50ab',
     name: 'Mengburu cuan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mengburu cuan.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'instagram.com/gebuuuri',
     circle_twitter: 'x.com/san8ji',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8505,
-
     circle_code: 'G-51ab',
     name: 'Aobyss',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Aobyss.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/aobyss/',
     circle_twitter: 'https://x.com/aobysss',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8506,
-
     circle_code: 'G-52ab',
     name: "Lan's Craft",
     circle_cut:
       "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lan's Craft.jpg",
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/lanscraft_',
     circle_twitter: 'https://www.x.com/lanscraft_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8507,
-
     circle_code: 'G-53a',
     name: 'Kurosacy Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kurosacy Studio.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/kurosacystudio?igsh=MXkxbWtxMGxzdjIy',
+    circle_instagram: 'https://www.instagram.com/kurosacystudio?igsh=MXkxbWtxMGxzdjIy',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8508,
-
     circle_code: 'G-53b',
     name: 'Riuploot',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Riuploot.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/riuploot/',
     circle_twitter: 'https://x.com/riuploot?s=11',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8509,
-
     circle_code: 'G-54ab (SAT)',
     name: 'Anggrek Mekar Kasablanka',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Anggrek Mekar Kasablanka.jpg',
-
     circle_facebook: 'https://web.facebook.com/caberavvit/',
     circle_instagram: 'instagram.com/kkuroari',
     circle_twitter: 'https://x.com/caberavvit',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/141d29ec-9dd4-4aaf-88b8-a51f3f13c55c/1374509d-29ec-46e4-9620-6a0b832db84a/G-54ab (SAT).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/141d29ec-9dd4-4aaf-88b8-a51f3f13c55c/2b937680-b2f4-47ff-a030-ceabd817f84c/G-54ab (SAT).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/141d29ec-9dd4-4aaf-88b8-a51f3f13c55c/c07ce335-102d-48fc-a135-19be6d70888a/G-54ab (SAT).png',
     ],
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8510,
-
     circle_code: 'G-54a (SUN)',
     name: 'Jump!! Boat!',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Jump!! Boat!.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/jumpboat.time?igsh=dWJmNXYzMHVzb2Y0',
+    circle_instagram: 'https://www.instagram.com/jumpboat.time?igsh=dWJmNXYzMHVzb2Y0',
     circle_twitter: null,
     circle_other_socials: 'https://msha.ke/chocosenja#links',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/bf126059-2454-4c10-83ad-9eb6f78c4f02/41f2a0cd-176f-4c0d-ab39-042a3165fb5a/G-54a (SUN).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/bf126059-2454-4c10-83ad-9eb6f78c4f02/a240e002-bb93-4f0d-8534-8e07d651a6dd/G-54a (SUN).png',
@@ -13223,206 +10006,160 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/bf126059-2454-4c10-83ad-9eb6f78c4f02/f54357b9-7714-4587-b63b-45986d41f829/G-54a (SUN).jpg',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8511,
-
     circle_code: 'G-54b (SUN)',
     name: 'Silver Cafe',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Silver Cafe.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/dayandra_owo?igsh=MTAwMGR2cnozNTY4eg==',
+    circle_instagram: 'https://www.instagram.com/dayandra_owo?igsh=MTAwMGR2cnozNTY4eg==',
     circle_twitter: 'https://x.com/Soul_Reaper_V_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8512,
-
     circle_code: 'G-55ab',
     name: 'Freaky Mart',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Freaky Mart.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/ruesttt/',
     circle_twitter: 'https://x.com/ruestttt',
     circle_other_socials: 'https://linktr.ee/ruesttt',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8513,
-
     circle_code: 'G-56ab/G-57ab',
     name: 'STAY WARAS',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/STAY WARAS.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'instagram.com/_lilpage instagram.com/taomatow instagram.com/yant2k instagram.com/aleal249 Instagram.com/rafwacchi Instagram.com/kiull90 Instagram.com/binero10 Instagram.com/an__zoe',
     circle_twitter:
       'x.com/_lilpage x.com/taomatow x.com/sshiroixx x.com/yant2k x.com/Aleal249 X.com/rafwacchi X.com/kiull90 X.com/Binero_10 X.com/an__zoe',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8514,
-
     circle_code: 'G-58ab/G-59ab',
     name: 'Astristicworks',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Astristicworks.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/astristicwork.shop/?hl=id',
     circle_twitter: 'https://x.com/astristicworks',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8515,
-
     circle_code: 'G-60ab',
     name: 'Makonyan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Makonyan.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/erasartt/',
     circle_twitter: null,
     circle_other_socials: 'https://makonyanclub.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8516,
-
     circle_code: 'H-01ab',
     name: 'LIME+',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/LIME+.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/lime.plusmy',
     circle_twitter: 'https://x.com/nikeyze_11',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8517,
-
     circle_code: 'H-02ab/H-03ab',
     name: 'MOEMORI',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/MOEMORI.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/moemori_?igsh=cm9vMmp4b3hzbjFl',
+    circle_instagram: 'https://www.instagram.com/moemori_?igsh=cm9vMmp4b3hzbjFl',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8518,
-
     circle_code: 'H-04ab/H-05ab',
     name: 'Yumekawa-ya!',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Yumekawa-ya!.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/yumekawaya',
     circle_twitter: 'https://x.com/yumekawaya',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8519,
-
     circle_code: 'H-06a',
     name: 'LucuLucuWan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/LucuLucuWan.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kepingcut',
     circle_twitter: 'https://x.com/kbondoxxa',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8520,
-
     circle_code: 'H-06b',
     name: 'NOIRIN',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/NOIRIN.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/hereisnov',
     circle_twitter: 'https://x.com/hereisnov',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8521,
-
     circle_code: 'H-07a',
     name: 'BawangSenang',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/BawangSenang.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/bawangsenang/',
     circle_twitter: 'https://x.com/bawangsenang',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c66ddc0a-0121-4c52-be54-02cad3aa9b39/0003bb70-5f60-4aa7-a4cd-ff622a8063e6/H-07a.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c66ddc0a-0121-4c52-be54-02cad3aa9b39/fb3e61dc-5532-4f23-ba25-6f3e432ec963/H-07a.jpg',
@@ -13435,41 +10172,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c66ddc0a-0121-4c52-be54-02cad3aa9b39/4c67178c-cb36-49e7-b1ae-b501b4f4e94a/H-07a.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8522,
-
     circle_code: 'H-07b',
     name: 'JVCveritas',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/JVCveritas.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/jvcveritas/',
     circle_twitter: 'https://x.com/jvcveritas',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8523,
-
     circle_code: 'H-08ab',
     name: 'dollyink.official',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/dollyink.official.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/dollyink.official/',
     circle_twitter: 'https://x.com/dollyink_oa',
-    circle_other_socials:
-      'https://www.tiktok.com/@dollyink.official?_t=8qoT8jHtsri&_r=1',
-
+    circle_other_socials: 'https://www.tiktok.com/@dollyink.official?_t=8qoT8jHtsri&_r=1',
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/01ed228a-09f5-416c-98f7-d518e2075809/03ee2706-9f3a-4660-8f00-7c078c8a230d/H-08ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/01ed228a-09f5-416c-98f7-d518e2075809/fa4f6441-0ec9-4512-8027-a9a4e19a5d3a/H-08ab.jpg',
@@ -13479,59 +10207,47 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/01ed228a-09f5-416c-98f7-d518e2075809/7e892544-b0b1-410a-9e67-a12351f5556f/H-08ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8524,
-
     circle_code: 'H-09ab',
     name: 'RAPOK!',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/RAPOK!.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/rapok.id',
     circle_twitter: 'https://x.com/rapok_id',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8525,
-
     circle_code: 'H-10ab',
     name: 'Meja Gueh',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Meja Gueh.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/mentegamadu_/ , https://www.instagram.com/bunnyradar/',
     circle_twitter: 'https://x.com/mentegamadu , https://x.com/chubbyneoguri/',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8526,
-
     circle_code: 'H-11ab',
     name: 'Pabrik Anak Gepeng',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pabrik Anak Gepeng.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/mystiquinnn',
     circle_twitter: 'https://x.com/mystiquinn',
     circle_other_socials: 'https://pabrikanakgepeng.carrd.co',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/cf9fa3a1-240e-4ad8-aaa2-6061e2557374/8d8c272e-ab22-44b8-a97a-9691064debde/H-11ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/cf9fa3a1-240e-4ad8-aaa2-6061e2557374/16ba53c9-1610-4ffc-8a66-e5f85756c180/H-11ab.jpg',
@@ -13540,134 +10256,104 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/cf9fa3a1-240e-4ad8-aaa2-6061e2557374/97b90ded-6916-45a3-96ec-85566fb513ab/H-11ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8527,
-
     circle_code: 'H-12ab',
     name: 'Kedai Pethok',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kedai Pethok.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://Instagram.com/fearinrain',
     circle_twitter: 'https://x.com/fearinrain',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8528,
-
     circle_code: 'H-13ab',
     name: 'Kiarapon x Pasar Semanggi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kiarapon x Pasar Semanggi.jpg',
-
     circle_facebook: 'https://www.facebook.com/NeskapeKopiAsin',
     circle_instagram: 'https://www.instagram.com/kiarapon_shop',
     circle_twitter: 'https://x.com/Kopipedia_',
     circle_other_socials: 'https://kylkirara.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8529,
-
     circle_code: 'H-14a',
     name: 'Besto Friendo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Besto Friendo.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/bymon.jpg, https://www.instagram.com/mirae.crafts',
+    circle_instagram: 'https://www.instagram.com/bymon.jpg, https://www.instagram.com/mirae.crafts',
     circle_twitter: 'https://x.com/dosmamon, https://x.com/_cosmiclemon',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8530,
-
     circle_code: 'H-14b',
     name: 'Pinkxmatcha',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pinkxmatcha.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/hochijaa',
     circle_twitter: 'https://x.com/pink_matcha',
     circle_other_socials: 'https://hochijaa.tumblr.com/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8531,
-
     circle_code: 'H-15ab (SAT)',
     name: 'Homoglobin',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Homoglobin.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/illucy7',
     circle_twitter: 'https://x.com/illucy7',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8532,
-
     circle_code: 'H-15a (SUN)',
     name: 'Majik Pemutih',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Majik Pemutih.jpg',
-
     circle_facebook: '',
-    circle_instagram:
-      'https://www.instagram.com/ta.niya_03?igsh=ZHh4bDA1c2poajln',
+    circle_instagram: 'https://www.instagram.com/ta.niya_03?igsh=ZHh4bDA1c2poajln',
     circle_twitter: 'https://x.com/taniya__03',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f4efd80e-016c-48a3-aa4d-f58926917530/49b2d523-3419-4973-a924-67c9cac8b365/H-15a (SUN).png',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8533,
-
     circle_code: 'H-15b (SUN)',
     name: 'Cae_ppuccino',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cae_ppuccino.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/cae_yuki/',
     circle_twitter: 'https://x.com/cae_yuki',
     circle_other_socials: 'https://deviantart.com/celicca-yuki',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/66094985-a522-4d18-8e61-e79d2a2d842e/2d7694aa-1d39-465f-a89c-ad382df9bd04/H-15b (SUN).jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/66094985-a522-4d18-8e61-e79d2a2d842e/7e24afba-3af8-4663-ba01-93a2742ee2c5/H-15b (SUN).jpg',
@@ -13681,94 +10367,74 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/66094985-a522-4d18-8e61-e79d2a2d842e/61dd48df-d625-4f16-97a8-c32709c31d11/H-15b (SUN).jpg',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8534,
-
     circle_code: 'H-16ab (SAT)',
     name: 'Hidup Mati',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Hidup Mati.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/aho_Kitsune',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8535,
-
     circle_code: 'H-17ab',
     name: 'Mx. Iwa',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mx. Iwa.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/mx.iwa/',
     circle_twitter: 'https://x.com/erwinsfootstall/',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8536,
-
     circle_code: 'H-18ab',
     name: 'Yudistira x Zura Kura',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Yudistira x Zura Kura.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/yudis.png/',
     circle_twitter: 'https://x.com/zurakuraworks',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8537,
-
     circle_code: 'H-19ab',
     name: 'Le Ratlette',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Le Ratlette.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/konoha_kairi/',
     circle_twitter: 'https://x.com/konoha_kairi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8538,
-
     circle_code: 'H-20ab',
     name: 'Pusat Delulu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pusat Delulu.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/ariysu_',
     circle_twitter: 'https://x.com/ariysu_',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7a6caeb6-951d-40fc-b971-055cfe9b4fb1/c0a46a88-71d7-4a4c-b18a-63a01f3f33fe/H-20ab.jpeg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7a6caeb6-951d-40fc-b971-055cfe9b4fb1/9d72c107-943a-4f4b-80dd-3e2baf98d41a/H-20ab.jpeg',
@@ -13777,112 +10443,88 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7a6caeb6-951d-40fc-b971-055cfe9b4fb1/8adf407d-3ee4-4051-8590-9603fb94d914/H-20ab.jpeg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8539,
-
     circle_code: 'H-21ab',
     name: 'Skeni',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Skeni.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/skeniskeni/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8540,
-
     circle_code: 'H-22ab',
     name: 'Goldeenmii',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Goldeenmii.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/goldeenmii/',
     circle_twitter: 'https://twitter.com/goldeenmii',
     circle_other_socials: 'https://goldeenmii.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8541,
-
     circle_code: 'H-23a',
     name: 'Trink N Treat',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Trink N Treat.jpg',
-
     circle_facebook: null,
     circle_instagram: 'Xirarra',
     circle_twitter: 'Birmingsnort / anon_ill',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8542,
-
     circle_code: 'H-23b',
     name: 'Ujang Kedu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ujang Kedu.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'x.com/ketekreze',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8543,
-
     circle_code: 'H-24ab (SAT)',
     name: 'Penyentuh Rumput',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Penyentuh Rumput.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/loneashers',
     circle_twitter: 'https://x.com/Loneasher',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8544,
-
     circle_code: 'H-25ab',
     name: '(W)ibu2',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/(W)ibu2.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/wibu2_?igsh=bTA3dnNtandjdmhh',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e3d63492-40d2-42bd-974a-390f687a45a4/eb368804-2619-4a4c-9948-ae9498aecff7/H-25ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e3d63492-40d2-42bd-974a-390f687a45a4/1061b282-9a4b-4ee0-a7f4-113a14dbbeba/H-25ab.jpeg',
@@ -13896,228 +10538,178 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e3d63492-40d2-42bd-974a-390f687a45a4/ec760ae6-5293-4daa-a7d2-00b9805a95b5/H-25ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8545,
-
     circle_code: 'H-26ab/H-27ab',
     name: 'Gender Reveal',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Gender Reveal.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://instagram.com/holappapaa, https://instagram.com/t0meku, https://instagram.com/lav1uu, https://instagram.com/heysillyme',
     circle_twitter:
       'https://x.com/holappapa, https://x.com/t0meku, https://x.com/laviuu_, https://x.com/toloveblue',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8546,
-
     circle_code: 'H-28ab/H-29ab',
     name: 'Hi.Kiui',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Hi.Kiui.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/hi.kiui?igsh=MTlxeWg2ZGN5ZHlpOQ==',
+    circle_instagram: 'https://www.instagram.com/hi.kiui?igsh=MTlxeWg2ZGN5ZHlpOQ==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8547,
-
     circle_code: 'H-30a',
     name: 'shyav',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/shyav.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/shyav_',
     circle_twitter: 'https://x.com/shyav_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8548,
-
     circle_code: 'H-30b',
     name: 'IceCalm',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/IceCalm.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/icecalm?igsh=MTZ6ZzNteWdnd3dldA==',
+    circle_instagram: 'https://www.instagram.com/icecalm?igsh=MTZ6ZzNteWdnd3dldA==',
     circle_twitter: 'https://x.com/noticecalm?s=21&t=zDhhkoBxGEvTomGpUjECow',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8549,
-
     circle_code: 'H-31ab',
     name: 'WDY1000',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/WDY1000.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/wdy_1000',
     circle_other_socials: 'https://www.pixiv.net/en/users/12208831',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8550,
-
     circle_code: 'H-32ab/H-33ab',
     name: 'Doa waifu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Doa waifu.jpg',
-
     circle_facebook: 'https://web.facebook.com/anemone.anastasia.77/',
     circle_instagram: 'https://www.instagram.com/microwife_studio/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2417187a-14ad-4942-8508-46b58a379426/89e593c4-2354-411e-ab74-aac156698b00/H-32ab/H-33ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2417187a-14ad-4942-8508-46b58a379426/db542750-1eda-458b-8019-629cf74f48c9/H-32ab/H-33ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2417187a-14ad-4942-8508-46b58a379426/89fa13e9-2108-4431-91ff-1233e01c6d8f/H-32ab/H-33ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8551,
-
     circle_code: 'H-34ab',
     name: 'BAZOTAO',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/BAZOTAO.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/bazotao/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8552,
-
     circle_code: 'H-35ab',
     name: 'Kozo Hub',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kozo Hub.jpg',
-
     circle_facebook: 'facebook.com/arry.wibiksana',
     circle_instagram: 'https://www.instagram.com/wibik_sana/',
     circle_twitter: 'x.com/elianoire',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8553,
-
     circle_code: 'H-36a',
     name: 'Rotten.cherri',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Rotten.cherri.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/rotten.cherri/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8554,
-
     circle_code: 'H-36b',
     name: 'Buciness Man',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Buciness Man.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/pan__kmy',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8555,
-
     circle_code: 'H-37a',
     name: '@mobiusu14',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/@mobiusu14.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/mobiusu14',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8556,
-
     circle_code: 'H-37b (SAT)',
     name: '5KRIPTSI',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/5KRIPTSI.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/Mm04ng',
     circle_other_socials: 'https://8080088.carrd.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4ae2e263-49aa-47d5-9e67-d2cc65dafdaf/ef119f37-3382-409d-a386-ac55c65009b6/H-37b (SAT).jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4ae2e263-49aa-47d5-9e67-d2cc65dafdaf/34d7f845-6e28-4e79-ab28-8e689dd9e7c1/H-37b (SAT).jpg',
@@ -14125,95 +10717,74 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4ae2e263-49aa-47d5-9e67-d2cc65dafdaf/e9624223-cf69-43eb-b923-d0c15661cd8a/H-37b (SAT).jpg',
     ],
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8557,
-
     circle_code: 'H-37b (SUN)',
     name: 'Garrrtz',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Garrrtz.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/garrrtz?igsh=MTU5dmFoeHVqN3hmMg==',
+    circle_instagram: 'https://www.instagram.com/garrrtz?igsh=MTU5dmFoeHVqN3hmMg==',
     circle_twitter: 'https://x.com/garrrtz',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8558,
-
     circle_code: 'H-38ab',
     name: 'ARMD MECHANICS',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ARMD MECHANICS.jpg',
-
     circle_facebook: 'facebook.com/thesubjektzero0',
     circle_instagram: 'instagram.com/armd_mechanics',
     circle_twitter: 'x.com/aditya_xero',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8559,
-
     circle_code: 'H-39ab',
     name: 'AXL 48 3D Arterlier',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/AXL 48 3D Arterlier.jpg',
-
     circle_facebook: 'https://www.facebook.com/dimaz.dante',
     circle_instagram: 'https://www.instagram.com/axl48_3d_artelier/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8560,
-
     circle_code: 'H-40ab',
     name: 'Bonjour Lilo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bonjour Lilo.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://instagram.com/bonjour.lilo',
     circle_twitter: '-',
     circle_other_socials: 'https://shopee.co.id/bonjourlilo',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8561,
-
     circle_code: 'H-41a',
     name: 'Kayoy Berniaga',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kayoy Berniaga.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kayoooy_/',
     circle_twitter: 'https://x.com/Kayoooy_',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/668eee1b-6682-432b-b412-3f297fe1d866/5e6d3276-447a-4ed9-a580-b7ebb7e166ca/H-41a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/668eee1b-6682-432b-b412-3f297fe1d866/d595156b-f87f-4458-a4de-1bf077760f7d/H-41a.png',
@@ -14224,123 +10795,94 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/668eee1b-6682-432b-b412-3f297fe1d866/a17fe61c-d0cd-4c22-8110-246097a85a80/H-41a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8562,
-
     circle_code: 'H-41b',
     name: 'JIBERIX',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/JIBERIX.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/jiberix_',
     circle_twitter: 'https://x.com/jiberix',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8563,
-
     circle_code: 'H-42ab',
     name: "Cheeb's Party",
     circle_cut:
       "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cheeb's Party.jpg",
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/hamu_mel04',
     circle_twitter: 'https://x.com/hamu_mel04',
     circle_other_socials: 'https://hamumel.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8564,
-
     circle_code: 'H-43ab',
     name: 'Chicken Burt',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Chicken Burt.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kodokimaru',
     circle_twitter: 'https://x.com/kodokimaru',
     circle_other_socials: null,
-
     fandom: "Jojo's Bizzarre Adventure",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8565,
-
     circle_code: 'H-44ab',
     name: 'Halumart',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Halumart.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/ungubirutoska?igsh=MXdmdmZ3bjJvZzJxcQ==',
+    circle_instagram: 'https://www.instagram.com/ungubirutoska?igsh=MXdmdmZ3bjJvZzJxcQ==',
     circle_twitter: 'https://x.com/ungubirutoska',
     circle_other_socials: null,
-
     fandom: "Jojo's Bizarre Adventure",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8566,
-
     circle_code: 'H-45a',
     name: 'Delulu Atelier',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Delulu Atelier.jpg',
-
     circle_facebook: null,
     circle_instagram: '@catspringg',
     circle_twitter: '@catspringg',
     circle_other_socials: null,
-
     fandom: 'Kimi ni todoke, skip & loafer, nana, Kamisama kiss (Shoujo anime)',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8567,
-
     circle_code: 'H-45b',
     name: 'Kacang Laut Dugem',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kacang Laut Dugem.jpg',
-
     circle_facebook: 'https://www.facebook.com/azazielsawyer',
     circle_instagram: 'https://www.instagram.com/azaziel00/',
     circle_twitter: 'https://x.com/AzazielSawyer',
     circle_other_socials: null,
-
     fandom: "Jojo's Bizzare Adventure",
     other_fandom:
       "Original, Charisma House, Sengoku Basara, Resident Evil, Left 4 dead, Devil May Cry, Jojo's Bizzare Adventure",
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/55fadfa1-68d2-4f8d-b404-f85d13de1974/c19821c4-0e1c-406b-8ce2-92a1647e61d1/H-45b.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/55fadfa1-68d2-4f8d-b404-f85d13de1974/9953a0b1-e7b2-47a2-b654-a9cbb0b57b19/H-45b.jpg',
@@ -14353,24 +10895,19 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/55fadfa1-68d2-4f8d-b404-f85d13de1974/0f2ebe04-656b-43d4-b727-583da1794c93/H-45b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8568,
-
     circle_code: 'H-46ab',
     name: 'Kroket Goreng',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kroket Goreng.jpg',
-
-    circle_facebook:
-      'https://www.facebook.com/mochammad.ramadhan.359?locale=id_ID',
+    circle_facebook: 'https://www.facebook.com/mochammad.ramadhan.359?locale=id_ID',
     circle_instagram:
       'https://www.instagram.com/sweetcassava_art?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==',
     circle_twitter: 'https://twitter.com/SweetCassava_',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/cc7677d0-71b2-4fb6-b3c2-409f3062fd3e/1fd3037c-973a-4e8d-b003-f32d42705c72/H-46ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/cc7677d0-71b2-4fb6-b3c2-409f3062fd3e/2ce94a93-e8ba-4588-b430-b72275171255/H-46ab.png',
@@ -14379,40 +10916,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/cc7677d0-71b2-4fb6-b3c2-409f3062fd3e/58b658c0-5942-4051-b904-f722e9a36ad8/H-46ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8569,
-
     circle_code: 'H-47ab',
     name: 'Toserba Ignotus',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Toserba Ignotus.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/ignotusation/',
     circle_twitter: 'https://x.com/Toserba_Ignotus',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8570,
-
     circle_code: 'H-48ab',
     name: 'Sorasoft',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sorasoft.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61563896405520',
     circle_instagram: null,
     circle_twitter: 'https://x.com/AJIBEH_Revenge',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b890fc86-fd66-4724-8eb8-1fdda8f0302e/0cf52453-464c-410d-91e6-c34185bd7dd5/H-48ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b890fc86-fd66-4724-8eb8-1fdda8f0302e/7ccb5a3e-6fe8-4d47-ac0e-9c2163b60b0c/H-48ab.png',
@@ -14425,97 +10954,76 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b890fc86-fd66-4724-8eb8-1fdda8f0302e/a30e99ba-40f3-471a-977e-4fcf7f5e3797/H-48ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8571,
-
     circle_code: 'H-49ab',
     name: 'Komik Kampung Kelor & Black Ink Project',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Komik Kampung Kelor & Black Ink Project.jpg',
-
     circle_facebook: 'https://www.facebook.com/share/18FNvJhKHm/',
     circle_instagram:
       'https://www.instagram.com/kampung_kelor?igsh=eHZtMTY5d3h0cW42 , https://www.instagram.com/blackink_project?igsh=MTZvdXZzdHVsbjA4ZQ==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8572,
-
     circle_code: 'H-50ab',
     name: 'Angelmart 24',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Angelmart 24.jpg',
-
     circle_facebook: 'https://www.facebook.com/share/1GWNHaiAFF/',
     circle_instagram: 'https://www.instagram.com/angelmart_24',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8573,
-
     circle_code: 'H-51ab',
     name: 'Rysalia',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Rysalia.jpg',
-
     circle_facebook: 'https://www.facebook.com/rysaliaillust/',
     circle_instagram: 'https://www.instagram.com/rysalia_hmc/',
     circle_twitter: null,
     circle_other_socials: null,
-
     other_fandom: "Girls' frontline, Arknights",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8574,
-
     circle_code: 'H-52ab',
     name: 'Atelier Haruka',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Atelier Haruka.jpg',
-
     circle_facebook: 'https://www.facebook.com/AniichanSketchRepo',
     circle_instagram: null,
     circle_twitter: 'https://x.com/shirayuk1haruka',
     circle_other_socials: 'https://www.pixiv.net/en/users/11613713',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8575,
-
     circle_code: 'H-53a',
     name: 'Kedai 21',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kedai 21.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61561549673169',
     circle_instagram: 'https://www.instagram.com/nebusokugumi/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d521a763-01dc-4ba8-9016-e232e47761d8/82bd157f-ec54-4812-9c3a-236bfc0a5b5f/H-53a.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d521a763-01dc-4ba8-9016-e232e47761d8/0d07bc24-08e0-457f-88d9-64b7b3ae209c/H-53a.jpg',
@@ -14527,96 +11035,76 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d521a763-01dc-4ba8-9016-e232e47761d8/7d433484-6065-4f99-a0ce-94ae90cae79b/H-53a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8576,
-
     circle_code: 'H-53b',
     name: "Momoka L'saltywetspirit",
     circle_cut:
       "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Momoka L'saltywetspirit.jpg",
-
     circle_facebook: 'https://www.facebook.com/momokasoruti69',
     circle_instagram: null,
     circle_twitter: 'https://twitter.com/hamsapkani69',
     circle_other_socials: 'https://linktr.ee/saltywetspirit',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8577,
-
     circle_code: 'H-54ab',
     name: 'Crimson Tea Party',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Crimson Tea Party.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/creepy_himecchi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8578,
-
     circle_code: 'H-55a',
     name: 'Tandu [tangan dukun]',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tandu tangan dukun.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/tangandukun',
     circle_other_socials: 'https://tandu.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8579,
-
     circle_code: 'H-55b',
     name: 'Hawkkun',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Hawkkun.jpg',
-
     circle_facebook: 'https://www.facebook.com/senpaihawkkun',
     circle_instagram: null,
     circle_twitter: 'https://x.com/senpaihawkkun',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f74f0b28-d733-4d1a-8e07-22a2856f46a6/3daebaa7-f37a-4e05-8a56-1059856a51f8/H-55b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8580,
-
     circle_code: 'H-56ab/H-57ab',
     name: 'Republic Of Kani',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Republic Of Kani.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61560425948991',
     circle_instagram: '-',
     circle_twitter: 'https://x.com/A_Wugi/',
     circle_other_socials: 'https://republikofkani.carrd.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/57f2b166-82cb-4cd7-8f43-61f38b810a51/345b48c6-5492-45b5-aef3-63d64840c587/H-56ab/H-57ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/57f2b166-82cb-4cd7-8f43-61f38b810a51/92a93d15-64a5-42bf-b5c7-5bf25ebb819e/H-56ab/H-57ab.png',
@@ -14627,22 +11115,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/57f2b166-82cb-4cd7-8f43-61f38b810a51/cb03a071-d32a-4e0f-8b15-2fba4e86014a/H-56ab/H-57ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8581,
-
     circle_code: 'H-58ab',
     name: 'Artelier',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Artelier.jpg',
-
     circle_facebook: 'https://www.facebook.com/arteliercircle',
     circle_instagram: null,
     circle_twitter: 'https://x.com/ArtelierCircle',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/44a5f816-14ce-46c3-a327-e7a668433521/1ddcf873-d9bd-4bc5-86d1-95969dada01f/H-58ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/44a5f816-14ce-46c3-a327-e7a668433521/ad5c38c7-50f5-42cf-aff6-37007a490d00/H-58ab.jpg',
@@ -14650,58 +11134,46 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/44a5f816-14ce-46c3-a327-e7a668433521/e71a6328-7173-4c55-8d02-3bd5e3cd8c48/H-58ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8582,
-
     circle_code: 'H-59ab (SAT)',
     name: 'Tekatuku',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tekatuku.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/nnarchive.s',
     circle_twitter: 'https://x.com/aitonevy',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8583,
-
     circle_code: 'H-59a (SUN)',
     name: 'J-Music Ethusiastic',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/J-Music Ethusiastic.jpg',
-
     circle_facebook: 'https://web.facebook.com/moussakakeos',
     circle_instagram: 'https://www.instagram.com/moussakakeos/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8584,
-
     circle_code: 'H-59b (SUN)',
     name: 'Sunshy Café',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sunshy Cafe.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/diaitu_jan',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9f1a6c96-3189-45a2-9d0f-aee316f62895/1d1a5ee0-f40d-4b24-907e-eb616a4bfd29/H-59b (SUN).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9f1a6c96-3189-45a2-9d0f-aee316f62895/35602ae6-b7b8-46a9-8972-55c603eebbce/H-59b (SUN).png',
@@ -14713,44 +11185,35 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9f1a6c96-3189-45a2-9d0f-aee316f62895/19fe0ad7-a3ae-424e-9fde-6156f6f73c94/H-59b (SUN).png',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8585,
-
     circle_code: 'H-60a',
     name: 'CaraFun',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CaraFun.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/carafun.circle/',
     circle_twitter: 'https://x.com/CaraFun_Circle',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8586,
-
     circle_code: 'H-60b',
     name: 'KiRAMEKi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KiRAMEKi.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/kirameki.circle?igsh=NTl1ZXp5d3N5b3Q4&utm_source=qr',
     circle_twitter: 'https://x.com/switchonn0w?s=21&t=4YkflO_w29VcuTwhoRAMVw',
     circle_other_socials: null,
-
     other_fandom:
       "Bang Dream, Dispatch, Heated Rivalry, Wicked, Nana, Umamusume, House MD, RDR2/Red dead redemption, Tgswiiwagaa, Silent hill f, Minecraft (SFAWTDE), Originals, Roblox (Dandy's world, Flamingo), Western Pop",
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5bdda809-4091-4f77-bc9c-5225935542b8/0ad74f81-8e15-4851-aaf2-89aa4d4b4f36/H-60b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5bdda809-4091-4f77-bc9c-5225935542b8/6e7a758a-3666-4057-8289-b23725f4fa0b/H-60b.png',
@@ -14763,173 +11226,136 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5bdda809-4091-4f77-bc9c-5225935542b8/0ff74d69-a852-4970-afdd-89155cfd8a14/H-60b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8587,
-
     circle_code: 'I-01a',
     name: 'Circle Penggambar',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Circle Penggambar.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61578489808711',
     circle_instagram: null,
     circle_twitter: 'https://x.com/good_user_pidi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8588,
-
     circle_code: 'I-01b',
     name: 'Dexiaos',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Dexiaos.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/rumi_rumi.rare/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8589,
-
     circle_code: 'I-02ab/I-03ab',
     name: 'GOSANKE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/GOSANKE.jpg',
-
     circle_facebook: 'https://www.facebook.com/SeirenCircle',
     circle_instagram: 'https://www.instagram.com/spearhead_circle/',
     circle_twitter: 'https://x.com/rimawarna',
     circle_other_socials: 'https://www.instagram.com/smfst.ltd',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8590,
-
     circle_code: 'I-04ab',
     name: 'Saru Sanctuary',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Saru Sanctuary.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61587367222709',
-    circle_instagram:
-      'https://www.instagram.com/alkalinemitty?igsh=MXI3Y3BibzVoYXl1OQ==',
+    circle_instagram: 'https://www.instagram.com/alkalinemitty?igsh=MXI3Y3BibzVoYXl1OQ==',
     circle_twitter: 'https://x.com/mittybinikazuya?s=21',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/aa0da988-5096-4f8a-a7bb-96883da46b1d/3121591f-c40d-4097-b727-62ec7332e008/I-04ab.jpeg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/aa0da988-5096-4f8a-a7bb-96883da46b1d/d2c9bb83-177d-4dd6-a8d4-6267bd1a3723/I-04ab.jpeg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8591,
-
     circle_code: 'I-05ab',
     name: 'Belka',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Belka.jpg',
-
     circle_facebook: 'https://www.facebook.com/maulanamp3',
     circle_instagram: 'https://www.instagram.com/maulanamp3',
     circle_twitter: 'https://x.com/frizz925',
     circle_other_socials: '',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/068cc013-218e-4029-b0d4-02bab1d31a03/c584990e-228e-42d6-bb07-ecbecee7282f/I-05ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/068cc013-218e-4029-b0d4-02bab1d31a03/d5e46e7c-0a00-4dae-b020-7b472f7ecda6/I-05ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8592,
-
     circle_code: 'I-06ab',
     name: 'Tambourine Club',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tambourine Club.jpg',
-
     circle_facebook: null,
     circle_instagram: 'Alulasaurus',
     circle_twitter: 'https://x.com/Alula456',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8593,
-
     circle_code: 'I-07a (SAT)',
     name: 'Halusial',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Halusial.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/raflesial/',
     circle_twitter: 'https://x.com/Raflesial_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8594,
-
     circle_code: 'I-07a (SUN)',
     name: 'Shounen Society',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Shounen Society.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/sh0unens0ciety/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8595,
-
     circle_code: 'I-07b (SAT)',
     name: 'Gumi’s Favorite',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Gumis Favorite.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/lycheetako',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3caa6496-12af-47db-bb49-2b13325856b9/85b79d10-f8b7-4dc0-9252-5756d151eb41/I-07b (SAT).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3caa6496-12af-47db-bb49-2b13325856b9/6cfe225f-4626-495b-a6ee-da22fa19f243/I-07b (SAT).jpeg',
@@ -14939,22 +11365,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3caa6496-12af-47db-bb49-2b13325856b9/8745f0d0-3442-4188-bd38-d92c87032bb8/I-07b (SAT).jpeg',
     ],
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8596,
-
     circle_code: 'I-07b (SUN)',
     name: 'Nyawit: Nyari Duwit',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nyawit Nyari Duwit.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=100063632250231',
     circle_instagram: 'https://instagram.com/snows_notes',
     circle_twitter: 'https://x.com/gattonerro1',
     circle_other_socials: 'https://x.com/snows_notes',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7138a306-17d3-4334-ad11-0a7cbcade521/4be08ff0-5c4b-4373-89b6-0c0e95c6e636/I-07b (SUN).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7138a306-17d3-4334-ad11-0a7cbcade521/55313007-0ad2-4147-be5d-8824bc621736/I-07b (SUN).png',
@@ -14962,41 +11384,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7138a306-17d3-4334-ad11-0a7cbcade521/6a09b5ae-fdaa-4a1b-98fb-b7c57b4a48c5/I-07b (SUN).png',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8597,
-
     circle_code: 'I-08ab (SAT)',
     name: 'Pasar Yaouri',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pasar Yaouri.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/pasar.yaouri?igsh=ZWZyYzNnajNicm1i',
+    circle_instagram: 'https://www.instagram.com/pasar.yaouri?igsh=ZWZyYzNnajNicm1i',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8598,
-
     circle_code: 'I-08a (SUN)',
     name: 'Aku Suka Makaroni',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Aku Suka Makaroni.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/mystichoodie',
     circle_twitter: null,
     circle_other_socials: 'https://www.instagram.com/heasyshi',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7190faf8-5eef-4f1b-b7c2-50ef6f0a9596/881c68bd-9270-4fbf-8274-24ce5ca9e013/I-08a (SUN).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7190faf8-5eef-4f1b-b7c2-50ef6f0a9596/349f6409-bf81-4522-8ac0-c5383b5b5227/I-08a (SUN).png',
@@ -15005,40 +11418,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7190faf8-5eef-4f1b-b7c2-50ef6f0a9596/1835a487-b55a-461f-945c-1e677aa8ebf5/I-08a (SUN).png',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8599,
-
     circle_code: 'I-08b (SUN)',
     name: 'No Corner',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/No Corner.jpg',
-
     circle_facebook: 'https://www.facebook.com/neincorner',
     circle_instagram: null,
     circle_twitter: 'https://x.com/nin9swells',
     circle_other_socials: 'https://potofu.me/nin9',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8600,
-
     circle_code: 'I-09ab (SAT)',
     name: 'NTC Department',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/NTC Department.jpg',
-
     circle_facebook: 'https://www.facebook.com/NeotericDepartment',
     circle_instagram: 'https://www.instagram.com/ntc_department/',
     circle_twitter: 'https://x.com/neotericdept',
     circle_other_socials: '-',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2e510a26-151d-4e11-9c35-d08489b0fd0a/c1111a4d-f949-4135-a458-0524881a9444/I-09ab (SAT).jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2e510a26-151d-4e11-9c35-d08489b0fd0a/9177b079-a298-436a-a917-192f134c0a67/I-09ab (SAT).jpg',
@@ -15049,117 +11454,90 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2e510a26-151d-4e11-9c35-d08489b0fd0a/dc5f28f5-f213-49d1-a130-27a7eb31c0a8/I-09ab (SAT).jpg',
     ],
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8601,
-
     circle_code: 'I-09a (SUN)',
     name: 'FISHSOUP',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/FISHSOUP.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/tamqyq?igsh=MTk0dXBhZjdpZ3Vneg==',
+    circle_instagram: 'https://www.instagram.com/tamqyq?igsh=MTk0dXBhZjdpZ3Vneg==',
     circle_twitter: 'https://x.com/Tamqyq?t=n1QRzG4iPM6Jx1qHkTURaw&s=09',
     circle_other_socials: 'https://x.com/cnsmsoup',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8602,
-
     circle_code: 'I-09b (SUN)',
     name: 'nasi merah',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/nasi merah.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/bsakkkyu/',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8603,
-
     circle_code: 'I-10ab',
     name: 'Shrimphosis',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Shrimphosis.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/shrimphosis',
     circle_twitter: 'https://x.com/wandermerchs',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8604,
-
     circle_code: 'I-11a',
     name: 'Xiun x Elle',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Xiun x Elle.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/supernyaovah?igsh=M3pkM3lyZGNyM3Fi&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/supernyaovah?igsh=M3pkM3lyZGNyM3Fi&utm_source=qr',
     circle_twitter: 'https://x.com/supernyaovah?s=21',
     circle_other_socials: null,
-
     other_fandom:
       "Hundred Line, Link Click, Twisted Wonderland, Milgram, Pokemon, Project Sekai, Jojo's Bizarre Adventure, Ave Mujica, Love Bullet, Danganronpa, Your Turn To Die",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8605,
-
     circle_code: 'I-11b',
     name: 'TampanCrew',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/TampanCrew.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/nathanojahan',
     circle_twitter: 'https://x.com/Azalanz',
     circle_other_socials: 'https://x.com/_linnamon_',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8606,
-
     circle_code: 'I-12ab',
     name: 'Kopi Susu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kopi Susu.jpg',
-
     circle_facebook: 'https://www.facebook.com/KopiSusuCircle',
     circle_instagram: null,
     circle_twitter: 'https://x.com/KopiSusu_Circle',
     circle_other_socials: 'https://kopsus.art',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d779084f-5d80-44d8-86b8-0e7bdee8c995/58f7f92d-301b-4f2c-8c0f-98519d0a0522/I-12ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d779084f-5d80-44d8-86b8-0e7bdee8c995/1a9ead8f-f31f-4ed6-9e06-951e44a16704/I-12ab.jpg',
@@ -15169,40 +11547,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d779084f-5d80-44d8-86b8-0e7bdee8c995/219a8e6d-d5bb-4582-972f-917fb94ac4a3/I-12ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8607,
-
     circle_code: 'I-13ab',
     name: 'LitLit OwO',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/LitLit OwO.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/litlit_owo/',
     circle_twitter: 'https://x.com/litlit_owo',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8608,
-
     circle_code: 'I-14ab',
     name: 'Shinju Leaf',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Shinju Leaf.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/shinjuleaf/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/dd84ac39-b7fb-4dc0-adf5-d6af33f46eea/75073d0f-fb2a-41c4-949a-a79dc99d7a50/I-14ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/dd84ac39-b7fb-4dc0-adf5-d6af33f46eea/61840179-070f-49cc-aa9d-b7a87191b9ee/I-14ab.jpg',
@@ -15214,168 +11584,130 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/dd84ac39-b7fb-4dc0-adf5-d6af33f46eea/4f4dcb35-b4e5-4053-b5a5-95031f38c495/I-14ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8609,
-
     circle_code: 'I-15a',
     name: 'Federasi Barudak Introvert',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Federasi Barudak Introvert.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/ppyuuingles',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8610,
-
     circle_code: 'I-15b',
     name: 'Orcherion',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Orcherion.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/nina__pcy',
     circle_twitter: 'https://x.com/cacyuu',
     circle_other_socials: 'https://pixiv.me/digitorix',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8611,
-
     circle_code: 'I-16a',
     name: 'One Han',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/One Han.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/ebiebibeam',
     circle_twitter: 'https://x.com/EbiEbiBeam',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8612,
-
     circle_code: 'I-16b',
     name: 'P! BALAP SENTINEL',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/P! BALAP SENTINEL.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/vientagram',
     circle_twitter: 'https://x.com/vientagram',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8613,
-
     circle_code: 'I-17ab',
     name: 'Gilang Mukandi x Supermachi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Gilang Mukandi x Supermachi.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/6ilmuk',
     circle_twitter: 'https://x.com/6ilmuk',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8614,
-
     circle_code: 'I-18ab',
     name: 'Goleran Sekai',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Goleran Sekai.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/goleransekai/',
     circle_twitter: 'https://x.com/goleransekai',
     circle_other_socials: 'https://go-sek.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8615,
-
     circle_code: 'I-19ab',
     name: 'S.pr (Sarjana Pencari Rezeki)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/S.pr (Sarjana Pencari Rezeki).jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/Remiiien',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8616,
-
     circle_code: 'I-20ab',
     name: 'Japan Trip 2026 GC',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Japan Trip 2026 GC.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/umarusora?igsh=ejFpcmZmOXU2MmNh',
+    circle_instagram: 'https://www.instagram.com/umarusora?igsh=ejFpcmZmOXU2MmNh',
     circle_twitter: 'https://x.com/uwamusora',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8617,
-
     circle_code: 'I-21ab',
     name: 'Manusia Berjualan Gambar',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Manusia Berjualan Gambar.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/mbge_2025?igsh=MXNpZjA4ZHBwcnZvZw==',
+    circle_instagram: 'https://www.instagram.com/mbge_2025?igsh=MXNpZjA4ZHBwcnZvZw==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ac60b9bb-1c8c-49f7-b691-4e291a9339ae/c3fe6f44-91d4-4225-bfb8-468ff5be3b5c/I-21ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ac60b9bb-1c8c-49f7-b691-4e291a9339ae/75fe00b0-3435-46bd-b746-4c65c2153f78/I-21ab.png',
@@ -15385,94 +11717,74 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ac60b9bb-1c8c-49f7-b691-4e291a9339ae/508cac5f-7b62-401f-8caf-76316e3e013b/I-21ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8618,
-
     circle_code: 'I-22ab',
     name: 'Fukujin_Merchandise',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Fukujin_Merchandise.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/fukujin_merchandise/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8619,
-
     circle_code: 'I-23a',
     name: 'Haru & Carrots',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Haru & Carrots.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61583864068918',
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: 'https://haru8carrot.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8620,
-
     circle_code: 'I-23b',
     name: 'Exit 0',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Exit 0.jpg',
-
     circle_facebook: 'https://www.facebook.com/exit0.circle',
     circle_instagram: null,
     circle_twitter: 'https://x.com/Reia_76',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8621,
-
     circle_code: 'I-24ab',
     name: 'fishcake:3',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/fishcake3.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/tchifessah/',
     circle_twitter: 'https://x.com/bebeckwe',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8622,
-
     circle_code: 'I-25ab',
     name: 'UMA LUMPING',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/UMA LUMPING.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61555463154442',
     circle_instagram: null,
     circle_twitter: '',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e9a415a1-b3ff-4919-8396-aa9c5ef930f9/cdfd3c15-838d-489a-8b9b-d49c4eac3afc/I-25ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e9a415a1-b3ff-4919-8396-aa9c5ef930f9/2f7ea7c8-2a08-4b75-99d0-f0fde413ee7d/I-25ab.png',
@@ -15486,22 +11798,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e9a415a1-b3ff-4919-8396-aa9c5ef930f9/cde4d8f4-db74-4c25-9591-8cc8925c4085/I-25ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8623,
-
     circle_code: 'I-26ab/I-27ab',
     name: 'Uma Sekai Project',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Uma Sekai Project.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: '',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/72f6f834-0535-4ccd-a791-1192bb35e300/451e9d7a-f7ec-43df-aa7a-55e73b49e7d7/I-26ab/I-27ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/72f6f834-0535-4ccd-a791-1192bb35e300/f5242f46-7076-43a0-9ca2-e08512b578ac/I-26ab/I-27ab.jpg',
@@ -15509,59 +11817,46 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/72f6f834-0535-4ccd-a791-1192bb35e300/74e47d0e-3a0f-45f8-9938-708af039e725/I-26ab/I-27ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8624,
-
     circle_code: 'I-28ab/I-29ab',
     name: 'Aiiromori',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Aiiromori.jpg',
-
     circle_facebook: 'facebook.com/aiiromori',
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8625,
-
     circle_code: 'I-30a',
     name: 'Cozy Production',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cozy Production.jpg',
-
     circle_facebook: 'https://www.facebook.com/BerkaryaDenganSantai',
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8626,
-
     circle_code: 'I-30b',
     name: 'MIKOCHI',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/MIKOCHI.jpg',
-
     circle_facebook: 'https://www.facebook.com/share/1Aa9mdbLLp/',
-    circle_instagram:
-      'https://www.instagram.com/mione.artcafe?igsh=dmsybDQ3MzZqcG8w',
+    circle_instagram: 'https://www.instagram.com/mione.artcafe?igsh=dmsybDQ3MzZqcG8w',
     circle_twitter: 'https://x.com/akanoasagao',
     circle_other_socials: 'https://ko-fi.com/immione',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/861efdec-966a-41a5-96db-d587065345d4/1f1b4299-1cad-4932-a372-ce7efff1433a/I-30b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/861efdec-966a-41a5-96db-d587065345d4/43b39144-e48b-4b75-873c-4d9d85e895f8/I-30b.png',
@@ -15569,40 +11864,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/861efdec-966a-41a5-96db-d587065345d4/a47bf980-1a61-4cc8-9d24-96dab4c94c28/I-30b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8627,
-
     circle_code: 'I-31a',
     name: 'Hachiman Works',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Hachiman Works.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/hachihacihatch/',
     circle_twitter: 'https://x.com/HachiHaciHatch',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8628,
-
     circle_code: 'I-31b',
     name: 'Aquarks',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Aquarks.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/kanslaaaa/',
     circle_twitter: 'https://x.com/Kanslaaaa',
     circle_other_socials: 'https://x.com/Ar_frenzano',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/83d4d0f3-87b6-4df1-b9df-e69a1375089a/7b55f6fd-9ef7-4173-b103-4a6e7f33a2fe/I-31b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/83d4d0f3-87b6-4df1-b9df-e69a1375089a/fa8228b2-b227-4216-b719-e2d79d2f20a6/I-31b.png',
@@ -15613,58 +11900,46 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/83d4d0f3-87b6-4df1-b9df-e69a1375089a/09a2805b-0472-43b3-a1e6-a072307019fb/I-31b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8629,
-
     circle_code: 'I-32ab/I-33ab',
     name: 'IIWII x Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/IIWII x Studio.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/iiwii.x.studio/',
     circle_twitter: 'https://x.com/IIWII_x_Studio',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8630,
-
     circle_code: 'I-34ab/I-35ab',
     name: 'KAKE-DASHI',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KAKE-DASHI.jpg',
-
     circle_facebook: 'https://www.facebook.com/katkenji99/',
     circle_instagram: 'https://www.instagram.com/kat9kenji/',
     circle_twitter: null,
     circle_other_socials: 'https://linktr.ee/kat9kenji',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8631,
-
     circle_code: 'I-36ab (SAT)',
     name: 'Booth of MIGHTYYYY!!!!',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Booth of MIGHTYYYY!!!!.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/rolling_._dumpling/',
     circle_twitter: 'https://x.com/RLdumplingUwU',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3861b3ee-310f-46a5-b36c-ccce93b6fbc5/0c51426a-40dc-497a-9b3c-340ec80c77ff/I-36ab (SAT).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3861b3ee-310f-46a5-b36c-ccce93b6fbc5/a34e0b17-8e45-4bde-848c-2e5a0ef45499/I-36ab (SAT).png',
@@ -15675,40 +11950,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3861b3ee-310f-46a5-b36c-ccce93b6fbc5/9ef90bce-c85d-4163-a93a-338c75e77dd8/I-36ab (SAT).png',
     ],
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8632,
-
     circle_code: 'I-36ab (SUN)',
     name: 'Ilolonggg',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ilolonggg.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/suntoryclub/',
     circle_twitter: 'https://x.com/ilolonggg',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8633,
-
     circle_code: 'I-37ab (SAT)',
     name: 'ChocoTiger',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ChocoTiger.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/chocorivarts/',
     circle_twitter: 'https://x.com/chocorivarts',
     circle_other_socials: 'https://www.pixiv.net/en/users/22400443',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f12f3aa5-746b-4245-a801-5cbd292a4c6d/e7e28cde-f36e-437d-beaa-d7f356fbcfe9/I-37ab (SAT).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f12f3aa5-746b-4245-a801-5cbd292a4c6d/69c65d67-df71-40e8-a337-88552fc6843f/I-37ab (SAT).png',
@@ -15718,23 +11985,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f12f3aa5-746b-4245-a801-5cbd292a4c6d/0f862e4b-bca7-4dbf-91f6-fa5408e42574/I-37ab (SAT).jpg',
     ],
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8634,
-
     circle_code: 'I-37ab (SUN)',
     name: 'Gambar-Gambar',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Gambar-Gambar.jpg',
-
-    circle_facebook:
-      'https://www.facebook.com/profile.php?id=61564224898357&locale=id_ID',
+    circle_facebook: 'https://www.facebook.com/profile.php?id=61564224898357&locale=id_ID',
     circle_instagram: null,
     circle_twitter: 'https://x.com/Dzyyeee',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d54dfdae-348b-40ad-9205-68d3c52910b4/fec61a83-0624-400e-b24b-1fd935c1b038/I-37ab (SUN).jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d54dfdae-348b-40ad-9205-68d3c52910b4/b3af0bc8-cc0e-497d-9f1d-2288484c825d/I-37ab (SUN).jpg',
@@ -15746,262 +12008,206 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d54dfdae-348b-40ad-9205-68d3c52910b4/ee15d383-f653-4988-ba2c-71a98557a7df/I-37ab (SUN).jpg',
     ],
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8635,
-
     circle_code: 'I-38a',
     name: 'Pabrik Crochet Originium',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pabrik Crochet Originium.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/snowwy_frost',
     circle_twitter: 'https://x.com/Snowwy_Frost?s=20',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8636,
-
     circle_code: 'I-38b',
     name: 'VoidColors',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/VoidColors.jpg',
-
     circle_facebook: 'https://www.facebook.com/kurifura',
     circle_instagram: 'https://www.instagram.com/kurifura/',
     circle_twitter: 'https://x.com/Kurifuraa',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8637,
-
     circle_code: 'I-39ab',
     name: 'Prism:NOVA Lingkarya',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PrismNOVA Lingkarya.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/PNLingkarya',
     circle_other_socials: 'https://prismnova.pro/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8638,
-
     circle_code: 'I-40ab',
     name: 'SO.LID Circle',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SO.LID Circle.jpg',
-
     circle_facebook: 'https://www.facebook.com/sobatsulid',
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8639,
-
     circle_code: 'I-41ab/I-42ab',
     name: 'Kaukau X Seizoens Mix',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kaukau X Seizoens Mix.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/sarkatzen_/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8640,
-
     circle_code: 'I-43ab',
     name: 'Asinan Jabodetabek',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Asinan Jabodetabek.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/michi_tenayuki/',
     circle_twitter: 'https://x.com/michi_tenayuki',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5bd2bf2c-1b8a-46d8-b9c4-cc29504353f2/7c1159e9-4b4e-48da-9d3f-c466d609c55a/I-43ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8641,
-
     circle_code: 'I-44ab',
     name: 'Cuanisme',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cuanisme.jpg',
-
     circle_facebook: 'https://www.facebook.com/KeroShoku',
     circle_instagram: 'https://www.instagram.com/keroshoku_',
     circle_twitter: 'https://x.com/KeroShoku',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8642,
-
     circle_code: 'I-45ab',
     name: 'J-Illustration',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/J-Illustration.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/jcafe_illustration/',
     circle_twitter: 'https://x.com/jcafe_illust',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8643,
-
     circle_code: 'I-46ab',
     name: 'Kiosk Hantu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kiosk Hantu.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/hantuuuuxx?igsh=MTY0ZGp0NXZtc2hoaQ== and https://www.instagram.com/hidupgerard?igsh=MW1xcGY4cmp4eWNpdg==',
     circle_twitter: 'https://x.com/cageberry',
     circle_other_socials: 'https://hantuux.tumblr.com/?source=share',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8644,
-
     circle_code: 'I-47ab',
     name: 'PeepsMart',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PeepsMart.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/peepsmart.id/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8645,
-
     circle_code: 'I-48a',
     name: 'S.G.X',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/S.G.X.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/SGX_Circle?s=20',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8646,
-
     circle_code: 'I-48b (SAT)',
     name: 'Bor Catalogue',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bor Catalogue.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/_butterjar',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ed2fae72-75d4-4ae7-b258-cf61186f133b/3307c5c6-2e5a-4273-adcd-89776c95c775/I-48b (SAT).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ed2fae72-75d4-4ae7-b258-cf61186f133b/c0b02598-67c6-4ec6-91ff-eb1a964c3df7/I-48b (SAT).png',
     ],
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8647,
-
     circle_code: 'I-48b (SUN)',
     name: 'KIIRO NEXT',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KIIRO NEXT.jpg',
-
     circle_facebook: 'https://www.facebook.com/gatoridermy/',
     circle_instagram: 'https://www.instagram.com/gatorider14',
     circle_twitter: 'https://x.com/GatoriderMY',
     circle_other_socials: 'https://linktr.ee/kiironext',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8648,
-
     circle_code: 'I-49ab',
     name: 'Warkop Simping',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warkop Simping.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/loobww',
     circle_twitter: 'https://x.com/Loobww',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c6993343-dd16-4948-8a23-2a82ca4cc4b7/9a33639a-3d1f-4b03-9c2c-ab13776639d3/I-49ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c6993343-dd16-4948-8a23-2a82ca4cc4b7/0ee7677f-36b6-4bd8-a526-141dfd208d37/I-49ab.png',
@@ -16009,22 +12215,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c6993343-dd16-4948-8a23-2a82ca4cc4b7/6f42f509-a08f-4bce-aa7e-ea4952974f61/I-49ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8649,
-
     circle_code: 'I-50ab',
     name: 'RED RIBBON REVENGER',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/RED RIBBON REVENGER.jpg',
-
     circle_facebook: 'https://www.facebook.com/red.makoushi',
     circle_instagram: 'https://www.instagram.com/makoushi99/',
     circle_twitter: 'https://x.com/makoushi',
     circle_other_socials: 'https://watagashi.net/makoushi/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a583b644-258a-4ebc-999e-6f3ac7cadc2f/48aeb7f9-717a-4cc7-9a90-629fe122deea/I-50ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a583b644-258a-4ebc-999e-6f3ac7cadc2f/f7464a4f-d32b-479b-91b0-3f05509c4aca/I-50ab.jpg',
@@ -16038,117 +12240,91 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a583b644-258a-4ebc-999e-6f3ac7cadc2f/486a96bd-7828-425d-a0b1-ff0e4fa3d8fe/I-50ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8650,
-
     circle_code: 'I-51ab',
     name: 'Stasiun Chireiden x Foxtale',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Stasiun Chireiden x Foxtale.jpg',
-
     circle_facebook: 'https://web.facebook.com/honeylemon.honeylemon.3',
     circle_instagram: 'https://www.instagram.com/reinakocchi/',
     circle_twitter: 'https://x.com/reinakocchi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8651,
-
     circle_code: 'I-52ab',
     name: 'Tempat Lupa Nabung (TLN)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tempat Lupa Nabung (TLN).jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/totol.tln/',
     circle_twitter: 'https://x.com/TakasinUwU',
     circle_other_socials: null,
-
     other_fandom:
       "AKA Virtual (ONShannon), Arknights, Blue Archive, CZN, Danganronpa - Project : Eden's Garden, DoD, FGO, Frieren, GFL 2, GGST, Holostars EN, HSR, Hundred line last defense academy, Jojo's Bizarre Adventure, Mobil/ Otomotif, Mushoku Tensei, Nijisanji ID, Original, Resident Evil, Shikanoko, Tojima Tanzaburo, Villainess Lvl 99, ZZZ",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8652,
-
     circle_code: 'I-53ab',
     name: 'Dukun Jompo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Dukun Jompo.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter:
       'https://l.facebook.com/l.php?u=httpsx.comdukyunjmpxfbclidIwZXh0bgNhZW0CMTAAYnJpZBExOFRjS09EY3pGNHF1V2xCa3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR4AT6taN6CIOMbPCRgoDPoDCSE7ewZ9vFMV3nlVjTYwHa6gq4MvuLP2osSzuw_aem_GaZxU8SKa8A7JEo4OhZEvA&h=AT07xvB1S4rEoJOQIgOpgNlU8ITmZgK75Y7OibFR6M8bN2rjP4k-juBcHevdjrPQFWjDF9TfP2sSnaptpxrTKzPeVMy1qwtuLahlwGO8xIpIz8CXXMBztBCi_4qGmJk0zUxs_g',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8653,
-
     circle_code: 'I-54ab',
     name: 'EWA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/EWA.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8654,
-
     circle_code: 'I-55ab',
     name: 'Yakksan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Yakksan.jpg',
-
     circle_facebook: 'https://web.facebook.com/seishunie',
     circle_instagram: null,
     circle_twitter: 'https://x.com/yakksans',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8655,
-
     circle_code: 'I-56ab/I-57ab',
     name: 'Pabpel Studio x Clariyoselab',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pabpel Studio x Clariyoselab.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/pabpelstudio?igsh=MWIwY3BmNDRzdGxoaQ==',
+    circle_instagram: 'https://www.instagram.com/pabpelstudio?igsh=MWIwY3BmNDRzdGxoaQ==',
     circle_twitter: null,
     circle_other_socials: 'https://www.instagram.com/clariyoselab/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1cfa1a02-943b-4735-bf9e-c313bec92b25/8c69b4bc-b9b3-41ca-ab8a-815676049266/I-56ab/I-57ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1cfa1a02-943b-4735-bf9e-c313bec92b25/5b0763a9-28e4-4bb9-9736-4177ea91b2ca/I-56ab/I-57ab.png',
@@ -16157,193 +12333,150 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1cfa1a02-943b-4735-bf9e-c313bec92b25/a6558d76-6b01-4aae-b3f1-06ea988d7bd4/I-56ab/I-57ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8656,
-
     circle_code: 'I-58ab',
     name: '我不想工作',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/xunjiang.jpg',
-
-    circle_facebook:
-      'https://www.facebook.com/profile.php?id=100092977796346&locale=zh_CN',
+    circle_facebook: 'https://www.facebook.com/profile.php?id=100092977796346&locale=zh_CN',
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8657,
-
     circle_code: 'I-59ab',
     name: 'Six Petal Flower',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Six Petal Flower.jpg',
-
     circle_facebook: 'https://www.facebook.com/share/1C1vHzNPMC/',
     circle_instagram: null,
     circle_twitter: 'Twitter.com/sixpetalflower',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8658,
-
     circle_code: 'I-60ab',
     name: 'Jeruk Asin',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Jeruk Asin.jpg',
-
     circle_facebook: 'www.facebook.com/shiokaraiyuzu',
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8659,
-
     circle_code: 'J-01a',
     name: 'Stellaaa_uwu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Stellaaa_uwu.jpg',
-
     circle_facebook: 'https://www.facebook.com/share/1DNqa4K5J9/',
     circle_instagram: 'https://www.instagram.com/stellaaa_uwu/',
     circle_twitter: null,
     circle_other_socials: 'https://www.tiktok.com/@stellaaa_uwu',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8660,
-
     circle_code: 'J-01b',
     name: 'CULTON LOPLEP',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CULTON LOPLEP.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61570790933139',
     circle_instagram: null,
     circle_twitter: 'https://x.com/happyculton?s=21',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/577b3f91-ea0d-49e9-9eb6-1537b81ce1c3/d310ba15-3e25-4b91-a83e-59885120c0b4/J-01b.jpeg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8661,
-
     circle_code: 'J-02ab',
     name: 'Glitchbyte.exe',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Glitchbyte.exe.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/xxaulicchixx',
     circle_twitter: 'x.com/nakamotn',
     circle_other_socials: 'ko-fi.com/ofLunaticmoon',
-
     other_fandom:
       "Obey Me!, Honkai Star Rail, Minecraft, Ghibli, Genshin Impact, Wuthering Wave, Reverse 1999, Alien Stage, Identity V, Tamon's B-Side, Originals",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8662,
-
     circle_code: 'J-03ab',
     name: 'Haniwa Garden',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Haniwa Garden.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/yukanarion',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8663,
-
     circle_code: 'J-04ab',
     name: 'Bulung Pules',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bulung Pules.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/de.kavee/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8664,
-
     circle_code: 'J-06ab',
     name: 'GEROBAK',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/GEROBAK.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/Gerobak_GL',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8665,
-
     circle_code: 'J-07ab',
     name: 'Niche Knicknacks Corner',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Niche Knicknacks Corner.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/questionable_spirits, https://www.instagram.com/bebekpelik/',
     circle_twitter: 'https://x.com/bebekpelik, https://x.com/wzerizz',
     circle_other_socials: null,
-
     fandom: "Yuri/Girls' Love",
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/04788897-d83b-4e7c-bbca-eae278631e30/07924afe-a3b4-44c0-87e0-504facd9f13a/J-07ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/04788897-d83b-4e7c-bbca-eae278631e30/9fc598c9-4f76-4361-a393-0829682932ec/J-07ab.png',
@@ -16354,208 +12487,160 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/04788897-d83b-4e7c-bbca-eae278631e30/59d59798-5e07-4425-94f2-ad874c33abe9/J-07ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8666,
-
     circle_code: 'J-08ab',
     name: 'guinndel',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/guinndel.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/guinndel/',
     circle_twitter: 'https://x.com/guinndel',
     circle_other_socials: 'https://guinndel.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8667,
-
     circle_code: 'J-09ab (SAT)',
     name: 'MichiMerch',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/MichiMerch.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/aulia.ip/',
     circle_twitter: 'https://x.com/auliaip_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8668,
-
     circle_code: 'J-09ab (SUN)',
     name: 'MichiMumu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/MichiMumu.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/_michiks_/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8669,
-
     circle_code: 'J-10a (SAT)',
     name: 'Cutesy Missy',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cutesy Missy.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/youmeijiro/',
     circle_twitter: 'https://x.com/aruwhodraws',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8670,
-
     circle_code: 'J-10a (SUN)',
     name: 'Pejuang Finansial',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pejuang Finansial.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/2020_VH',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8671,
-
     circle_code: 'J-10b (SAT)',
     name: 'Pickled Yams',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pickled Yams.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/yamillust?igsh=MWxveHA4cDYzajJ1Nw==',
+    circle_instagram: 'https://www.instagram.com/yamillust?igsh=MWxveHA4cDYzajJ1Nw==',
     circle_twitter: 'https://x.com/yamillustration',
     circle_other_socials: null,
-
     fandom: "The Guy She Was Interested in Wasn't a Guy At All",
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8672,
-
     circle_code: 'J-10b (SUN)',
     name: 'Ilus Digi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ilus Digi.jpg',
-
     circle_facebook: 'Nardraws',
     circle_instagram: 'Nardraws',
     circle_twitter: 'Nardraws',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8673,
-
     circle_code: 'J-11ab/J-12ab',
     name: 'Outside Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Outside Studio.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/out.sidestudio?igsh=NDF3dHNmd3lzankx',
+    circle_instagram: 'https://www.instagram.com/out.sidestudio?igsh=NDF3dHNmd3lzankx',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8674,
-
     circle_code: 'J-13ab/J-14ab',
     name: 'Frootea Patootea',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Frootea Patootea.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/janiccentric',
     circle_twitter: 'https://x.com/janiccentric',
     circle_other_socials: null,
-
     fandom: "The Guy She Was Interested in Wasn't a Guy at All",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8675,
-
     circle_code: 'J-15b',
     name: 'Padepokan Pertemanan Perempuan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Padepokan Pertemanan Perempuan.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/anungmation/',
     circle_twitter: 'https://x.com/Noes565',
     circle_other_socials: 'https://p3cfxxii.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8676,
-
     circle_code: 'J-15a',
     name: 'MawlFey',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/MawlFey.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/mawlfey',
     circle_twitter: 'https://x.com/mawlfey',
     circle_other_socials: 'https://bit.ly/MFPORTOFOLIO2026',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/08eb8a90-a2cf-4e4b-8d04-2eaedb31b2c5/6a1897ed-8ef2-4f7a-8dd0-448071568add/J-15a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/08eb8a90-a2cf-4e4b-8d04-2eaedb31b2c5/f9055813-8896-49f6-8d4e-60f229127d32/J-15a.png',
@@ -16565,22 +12650,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/08eb8a90-a2cf-4e4b-8d04-2eaedb31b2c5/c73ca4fe-6d40-4087-80b3-386fb749ceba/J-15a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8677,
-
     circle_code: 'J-16ab',
     name: 'CTS (ChamomileTea Studio)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CTS (ChamomileTea Studio).jpg',
-
     circle_facebook: 'https://web.facebook.com/chamomiletea.studio/',
     circle_instagram: 'https://www.instagram.com/chamomiletea.studio/',
     circle_twitter: 'https://x.com/skeetcha_',
     circle_other_socials: 'https://chamomileteastudio.carrd.co',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/86944a69-ab95-4338-bb4d-3700d67acfb5/b91817e0-2a72-462b-9a51-1cd4317fe93b/J-16ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/86944a69-ab95-4338-bb4d-3700d67acfb5/c46d3c16-d4e1-42ea-ae90-1b4f9ca206be/J-16ab.jpg',
@@ -16594,22 +12675,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/86944a69-ab95-4338-bb4d-3700d67acfb5/9976f5da-f563-4d02-952a-10c7b22f71b9/J-16ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8678,
-
     circle_code: 'J-17a',
     name: 'Possessivenight',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Possessivenight.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/possessivenight/',
     circle_twitter: 'https://x.com/possessivenight',
     circle_other_socials: 'https://www.pixiv.net/en/users/89210290',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8093c052-5d50-40c6-a6ca-2c8208347653/27d02d27-5e63-46d6-b30e-ee28026efb49/J-17a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8093c052-5d50-40c6-a6ca-2c8208347653/e6f6c7a2-2a40-41c0-a5ea-5a488a83f992/J-17a.png',
@@ -16617,25 +12694,20 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8093c052-5d50-40c6-a6ca-2c8208347653/c7fb720e-ce44-4fd1-9ebf-c1d989538280/J-17a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8679,
-
     circle_code: 'J-17b',
     name: 'Beban Keluarga Creative Guild',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Beban Keluarga Creative Guild.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/bebankeluargacg/',
     circle_twitter: null,
     circle_other_socials: null,
-
     other_fandom:
       "Dungeons and Dragons, Baldur's Gate, Hoyoverse, Wuthering Waves, Witch hat atelier, Resident Evil, RWBY, Little Witch Academia",
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ee96bcac-6bc0-4851-bd37-69e9814d0b1f/8978af54-f6d8-412e-ac4e-1e3c8d1cb402/J-17b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ee96bcac-6bc0-4851-bd37-69e9814d0b1f/3106a85d-b8af-49b0-9ee0-d64cb7367ef3/J-17b.png',
@@ -16649,82 +12721,63 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ee96bcac-6bc0-4851-bd37-69e9814d0b1f/6be7bd95-d7af-4a2b-ad3b-2e0f08c42631/J-17b.jpeg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8680,
-
     circle_code: 'J-18ab',
     name: 'Agency Tapi Dagang',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Agency Tapi Dagang.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/byciptakreasi',
     circle_twitter: 'x.com/gabzydaisy',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8681,
-
     circle_code: 'J-19ab',
     name: 'Overcooked Jesters',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Overcooked Jesters.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/c4llofthev0id?igsh=MXF2eWZ1ZXVoczgxNA==',
+    circle_instagram: 'https://www.instagram.com/c4llofthev0id?igsh=MXF2eWZ1ZXVoczgxNA==',
     circle_twitter: null,
     circle_other_socials: null,
-
     fandom: "Frieren : Beyond Journey's End",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8682,
-
     circle_code: 'J-20ab',
     name: 'Smol Circle',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Smol Circle.jpg',
-
     circle_facebook: '(None)',
     circle_instagram:
       'https://instagram.com/vynellatte || https://instagram.com/kiramekuhotaru || https://instagram.com/shinsukeii.id || https://instagram.com/decalcomanica ||',
     circle_twitter: 'https://x.com/vynellatte',
     circle_other_socials: '(None)',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8683,
-
     circle_code: 'J-21ab',
     name: 'Affinity Blessing',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Affinity Blessing.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/raptvred',
     circle_other_socials: 'https://affinityblessing.carrd.co',
-
     fandom: "Baldur's Gate 3",
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8f3155e8-7ab0-4ca8-81d9-92a0108e4aea/ed12c3ea-4c49-4d8a-9b00-e4e8e786238e/J-21ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8f3155e8-7ab0-4ca8-81d9-92a0108e4aea/92e5cbbc-530f-4a70-9c18-87eb193c1b82/J-21ab.jpg',
@@ -16735,25 +12788,20 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8f3155e8-7ab0-4ca8-81d9-92a0108e4aea/8ddf5d51-67c5-4244-9a31-b78bf3d88781/J-21ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8684,
-
     circle_code: 'J-22a',
     name: 'Magic Hatch',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Magic Hatch.jpg',
-
     circle_facebook: 'https://www.facebook.com/magichatchcircle',
     circle_instagram: 'https://www.instagram.com/magichatchcircle/',
     circle_twitter: 'https://x.com/magic_hatch?s=21',
     circle_other_socials: 'https://magichatch.bsky.social',
-
     other_fandom:
       "Original IP, Dungeon Meshi, Deltarune, Project Moon, ZZZ, Stardew Valley, Call Of Duty, Baldur's Gate 3",
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2d0d6b9e-75e0-49c6-9b16-894546202d0a/da9fb40a-2c18-4863-ac87-853c5fac49ea/J-22a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2d0d6b9e-75e0-49c6-9b16-894546202d0a/8b1ce61f-b06d-4409-8a37-35ea9247fc07/J-22a.png',
@@ -16767,22 +12815,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2d0d6b9e-75e0-49c6-9b16-894546202d0a/cf66a0b7-2c64-452e-9a02-3f499221abdf/J-22a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8685,
-
     circle_code: 'J-22b',
     name: 'Dungeon Me-Ship',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Dungeon Me-Ship.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/koolaidbois',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/82c2a74a-dd24-4e91-a661-92e59c46d56f/5eae1090-488b-47bc-b7a5-d173ee247bfb/J-22b.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/82c2a74a-dd24-4e91-a661-92e59c46d56f/63df927b-a5f9-400f-95b7-a7568949771a/J-22b.jpg',
@@ -16791,40 +12835,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/82c2a74a-dd24-4e91-a661-92e59c46d56f/721894d3-4725-442f-a92b-6c1eb42d4a1f/J-22b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8686,
-
     circle_code: 'J-23a',
     name: 'PADUSISTA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PADUSISTA.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/uschulla_',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8687,
-
     circle_code: 'J-23b',
     name: 'Mythpunk',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mythpunk.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/roooo_kiah/',
     circle_twitter: 'https://x.com/roooo_kiah',
     circle_other_socials: 'https://tateringss.tumblr.com/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0dd992db-6d64-4ad8-ad2a-5bd8b624e7e9/bdb4facf-0326-418e-a8ec-04eacea99d60/J-23b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0dd992db-6d64-4ad8-ad2a-5bd8b624e7e9/f9711204-c318-4beb-a567-efacef3eb79d/J-23b.png',
@@ -16836,42 +12872,34 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0dd992db-6d64-4ad8-ad2a-5bd8b624e7e9/f696f5ae-3c59-4d28-a75c-58f222f7a5d9/J-23b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8688,
-
     circle_code: 'J-24a',
     name: 'Lester Manor',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lester Manor.jpg',
-
     circle_facebook: 'https://www.facebook.com/peja.swaminya.anne.lester',
     circle_instagram: 'https://www.instagram.com/pejalester/',
     circle_twitter: 'https://x.com/lester_idv',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8689,
-
     circle_code: 'J-24b (SAT)',
     name: 'I.O.U',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/I.O.U.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/junsjoys , https://www.instagram.com/fiofable_shop , https://www.instagram.com/by.charanzie',
     circle_twitter: 'https://x.com/bycharanzie , https://x.com/cloudnienty',
     circle_other_socials:
       'https://drive.google.com/drive/folders/1cUvwpsdUnXaB97ZTlgHM56j_GpwQyPy3',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/920c420d-92e8-4d08-bff2-9f17e26ee3db/4e634d53-cef3-45b7-a2f3-ae948c74b569/J-24b (SAT).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/920c420d-92e8-4d08-bff2-9f17e26ee3db/98d73a1c-eeeb-4543-a25e-51f77ac96bfc/J-24b (SAT).png',
@@ -16885,103 +12913,81 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/920c420d-92e8-4d08-bff2-9f17e26ee3db/958f5314-6e38-4869-b625-b9f03129fc70/J-24b (SAT).png',
     ],
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8690,
-
     circle_code: 'J-24b (SUN)',
     name: 'WAIFU PERKASA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/WAIFU PERKASA.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/domiou.artz/',
     circle_twitter: '-',
     circle_other_socials: 'https://www.instagram.com/domiou.artz/',
-
     other_fandom:
       "Dandadan, Genshin impact , Spy x family , Miss Kobayashi's Dragon Maid, My dress up darling",
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8691,
-
     circle_code: 'J-25a (SAT)',
     name: 'MENGnugas',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/MENGnugas.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/leleartchive',
     circle_twitter: 'https://x.com/leleartchive',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8692,
-
     circle_code: 'J-25a (SUN)',
     name: 'Lampu Biru',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lampu Biru.jpg',
-
     circle_facebook: 'https://www.facebook.com/yuuki.ara.19125',
     circle_instagram: null,
     circle_twitter: 'https://x.com/ziogaru_haato',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c7b11ee4-3c69-451c-a1c7-80cce6b51281/6e099ae2-fcc0-4e71-a5c4-4db4b69f245c/J-25a (SUN).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c7b11ee4-3c69-451c-a1c7-80cce6b51281/10a488ee-5a7f-48ae-96f6-a150c85f1f4d/J-25a (SUN).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c7b11ee4-3c69-451c-a1c7-80cce6b51281/1adee785-9318-4abd-b29f-edba877697e4/J-25a (SUN).png',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8693,
-
     circle_code: 'J-25b (SAT)',
     name: 'WIBU (Warga Ini Butuh Uang)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/WIBU (Warga Ini Butuh Uang).jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/maerinu_/ , https://www.instagram.com/budak_korporat97/ , https://www.instagram.com/mrselis_art/ , https://www.instagram.com/tir3d.yuk1/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8694,
-
     circle_code: 'J-25b (SUN)',
     name: 'Soraiven',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Soraiven.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/soraiven_?igsh=MXRhdXc2ZzFtcG5lNA==',
+    circle_instagram: 'https://www.instagram.com/soraiven_?igsh=MXRhdXc2ZzFtcG5lNA==',
     circle_twitter: 'https://x.com/soraiven_?t=1roj15rcplgrLS_R1cWsbQ&s=09',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/fbe0efaa-0dad-45ed-8545-b0e540d4b539/40bd4fa8-bf72-406f-87e5-df1dc5c37931/J-25b (SUN).jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/fbe0efaa-0dad-45ed-8545-b0e540d4b539/7e2a0722-8835-4ffe-adc2-8edcdf52c9d9/J-25b (SUN).jpg',
@@ -16991,131 +12997,102 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/fbe0efaa-0dad-45ed-8545-b0e540d4b539/4ead6db2-c58c-4b45-ab85-738bf9453e0b/J-25b (SUN).jpg',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8695,
-
     circle_code: 'J-27ab',
     name: 'Epicentury',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Epicentury.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/e.picentury/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8696,
-
     circle_code: 'J-28ab/J-29ab',
     name: 'delarave',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/delarave.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/delarave/',
     circle_twitter: 'https://x.com/_delarave',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8697,
-
     circle_code: 'J-30a',
     name: 'Wedank',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Wedank.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/mushimasha',
     circle_twitter: 'x.com/mushimasha_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8698,
-
     circle_code: 'J-30b',
     name: '[me:approve]',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/me_approve.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/ren_classified?igsh=ZmEybWh4aThvbHBk',
+    circle_instagram: 'https://www.instagram.com/ren_classified?igsh=ZmEybWh4aThvbHBk',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8699,
-
     circle_code: 'J-31ab',
     name: 'Kincrot Corporation',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kincrot Corporation.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kepalasawith/?hl=en',
     circle_twitter: 'https://x.com/smilingspectra',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8700,
-
     circle_code: 'J-32ab/J-33ab',
     name: 'Gogo Peanuts!',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Gogo Peanuts!.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/oetuy/',
     circle_twitter: 'https://x.com/oetuyy',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8701,
-
     circle_code: 'J-34ab',
     name: 'Two Gents Crafts',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Two Gents Crafts.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/twogents_crafts/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0e3341ae-7707-48d7-b7d4-cf4500809fb6/f12a26d4-910f-4f86-b93d-8800bf28a60f/J-34ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0e3341ae-7707-48d7-b7d4-cf4500809fb6/3ff30958-e029-4bad-adfd-c5505ff1ba12/J-34ab.jpg',
@@ -17128,41 +13105,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0e3341ae-7707-48d7-b7d4-cf4500809fb6/6cfb8a59-e528-4f8d-b7b6-26955bb5c905/J-34ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8702,
-
     circle_code: 'J-36ab',
     name: 'Blue Bass Band',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Blue Bass Band.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/_athy.na_?igsh=bGl4cTNyNjV1eXhv',
+    circle_instagram: 'https://www.instagram.com/_athy.na_?igsh=bGl4cTNyNjV1eXhv',
     circle_twitter: 'https://x.com/rqaiiden, https://x.com/Shenanigans_kes',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8703,
-
     circle_code: 'J-37a',
     name: 'Abu Belang',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Abu Belang.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/kyla_aurell',
     circle_twitter: 'https://x.com/aorkve__',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5056db05-60ad-43f2-b0df-0db9bd2e13e6/b1246cd8-d432-4348-9b2b-eb984b2f9f66/J-37a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5056db05-60ad-43f2-b0df-0db9bd2e13e6/33b669bd-3d31-45a9-abe9-73213a214589/J-37a.png',
@@ -17172,97 +13140,76 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5056db05-60ad-43f2-b0df-0db9bd2e13e6/f8795594-857b-42b0-8b20-b2da4ae016e1/J-37a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8704,
-
     circle_code: 'J-37b',
     name: 'MEATBUCKET',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/MEATBUCKET.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/rindomi3/',
     circle_twitter: 'https://x.com/rindomi3',
     circle_other_socials: null,
-
     other_fandom:
       "Chainsaw Man, Genshin Impact, Saiki K, My Chemical Romance, The Beatles, Deltarune, Jojo's Bizarre Adventure",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8705,
-
     circle_code: 'J-38ab',
     name: 'Sea Angels',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sea Angels.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/sonatadraws_/',
     circle_twitter: 'https://x.com/atanosdraws',
     circle_other_socials: 'https://linktr.ee/shopatseaangels',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8706,
-
     circle_code: 'J-39ab',
     name: 'berrybooze',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/berrybooze.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/berrybooze_art',
     circle_twitter: 'https://https://x.com/berrybooze_art',
     circle_other_socials: 'https://berryboozeart.wixsite.com/home',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8707,
-
     circle_code: 'J-40ab',
     name: 'Warung Tural',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warung Tural.jpg',
-
     circle_facebook: null,
     circle_instagram: '@jenosketch / @rotomicity / @peeppq / @notpainttoosai',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8708,
-
     circle_code: 'J-41ab',
     name: 'Kelvin_TrainerK x Koji.Kun',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kelvin_TrainerK x Koji.Kun.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kelvin_trainerk/',
     circle_twitter: 'https://www.x.com/kelvin_trainerk/',
     circle_other_socials: 'https://www.instagram.com/koji.kun/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9324f6cc-4802-4394-ba42-921f4b2faac7/a707f722-fe89-4b74-9234-bb6eb2773fae/J-41ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9324f6cc-4802-4394-ba42-921f4b2faac7/83992ba1-554c-4afb-b3c5-28dcf6666706/J-41ab.jpg',
@@ -17276,40 +13223,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9324f6cc-4802-4394-ba42-921f4b2faac7/c45d9993-46cc-4115-957e-d47e022e1f24/J-41ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8709,
-
     circle_code: 'J-43ab',
     name: 'kreatian',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/kreatian.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/krea.tian/?hl=en',
     circle_twitter: null,
     circle_other_socials: 'https://www.instagram.com/kreshna.patrian/?hl=en',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8710,
-
     circle_code: 'J-44ab',
     name: 'Craterium',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Craterium.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/miru_kun_',
     circle_twitter: 'https://x.com/nidurimART',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ad4ae26e-56d6-4040-89e2-322c1295a9ce/ebeba4e5-b66f-4908-aa9c-8c802900a628/J-44ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ad4ae26e-56d6-4040-89e2-322c1295a9ce/f5949829-fd4c-48fe-87e8-cc3d061fbeba/J-44ab.png',
@@ -17318,22 +13257,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ad4ae26e-56d6-4040-89e2-322c1295a9ce/34255515-c10d-4eb6-a97c-79dd96b7e6ae/J-44ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8711,
-
     circle_code: 'J-45ab',
     name: 'Ametrine Neko',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ametrine Neko.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/ametrine.neko',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/019920f9-094b-4d5d-9fe4-b7393deaf1c7/5abceab7-9021-4569-a900-114bb60aea57/J-45ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/019920f9-094b-4d5d-9fe4-b7393deaf1c7/c5e48c7c-e41b-4193-93ab-2a592447753b/J-45ab.jpg',
@@ -17347,22 +13282,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/019920f9-094b-4d5d-9fe4-b7393deaf1c7/9c9241e3-30e4-4b78-bebe-91894edd1a0d/J-45ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8712,
-
     circle_code: 'J-46ab',
     name: 'Zwelff Creates',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Zwelff Creates.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/zwelff/',
     circle_twitter: 'https://x.com/zwelff',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/10a8c89c-5a79-4a10-96d5-2c8b16e7b630/fabbea31-c211-4851-bff9-97470afa57ae/J-46ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/10a8c89c-5a79-4a10-96d5-2c8b16e7b630/4178af1c-a429-416d-8e79-6be56f77a05e/J-46ab.jpg',
@@ -17371,40 +13302,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/10a8c89c-5a79-4a10-96d5-2c8b16e7b630/a3ff960c-c8b3-4d93-9b95-908c26b959fe/J-46ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8713,
-
     circle_code: 'J-47ab',
     name: 'biohazardbin',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/biohazardbin.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/biohazardbin/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8714,
-
     circle_code: 'J-48ab',
     name: 'sop kucing',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/sop kucing.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/capcaysin/',
     circle_twitter: 'https://x.com/capcaysin',
     circle_other_socials: 'https://capcaysin.carrd.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2610f54a-dac7-4017-8287-f28a2c30a23a/b83b4433-d1d1-4d4c-afe8-a1a67fd5aa6d/J-48ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2610f54a-dac7-4017-8287-f28a2c30a23a/2c9d76c9-091d-4349-ad77-3f0b41075594/J-48ab.png',
@@ -17418,121 +13341,94 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2610f54a-dac7-4017-8287-f28a2c30a23a/9a29f0f7-1a13-4608-9bff-b338306c79ba/J-48ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8715,
-
     circle_code: 'J-49ab',
     name: 'Kuroojuu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kuroojuu.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/kuroojuu?igsh=YjF4bTFycnZ5YTRx',
+    circle_instagram: 'https://www.instagram.com/kuroojuu?igsh=YjF4bTFycnZ5YTRx',
     circle_twitter: null,
-    circle_other_socials:
-      'https://www.tiktok.com/@kuroojuu?_r=1&_t=ZS-93RnDI9S2qu',
-
+    circle_other_socials: 'https://www.tiktok.com/@kuroojuu?_r=1&_t=ZS-93RnDI9S2qu',
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8716,
-
     circle_code: 'J-50ab/J-51ab',
     name: 'Warung Seblak Cikur',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warung Seblak Cikur.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/floating.cup?igsh=MWJxcG4zYWVkN3VubA== https://www.instagram.com/zero._.annn/ https://www.instagram.com/shineicel https://www.instagram.com/mono.stygian?igsh=MXR4NjltNWg2d3E0cQ&utm_source=qr https://www.instagram.com/sh1nm1o?igsh=MXAxZ2dnZms1NWowOA==',
     circle_twitter:
       'https://x.com/zero_annn https://x.com/shineicel https://x.com/Reinnshin https://x.com/sh1nm1o?s=21&t=iVWlpl5C7zw0ag63WUt1_g https://x.com/woofymono?s=21&t=iVWlpl5C7zw0ag63WUt1_g',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8717,
-
     circle_code: 'J-52ab',
     name: 'pee pee poo poo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/pee pee poo poo.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/coatsinkleaf/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8718,
-
     circle_code: 'J-53a (SAT)',
     name: 'Meness',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Meness.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/m1stertoe/',
     circle_twitter: 'https://x.com/m1stertoe',
-    circle_other_socials:
-      'https://archiveofourown.org/users/Morningtea_39/pseuds/Morningtea_39',
-
+    circle_other_socials: 'https://archiveofourown.org/users/Morningtea_39/pseuds/Morningtea_39',
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b215cd6a-cb64-4934-a0f7-403ce436be4c/2e428058-7563-408e-b668-5022688d9474/J-53a (SAT).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b215cd6a-cb64-4934-a0f7-403ce436be4c/a7f0982b-357b-402e-9fa7-d04032eebbd1/J-53a (SAT).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b215cd6a-cb64-4934-a0f7-403ce436be4c/8b0e3006-d0bc-4a85-8683-ee4f908eb706/J-53a (SAT).png',
     ],
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8719,
-
     circle_code: 'J-53a (SUN)',
     name: 'PRO-CAST-INATOR',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PRO-CAST-INATOR.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/prutorrr/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8720,
-
     circle_code: 'J-53b (SAT)',
     name: 'mweng & fwens',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/mweng & fwens.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/chiwamii/',
     circle_twitter: 'https://x.com/itschiwamii',
     circle_other_socials: 'https://chiwamii.carrd.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f0a4f9a9-27e6-4364-b17f-cadbb64014e9/f3d62d5a-4852-4651-8fc0-d48f5e567a9d/J-53b (SAT).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f0a4f9a9-27e6-4364-b17f-cadbb64014e9/f1711336-b3e9-49b7-a731-330df16dcc8e/J-53b (SAT).png',
@@ -17540,22 +13436,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f0a4f9a9-27e6-4364-b17f-cadbb64014e9/72e5c225-d831-490a-ba3f-bb3a5844f6ae/J-53b (SAT).png',
     ],
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8721,
-
     circle_code: 'J-53b (SUN)',
     name: 'Asep Stroberi Works',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/MIFA.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://x.com/PirkiV_',
     circle_twitter: 'https://www.instagram.com/pirkiv_/',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/fd58eb3b-544a-4af1-9d9f-5f99b3d5c792/b0d3c402-4e9d-4560-9aaf-e8b39b393924/J-53b (SUN).jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/fd58eb3b-544a-4af1-9d9f-5f99b3d5c792/e46dccfa-ca70-40aa-8f82-0c035d828cc9/J-53b (SUN).jpg',
@@ -17563,40 +13455,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/fd58eb3b-544a-4af1-9d9f-5f99b3d5c792/3486b958-bfa7-4d21-b76b-f1bb56daed9d/J-53b (SUN).jpg',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8722,
-
     circle_code: 'J-54a',
     name: 'Waktu Indonesia Yearning',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Waktu Indonesia Yearning.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/perkedeldoesart',
     circle_twitter: 'https://x.com/perkedeldoesart',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8723,
-
     circle_code: 'J-54b',
     name: 'dried fish.',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/dried fish..jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/0n_lane/',
     circle_twitter: 'https://x.com/0n_lane',
     circle_other_socials: 'https://www.tumblr.com/blog/0n-lane',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/76292044-29b7-4172-8c61-833af1bd2388/37b4e1c9-50d4-4040-8b41-3118be019f70/J-54b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/76292044-29b7-4172-8c61-833af1bd2388/340e7d98-3a94-4502-b284-d57c00cc363e/J-54b.png',
@@ -17604,60 +13488,46 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/76292044-29b7-4172-8c61-833af1bd2388/1aaff1e3-8732-4992-9611-84a58ff5e3dd/J-54b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8724,
-
     circle_code: 'J-55ab (SAT)',
     name: 'Ganteng Ganteng Salonpas',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ganteng Ganteng Salonpas.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/reinarandraw/',
     circle_twitter: 'https://x.com/reinaranscream',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8725,
-
     circle_code: 'J-55ab (SUN)',
     name: 'Lapangan Kerja',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lapangan Kerja.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/_acerynn?igsh=MTRrdDlnNmRhZmZteQ==',
+    circle_instagram: 'https://www.instagram.com/_acerynn?igsh=MTRrdDlnNmRhZmZteQ==',
     circle_twitter: 'https://x.com/acechercher?t=BcTPUaHRIOTQ8tkf-qfPRQ&s=09',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8726,
-
     circle_code: 'J-57a (SUN)',
     name: '@tepoma.id & @riiibo.draws',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/@tepoma.id & @riiibo.draws.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://instagram.com/tepoma.id https://instagram.com/riiibo.draws',
+    circle_instagram: 'https://instagram.com/tepoma.id https://instagram.com/riiibo.draws',
     circle_twitter: 'https://x.com/tepoma_id https://x.com/riiibodraws',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/941f0ec7-c9fa-488d-a94a-ab70f474fae9/e0b101c2-0ebd-4335-a2a6-ab67d8bdd295/J-57a (SUN).jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/941f0ec7-c9fa-488d-a94a-ab70f474fae9/7f252ecd-af64-49eb-9d3f-118a058390b1/J-57a (SUN).jpg',
@@ -17665,285 +13535,220 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/941f0ec7-c9fa-488d-a94a-ab70f474fae9/081e9a80-a5c6-45aa-9259-fc5c89a5f006/J-57a (SUN).jpg',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8727,
-
     circle_code: 'J-57ab (SAT)',
     name: 'Bumcle',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bumcle.jpg',
-
     circle_facebook: '-',
-    circle_instagram:
-      'https://instagram.com/ ya0ifikasi ; https://instagram.com/jintouban',
-    circle_twitter:
-      'https://x.com/exntrc_ ; https://x.com/jintouban ; https://x.com/yamajunnie',
+    circle_instagram: 'https://instagram.com/ ya0ifikasi ; https://instagram.com/jintouban',
+    circle_twitter: 'https://x.com/exntrc_ ; https://x.com/jintouban ; https://x.com/yamajunnie',
     circle_other_socials: 'https://linktr.ee/pullingup2daunction',
-
     other_fandom:
       "Kamen Rider, Gundam, Ultraman, Digimon, Spiderverse, Interview with the Vampire, Baldur's Gate 3, Rune Factory 3, Fleabag, Fire Emblem, Galactic Heroes, Original",
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8728,
-
     circle_code: 'J-57b (SUN)',
     name: 'Random Ahh Merchants',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Random Ahh Merchants.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/RandomAhhMerch',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8729,
-
     circle_code: 'J-58ab',
     name: 'The First Checkpoint',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/The First Checkpoint.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'www.instagram.com/sanctumaster, www.instagram.com/madflaunt, www.instagram.com/eagleone_003',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8730,
-
     circle_code: 'J-59ab',
     name: 'HUMANAND STORE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/HUMANAND STORE.jpg',
-
     circle_facebook: '-',
-    circle_instagram:
-      'https://www.instagram.com/jecuput?igsh=MWd1aHloMzR2d25yeg==',
+    circle_instagram: 'https://www.instagram.com/jecuput?igsh=MWd1aHloMzR2d25yeg==',
     circle_twitter: 'https://x.com/Jecuput',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8731,
-
     circle_code: 'J-60a (SAT)',
     name: 'Shin Tegami Mensei',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Shin Tegami Mensei.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/warugaq',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8732,
-
     circle_code: 'J-60a (SUN)',
     name: 'BEBEJ',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/BEBEJ.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'x.com/asetamago',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8733,
-
     circle_code: 'J-60b (SAT)',
     name: 'berryarose',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/berryarose.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/berryarosee/',
     circle_twitter: 'https://x.com/berryarose',
     circle_other_socials: 'https://berryarose.carrd.co/',
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8734,
-
     circle_code: 'J-60b (SUN)',
     name: 'Warung Nasi Kucing WLW',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warung Nasi Kucing WLW.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/restlessrice/',
     circle_twitter: 'https://x.com/onigiriice',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8735,
-
     circle_code: 'K-01ab',
     name: 'Balls Inspector',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Balls Inspector.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/lanceorlance',
     circle_twitter: 'x.com/pirprilav',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8736,
-
     circle_code: 'K-02ab/K-03ab',
     name: 'YL. ENTERPRISE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/YL. ENTERPRISE.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/ylenterpriseid/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8737,
-
     circle_code: 'K-04ab',
     name: '.ONE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/.ONE.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/dotone.merch/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8738,
-
     circle_code: 'K-05ab',
     name: 'Sal & Pals',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sal & Pals.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/salmonrainy_/',
     circle_twitter: 'https://x.com/salmonrainy',
     circle_other_socials: 'https://salmonrainy.tumblr.com',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8739,
-
     circle_code: 'K-06ab',
     name: 'Paestrie',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Paestrie.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/paestrie/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8740,
-
     circle_code: 'K-07a',
     name: 'J&C General Goods',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/J&C General Goods.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/reapster_ https://www.instagram.com/vanillaicecreamcake_/',
     circle_twitter: 'https://x.com/reapster_',
     circle_other_socials: 'reapster.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8741,
-
     circle_code: 'K-07b',
     name: 'Bangsal de Solulu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bangsal de Solulu.jpg',
-
     circle_facebook: '',
     circle_instagram: 'https://www.instagram.com/mymelorisa/',
     circle_twitter: 'https://x.com/youtavoice',
     circle_other_socials: 'https://x.com/starphostrix',
-
     other_fandom:
       "TGSWIIWAGA, Saiki K, Witch's Heart, Your Turn to Die, Studio Investigrave, Zeno, SHTDN, Saihate Station, Milgram, OC, Phantom Busters, Love and Deepspace (LADS), RPG Maker",
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e52f3039-6fe0-4a6e-a3be-a3d2796ddfc1/8aca9ae1-5d1c-4040-ab25-5aa9325576e6/K-07b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e52f3039-6fe0-4a6e-a3be-a3d2796ddfc1/f985b959-f4ee-43f9-a853-b993ac539a8f/K-07b.png',
@@ -17951,217 +13756,169 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e52f3039-6fe0-4a6e-a3be-a3d2796ddfc1/31e31145-b84a-4051-b283-cfffd380812f/K-07b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8742,
-
     circle_code: 'K-08ab',
     name: 'FUJOHIME MART',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/FUJOHIME MART.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/karlsteinns/',
     circle_twitter: 'https://x.com/karlsteinns',
     circle_other_socials: 'https://queenieportfolio.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8743,
-
     circle_code: 'K-09ab',
     name: 'Gaji USD (United States of Depok)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Gaji USD (United States of Depok).jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/azuimaginaria/',
     circle_twitter: 'https://x.com/azuimaginaria',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8744,
-
     circle_code: 'K-10ab',
     name: 'Duo Kucing x Loomia Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Duo Kucing x Loomia Studio.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://instagram.com/duokucing_dk & https://instagram.com/loomiastudio',
+    circle_instagram: 'https://instagram.com/duokucing_dk & https://instagram.com/loomiastudio',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8745,
-
     circle_code: 'K-11ab/K-12ab',
     name: 'Buntelan Bebek x Kawaiiku x Kerirynn',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Buntelan Bebek x Kawaiiku x Kerirynn.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/buntelanbebek/ ; https://www.instagram.com/kawaiiku.id/ ; https://www.instagram.com/kerirynn/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8746,
-
     circle_code: 'K-13ab',
     name: 'Brewek Time',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Brewek Time.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/brewektime',
     circle_twitter: null,
     circle_other_socials: 'www.tiktok.com/@brewek.time',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8747,
-
     circle_code: 'K-14ab',
     name: 'Vnzmia by Ogloo Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Vnzmia by Ogloo Studio.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://Instagram.com/vnzmia/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8748,
-
     circle_code: 'K-15a',
     name: 'Pikusapi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pikusapi.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/pikusapi/',
     circle_twitter: 'https://x.com/pikusapi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8749,
-
     circle_code: 'K-15b',
     name: 'spirealle',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/spirealle.jpg',
-
     circle_facebook: 'http://facebook.com/spirealle',
     circle_instagram: 'https://www.instagram.com/spirealle/',
     circle_twitter: null,
     circle_other_socials: 'https://www.instagram.com/spirealle',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8750,
-
     circle_code: 'K-16a',
     name: 'Terminal',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Terminal.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/gajendraw/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8751,
-
     circle_code: 'K-16b',
     name: 'd.atlastudio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/d.atlastudio.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/d.atlastudio/?hl=en',
     circle_twitter: '-',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8752,
-
     circle_code: 'K-17ab',
     name: 'mmeiccaa x peachy',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/mmeiccaa x peachy.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/mmeiccaa/',
     circle_twitter: 'https://x.com/mmeiccaa',
     circle_other_socials: 'https://mmeiccaa.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8753,
-
     circle_code: 'K-18ab',
     name: 'Neko Fingerprint',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Neko Fingerprint.jpg',
-
     circle_facebook:
       'kirara_cecilvenes: https://www.facebook.com/nekofingerprint ; devonazure: https://www.facebook.com/devonazure.art',
     circle_instagram:
@@ -18169,7 +13926,6 @@ export const BOOTHS = [
     circle_twitter:
       'kirara_cecilvenes: https://x.com/LilianaKirara ; devonazure: https://x.com/devonazureee',
     circle_other_socials: 'https://kirara-cecilvenes.carrd.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7ae5758e-2aa2-4f87-9fa1-99acf98a3e4e/6cde2a07-cb4c-462b-9bf3-9b1f2e1c82af/K-18ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7ae5758e-2aa2-4f87-9fa1-99acf98a3e4e/a790ee23-6a4b-4383-adae-e681bdf020ca/K-18ab.png',
@@ -18183,470 +13939,359 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7ae5758e-2aa2-4f87-9fa1-99acf98a3e4e/1bea18e5-0a9f-48f2-8727-407d3c08142f/K-18ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8754,
-
     circle_code: 'K-19ab',
     name: 'Papeda Gulung Enak',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Papeda Gulung Enak.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/papeda.gulungenak/',
     circle_twitter: 'https://x.com/kamzeawug',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8755,
-
     circle_code: 'K-20ab/K-21ab',
     name: 'SNGARILA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SNGARILA.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/sngarila.art?igsh=ZHBteW9nMWhjeDVi',
+    circle_instagram: 'https://www.instagram.com/sngarila.art?igsh=ZHBteW9nMWhjeDVi',
     circle_twitter: null,
     circle_other_socials:
       'https://drive.google.com/file/d/1AsL_tVdEmEpeYRvlQaKiP2KuMpZJHpdL/view?usp=drivesdk',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8756,
-
     circle_code: 'K-22ab',
     name: 'Calamipheion',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Calamipheion.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/calamipheionnn',
     circle_twitter: 'https://x.com/Hanamoruuu',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8757,
-
     circle_code: 'K-23ab',
     name: 'bonbunny N homies',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/bonbunny N homies.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/bonbunny.id?igsh=bXd3aDZoOHozM29r&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/bonbunny.id?igsh=bXd3aDZoOHozM29r&utm_source=qr',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8758,
-
     circle_code: 'K-24a',
     name: 'CRLY',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CRLY.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/lumzmccurly/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8759,
-
     circle_code: 'K-24b',
     name: 'Bejirlicious',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bejirlicious.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/lydia_faull/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8760,
-
     circle_code: 'K-25ab',
     name: 'The Yeyes',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/The Yeyes.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/kopibirdy/ , https://www.instagram.com/intervee24_/?hl=en , https://www.instagram.com/wee_radish/?hl=af , https://www.instagram.com/carnodorova/',
     circle_twitter: 'https://x.com/kopibirdy',
     circle_other_socials:
       'https://drive.google.com/drive/folders/137KRFGBdi5DX304VJe85aAFvillzUIq5?usp=sharing',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8761,
-
     circle_code: 'K-26ab/K-27ab',
     name: 'notre atelier',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/notre atelier.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/notreatelier.catalog',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8762,
-
     circle_code: 'K-28ab',
     name: 'CallMeCia',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CallMeCia.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/marciafortunaa/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8763,
-
     circle_code: 'K-29ab',
     name: 'sagtavilia',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/sagtavilia.jpg',
-
     circle_facebook: 'https://www.facebook.com/sagtavilia',
     circle_instagram: 'https://www.instagram.com/sagta_vilia/',
     circle_twitter: 'https://x.com/junjoupurelove',
     circle_other_socials: 'https://bsky.app/profile/junjoupurelove.bsky.social',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8764,
-
     circle_code: 'K-30a',
     name: 'Save Ass.PNG',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Save Ass.PNG.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/saveass.png',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8765,
-
     circle_code: 'K-30b',
     name: 'Critter Cranny',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Critter Cranny.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/katismm - https://www.instagram.com/foofoosel/',
+    circle_instagram: 'https://www.instagram.com/katismm - https://www.instagram.com/foofoosel/',
     circle_twitter: 'https://x.com/katismm - https://x.com/foofoosel',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8766,
-
     circle_code: 'K-31ab',
     name: 'Kiibete',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kiibete.jpg',
-
     circle_facebook: 'https://web.facebook.com/profile.php?id=100068853152895',
     circle_instagram: 'https://www.instagram.com/kiibete/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8767,
-
     circle_code: 'K-32ab/K-33ab',
     name: 'Purizilla & Darumatama',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Purizilla & Darumatama.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/purizilla/?hl=en',
     circle_twitter: 'https://x.com/purizilla',
     circle_other_socials: 'purizilla.com',
-
     other_fandom: "Undertale, Baldur's Gate",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8768,
-
     circle_code: 'K-34ab',
     name: 'Duckieology x Tamago doodle',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Duckieology x Tamago doodle.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/_duckieology?igsh=MWhzeXNsNHpkNWhnOQ==',
+    circle_instagram: 'https://www.instagram.com/_duckieology?igsh=MWhzeXNsNHpkNWhnOQ==',
     circle_twitter: 'Https://www.x.com/jeonghanology',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8769,
-
     circle_code: 'K-35ab',
     name: 'WoeBray',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/WoeBray.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/woebray/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8770,
-
     circle_code: 'K-36ab',
     name: 'Sirkel Kebut Semalam (SKS)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sirkel Kebut Semalam (SKS).jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/tockang.carpet?igsh=MXF0MnNtazl2YzFocw==',
+    circle_instagram: 'https://www.instagram.com/tockang.carpet?igsh=MXF0MnNtazl2YzFocw==',
     circle_twitter: 'https://x.com/t_ck_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8771,
-
     circle_code: 'K-37ab',
     name: 'Kompor Gas Emoji Api',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kompor Gas Emoji Api.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/candypurri/',
     circle_twitter: 'https://x.com/puddinghalus',
     circle_other_socials: null,
-
-    other_fandom:
-      "HSR, DR Stone, Deltarune, Reverse 1999, Project: Eden's Garden",
-
+    other_fandom: "HSR, DR Stone, Deltarune, Reverse 1999, Project: Eden's Garden",
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8772,
-
     circle_code: 'K-38a (SAT)',
     name: 'Kandang Wawan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kandang Wawan.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
-    circle_twitter:
-      'x.com/worldearest , x.com/ngararintip , x.com/justraip09 , x.com/JetGone',
+    circle_twitter: 'x.com/worldearest , x.com/ngararintip , x.com/justraip09 , x.com/JetGone',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8773,
-
     circle_code: 'K-38a (SUN)',
     name: 'r0tt3n.com',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/r0tt3n.com.jpg',
-
     circle_facebook: '-',
-    circle_instagram:
-      'https://www.instagram.com/p0mpoen?igsh=YmRmYnQxeTBvbDhp&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/p0mpoen?igsh=YmRmYnQxeTBvbDhp&utm_source=qr',
     circle_twitter: 'https://x.com/p0mpoen?s=21&t=VXEIYae6pFZl93S_BJVZHQ',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8774,
-
     circle_code: 'K-38b (SAT)',
     name: 'fishball',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/fishball.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/coldhe_/',
     circle_twitter: 'https://x.com/coldhe_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8775,
-
     circle_code: 'K-38b (SUN)',
     name: 'SNAS_CHILLed BROs',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SNAS_CHILLed BROs.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/rutherford_xiv/',
     circle_twitter: 'https://x.com/o_chara_tea',
     circle_other_socials: 'https://azure-xiv-arts.carrd.co',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8776,
-
     circle_code: 'K-39ab (SAT)',
     name: 'Markas Besar Cewe Cakep',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Markas Besar Cewe Cakep.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/gazelle_jun/',
     circle_twitter: 'https://x.com/gazelle_jun',
     circle_other_socials: 'https://www.ko-fi.com/gazelle_jun/',
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8777,
-
     circle_code: 'K-39a (SUN)',
     name: 'Pepto Bismores',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pepto Bismores.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/peptobismores/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8778,
-
     circle_code: 'K-39b (SUN)',
     name: 'Kentut Goreng',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kentut Goreng.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61571344733874',
-    circle_instagram:
-      'https://www.instagram.com/xen0ki?igsh=MThkZW93eWx3bm5tZw==',
+    circle_instagram: 'https://www.instagram.com/xen0ki?igsh=MThkZW93eWx3bm5tZw==',
     circle_twitter: 'https://x.com/Xen0ki',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1a2b5930-038f-4dfc-9877-50a2ed12775e/19b56b89-254d-48b2-9168-86399a5ab6b2/K-39b (SUN).jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1a2b5930-038f-4dfc-9877-50a2ed12775e/2df1ad0d-8c7c-4d09-932f-9ded7d9e70cd/K-39b (SUN).jpg',
@@ -18656,99 +14301,77 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1a2b5930-038f-4dfc-9877-50a2ed12775e/0f0a1ef6-10ca-48a2-97f0-bdc2268bf92b/K-39b (SUN).jpg',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8779,
-
     circle_code: 'K-40ab',
     name: 'Manisan Wibu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Manisan Wibu.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/artzahra_cr, https://www.instagram.com/Levochkaxd,https://www.instagram.com/alleenaay,https://www.instagram.com/saljuuuu.__, https://www.instagram.com/dresthanz',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8780,
-
     circle_code: 'K-41ab/K-42ab',
     name: 'MASC X KAWAII',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/MASC X KAWAII.jpg',
-
     circle_facebook: 'https://www.facebook.com/yusuke.kitagawa.921',
-    circle_instagram:
-      'https://www.instagram.com/sodakfa09?igsh=MTF4bjBjY3NuOW14aw&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/sodakfa09?igsh=MTF4bjBjY3NuOW14aw&utm_source=qr',
     circle_twitter: 'https://x.com/1ooo11575564859?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8781,
-
     circle_code: 'K-43ab',
     name: 'GaroZagu Bodega',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/GaroZagu Bodega.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/zagukatsu/',
     circle_twitter: 'https://x.com/garoshu_art',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8782,
-
     circle_code: 'K-44a',
     name: 'Yummy Taiyaki',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Yummy Taiyaki.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/yummytaiyaki',
     circle_twitter: 'https://x.com/Rinaspotato',
     circle_other_socials: '-',
-
     other_fandom:
       "Omniscient Reader's Viewpoint, Batman, Greek Mythology, No Home, Apothecary Diaries",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8783,
-
     circle_code: 'K-44b',
     name: '4Foks',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/4Foks.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/2obiko',
     circle_twitter: 'https://x.com/2ofufu',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/421eea83-0e25-4542-9ea4-2d6c78ac6473/f5e645df-fabd-44a9-9453-c4362a454c5d/K-44b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/421eea83-0e25-4542-9ea4-2d6c78ac6473/25b294af-dd97-4612-bd19-67b8aadc738a/K-44b.png',
@@ -18759,23 +14382,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/421eea83-0e25-4542-9ea4-2d6c78ac6473/c54634a1-07c7-41dc-b25d-2e27a70486ff/K-44b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8784,
-
     circle_code: 'K-45a (SAT)',
     name: 'KUKURUYUK',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KUKURUYUK.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
-    circle_twitter:
-      'x.com/efgom1, x.com/hajukashii, x.com/mmatchiatte, x.com/LykaLyk0',
+    circle_twitter: 'x.com/efgom1, x.com/hajukashii, x.com/mmatchiatte, x.com/LykaLyk0',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/25e1bba8-95f3-4567-8839-aa91996881b4/0e62da61-14af-47a8-9f9a-a9cd83b91322/K-45a (SAT).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/25e1bba8-95f3-4567-8839-aa91996881b4/b3c27f86-aa01-48c9-9932-cbe83a02bf22/K-45a (SAT).png',
@@ -18787,133 +14405,104 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/25e1bba8-95f3-4567-8839-aa91996881b4/e651da1e-8265-4b54-b168-d01d75fea229/K-45a (SAT).jpeg',
     ],
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8785,
-
     circle_code: 'K-45a (SUN)',
     name: 'Fyoiret',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Fyoiret.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/fyoiret/',
     circle_twitter: 'https://x.com/Fyoiret',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8786,
-
     circle_code: 'K-45b (SAT)',
     name: 'TakkunHole',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/TakkunHole.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/kichisabbu , https://x.com/piendaifuku',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8787,
-
     circle_code: 'K-45b (SUN)',
     name: 'Negative Sanity',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Negative Sanity.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/sanchobrainrot',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8788,
-
     circle_code: 'K-46ab (SAT)',
     name: 'Cap 5 Udang',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cap 5 Udang.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/noodnutz._/',
     circle_twitter: 'https://x.com/Noodnutz__',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8789,
-
     circle_code: 'K-46ab (SUN)',
     name: 'Fih Fellas',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Fih Fellas.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/meurdex',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8790,
-
     circle_code: 'K-47a',
     name: 'Atsukirei',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Atsukirei.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/hiuy52/',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8791,
-
     circle_code: 'K-47b',
     name: 'Suvmagnolia',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Suvmagnolia.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/suvmagnolia/',
     circle_twitter: 'https://twitter.com/suvmagnolia',
     circle_other_socials: 'https://suvmagnolia.carrd.co/',
-
     other_fandom:
       "Original, Hoyoverse, Dandadan, Digimon, Hades, Chainsaw Man, Jojo's Bizarre Adventure, Spy x Family, Record of Ragnarok",
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c4aca5fa-b854-4384-8e60-2e03af26329b/3edf1767-38b0-486c-8771-178e862ab535/K-47b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c4aca5fa-b854-4384-8e60-2e03af26329b/0bd437b4-5174-44fd-a4bf-ddb750e6b124/K-47b.png',
@@ -18926,42 +14515,33 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c4aca5fa-b854-4384-8e60-2e03af26329b/83996bb2-ab41-4d73-bee0-958db3a0e978/K-47b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8792,
-
     circle_code: 'K-48ab',
     name: 'Unidentified Silly Sealiens',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Unidentified Silly Sealiens.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/shenglinetz',
     circle_other_socials: null,
-
     other_fandom: "Girl's Frontier, Arknights, Rhythm games",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8793,
-
     circle_code: 'K-49ab',
     name: "Noct's Art Corner",
     circle_cut:
       "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Noct's Art Corner.jpg",
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/noct2aa_/',
     circle_twitter: 'https://x.com/noct2aa',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/75e1486d-5c8c-4545-b166-7f9304c104c5/b49f55c2-3600-4bb6-b7be-4dc3faa23822/K-49ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/75e1486d-5c8c-4545-b166-7f9304c104c5/8b36c6c7-a6f5-484f-8c4b-90f6eca0096c/K-49ab.png',
@@ -18974,95 +14554,74 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/75e1486d-5c8c-4545-b166-7f9304c104c5/0b56ffa4-46bc-4711-a33d-da88e433dedd/K-49ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8794,
-
     circle_code: 'K-50ab',
     name: 'PHOTOCAPY',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PHOTOCAPY.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/photocapy_circle/',
     circle_twitter: null,
     circle_other_socials: 'www.tiktok.com/@photocapy.circle',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8795,
-
     circle_code: 'K-51ab',
     name: 'Breath of Lilac',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Breath of Lilac.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/breathof.lilac',
     circle_twitter: 'https://x.com/breathoflilac_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8796,
-
     circle_code: 'K-52ab',
     name: 'Shervealism x Artescale',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Shervealism x Artescale.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/shervealism?igsh=bDRkenhndzV1djlj&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/shervealism?igsh=bDRkenhndzV1djlj&utm_source=qr',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8797,
-
     circle_code: 'K-53a',
     name: 'MISARE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/MISARE.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/mi.sa.re?igsh=bjY0czBjcXR1YTV1',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8798,
-
     circle_code: 'K-53b',
     name: 'The Dream Witnessing',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/The Dream Witnessing.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/xianjingmeng | https://x.com/ayangsancho',
     circle_other_socials: 'https://vgen.co/xianjingmeng',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d1ccec71-3cfb-40de-a9f3-9a9f18d08092/2f95ad7d-cfa7-40aa-8e05-849150f5fb88/K-53b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d1ccec71-3cfb-40de-a9f3-9a9f18d08092/7cc28cac-4430-4631-b11d-f9831816fd4c/K-53b.png',
@@ -19073,219 +14632,167 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/d1ccec71-3cfb-40de-a9f3-9a9f18d08092/3f99e151-0a6d-4739-9f33-98a90255a67f/K-53b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8799,
-
     circle_code: 'K-54a',
     name: 'the.fishvan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/the.fishvan.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/the.fishvan/?utm_source=ig_web_button_share_sheet',
+    circle_instagram: 'https://www.instagram.com/the.fishvan/?utm_source=ig_web_button_share_sheet',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8800,
-
     circle_code: 'K-54b',
     name: 'Salted Coffee Club',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Salted Coffee Club.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/siokohi/',
     circle_twitter: 'https://x.com/siokohi',
     circle_other_socials: 'https://siokohi.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8801,
-
     circle_code: 'K-55a',
     name: 'cheju',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/cheju.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/che.ju35?igsh=MXI0cXhmejV3cHBsNg== and https://www.instagram.com/cher1iy0?igsh=MXg2c3B1MTQ1dzJiZw==',
     circle_twitter: 'https://x.com/cher1iy0?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8802,
-
     circle_code: 'K-55b',
     name: 'SiMeong',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SiMeong.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/mousemoss_?igsh=OXYyYnlqa3JwMjIx',
+    circle_instagram: 'https://www.instagram.com/mousemoss_?igsh=OXYyYnlqa3JwMjIx',
     circle_twitter: 'https://x.com/Mousemoss1',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8803,
-
     circle_code: 'K-56ab/K-57ab',
     name: 'Telemiette',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Telemiette.jpg',
-
     circle_facebook: 'https://www.facebook.com/Etolalala/',
     circle_instagram: 'https://www.instagram.com/cloppertarts',
     circle_twitter: 'https://x.com/Void_R23',
     circle_other_socials: 'https://bsky.app/profile/sodaflowt.bsky.social/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9b5a2d35-b298-4ee2-a3af-67bf04dadef3/b9b32fed-5a18-4c9a-9773-fd5cdc50d9b1/K-56ab/K-57ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9b5a2d35-b298-4ee2-a3af-67bf04dadef3/3b65c1a7-de3c-4bbf-8c33-f6107ad0a35b/K-56ab/K-57ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8804,
-
     circle_code: 'K-58ab',
     name: 'Krisis Identitas',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Krisis Identitas.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
-    circle_twitter:
-      'https://x.com/KRISISlDENTITAS/status/2016463275693928958?s=20',
+    circle_twitter: 'https://x.com/KRISISlDENTITAS/status/2016463275693928958?s=20',
     circle_other_socials: 'https://x.com/KRISISlDENTITAS',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8805,
-
     circle_code: 'K-59ab',
     name: 'KFC (Kedai Fandom Campuran)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KFC (Kedai Fandom Campuran).jpg',
-
     circle_facebook: 'https://www.facebook.com/share/16mfvs3jpy/',
-    circle_instagram:
-      'https://www.instagram.com/ichiroart/profilecard/?igsh=ZzNqOHV1OGZydXZl',
+    circle_instagram: 'https://www.instagram.com/ichiroart/profilecard/?igsh=ZzNqOHV1OGZydXZl',
     circle_twitter: 'https://x.com/Ichiro_art?t=SY7KoDAAXiOHpt8wuQPYXg&s=09',
     circle_other_socials: null,
-
     other_fandom:
       "Fullmetal Alchemist, Kaiju No. 8, Hunter x Hunter, Sonic, Omniscient Reader's Viewpoint ( ORV ), Alien Stage, Hellaverse",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8806,
-
     circle_code: 'K-60ab',
     name: 'Colorful Pitik',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Colorful Pitik.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://instagram.com/icyteapot , https://instagram.com/ddaychann',
+    circle_instagram: 'https://instagram.com/icyteapot , https://instagram.com/ddaychann',
     circle_twitter: 'https://x.com/Heifuukaze , https://x.com/wgpg308',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8807,
-
     circle_code: 'L-01a',
     name: 'Tosca Usa',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tosca Usa.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://twitter.com/xxdxxhn',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8808,
-
     circle_code: 'L-01b',
     name: 'Digidaw Walawe',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Digidaw Walawe.jpg',
-
     circle_facebook: 'https://www.facebook.com/kavi.lumi',
     circle_instagram: 'https://www.instagram.com/lezabudka',
     circle_twitter: 'https://x.com/lezabudka',
     circle_other_socials: null,
-
     other_fandom:
       "Adventure Time, Deltarune, Hoyoverse, Twisted Wonderland, Original, Vtuber, Vocaloid, Bungou Stray Dogs, One Piece, Ghibli, Limbus Company, Omniscient Reader's Viewpoint, Evangelion, Wuthering Waves, TXT, Pokemon, Splatoon, Stardew Valley, Vanitas no Carte, Moriarty the Patriot",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8809,
-
     circle_code: 'L-02ab/L-03ab',
     name: 'Star☆Light',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/StarLight.jpg',
-
-    circle_facebook:
-      'https://www.facebook.com/share/16hoUM1fBW/ (termasuk link sosmed member)',
+    circle_facebook: 'https://www.facebook.com/share/16hoUM1fBW/ (termasuk link sosmed member)',
     circle_instagram:
       'https://www.instagram.com/sakurakaneki_artwork?igsh=MWsxN3F2ZjBjZHNjeg== (salah satu represent circle)',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1dd1d1c7-881a-499a-ba00-1c3518bd1d52/37a45b83-8db3-4c10-8616-690c3abb81f6/L-02ab/L-03ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1dd1d1c7-881a-499a-ba00-1c3518bd1d52/2cf96cdb-6493-4a9d-9a10-4cf0d50ee71a/L-02ab/L-03ab.jpg',
@@ -19299,41 +14806,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1dd1d1c7-881a-499a-ba00-1c3518bd1d52/6e64fe0f-0704-4390-85fa-8b72d3e3536d/L-02ab/L-03ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8810,
-
     circle_code: 'L-04ab',
     name: 'Dosa Bersama',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Dosa Bersama.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/nekipret/',
     circle_twitter: 'https://x.com/nekipret',
     circle_other_socials: 'https://vgen.co/nekipret',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8811,
-
     circle_code: 'L-05ab',
     name: 'Lucabalsafanclub',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lucabalsafanclub.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/bobpinn_/, https://www.instagram.com/matchavonn/',
+    circle_instagram: 'https://www.instagram.com/bobpinn_/, https://www.instagram.com/matchavonn/',
     circle_twitter: 'https://x.com/haphwei',
     circle_other_socials: 'https://bsky.app/profile/haphwei.bsky.social',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a11d07e1-4761-46a0-b485-a8a1ab820a95/6c243905-ecd9-4ac3-8ce5-4ff0f047572c/L-05ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a11d07e1-4761-46a0-b485-a8a1ab820a95/7caf70d6-e4be-4974-855a-d786fa3e4e38/L-05ab.png',
@@ -19343,98 +14841,75 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a11d07e1-4761-46a0-b485-a8a1ab820a95/1b348bc1-ad09-44e4-9ca0-aa9b364150d1/L-05ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8812,
-
     circle_code: 'L-06ab',
     name: 'Caprae Observatory',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Caprae Observatory.jpg',
-
     circle_facebook: null,
     circle_instagram: 'capraeobservatory',
     circle_twitter: 'sanepersonhere_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8813,
-
     circle_code: 'L-07ab (SAT)',
     name: 'Kaleng Sarden Lite',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KALENG SARDEN lite.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/hiu_bucin/',
     circle_twitter: 'https://x.com/hiu_bucin',
     circle_other_socials: null,
-
-    other_fandom:
-      "Library of Ruina, Dandy's World, Jujutsu Kaisen, Tokusatsu, Uma Musume",
-
+    other_fandom: "Library of Ruina, Dandy's World, Jujutsu Kaisen, Tokusatsu, Uma Musume",
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8814,
-
     circle_code: 'L-08ab (SAT)',
     name: 'r/mintaduid',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/r_mintaduid.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/h_4ise/',
     circle_twitter: null,
     circle_other_socials: 'https://h4ise.straw.page/',
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8815,
-
     circle_code: 'L-08ab (SUN)',
     name: 'Sulfur’s Collective.Co',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sulfurs CollectiveCo.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/sulfurscollective.co?igsh=N3hqd3AyMDV4ZGY=',
+    circle_instagram: 'https://www.instagram.com/sulfurscollective.co?igsh=N3hqd3AyMDV4ZGY=',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8816,
-
     circle_code: 'L-09ab',
     name: 'Freaky Restaurant',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Freaky Restaurant.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/freakyrestaurant/',
     circle_twitter: 'https://x.com/FreakyResto',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5e75396c-1430-4346-ba71-ac0defa10c5b/3491b04f-e246-450e-af7e-5a2d13e7f302/L-09ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5e75396c-1430-4346-ba71-ac0defa10c5b/ea4c87fb-cfe6-4182-be0e-87afd1f95673/L-09ab.png',
@@ -19442,113 +14917,88 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5e75396c-1430-4346-ba71-ac0defa10c5b/e32f5dd7-b4a5-404f-8841-34f90a447531/L-09ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8817,
-
     circle_code: 'L-10ab',
     name: 'Indie Archive',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Indie Archive.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/a_riskk_',
     circle_twitter: 'https://x.com/a_riskk_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8818,
-
     circle_code: 'L-11ab',
     name: 'BIRDBRAINHOUSE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/BIRDBRAINHOUSE.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kickagod/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8819,
-
     circle_code: 'L-12ab',
     name: 'Udang Jompo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Udang Jompo.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/reichi404/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8820,
-
     circle_code: 'L-13ab',
     name: 'Nadine is Drawing',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nadine is Drawing.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/nadineisdrawing/',
     circle_twitter: 'https://x.com/nadineisdrawing',
     circle_other_socials: 'https://www.instagram.com/nadineisdrawing/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8821,
-
     circle_code: 'L-14a',
     name: 'Baksorooms',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Baksorooms.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/liminophobia',
     circle_twitter: 'https://x.com/false_rooms',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8822,
-
     circle_code: 'L-14b',
     name: 'FILED FOR BANKRUPTCY',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/FILED FOR BANKRUPTCY.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/rawon.e_?igsh=MTB2dWcxNWFxaXltcw&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/rawon.e_?igsh=MTB2dWcxNWFxaXltcw&utm_source=qr',
     circle_twitter: 'https://x.com/Rawonee_',
     circle_other_socials: 'https://x.com/wokensign',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/adc74285-c93d-4b8e-8015-fa1d04b1097c/a6bbae06-f05c-4e5a-b3d9-9aa6637715d5/L-14b.PNG',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/adc74285-c93d-4b8e-8015-fa1d04b1097c/839a77b5-f737-46cd-a03f-d5a44d66c075/L-14b.PNG',
@@ -19558,95 +15008,75 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/adc74285-c93d-4b8e-8015-fa1d04b1097c/cc04b30a-65d8-499c-82af-a5ecf81f45a9/L-14b.PNG',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8823,
-
     circle_code: 'L-15a',
     name: "Bina's Corner",
     circle_cut:
       "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bina's Corner.jpg",
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/bina_qwq/?hl=en',
     circle_twitter: 'https://x.com/Bina_qwq',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8824,
-
     circle_code: 'L-15b',
     name: 'AV Tower',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/AV Tower.jpg',
-
     circle_facebook: '-',
     circle_instagram: '-',
     circle_twitter: 'https://x.com/suurodame',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8825,
-
     circle_code: 'L-16a (SAT)',
     name: 'Mogege',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mogege.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/nattchan_111/',
     circle_twitter: 'https://x.com/Nattchan_NTS',
     circle_other_socials:
       'https://www.instagram.com/nox.999?igsh=anFxY2Jmcmp4MGZz&utm_source=qr (IG) | https://www.instagram.com/reiminart?igsh=cTIxcDRlNXp1ODVn (IG)',
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8826,
-
     circle_code: 'L-16b (SAT)',
     name: 'CRESCEN-DO!',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CRESCEN-DO!.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/crescendo.market',
     circle_twitter: 'https://x.com/crescendomarket',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8827,
-
     circle_code: 'L-17a',
     name: 'Duo² Waras',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/DuoWaras.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/airvryer/',
     circle_twitter: 'https://x.com/airvryer',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e1be7c59-2a83-46eb-b0ca-0ddced9abf41/70eee70c-8dc6-448b-8439-a253904ad7ae/L-17a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e1be7c59-2a83-46eb-b0ca-0ddced9abf41/d2d56f7c-04ae-4beb-9dcd-a1507e594886/L-17a.png',
@@ -19659,81 +15089,64 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e1be7c59-2a83-46eb-b0ca-0ddced9abf41/bebf19e1-bc80-4c03-8809-ee50918c4f0b/L-17a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8828,
-
     circle_code: 'L-17b',
     name: 'Novase Ease',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Novase Ease.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: 'https://novanovasecfv.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8829,
-
     circle_code: 'L-18ab',
     name: 'CV Ketar Ketir',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CV Ketar Ketir.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/takaba3150?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8830,
-
     circle_code: 'L-19ab',
     name: 'Dripsain Komunicrazy Rizzual',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Dripsain Komunicrazy Rizzual.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/dracelune https://www.instagram.com/vinweilin https://www.instagram.com/verram_potato_?igsh=dm9mZm1ua3I3MzNj https://www.instagram.com/zelda05zfl/?hl=id',
     circle_twitter:
       'https://x.com/vinweilin https://x.com/dracelune https://x.com/verram_potato https://x.com/Zelda05ZFL/media',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8831,
-
     circle_code: 'L-20ab',
     name: 'ANM Community',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ANM Community.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/anm_studiofficial',
     circle_twitter: 'https://x.com/ANM_studios',
     circle_other_socials: 'http://anmstudio.carrd.co/',
-
     other_fandom:
       "Zenless Zone Zero, Touhou, Project Sekai, Roblox (Original, Sol's RNG, Forsaken, Die of Death), Bocchi The Rock!, Cookie Run Kingdom, Deltarune, Undertale, Vocaloid, Utauloid, Murder Drones, The Amazing Digital Circus, POKEMON, Jujutsu Kaisen, Sonic The Hedgehog, My Little Pony, OMORI, Hollow Knight, Needy Streamer Overload, Uma Musume, Arknights: Endfield, Mobile Legends: Bang Bang, Guardian Tales",
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/463b1cb5-59e5-467d-95cb-ce3b51214bf3/4f1fee25-7942-427c-84ea-7f6b7c23a122/L-20ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/463b1cb5-59e5-467d-95cb-ce3b51214bf3/624a25d7-2b08-49e5-aa52-4a3d8a43304d/L-20ab.png',
@@ -19747,119 +15160,91 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/463b1cb5-59e5-467d-95cb-ce3b51214bf3/78a18482-1f2a-4b10-b11f-e709c32a6be5/L-20ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8832,
-
     circle_code: 'L-21ab',
     name: 'Baked Hamstress',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Baked Hamstress.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/baked.hamstress/',
     circle_twitter: 'https://x.com/asteveex',
     circle_other_socials: null,
-
     other_fandom:
       "PJSK, Vocaloid, BFDI, Dandy's World, ALNST, DMC, Bayonetta, Stray, Fish, Deltarune, Undertale, Homestuck, Genshin, HSR, KDH, LADS, ORV, Haikyuu, BHNA, JJK, MTP, Demon slayer, One piece, CSM, , Termination Protocol, MCYT, IDV, LITC, Nerd Project, Reverse 1999, Persona, Bad things, Regretevator",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8833,
-
     circle_code: 'L-22ab',
     name: 'KissKist',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KissKist.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kisskist/',
     circle_twitter: 'https://x.com/KissKistINT',
     circle_other_socials: 'https://linktr.ee/kisskist.int',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8834,
-
     circle_code: 'L-23a',
     name: 'Fortis Collection',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Fortis Collection.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/hiikuochi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8835,
-
     circle_code: 'L-23b',
     name: 'ArtKat (artist-artist nekat)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ArtKat (artist-artist nekat).jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/mizkamuzkq?igsh=bnNkZGp3NHY1cnhk',
+    circle_instagram: 'https://www.instagram.com/mizkamuzkq?igsh=bnNkZGp3NHY1cnhk',
     circle_twitter: 'https://x.com/mizkamuzkq_',
     circle_other_socials:
       'https://mizkamuzka.carrd.co/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAPm0stleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAadMd5CS5cQVAm5vXsvHLPR4jgGVpbtFzBesX5smRq1S06J8VSt9frSXxA5Bug_aem_H3YY8Pt-NkpNkf0388nR9Q',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8836,
-
     circle_code: 'L-24a (SAT)',
     name: 'No Mans Niche',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/No Mans Niche.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/yureijii?igsh=bGd4eWxtbGNwbmtq&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/yureijii?igsh=bGd4eWxtbGNwbmtq&utm_source=qr',
     circle_twitter: 'https://x.com/yureijii?s=21',
     circle_other_socials: 'https://linktr.ee/Yureijii',
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8837,
-
     circle_code: 'L-24a (SUN)',
     name: 'Freakyprikifrik',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Freakyprikifrik.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/lyxneeth_984?igsh=MWZzMHNrcmx4eW5qcg==',
+    circle_instagram: 'https://www.instagram.com/lyxneeth_984?igsh=MWZzMHNrcmx4eW5qcg==',
     circle_twitter: 'https://x.com/SunnyRai0n',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/faea6ba5-70c5-4878-8f61-bae9a37ed868/7191beef-69f9-4718-8af2-c295f2c04ba2/L-24a (SUN).jpeg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/faea6ba5-70c5-4878-8f61-bae9a37ed868/05408c53-2e5d-4228-a145-4796538e16b1/L-24a (SUN).jpeg',
@@ -19872,135 +15257,104 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/faea6ba5-70c5-4878-8f61-bae9a37ed868/1744669e-ce81-4ef0-858b-16119764aac7/L-24a (SUN).png',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8838,
-
     circle_code: 'L-24b (SAT)',
     name: 'Fizzyfawnz',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Fizzyfawnz.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/fizzyfawnz?igsh=YXc0c3NuMXVxcXFi&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/fizzyfawnz?igsh=YXc0c3NuMXVxcXFi&utm_source=qr',
     circle_twitter: 'https://x.com/fizzyfawnz?s=21',
     circle_other_socials: 'https://fizzyfawnzz.straw.page/',
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8839,
-
     circle_code: 'L-24b (SUN)',
     name: 'huesimile.studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/huesimile.studio.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/huesimile',
     circle_twitter: 'https://x.com/huesimile',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8840,
-
     circle_code: 'L-25ab',
     name: 'Medieval: mid n evil',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Medieval mid n evil.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/senncoo',
     circle_other_socials: null,
-
     other_fandom:
       "conclave, homestuck, hololive en, persona 4, mp100, f1, the legend of zelda, bandom, dc, kingdom come deliverance, mickey 17, pathologic, the pitt, ghost, dispatch, wake up dead man, original, jojo's bizarre adventure",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8841,
-
     circle_code: 'L-26ab',
     name: 'Anggoon',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Anggoon.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/deideirdre_art/',
     circle_twitter: 'https://x.com/DeiDeirdre_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8842,
-
     circle_code: 'L-27ab',
     name: 'Bhulu Bhabi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bhulu Bhabi.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/trut.n/',
     circle_twitter: 'https://x.com/8927ci',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8843,
-
     circle_code: 'L-28ab',
     name: 'DPJ Circle',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/DPJ Circle.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/dpjsirkel?igsh=cWUxaWg5dWZ6MGw2',
+    circle_instagram: 'https://www.instagram.com/dpjsirkel?igsh=cWUxaWg5dWZ6MGw2',
     circle_twitter: 'https://x.com/dpjsirkel',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8844,
-
     circle_code: 'L-29ab',
     name: 'Moon Rabbit',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Moon Rabbit.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/usagioctopus/',
     circle_twitter: 'https://x.com/UsagiOctopus',
     circle_other_socials: 'https://www.pixiv.net/en/users/25646884',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7acbdec6-4108-44dc-a791-f4bbf17011fa/a17add05-d4ca-4fba-b8d7-3a86a6cf35a7/L-29ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7acbdec6-4108-44dc-a791-f4bbf17011fa/c3579769-d470-430b-b67c-26cccf6d986b/L-29ab.png',
@@ -20014,116 +15368,89 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7acbdec6-4108-44dc-a791-f4bbf17011fa/edb09b02-05a6-44a9-9a20-e2f6ef370ca6/L-29ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8845,
-
     circle_code: 'L-30a',
     name: '2wink',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/2wink.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/chuupie5?igsh=MWE2c2JmdG13cmVlNA&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/chuupie5?igsh=MWE2c2JmdG13cmVlNA&utm_source=qr',
     circle_twitter: 'https://x.com/chuupie5?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8846,
-
     circle_code: 'L-30b',
     name: 'Badut Sukses',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Badut Sukses.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/feby_baozi?igsh=MWRvMTFoY3YxeTg4dg==',
+    circle_instagram: 'https://www.instagram.com/feby_baozi?igsh=MWRvMTFoY3YxeTg4dg==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8847,
-
     circle_code: 'L-31a',
     name: 'Akanatsuzeko',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Akanatsuzeko.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/akanatsuzeko?igsh=MXhrMXVmeWI1c3F3eA&utm_source=qr',
     circle_twitter: 'https://x.com/akanatsuzeko?s=21&t=cYyWcj1WwxSHr-JTqw76fQ',
     circle_other_socials: 'https://vgen.co/akanatsuzeko',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8848,
-
     circle_code: 'L-31b',
     name: 'Segar Bugar',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Segar Bugar.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/_masajib_/',
     circle_twitter: 'https://x.com/_MasAjib_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8849,
-
     circle_code: 'L-32ab',
     name: 'Lele Bodas',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lele Bodas.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/ryornr/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8850,
-
     circle_code: 'L-33ab',
     name: 'ADOnan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ADOnan.jpg',
-
     circle_facebook: '-',
-    circle_instagram:
-      'https://www.instagram.com/lan_acii?igsh=YjkwZHN4YXZnNDRp',
+    circle_instagram: 'https://www.instagram.com/lan_acii?igsh=YjkwZHN4YXZnNDRp',
     circle_twitter: 'https://x.com/Lidzi_art',
     circle_other_socials: '-',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/60f11f90-06d8-4122-9b13-bceac067a9c7/dff28f2b-2008-49f4-9021-abd7d8c6a334/L-33ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/60f11f90-06d8-4122-9b13-bceac067a9c7/8bde3689-5149-4cbd-83e1-d20d2fb8ba57/L-33ab.png',
@@ -20137,98 +15464,75 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/60f11f90-06d8-4122-9b13-bceac067a9c7/b25eb0c1-45a3-4709-9ca9-512791789d53/L-33ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8851,
-
     circle_code: 'L-34ab (SAT)',
     name: 'KORBAN Y/N',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/korban yn.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      '@floeny_shii,@pawnyao,@palveion,@mis0chee,@too_ri023,@pinwvl,@dogsoy_lazer',
-    circle_twitter:
-      '@floeny_shii,@pawnyao,@palveion,@mis0chee,@pinwvl,@dogsoy_lazer',
+    circle_instagram: '@floeny_shii,@pawnyao,@palveion,@mis0chee,@too_ri023,@pinwvl,@dogsoy_lazer',
+    circle_twitter: '@floeny_shii,@pawnyao,@palveion,@mis0chee,@pinwvl,@dogsoy_lazer',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8852,
-
     circle_code: 'L-34a (SUN)',
     name: 'Mochi Sisters',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mochi Sisters.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'x.com/tor1gumi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8853,
-
     circle_code: 'L-34b (SUN)',
     name: 'Blackhardt 3D Art',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Blackhardt 3D Art.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/nanaufal77/',
     circle_twitter: 'https://x.com/nanaufal77',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8854,
-
     circle_code: 'L-35ab',
     name: 'PotatoKInds',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PotatoKInds.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/paperbox193/',
     circle_twitter: 'https://x.com/paperbox193',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8855,
-
     circle_code: 'L-36ab',
     name: 'Cult of the Tako',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cult of the Tako.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/tako_cult',
     circle_twitter: '',
     circle_other_socials: 'linktr.ee/takocult',
-
     other_fandom: "Ninomae Ina'nis, Hololive",
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5f330428-1126-40ff-ad42-960ada8ccfe0/64507933-bbee-4164-9b87-885e6b9c6af7/L-36ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5f330428-1126-40ff-ad42-960ada8ccfe0/ec2d5ea3-47c6-4314-89ea-d6607bb2af84/L-36ab.png',
@@ -20240,22 +15544,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5f330428-1126-40ff-ad42-960ada8ccfe0/71babf68-4d01-42eb-a339-8abafce00f4d/L-36ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8856,
-
     circle_code: 'L-37a',
     name: 'Daphiel Orca',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Daphiel Orca.jpg',
-
     circle_facebook: '',
     circle_instagram: 'https://www.instagram.com/daphielorca',
     circle_twitter: 'https://x.com/daphielorca',
     circle_other_socials: 'https://vgen.co/daphielorca',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/497e45f3-8308-4c47-b7fa-01e95a7d3c22/a880eadc-c7f9-47c1-b4c3-3f3f68d713ea/L-37a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/497e45f3-8308-4c47-b7fa-01e95a7d3c22/747b59da-de4b-47c4-a257-90595eaeabe7/L-37a.png',
@@ -20264,40 +15564,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/497e45f3-8308-4c47-b7fa-01e95a7d3c22/16019558-40fb-4116-92c6-762bdd4bd27d/L-37a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8857,
-
     circle_code: 'L-37b',
     name: 'ninerum',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ninerum.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/delicious.nai',
     circle_twitter: 'https://x.com/deliciousnai',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8858,
-
     circle_code: 'L-38a',
     name: 'Ripuh Merchant',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ripuh Merchant.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/Nazu_pixel',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b93ecd0e-87db-4bfd-9a52-c5a654a7e661/5b6a79ff-34cd-400c-b4fc-e937c050de76/L-38a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b93ecd0e-87db-4bfd-9a52-c5a654a7e661/f4037fda-1d75-464b-a275-9ee1df325ad6/L-38a.png',
@@ -20306,22 +15598,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b93ecd0e-87db-4bfd-9a52-c5a654a7e661/0c888395-e172-4a61-ab1f-92afbe3353b2/L-38a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8859,
-
     circle_code: 'L-38b',
     name: 'Marus_CirclexDanlabs',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Marus_CirclexDanlabs.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/danlabs.id/',
     circle_twitter: 'https://x.com/Marus_Circle',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/33be47b1-b4ca-49fc-ad92-b4fecd9724b8/66bf6991-58f8-4a54-a807-46ea5535169a/L-38b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/33be47b1-b4ca-49fc-ad92-b4fecd9724b8/ad628b1f-efdd-43b3-a6e2-d32c221df137/L-38b.png',
@@ -20331,22 +15619,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/33be47b1-b4ca-49fc-ad92-b4fecd9724b8/58a9cc46-fd73-4a06-a65d-955f027804fe/L-38b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8860,
-
     circle_code: 'L-39ab',
     name: 'Project Oshi Virtual',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Project Oshi Virtual.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61573665209486',
     circle_instagram: null,
     circle_twitter: 'https://x.com/Kikomachii',
     circle_other_socials: 'https://www.pixiv.net/en/users/62402894',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/433d584e-2f1c-4c5e-b0c3-9f6d17cbd1aa/2a20bbe2-41aa-4fbc-88a6-9e739745948c/L-39ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/433d584e-2f1c-4c5e-b0c3-9f6d17cbd1aa/ce8ad949-987a-404f-8e97-6f139330b294/L-39ab.png',
@@ -20354,22 +15638,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/433d584e-2f1c-4c5e-b0c3-9f6d17cbd1aa/04dc72a1-50ea-4539-941f-307c725a2a59/L-39ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8861,
-
     circle_code: 'L-40ab',
     name: 'Tabitabi X Rupabiru',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tabitabi X Rupabiru.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/rupabiru',
     circle_twitter: 'https://x.com/rupabiru',
     circle_other_socials: 'https://rupabiru.carrd.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a8389489-517f-420a-aa3e-c00d85073d1d/9465f309-86bf-4fbb-b5ba-3ed4536c17f4/L-40ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a8389489-517f-420a-aa3e-c00d85073d1d/2a380788-5cc7-4b5c-8d07-819ab54f1658/L-40ab.png',
@@ -20378,59 +15658,46 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a8389489-517f-420a-aa3e-c00d85073d1d/999da552-7c52-4886-88a7-7dd061b242ea/L-40ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8862,
-
     circle_code: 'L-41ab/L-42ab',
     name: 'Community Frontier',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Community Frontier.jpg',
-
     circle_facebook: 'https://www.facebook.com/cakranid',
     circle_instagram: 'https://www.instagram.com/cakranid/',
     circle_twitter: 'https://x.com/cakranid',
     circle_other_socials: 'https://linktr.ee/cakranid',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8863,
-
     circle_code: 'L-43ab',
     name: 'Chiimaru',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Chiimaru.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/chiimarucircle',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8864,
-
     circle_code: 'L-44ab',
     name: 'Jenaka Art Comunity',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Jenaka Art Comunity.jpg',
-
     circle_facebook: 'https://www.facebook.com/share/1AvBc4C1hF/',
-    circle_instagram:
-      'https://www.instagram.com/aurahman_art?igsh=Y3RpM3Qwc3BkMHRx&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/aurahman_art?igsh=Y3RpM3Qwc3BkMHRx&utm_source=qr',
     circle_twitter: 'https://x.com/k4rakaru?t=Hu8yjL2Q4j14G9MjaSFwEA&s=09',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/375b6daa-87a7-4a15-a074-57b23cbc106d/b3d5b702-7988-4f85-9fa5-1e1b1dc9d545/L-44ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/375b6daa-87a7-4a15-a074-57b23cbc106d/22ade48f-c224-445d-9428-cbd525065d59/L-44ab.png',
@@ -20443,22 +15710,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/375b6daa-87a7-4a15-a074-57b23cbc106d/9924ceed-36ed-4fff-9109-25aac3883980/L-44ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8865,
-
     circle_code: 'L-45a',
     name: 'ToRen [Touya x Raven]',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ToRen Touya x Raven.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/touya_sketch',
     circle_twitter: null,
     circle_other_socials: 'https://sites.google.com/view/torenspace/home',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a5a4fa01-f556-43b3-83a7-68aaee7879a2/6c75b145-4909-467d-bb1c-dc2ba83c82e5/L-45a.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a5a4fa01-f556-43b3-83a7-68aaee7879a2/17d8e6f0-a845-46f3-9f0b-301c5ff256ca/L-45a.jpg',
@@ -20470,77 +15733,60 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a5a4fa01-f556-43b3-83a7-68aaee7879a2/0ffb5878-8b6d-4bcc-adc6-1943d184ab78/L-45a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8866,
-
     circle_code: 'L-45b',
     name: 'HakoCafe',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/HakoCafe.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/izuuumi831',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8867,
-
     circle_code: 'L-46ab',
     name: 'Renveriouz x Petite Bonita x Rolling Beads Accessories',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Renveriouz x Petite Bonita x Rolling Beads Accessories.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/renveriouz_rz/?hl=en',
     circle_twitter: 'https://x.com/renveriouz',
-    circle_other_socials:
-      'https://www.etsy.com/shop/PetiteBonita?dd_referrer=httpswww.google.com',
-
+    circle_other_socials: 'https://www.etsy.com/shop/PetiteBonita?dd_referrer=httpswww.google.com',
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8868,
-
     circle_code: 'L-47ab',
     name: 'Saiha',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Saiha.jpg',
-
     circle_facebook: 'https://www.facebook.com/318Saiha',
     circle_instagram: 'https://www.instagram.com/318_saiha/?hl=en',
     circle_twitter: 'https://x.com/318_Saiha',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8869,
-
     circle_code: 'L-48ab',
     name: 'scrtch art community',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/scrtch art community.jpg',
-
     circle_facebook: 'https://web.facebook.com/scratchmarketofficial',
     circle_instagram: 'https://www.instagram.com/scratch_market/?hl=en',
     circle_twitter: '-',
     circle_other_socials: '-',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e026c33c-daa1-4b65-bbd9-206a189fe0d4/b269141c-8544-4e3d-80b8-6a7305e8b7c0/L-48ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e026c33c-daa1-4b65-bbd9-206a189fe0d4/16366cf0-3cc8-4f46-8b1b-1c98f13b7f0b/L-48ab.jpg',
@@ -20554,307 +15800,242 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e026c33c-daa1-4b65-bbd9-206a189fe0d4/d4051684-d4ec-490f-a800-ed810e2ed685/L-48ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8870,
-
     circle_code: 'L-49ab',
     name: 'ARTIST STRONG',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ARTIST STRONG.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/rey_hana410/',
     circle_twitter:
       'https://x.com/evapendek_ , https://x.com/hotrodcatto , https://x.com/fourkir, https://x.com/kerjasonoey , https://x.com/n_40kii , https://x.com/birucanvas05 , https://x.com/rkr510',
     circle_other_socials: null,
-
     other_fandom:
       "Eve harapeco, Sakamoto days, Gachiakuta, genshin impact, honkai star rail, Heaven's official blessing, Original, chainsawman, Alien stage, Phantom busters. Omori, Tamon's B-Side, Grace, Pressure, CRK, Peak, Cult of The Lamb, Murder Drones, TADC, BFDI/TPOT, hfjONE, SFAWTDE, Tokutsastsu, Zzz, Tears Of Themis, Degree Of Lewdity, Transformers, reverse1999, A Date With Death, Date Everything, K-Pop Demon Hunters, Dandy's World, Limbus Company, Dispatch, mxtx, trigun, collinlock16, TBHK, Beastars, Brand New Animals, Paradise Kiss, Puella Magi Madoka Magica, NANA, Stranger Things, Until then, A space for the unbound, Tokyo Override, Castle crashers, Shoujos, Persona, 18trip, Racheldrawsthis games, Dead poet society, Harry potter, To be hero X, Puella record, Weak hero, Dune, Get A Snack At 4 AM: SNACKCORE , Phighting!, Block Tales, FNaF",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8871,
-
     circle_code: 'L-50ab',
     name: 'Warung Shoujo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warung Shoujo.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/misamiru111',
     circle_twitter: 'https://x.com/misamiru111',
     circle_other_socials: 'https://misamiru111.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8872,
-
     circle_code: 'L-51ab',
     name: 'Bara Onna',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bara Onna.jpg',
-
     circle_facebook: 'https://facebook.com/otenjouvanya',
     circle_instagram: 'https://instagram.com/otenjou',
     circle_twitter: 'https://twitter.com/otenjou',
     circle_other_socials: 'https://otenjou.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8873,
-
     circle_code: 'L-52ab',
     name: 'Trial & Error',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Trial & Error.jpg',
-
     circle_facebook: 'https://www.facebook.com/rapa.netfar',
     circle_instagram: 'https://www.instagram.com/kecowalompat',
     circle_twitter: 'https://x.com/pacarnyakaelix',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8874,
-
     circle_code: 'L-53a (SAT)',
     name: 'TUTTI FRUTTI',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/TUTTI FRUTTI.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/tsun.sune/',
     circle_twitter: 'https://x.com/Tsunsune',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8875,
-
     circle_code: 'L-53b (SAT)',
     name: 'Barudak Gepeng',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Barudak Gepeng.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/barudak_gepengid/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8876,
-
     circle_code: 'L-53ab (SUN)',
     name: 'Tukak Ikan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tukak Ikan.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/tukakikan',
     circle_twitter: '',
     circle_other_socials: '',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/091af9b7-b99b-44fc-8a37-bd3233fbe1f8/9e7d6d0c-c075-4e0c-ad53-479dc8dc28b6/L-53ab (SUN).jpg',
     ],
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8877,
-
     circle_code: 'L-54ab',
     name: 'Takoyachi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Takoyachi.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/takoyachi_circle , www.instagram.com/spreadwater__/ , www.instagram.com/ainzwel/ , www.instagram.com/maliqathali , www.instagram.com/nyanbirulaut',
     circle_twitter:
       'https://x.com/spreadwater , https://x.com/enefue_ , https://x.com/ainzwel , https://x.com/Rein1324 , https://x.com/lunatier_ , https://x.com/circletakoyachi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8878,
-
     circle_code: 'L-55ab',
     name: 'The Usagiling',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/The Usagiling.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/tsukitsune77 , https://www.instagram.com/aenminy_ , https://www.instagram.com/chwetokki , https://www.instagram.com/anchabubz , https://www.instagram.com/asvtart',
     circle_twitter:
       'https://x.com/TsuKitsune77, https://x.com/asvtart , https://x.com/anchabubz , https://x.com/chwetokki , https://x.com/mwukmu',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8879,
-
     circle_code: 'L-56ab/L-57ab',
     name: 'Oshi-Iro Cafe!',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Oshi-Iro Cafe!.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/oshiirocafe/',
     circle_twitter: null,
     circle_other_socials:
       'https://oshiirocafe.carrd.co/, http://x.com/nikkiGZ0, http://x.com/haloclo18, http://x.com/parkiranhonda, http://x.com/Excel_Xesient',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f02e23c8-e76d-4b6c-b4d0-89f7811b0228/5fe77667-7aaf-483a-a8d3-64592be78986/L-56ab/L-57ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f02e23c8-e76d-4b6c-b4d0-89f7811b0228/aa3fc755-b443-4c6c-9d47-97043ffbcb43/L-56ab/L-57ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f02e23c8-e76d-4b6c-b4d0-89f7811b0228/776aaac4-21e0-49bb-a832-2bf034a01c68/L-56ab/L-57ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8880,
-
     circle_code: 'L-58ab',
     name: 'Warung Wayang',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warung Wayang.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/warungwayang_/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8881,
-
     circle_code: 'L-59ab',
     name: 'CONTENT HOUSE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CONTENT HOUSE.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/SUSSYBREAD116',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8882,
-
     circle_code: 'L-60a',
     name: 'Ju Ichi - Gatsu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ju Ichi - Gatsu.jpg',
-
     circle_facebook: 'https://www.facebook.com/Juuichi.gatsu11',
     circle_instagram: 'https://www.instagram.com/juuichi_1111/',
     circle_twitter: 'https://x.com/11_gatsu',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8883,
-
     circle_code: 'L-60b',
     name: 'Yozhman x GameChanger',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Yozhman x GameChanger.jpg',
-
     circle_facebook: 'https://www.facebook.com/yozhmann',
     circle_instagram: 'https://www.instagram.com/yozhman',
     circle_twitter: 'https://x.com/yozhman',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8884,
-
     circle_code: 'M-01ab',
     name: 'SMAN WIBU',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SMAN WIBU.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/red_pepperoni00',
     circle_other_socials: 'pepperoni00.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8885,
-
     circle_code: 'M-02ab (SAT)',
     name: '99Minerva',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/99Minerva.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/99Minerva/',
     circle_twitter: 'https://x.com/Minerva994',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7395b3f6-a074-47d8-ab47-62059fa910b4/c7ad6754-cb6e-4c03-9dd3-f6caecc19fec/M-02ab (SAT).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7395b3f6-a074-47d8-ab47-62059fa910b4/03b434f4-34df-4dc9-a0fb-6741f2a54f47/M-02ab (SAT).png',
@@ -20862,132 +16043,102 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7395b3f6-a074-47d8-ab47-62059fa910b4/1d278421-7d09-4701-bc31-1af58c0b0c5f/M-02ab (SAT).png',
     ],
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8886,
-
     circle_code: 'M-02ab (SUN)',
     name: 'Pikuniku',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pikuniku.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/pikunikumart?igsh=MW43cHh4NGp1a240Zw==',
+    circle_instagram: 'https://www.instagram.com/pikunikumart?igsh=MW43cHh4NGp1a240Zw==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8887,
-
     circle_code: 'M-03ab',
     name: 'Clover Circle',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Clover Circle.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kurobaaid/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8888,
-
     circle_code: 'M-04ab',
     name: 'Pancakarya',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pancakarya.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/pancakaryamerch/',
     circle_twitter: 'https://x.com/pancakaryamerch',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8889,
-
     circle_code: 'M-05ab',
     name: 'Kerajaan Shannz',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kerajaan Shannz.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/shannz6?igsh=MW9kbG1iMmo0cHd1OQ==',
+    circle_instagram: 'https://www.instagram.com/shannz6?igsh=MW9kbG1iMmo0cHd1OQ==',
     circle_twitter: 'https://x.com/Shr2607?t=IqS4VMQ52MSe5r6pfRntaQ&s=09',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8890,
-
     circle_code: 'M-06ab',
     name: 'Jellycious',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Jellycious.jpg',
-
     circle_facebook: null,
     circle_instagram: 'Instagram.com/jellycious',
     circle_twitter: 'X.com/bubblefii_p7',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8891,
-
     circle_code: 'M-07a',
     name: 'Meng Pergi Event',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Meng Pergi Event.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/_soujun, https://x.com/mochineko_hako',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8892,
-
     circle_code: 'M-07b',
     name: 'SFW Arts',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SFW Arts.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61571292700272',
     circle_instagram: 'https://www.instagram.com/shiinochi/',
     circle_twitter: 'https://x.com/shiinochi',
     circle_other_socials: 'https://www.pixiv.net/users/6944117',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/49570a8d-af43-4209-a24e-c6ec68258ea6/95af13b3-3804-4266-9b9d-473245f6e05d/M-07b.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/49570a8d-af43-4209-a24e-c6ec68258ea6/578c1c34-4735-4363-8e17-f9453e9161e7/M-07b.jpg',
@@ -20995,154 +16146,121 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/49570a8d-af43-4209-a24e-c6ec68258ea6/2a6a1608-cd52-489c-9234-677ffffba130/M-07b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8893,
-
     circle_code: 'M-08a',
     name: 'Toto Kelontong',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Toto Kelontong.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter:
       'https://twitter.com/HkkHoke , https://www.x.com/mmatsuw , https://x.com/andhrlfn',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8894,
-
     circle_code: 'M-08b',
     name: 'Bolu kukus',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bolu kukus.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/yonanahana?igsh=cjV6cmpkNjNtdmM2',
+    circle_instagram: 'https://www.instagram.com/yonanahana?igsh=cjV6cmpkNjNtdmM2',
     circle_twitter: 'https://x.com/yonanahanaa?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8895,
-
     circle_code: 'M-09ab',
     name: 'COD (Come, Observe, Dompet Khilaf)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/COD (Come, Observe, Dompet Khilaf).jpg',
-
     circle_facebook: '-',
     circle_instagram:
       'https://www.instagram.com/oniinjun?igsh=NDZlamNmcW56bWVy, https://www.instagram.com/mikahahanyon?igsh=MW8zdDZsNzJjdnhkYw==, https://www.instagram.com/overseaka?igsh=MXJ5endzZjN4a3Rrcg==',
     circle_twitter:
       'https://x.com/4LNSTILL, https://x.com/oniijunn, https://x.com/Ayangrion, https://x.com/overseaka?s=20',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8896,
-
     circle_code: 'M-10ab',
     name: 'DUARR! Lingkaran Gepeng',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/DUARR! Lingkaran Gepeng.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/aii_fir',
     circle_twitter: 'https://x.com/aii_fir',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8897,
-
     circle_code: 'M-11ab/M-12ab',
     name: 'WRONG LAYER',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/WRONG LAYER.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter:
       'https://x.com/ompongworks - https://x.com/Dyoworks - https://x.com/nekoradon - https://x.com/RAlgiera - https://x.com/lulu_chan92',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8898,
-
     circle_code: 'M-13ab',
     name: 'Tikum V-Esport',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tikum V-Esport.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/rankskun/',
     circle_twitter: 'https://x.com/Rankskuns',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8899,
-
     circle_code: 'M-14ab',
     name: 'little ship',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/little ship.jpg',
-
     circle_facebook: 'https://www.facebook.com/littleships',
     circle_instagram: 'https://www.instagram.com/littleship.2015/',
     circle_twitter: 'https://x.com/LittleShip2015',
     circle_other_socials: 'https://x.com/its_mel777',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8900,
-
     circle_code: 'M-15ab',
     name: 'meganeism',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/meganeism.jpg',
-
     circle_facebook: '',
     circle_instagram:
       'https://www.instagram.com/mataharigoreng/ , https://www.instagram.com/mayokarage/ , https://www.instagram.com/73crop/',
     circle_twitter: 'https://x.com/mayokarage , https://x.com/73croP',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/46963be3-ab9c-4f08-96b5-4cd227840d63/4d21bd7f-4d28-47fe-a15c-e2d0e1a16dcb/M-15ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/46963be3-ab9c-4f08-96b5-4cd227840d63/f66df219-5745-4ea2-8038-53451fb3e6f8/M-15ab.png',
@@ -21152,22 +16270,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/46963be3-ab9c-4f08-96b5-4cd227840d63/615dcce5-f7e3-4d7e-96e7-a057c07c6be8/M-15ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8901,
-
     circle_code: 'M-16a (SAT)',
     name: 'kairikazu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/kairikazu.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/shotashotakairi/',
     circle_twitter: 'https://x.com/kairi_chi',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/404f4b7e-3e0b-4c16-9a2f-388ad9d9b314/497fffbb-2e5b-4c7c-9d42-4ec4ee650f7c/M-16a (SAT).jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/404f4b7e-3e0b-4c16-9a2f-388ad9d9b314/50945535-d60d-43fd-94f2-1f1b4f88da12/M-16a (SAT).jpg',
@@ -21180,40 +16294,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/404f4b7e-3e0b-4c16-9a2f-388ad9d9b314/f322da25-e60c-4f20-8207-3bbfcac54bcc/M-16a (SAT).jpg',
     ],
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8902,
-
     circle_code: 'M-16b (SAT)',
     name: 'Nama Sirkel Tidak Boleh Kosong (NASI TBK)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nama Sirkel Tidak Boleh Kosong (NASI TBK).jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/sonyasstte, https://x.com/dameningendaze',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8903,
-
     circle_code: 'M-16ab (SUN)',
     name: 'Lower One’s Eyes (to the merch on the table)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lower Ones Eyes to the merch on the table.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kaishiroo_?igsh=MT',
     circle_twitter: 'https://x.com/kaisheero?s=21',
     circle_other_socials: '',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0c01c75c-538d-4da4-917a-036ca3eb7b84/9dbaa4c1-b7f9-4295-99d6-f326cf988a0a/M-16ab (SUN).jpeg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0c01c75c-538d-4da4-917a-036ca3eb7b84/88f2d00a-128a-4096-b711-4238de0f25a3/M-16ab (SUN).jpeg',
@@ -21227,263 +16333,202 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0c01c75c-538d-4da4-917a-036ca3eb7b84/25a74d47-c81e-4b7a-8fa6-d32759aede37/M-16ab (SUN).jpeg',
     ],
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8904,
-
     circle_code: 'M-17ab',
     name: 'SIRIKA x ewawa',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SIRIKA x ewawa.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/crika117',
     circle_twitter: 'https://x.com/yion_yu',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8905,
-
     circle_code: 'M-18ab',
     name: 'Acumalaka Circle',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Acumalaka Circle.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/utsuyeet/',
     circle_twitter: 'https://x.com/utsuyeet',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8906,
-
     circle_code: 'M-19ab',
     name: 'Masochist Artists Club',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Masochist Artists Club.jpg',
-
     circle_facebook: '-',
-    circle_instagram:
-      'https://www.instagram.com/vees_cookie/ , https://www.instagram.com/tovffee/',
-    circle_twitter:
-      'https://x.com/veescookies , https://x.com/Tovffee , https://x.com/Hanareno_',
+    circle_instagram: 'https://www.instagram.com/vees_cookie/ , https://www.instagram.com/tovffee/',
+    circle_twitter: 'https://x.com/veescookies , https://x.com/Tovffee , https://x.com/Hanareno_',
     circle_other_socials: '-',
-
     other_fandom:
       "Omniscient Reader's Viewpoint, Link Click, Kagerou Project, Alien stage, Project Sekai, Pikmin, Animal Crossing, Originals, Love and Deepspace (LADS), Vsynth, Degrees of Lewdity (DOL), Blue Lock, Paradox Live",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8907,
-
     circle_code: 'M-20ab',
     name: 'Chronically Cool Kids',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Chronically Cool Kids.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kiryoru',
     circle_twitter: 'https://x.com/kiryoru',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8908,
-
     circle_code: 'M-21ab',
     name: 'Delulu Decree',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Delulu Decree.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8909,
-
     circle_code: 'M-22ab',
     name: '9niku',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/9niku.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/nineniku',
     circle_twitter: 'x.com/nine_niku',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8910,
-
     circle_code: 'M-23a',
     name: 'Matchataro',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Matchataro.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/vigokatze',
     circle_twitter: 'https://x.com/vgktzz',
     circle_other_socials: 'https://vgktz.carrd.co/',
-
     other_fandom:
       "Vocaloid, Virtual Witch Phenomenon, The Guy She Was Interested in Wasn't a Guy at All, Omniscient Reader's Viewpoint, Alien Stage, Nijisanji EN, Demon Slayer, BoBoiBoy, Reverse: 1999, Five Nights At Freddy's",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8911,
-
     circle_code: 'M-23b',
     name: 'Sekte Awan Jaya (Rawr)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sekte Awan Jaya (Rawr).jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/mintm7rai/',
     circle_twitter: 'https://x.com/SKiyamii',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8912,
-
     circle_code: 'M-24a',
     name: 'GrimPuff',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/GrimPuff.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/grim.puffs_?igsh=MXMwbzBrcmJyaWtxcg==',
+    circle_instagram: 'https://www.instagram.com/grim.puffs_?igsh=MXMwbzBrcmJyaWtxcg==',
     circle_twitter: null,
     circle_other_socials: null,
-
     other_fandom:
       "Genshin impact, Bandori, F1, Hetalia, Dungeon Meshi, ORB, Haunted hotel, Five nights at Freddy's, The amazing digital circus",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8913,
-
     circle_code: 'M-24b',
     name: 'Taro Pancake',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Taro Pancake.jpg',
-
     circle_facebook: 'https://www.facebook.com/share/1CDvXHGfWF/',
     circle_instagram: 'Instagram.com/yuvixiao',
     circle_twitter: 'x.com/rramyeon02',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8914,
-
     circle_code: 'M-25ab',
     name: 'DINDING SHOP',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/DINDING SHOP.jpg',
-
     circle_facebook: 'https://www.facebook.com/share/1B3n5gYjLg/',
     circle_instagram: 'https://www.instagram.com/anr_pro?igsh=eHl2OWF5MzZpNHFv',
     circle_twitter: 'https://x.com/ANR_pro',
     circle_other_socials: 'https://www.pixiv.net/en/users/102665837',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8915,
-
     circle_code: 'M-26ab/M-27ab',
     name: 'Shrimp House',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Shrimp House.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/maapoot',
     circle_twitter: 'https://x.com/MaapOot',
     circle_other_socials: 'https://maap-oot-bentar.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8916,
-
     circle_code: 'M-28ab',
     name: 'Ojisuns',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ojisuns.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kurameltea/',
     circle_twitter: 'https://x.com/cacc_hiii',
     circle_other_socials: 'https://potofu.me/riemi',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8917,
-
     circle_code: 'M-29a (SAT)',
     name: 'ABSOLUTE DEADLINE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ABSOLUTE DEADLINE.jpg',
-
     circle_facebook: 'https://www.facebook.com/kyoraa00/?locale=id_ID',
     circle_instagram:
       'https://www.instagram.com/kyoraa00/ , https://www.instagram.com/agedashitooru/ , https://www.instagram.com/syha_ruru/',
@@ -21491,101 +16536,78 @@ export const BOOTHS = [
       'https://x.com/kyoraa00 , https://x.com/syha_ruru , https://x.com/greentakoyaky',
     circle_other_socials:
       'https://drive.google.com/drive/u/2/folders/1ry_WtBFcy5zlSG81rxTydEdC2ntJQwYI',
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8918,
-
     circle_code: 'M-29a (SUN)',
     name: 'CHIKI CAKUNG',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CHIKI CAKUNG.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/chikiprpr/',
     circle_twitter: 'https://x.com/chikinprpr',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8919,
-
     circle_code: 'M-29b (SAT)',
     name: 'Cheki-Cheki',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cheki-Cheki.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/saltytako/',
     circle_twitter: 'https://x.com/guritaasin',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8920,
-
     circle_code: 'M-29b (SUN)',
     name: 'Batagor Keliling',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Batagor Keliling.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/Batag0rkeliling',
     circle_other_socials: 'https://batagorkeliling.carrd.co/',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8921,
-
     circle_code: 'M-30ab (SAT)',
     name: 'Mnemonik',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mnemonik.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8922,
-
     circle_code: 'M-30ab (SUN)',
     name: 'ByTheBrokies',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ByTheBrokies.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/bythebrokies?igsh=bnEzdmU2YzI4djUw',
+    circle_instagram: 'https://www.instagram.com/bythebrokies?igsh=bnEzdmU2YzI4djUw',
     circle_twitter: 'https://x.com/ByTheBrokies',
     circle_other_socials: null,
-
     other_fandom:
       "NIJISANJI EN, DC, Voltron, Marauders, LMK, Hazbin Hotel, Dispatch, Jesus, Sea creatures, FNAF, Mouthwashing, Omori, Danganronpa, Project: Eden's Garden, Arknights, Nijisanji EN, TADC",
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3534c3f5-9859-44c5-a4a2-9d004276c1d9/fb1af358-f14f-4af7-890d-bdb678c655c6/M-30ab (SUN).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3534c3f5-9859-44c5-a4a2-9d004276c1d9/114b1eee-5e77-4dcf-acc0-274f5a4dbae2/M-30ab (SUN).png',
@@ -21595,210 +16617,162 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3534c3f5-9859-44c5-a4a2-9d004276c1d9/c596fbea-ff7e-4f94-ac50-e062f96f9197/M-30ab (SUN).png',
     ],
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8923,
-
     circle_code: 'M-31ab (SAT)',
     name: 'UTSUDOZAGE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/UTSUDOZAGE.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/microdozage',
     circle_twitter: 'https://x.com/microdozage',
     circle_other_socials: 'https://microdozage.com/',
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8924,
-
     circle_code: 'M-31ab (SUN)',
     name: 'ZO.ONA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/circle_cut_blank.jpg',
-
     circle_facebook: 'https://www.facebook.com/share/16spRwmsaX/',
-    circle_instagram:
-      'https://www.instagram.com/ody_cerez?igsh=MWo4c3RsOGVzcDhkZA==)',
+    circle_instagram: 'https://www.instagram.com/ody_cerez?igsh=MWo4c3RsOGVzcDhkZA==)',
     circle_twitter: 'https://x.com/OCerezz',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8925,
-
     circle_code: 'M-32ab/M-33ab',
     name: 'Season SideUp x nekoshi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Season SideUp x nekoshi.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/sachikurii/ ; https://www.instagram.com/seasonsideup/',
     circle_twitter: 'https://x.com/sachikurii',
     circle_other_socials: 'https://sachikurii.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8926,
-
     circle_code: 'M-34ab',
     name: 'sing with me',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/sing with me.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'www.instagram.com/justpionybit, www.instagram.com/yakotapi, www.instagram.com/fmitsni6595, www.instagram.com/sylsyliaacil_',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8927,
-
     circle_code: 'M-35ab',
     name: 'Deco*22',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Deco22.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/vanillcmilk',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8928,
-
     circle_code: 'M-36ab',
     name: 'Perkumpulan Mahasigma',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Perkumpulan Mahasigma.jpg',
-
     circle_facebook: '-',
     circle_instagram: '-',
     circle_twitter: 'https://x.com/PKMahasigma',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8929,
-
     circle_code: 'M-37ab (SAT)',
     name: 'The Council.',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/The Council..jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/icedhotkopi?igsh=YXdvMGZ0ZThvZ294&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/icedhotkopi?igsh=YXdvMGZ0ZThvZ294&utm_source=qr',
     circle_twitter: 'https://x.com/icedhotkopi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8930,
-
     circle_code: 'M-37ab (SUN)',
     name: 'Colirs Express',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Colirs Express.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/hikarusanity/',
     circle_twitter: 'https://x.com/hikarusanity',
     circle_other_socials: null,
-
     other_fandom:
       "Gachiakuta, Roblox ARG, Die Of Death, Takopi's Original Sin, Madoka Magica, Twisted Wonderland, Studio Investigrave, Omnicient Reader, Alien Stage, Death Note, Love and Deepspace, Umamusume, Hololive, Jujutsu Kaisen, Chainsaw Man, Limbus Company, The Amazing Digital Circus, South Park, Hazbin Hotel, Junji Ito",
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8931,
-
     circle_code: 'M-38ab (SAT)',
     name: 'Penyuka Bapak Bapak',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Penyuka Bapak Bapak.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/simperina_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8932,
-
     circle_code: 'M-38a (SUN)',
     name: 'Krill Crackers',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Krill Crackers.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/_miasmig_/',
     circle_twitter: 'https://x.com/lethargician',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8933,
-
     circle_code: 'M-38b (SUN)',
     name: 'ADA LAH POKOKNYA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ADA LAH POKOKNYA.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/himachuan/ // https://www.instagram.com/chirutya/',
+    circle_instagram: 'https://www.instagram.com/himachuan/ // https://www.instagram.com/chirutya/',
     circle_twitter: 'https://x.com/himachuann // https://x.com/chirutya67',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/eed497b7-500e-4339-bc7a-7684cba563fd/5f6ef577-248b-42f7-aa6d-4a7871ef827e/M-38b (SUN).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/eed497b7-500e-4339-bc7a-7684cba563fd/d291b964-4495-4055-9929-10f81d485c2b/M-38b (SUN).png',
@@ -21809,41 +16783,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/eed497b7-500e-4339-bc7a-7684cba563fd/c6b00350-b878-4f2a-8af3-d83bf7f3b324/M-38b (SUN).jpg',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8934,
-
     circle_code: 'M-39ab',
     name: 'Desaineru (desainer tidur)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Desaineru (desainer tidur).jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/mayoaonaise?igsh=MThid21ueG41dnY5Nw==',
+    circle_instagram: 'https://www.instagram.com/mayoaonaise?igsh=MThid21ueG41dnY5Nw==',
     circle_twitter: 'https://x.com/mayoaonaise',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8935,
-
     circle_code: 'M-40ab',
     name: 'Koperasi Ucup Jaya',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Koperasi Ucup Jaya.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/nawnawpunkin/',
     circle_twitter: 'https://twitter.com/nawnawpunkin',
     circle_other_socials: 'https://nawnawpunkin.carrd.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3bb2f012-6c5f-4abf-9e75-70d8100c3591/41f18da4-8ae1-4b89-9822-1a177c5b412c/M-40ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3bb2f012-6c5f-4abf-9e75-70d8100c3591/e3767da4-8cc6-4a4d-bfab-4b9730fe5a74/M-40ab.jpg',
@@ -21852,23 +16817,19 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3bb2f012-6c5f-4abf-9e75-70d8100c3591/0ad946c5-6bea-4290-b5c2-0428fd9f036e/M-40ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8936,
-
     circle_code: 'M-41ab',
     name: 'Veewa Studios',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Veewa Studios.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/veewa_studios?igsh=MWpsaHdyNHQwZG15aQ&utm_source=qr',
     circle_twitter: 'https://x.com/veewa_studios?s=21',
     circle_other_socials: 'linktr.ee/VeewaStudios',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/41f0543e-3401-4152-8fa2-26cf1496a3ef/7fa39ae2-5c2d-4917-8435-0dd0865ba3a7/M-41ab.jpeg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/41f0543e-3401-4152-8fa2-26cf1496a3ef/8429fb23-892c-467f-8c76-3db525274975/M-41ab.jpeg',
@@ -21882,85 +16843,66 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/41f0543e-3401-4152-8fa2-26cf1496a3ef/7e4b557c-ae7d-43c2-b81f-8afc29ae81ed/M-41ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8937,
-
     circle_code: 'M-42ab',
     name: 'KAPAL KARAM',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KAPAL KARAM.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://instagram.com/ecsttt1524 https://instagram.com/_yumeboshi/ https://ssaltsalto',
     circle_twitter:
       'https://x.com/untold4135/ https://x.com/arse_cukimay/ https://x.com/_yumeboshi https://x.com/SSaltSalto',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8938,
-
     circle_code: 'M-43ab',
     name: 'Yozora no Shachi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Yozora no Shachi.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/ceauwu__?igsh=aTRvOGxyb2o2MXhq',
+    circle_instagram: 'https://www.instagram.com/ceauwu__?igsh=aTRvOGxyb2o2MXhq',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8939,
-
     circle_code: 'M-44ab',
     name: 'Kokocupid',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kokocupid.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/cupidsore',
     circle_twitter: 'https://x.com/cupidsore',
     circle_other_socials: null,
-
     other_fandom:
       "Vocaloids, Wuthering Waves, MLP, Kamisama Kiss, League Of Legends, Pokemon, Silksong, Hollow knight, The Amazing Digital Circus, DC Comics, Kpop Demon Hunters, Tamon's B Side, DanDaDan, Jujutsu Kaisen, Original, Crochet, Saiki K, Final Fantasy 7, Chiikawa, HTTYD",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8940,
-
     circle_code: 'M-45a',
     name: 'Rencom Club',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Rencom Club.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/komikdigital.labsren',
     circle_twitter: null,
     circle_other_socials: null,
-
     other_fandom:
       "TXT, Marvel, DC, My Little Pony, Deltarune, Honkai: Star Rail, Touhou, Osomatsu-san, Roblox, Bee Swarm Simulator, Forsaken, &Team, K-Pop Demon Hunters, Genshin Impact, Omniscient Reader's Viewpoint, Project Moon, Countryballs, Solo Leveling, Alien Stage",
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5b15527c-c382-462b-a6d6-2e4a9d2bd344/ca0d0e3c-0dde-4c23-a008-889b2fd11b87/M-45a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5b15527c-c382-462b-a6d6-2e4a9d2bd344/941f5f1e-6455-44a8-a11d-25cb98b4d10a/M-45a.png',
@@ -21974,112 +16916,88 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5b15527c-c382-462b-a6d6-2e4a9d2bd344/f2506683-819c-41f7-89a8-0cd6ebb66a6a/M-45a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8941,
-
     circle_code: 'M-45b',
     name: 'RandomIN',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/RandomIN.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/randomin.studio/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8942,
-
     circle_code: 'M-46a',
     name: 'Xandritive',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Xandritive.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/toriseni',
     circle_twitter: 'https://x.com/nolchirasu',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8943,
-
     circle_code: 'M-46b',
     name: 'Kusakusa',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kusakusa.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/poropekko',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8944,
-
     circle_code: 'M-47a',
     name: 'VACONITE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/VACONITE.jpg',
-
     circle_facebook: 'https://www.facebook.com/ValAconite',
     circle_instagram: 'https://www.instagram.com/valacnt/',
     circle_twitter: 'https://x.com/valacnt',
     circle_other_socials: 'https://vgen.co/valacnt',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8945,
-
     circle_code: 'M-47b',
     name: 'koucheese',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/koucheese.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/koucheese/?hl=en',
     circle_twitter: 'https://x.com/koucheese/media',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8946,
-
     circle_code: 'M-48a',
     name: 'Scentoflaven',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Scentoflaven.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/scentoflaven',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0f71fd0f-5c65-4d08-a3fd-9ea7f002922d/dd90cb4b-1fbb-4865-9100-0aaf1c9660cf/M-48a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0f71fd0f-5c65-4d08-a3fd-9ea7f002922d/d74ff2ce-6e16-44e3-8660-7e11b897ae78/M-48a.png',
@@ -22089,153 +17007,121 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0f71fd0f-5c65-4d08-a3fd-9ea7f002922d/374cc3ad-19ce-4767-bcb6-33fa4fe0afbf/M-48a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8947,
-
     circle_code: 'M-48b',
     name: 'Remycola',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Remycola.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/remycola/',
     circle_twitter: 'https://x.com/r3mycola',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8948,
-
     circle_code: 'M-49ab',
     name: 'Apatowell',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Apatowell.jpg',
-
     circle_facebook: 'https://www.facebook.com/innocentmegami',
     circle_instagram: 'https://x.com/ennicorii',
     circle_twitter: 'https://x.com/innocentmegami',
     circle_other_socials: 'https://ennicorii.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8949,
-
     circle_code: 'M-50ab/M-51ab',
     name: 'PALUMAUT',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PALUMAUT.jpg',
-
     circle_facebook: null,
     circle_instagram: 'http://instagram.com/komik.palumaut',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8950,
-
     circle_code: 'M-52ab',
     name: 'WARJOK',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/WARJOK.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/tsnzen/',
     circle_twitter: 'https://x.com/tsnzen',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8951,
-
     circle_code: 'M-53a',
     name: 'Olaloka by Jessica Pohan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Olaloka by Jessica Pohan.jpg',
-
     circle_facebook: null,
     circle_instagram: 'Https://instagram.com/Jessica_pohan',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8952,
-
     circle_code: 'M-53b',
     name: 'Roasted Tomatoad',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Roasted Tomatoad.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/rauverie/',
     circle_twitter: 'https://www.x.com/rauverie/',
     circle_other_socials: 'Rauverie#6348',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8953,
-
     circle_code: 'M-54a',
     name: "Reinoirr and Sherriefoal's stable",
     circle_cut:
       "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Reinoirr and Sherriefoal's stable.jpg",
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/reinoirr/',
     circle_twitter: 'https://x.com/reinoirr',
     circle_other_socials:
       'https://l.instagram.com/?u=httpsreinoirr.carrd.cofbclidPAZXh0bgNhZW0CMTEAAaaY9EUJqNkXIE3s2O4OuYcmzEg-Jq8csZ1D5oPPuYi7OfCDbLYR0ISnBWg_aem_ZmFrZWR1bW15MTZieXRlcw23utm_sourceigutm_mediumsocialutm_contentlink_in_bio&e=AT32WHkS7szK3JQaqGKTHJYnc8jrdJbiHiT18DrwtLMGx7a3kYdvs77ZgbzsH47sQE9U8r_YIyv4R0SrxXXQCSNBVzuJUtgWrm2hfjO9xw',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f9db7a1a-827d-462d-9ae3-5c980255b72e/45b898b4-4d6c-4f77-bcee-1d805c34a7a6/M-54a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f9db7a1a-827d-462d-9ae3-5c980255b72e/db592066-a7f7-4594-89f7-b7d347c9dc7e/M-54a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f9db7a1a-827d-462d-9ae3-5c980255b72e/ec84cdec-eb14-4c0b-848b-32d6545be926/M-54a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8954,
-
     circle_code: 'M-54b',
     name: 'zankuoart',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/zankuoart.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/zankuoart/?hl=en',
     circle_twitter: 'https://x.com/zankuoart?t=MbozLYKOJstTZJmoIf3ByQ&s=09',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/17f55353-a311-4453-ad52-fe0276b96bc3/28f08e79-295f-4612-8486-1bd05e267fc4/M-54b.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/17f55353-a311-4453-ad52-fe0276b96bc3/c33eeb88-5779-46cf-96b8-dbdbbb3837a7/M-54b.jpg',
@@ -22249,22 +17135,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/17f55353-a311-4453-ad52-fe0276b96bc3/4d9ba205-ef81-4790-ac4e-a800f6ed61e8/M-54b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8955,
-
     circle_code: 'M-55ab',
     name: 'Hunny Hill Zone X Studio Nairo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Hunny Hill Zone X Studio Nairo.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/kerosenehearth',
     circle_twitter: null,
     circle_other_socials: 'instagram.com/____studionairo',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2257d5ac-86c9-44c4-8cba-280ae5bf7e24/0a83497a-26a8-4dec-965b-c7463595953b/M-55ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2257d5ac-86c9-44c4-8cba-280ae5bf7e24/23d3d2ad-e40a-4391-b4cc-8d8f40063d52/M-55ab.jpg',
@@ -22278,481 +17160,371 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2257d5ac-86c9-44c4-8cba-280ae5bf7e24/2a591816-a9cc-4320-b5a1-8c26b9bdbe84/M-55ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8956,
-
     circle_code: 'M-56ab/M-57ab',
     name: 'Ikemen Bakery',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ikemen Bakery.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/skylarkestring',
     circle_twitter: 'https://x.com/skylarkestring',
     circle_other_socials:
       '@skylarkestring, @misticly_, @lylacdrz, @ezokeii.art, @ranpokawa, @ziaziyaaa, @velinlav, @wen1_01, @xienera',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8957,
-
     circle_code: 'M-58ab',
     name: 'Godaan SETAN',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Godaan SETAN.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/wx1wv_001?igsh=NW01YXZhajNxMnNy',
+    circle_instagram: 'https://www.instagram.com/wx1wv_001?igsh=NW01YXZhajNxMnNy',
     circle_twitter: 'https://x.com/sakuwauwa',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8958,
-
     circle_code: 'M-59a',
     name: 'Hamo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Hamo.jpg',
-
     circle_facebook: '-',
-    circle_instagram:
-      'https://www.instagram.com/hamo_o8o?igsh=MTJuNjVzZjA3bnM0aA&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/hamo_o8o?igsh=MTJuNjVzZjA3bnM0aA&utm_source=qr',
     circle_twitter: 'https://x.com/hamo8o?s=21',
     circle_other_socials: 'https://id.shp.ee/V8wRR5V',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8959,
-
     circle_code: 'M-59b',
     name: 'B-witch!',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/B-witch!.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/lucky_inu.1221031125_20?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw== , https://www.instagram.com/laura274_1?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw== , https://www.instagram.com/ebifrye?igsh=MXA1ZnE0YnpzZDIwbQ== , https://www.instagram.com/pekopays?igsh=MWJiM2Q1MWw0MWwyag==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8960,
-
     circle_code: 'M-60ab',
     name: 'OTP Canonizer',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/OTP Canonizer.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/zhuetsu/',
     circle_twitter: 'https://x.com/zhuetsu',
     circle_other_socials: 'https://linktr.ee/zhuetsu',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8961,
-
     circle_code: 'N-01ab',
     name: 'Spirit World',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Spirit World.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/eileenwdj',
     circle_twitter: 'https://x.com/eileenwdj',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8962,
-
     circle_code: 'N-02ab',
     name: 'Klub Perintis',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Klub Perintis.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://acesse.one/56rN7 (zimzim.vnmll), https://acesse.one/9kbdH (@niki_.exe), https://l1nk.dev/Wg90P (audrey_4rrtsh1rt) ,',
     circle_twitter: null,
     circle_other_socials: 'https://acggoods.com/store/nikis-den (acggoods)',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a8509801-9a06-4ac0-b22f-05f59432fdfc/2eafb715-c40f-4631-b7d1-e14ab18065df/N-02ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a8509801-9a06-4ac0-b22f-05f59432fdfc/2045a5cc-13df-4674-90ef-1099a19b2ba2/N-02ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8963,
-
     circle_code: 'N-03ab',
     name: 'Sunnypooky',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sunnypooky.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/ephenorals?igsh=bGJtNTB5OXA5aHMw',
+    circle_instagram: 'https://www.instagram.com/ephenorals?igsh=bGJtNTB5OXA5aHMw',
     circle_twitter: 'https://x.com/sunnyspavillion',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8964,
-
     circle_code: 'N-04ab',
     name: 'Fluto x Keel',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Fluto x Keel.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/fluto_von',
     circle_twitter: 'https://x.com/fluto_von',
     circle_other_socials: 'fluto.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8965,
-
     circle_code: 'N-05ab',
     name: 'nikisolosgoku x focakuma',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/nikisolosgoku x focakuma.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/nikisolosgoku?igsh=MWpsdHBlb3BudGlqdQ&utm_source=qr',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8966,
-
     circle_code: 'N-06ab',
     name: 'Nyao',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nyao.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/nyaomaoo/',
     circle_twitter: null,
     circle_other_socials: 'shopee.co.id/nyaoomaoo',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8967,
-
     circle_code: 'N-07ab',
     name: 'Tomat Kotak',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tomat Kotak.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kiraeru?igsh=aXZ3ZHpvbHZnaXU=',
     circle_twitter: 'https://x.com/pepsicant?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8968,
-
     circle_code: 'N-08a',
     name: 'naiu x samballie',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/naiu x samballie.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/naiutical?igsh=ZmozZGswbWZmaTJo&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/naiutical?igsh=ZmozZGswbWZmaTJo&utm_source=qr',
     circle_twitter: 'https://x.com/naiutical?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8969,
-
     circle_code: 'N-08b',
     name: 'Pejuang Om Tante Barat',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pejuang Om Tante Barat.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
-    circle_other_socials:
-      'https://x.com/starpruit?s=21&t=5b_4cbENmLpjaXTEUiZKig',
-
+    circle_other_socials: 'https://x.com/starpruit?s=21&t=5b_4cbENmLpjaXTEUiZKig',
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8970,
-
     circle_code: 'N-09ab',
     name: 'Site 17 Meth Lab',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Site 17 Meth Lab.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/brainrotoscope',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8971,
-
     circle_code: 'N-10ab',
     name: 'soft.kombucha',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/soft.kombucha.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/softkombuchaa',
     circle_twitter: 'https://x.com/softkombuchaa',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8972,
-
     circle_code: 'N-11ab',
     name: 'Toserjel',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Toserjel.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/toserjel',
     circle_twitter: 'x.com/toserjel',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8973,
-
     circle_code: 'N-12a',
     name: 'himerokku',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/himerokku.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/phalkphight?igsh=ZndobWkyaWN1cm5q&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/phalkphight?igsh=ZndobWkyaWN1cm5q&utm_source=qr',
     circle_twitter: 'https://x.com/phalkphight?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8974,
-
     circle_code: 'N-12b',
     name: 'Sky Brulee',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sky Brulee.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/sky.brulee?igsh=ZjI4aXVtcmM1NWl3&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/sky.brulee?igsh=ZjI4aXVtcmM1NWl3&utm_source=qr',
     circle_twitter: 'https://x.com/skybrulee?s=21',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b28f4dad-d748-4202-80c6-5e2ae1f38a03/d758336c-162b-45c7-9a43-bb1c92910c8f/N-12b.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b28f4dad-d748-4202-80c6-5e2ae1f38a03/f697c27f-e560-44d3-87c5-3b45d2d7f3ac/N-12b.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b28f4dad-d748-4202-80c6-5e2ae1f38a03/4d10e2d7-5235-48dd-bcd0-97f7bb9e9e3c/N-12b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8975,
-
     circle_code: 'N-13ab',
     name: '7ikanz',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/7ikanz.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/7ikanz?igsh=dXdzcm9wdWVmMm00',
     circle_twitter: 'https://x.com/7ikanz',
     circle_other_socials: null,
-
     fandom: "Omniscient Reader's Viewpoint",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8976,
-
     circle_code: 'N-14ab',
     name: 'Bolu Pandanaran',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bolu Pandanaran.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/on_training00/',
     circle_twitter: 'https://x.com/onchan00_cpk',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8977,
-
     circle_code: 'N-15a',
     name: 'HIMATACHI',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/HIMATACHI.jpg',
-
     circle_facebook: 'https://web.facebook.com/madina.fira.9/',
     circle_instagram: 'https://www.instagram.com/4771tn/',
     circle_twitter: 'https://x.com/Fifirarart',
     circle_other_socials: 'https://shinseifuu.carrd.co/',
-
     fandom: "Omniscient's Reader Viewpoint (ORV)",
     other_fandom:
       "Lout of Count's Family, S Class that I Raised, Nu Carnival, Love and Deepspace, Debut or DIe",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8978,
-
     circle_code: 'N-15b',
     name: 'Terserah',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Terserah.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/tamago_spill?igsh=c2YzcndnMnEydTdp, https://www.instagram.com/aer._es?igsh=djB2MnI0djRkZXoz, https://www.instagram.com/thejanuarystar?igsh=djM5dGU4Z2d6ODl6, https://www.instagram.com/heheh.cil?igsh=MWptNnRqd3V5YXEyNQ==, https://www.instagram.com/nextm_wr?igsh=M3FjY201YW15YTlz, https://www.instagram.com/apple_.te4?igsh=MWllM2FzdXBpOXMxeA==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8979,
-
     circle_code: 'N-16a',
     name: 'ers_kui',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ers_kui.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/ers_kui',
     circle_other_socials: null,
-
     fandom: "Omniscient Reader's Viewpoint (ORV)",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8980,
-
     circle_code: 'N-16b',
     name: 'Syoran',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Syoran.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/syoran256',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0f988683-f428-46f2-8fc4-c21ae79cc007/553d2a39-4599-43c6-9633-68834099cc02/N-16b.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0f988683-f428-46f2-8fc4-c21ae79cc007/aff4ad69-360b-4b11-8dbe-f807d3578562/N-16b.jpg',
@@ -22762,142 +17534,108 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0f988683-f428-46f2-8fc4-c21ae79cc007/ccb01e15-3a05-4575-bae4-0ce4ec111c66/N-16b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8981,
-
     circle_code: 'N-17ab',
     name: 'Delulu Land',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Delulu Land.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/sweepytofu/',
     circle_twitter: 'https://x.com/sweepytofu',
     circle_other_socials: null,
-
     fandom: "Omniscient Reader's Viewpoint (ORV)",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8982,
-
     circle_code: 'N-18a',
     name: 'Kesetimbangan Hidrostatik',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kesetimbangan Hidrostatik.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/interstellarsugar',
     circle_twitter: 'https://x.com/madebyjirou',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8983,
-
     circle_code: 'N-18b',
     name: 'Kasih Paham Bos',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kasih Paham Bos.jpg',
-
-    circle_facebook:
-      'https://facebook.com/Yao%Ya/, https://facebook.com/Nurani%Latifa/',
+    circle_facebook: 'https://facebook.com/Yao%Ya/, https://facebook.com/Nurani%Latifa/',
     circle_instagram:
       'https://instagram.com/alepepyu/ , https://instagram.com/samudramare/ , https://instagram.com/reinnaw27175/ , https://instagram.com/mikyungie/',
     circle_twitter:
       'https://x.com/atialf , https://x.com/3e3016km , https://x.com/reinnaw 27175 , https://x.com/yaoya814',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8984,
-
     circle_code: 'N-19ab',
     name: 'GUERAME',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/GUERAME.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/nalaooz',
     circle_twitter: null,
     circle_other_socials: null,
-
-    fandom:
-      'Marvel, DC, Western Cartoon, MP100, Western Game, Musical, ZZZ, DMC',
-
+    fandom: 'Marvel, DC, Western Cartoon, MP100, Western Game, Musical, ZZZ, DMC',
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8985,
-
     circle_code: 'N-20ab/N-21ab',
     name: 'Meoya',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Meoya.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/alf__303 https://www.instagram.com/sehachii',
+    circle_instagram: 'https://www.instagram.com/alf__303 https://www.instagram.com/sehachii',
     circle_twitter:
       'https://x.com/Alf__303 https://x.com/Sehachii https://x.com/lemonorangemint https://x.com/aleshafarana https://x.com/koviiy',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8986,
-
     circle_code: 'N-22ab (SAT)',
     name: 'Ayam Geprek 88',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ayam Geprek 88.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/ayamgeprek88.cf?igsh=NXp1bzIxZ3NwcGJz',
+    circle_instagram: 'https://www.instagram.com/ayamgeprek88.cf?igsh=NXp1bzIxZ3NwcGJz',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8987,
-
     circle_code: 'N-22a (SUN)',
     name: 'GENG MICIN',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/GENG MICIN.jpg',
-
     circle_facebook: 'https://www.facebook.com/roschea_arts/',
     circle_instagram:
       'https://www.instagram.com/roschea.smol/ , https://www.instagram.com/ava.asmodeity/?hl=en',
     circle_twitter: 'https://x.com/roschea_arts , http://x.com/ava_asmodeity',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4924f6fb-b475-4443-957d-63ba3620cb89/be0f3fd6-8c14-4816-b3aa-d6e88d87c34a/N-22a (SUN).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4924f6fb-b475-4443-957d-63ba3620cb89/9d56c859-5a2d-4550-be84-cd1f956df491/N-22a (SUN).png',
@@ -22911,142 +17649,110 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4924f6fb-b475-4443-957d-63ba3620cb89/84a8d198-0438-45ad-841e-b96c01aaaa14/N-22a (SUN).png',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8988,
-
     circle_code: 'N-22b (SUN)',
     name: '789 Alien Cat',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/789 Alien Cat.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/7eeg9',
     circle_other_socials: '',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9fcd042f-4149-4636-9345-62bf37094484/b3f85d62-e483-4eef-bd4b-02f2b8dff65f/N-22b (SUN).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9fcd042f-4149-4636-9345-62bf37094484/eab12b84-04da-4928-b14d-cec6a876a9e0/N-22b (SUN).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9fcd042f-4149-4636-9345-62bf37094484/cbe5f86f-49ba-4ae2-b026-df55ca45b593/N-22b (SUN).jpg',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8989,
-
     circle_code: 'N-23a (SAT)',
     name: 'gyoza station',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/gyoza station.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/jambugeulis',
     circle_other_socials: null,
-
     fandom: "Omniscient Reader's Viewpoint",
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8990,
-
     circle_code: 'N-23a (SUN)',
     name: 'Shitetonne Studios',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Shitetonne Studios.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/dayforyeah',
     circle_twitter: 'https://x.com/dayforyeah',
     circle_other_socials: null,
-
     fandom: "Omniscient Reader's Viewpoint",
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8991,
-
     circle_code: 'N-23b',
     name: 'Semicolon',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Semicolon.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://instagram.com/lamiaspxce',
     circle_twitter: 'https://x.com/lamiaspxce',
     circle_other_socials: 'https://x.com/sheivh',
-
     fandom: "Omniscient Reader's Viewpoint",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8992,
-
     circle_code: 'N-24a',
     name: 'Markitchi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Markitchi.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/markitchi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8993,
-
     circle_code: 'N-24b',
     name: 'trepicchi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/trepicchi.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/trepunya',
     circle_twitter: 'https://x.com/monotcchi',
     circle_other_socials: 'trepicchi.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8994,
-
     circle_code: 'N-25a',
     name: 'Tongkol RGB',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tongkol RGB.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/master_rename?igsh=MW94aGZwN2N4cW8wZw==',
+    circle_instagram: 'https://www.instagram.com/master_rename?igsh=MW94aGZwN2N4cW8wZw==',
     circle_twitter: 'https://x.com/MasterRename',
     circle_other_socials:
       'https://www.instagram.com/wh1tenori?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw== , https://www.instagram.com/benediktusjuliank.h?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw== , https://x.com/lostwbn?s=20 ',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2ced3a2c-9024-4065-b475-fe1176d6f78b/0908251b-68c3-429e-8b6d-9e2d364095f1/N-25a.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2ced3a2c-9024-4065-b475-fe1176d6f78b/3b82c097-67da-4c30-b403-22c5f5df5f5a/N-25a.jpg',
@@ -23057,80 +17763,62 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2ced3a2c-9024-4065-b475-fe1176d6f78b/003d6fcb-e22e-4de4-acf7-9a9427a63e02/N-25a.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8995,
-
     circle_code: 'N-25b (SUN)',
     name: 'AMOGUS (Anak Mommy Bagus)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/AMOGUS (Anak Mommy Bagus).jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/nonu_gee',
     circle_twitter: 'https://x.com/non_unooo',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8996,
-
     circle_code: 'N-26ab/N-27ab',
     name: 'Airport de la Iacon',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Airport de la Iacon.jpg',
-
     circle_facebook: 'https://www.facebook.com/share/1BadLT4Tgd/',
-    circle_instagram:
-      'https://www.instagram.com/akerumono?igsh=MXEyeHJrNWdqaXBmcw==',
+    circle_instagram: 'https://www.instagram.com/akerumono?igsh=MXEyeHJrNWdqaXBmcw==',
     circle_twitter: 'https://x.com/Terryfik_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 8997,
-
     circle_code: 'N-28ab (SAT)',
     name: 'PT Comifuro Jaya',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PT Comifuro Jaya.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/strawberrinns',
     circle_twitter: 'https://x.com/strawberrinns',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 8998,
-
     circle_code: 'N-28a (SUN)',
     name: 'Rainbow Whirlpool',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Rainbow Whirlpool.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/wandervergent',
     circle_twitter: 'https://x.com/SupremelySalt',
     circle_other_socials: 'https://linktr.ee/RainbowWhirlpool',
-
     other_fandom:
       "Original, One Piece, Demon Slayer, Persona 3, Splatoon, Hades, Baldur's Gate 3, Deadlock, Resident Evil, Black Myth Wukong (BMW)",
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1522bda7-9ffd-4f31-89fe-0ce1f3f8c387/0e81ce34-0d7e-4028-95b4-06b523e695dd/N-28a (SUN).jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1522bda7-9ffd-4f31-89fe-0ce1f3f8c387/e1949803-394d-4a25-8685-845762b36261/N-28a (SUN).jpg',
@@ -23142,22 +17830,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1522bda7-9ffd-4f31-89fe-0ce1f3f8c387/7249c587-5bae-4c3e-9e94-0010bf3684e1/N-28a (SUN).png',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 8999,
-
     circle_code: 'N-28b (SUN)',
     name: 'OLD MEN HOME',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/OLD MEN HOME.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/yukikoinopy/',
     circle_twitter: 'https://x.com/repipuhoney',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/bc04b4b2-060f-421f-99b3-ed753ee1862c/925f22c9-96e1-411f-b324-77194556d1b6/N-28b (SUN).jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/bc04b4b2-060f-421f-99b3-ed753ee1862c/ecca2bca-8b55-4b92-ae3f-1037e704c7bf/N-28b (SUN).jpg',
@@ -23170,23 +17854,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/bc04b4b2-060f-421f-99b3-ed753ee1862c/8abbcd19-f747-4436-a79d-f61b14492ae7/N-28b (SUN).jpg',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9000,
-
     circle_code: 'N-29ab (SAT)',
     name: 'Die-Versity',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Die-Versity.jpg',
-
     circle_facebook: '-',
-    circle_instagram:
-      'https://www.instagram.com/chaos_0624?igsh=MXV6eW13eWxuaWNyeg&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/chaos_0624?igsh=MXV6eW13eWxuaWNyeg&utm_source=qr',
     circle_twitter: 'https://x.com/chaos___0624?s=21&t=WRtCn35j-nzV5ikJ02tGfA',
     circle_other_socials: '-',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1cf87797-bbfe-4972-a583-01a69f53f6bb/986d6839-3330-431e-8921-75e22013b24d/N-29ab (SAT).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1cf87797-bbfe-4972-a583-01a69f53f6bb/651e572d-4afd-4369-a478-59b207598c90/N-29ab (SAT).png',
@@ -23200,24 +17879,19 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1cf87797-bbfe-4972-a583-01a69f53f6bb/d1954032-743e-4034-8965-fbb3ffc75f2b/N-29ab (SAT).png',
     ],
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9001,
-
     circle_code: 'N-29ab (SUN)',
     name: 'Impacto Collosus',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Impacto Collosus.jpg',
-
     circle_facebook: '-',
-    circle_instagram:
-      'https://www.instagram.com/xenraiz/ , https://www.instagram.com/stormiidb2/',
+    circle_instagram: 'https://www.instagram.com/xenraiz/ , https://www.instagram.com/stormiidb2/',
     circle_twitter:
       'https://x.com/Xzenonphrenic , https://x.com/ghostheatherr , https://x.com/kikukudos , https://x.com/Sandstormii2 , https://x.com/sinofloving',
     circle_other_socials: '-',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0a224550-c010-4fa0-95ec-3660cb0792f7/c9d445b3-0fc3-4512-8150-a996193f0c78/N-29ab (SUN).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0a224550-c010-4fa0-95ec-3660cb0792f7/e3b71664-cfb2-474a-92ba-5fbced34643b/N-29ab (SUN).png',
@@ -23229,22 +17903,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0a224550-c010-4fa0-95ec-3660cb0792f7/426c56d8-19c9-4168-b436-cbaf3b4d3546/N-29ab (SUN).png',
     ],
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9002,
-
     circle_code: 'N-30ab (SAT)',
     name: 'WOVEN INTO VEINS',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/WOVEN INTO VEINS.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/bornspiked/',
     circle_twitter: 'https://x.com/bornspiked',
     circle_other_socials: 'http://www.tiktok.com/@itsbornspiked',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ba9d1316-5292-492b-8590-ff911d269127/8758bbae-7d9a-4e33-9538-f45e546039a1/N-30ab (SAT).jpeg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ba9d1316-5292-492b-8590-ff911d269127/fabc7e52-c440-4d1c-b2d6-a7277beb7d4c/N-30ab (SAT).jpeg',
@@ -23255,235 +17925,183 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ba9d1316-5292-492b-8590-ff911d269127/45a268d1-99b0-405e-bbca-fbcd053fea84/N-30ab (SAT).jpeg',
     ],
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9003,
-
     circle_code: 'N-30ab (SUN)',
     name: 'Buka24Jam',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Buka24Jam.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/doremintea',
     circle_other_socials: null,
-
     other_fandom:
       "Honkai Star Rail, Sonic, Love Bullet, Nana, Yellow Jackets, Link Click, Omniscient Reader's Viewpoint, Twisted Wonderland, Gachiakuta, Adventure time, My Chemical Romance, Heated Rivalry",
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9004,
-
     circle_code: 'N-31ab',
     name: 'Moscheeks',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Moscheeks.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/moscheeks',
     circle_twitter: 'https://x.com/moscheeks',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9005,
-
     circle_code: 'N-32ab/N-33ab',
     name: 'Betulan Bundar',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Betulan Bundar.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/betulan.bundar',
     circle_twitter: null,
     circle_other_socials: 'https://linktr.ee/betulanbundar',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9006,
-
     circle_code: 'N-34ab',
     name: "D'Empire Kedai Dukun Cinta",
     circle_cut:
       "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/D'Empire Kedai Dukun Cinta.jpg",
-
     circle_facebook: null,
     circle_instagram:
       'Alifah (@selenav_artmoon): https://www.instagram.com/selenav_artmoon?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw== | Dilla (@Bakedpotats): https://www.instagram.com/bakedpotats?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw== | Farras (@fairin150): https://www.instagram.com/fairin150?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw== | Nao (@yyuokz): https://www.instagram.com/yyuokz?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==',
     circle_twitter:
       'Alifah (@selenav_arts): https://x.com/selenav_arts?s=20 | Dilla (@Konanpenyendiri): https://x.com/Konanpenyendiri?s=20 | Farras (@fairin15): https://x.com/fairin15?s=20 | Nao (@yyuokz): https://x.com/yyuokz?s=20',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9007,
-
     circle_code: 'N-35ab',
     name: 'Warung Mang Ali',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warung Mang Ali.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/zhonglidono',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9008,
-
     circle_code: 'N-36ab',
     name: 'Naiory x Louie',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Naiory x Louie.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/_naiory_/ , https://www.instagram.com/louie.riichiro/',
     circle_twitter: 'https://x.com/Naiory_',
-    circle_other_socials:
-      'https://naigallery.carrd.co/ , https://louieriichiro.carrd.co/',
-
+    circle_other_socials: 'https://naigallery.carrd.co/ , https://louieriichiro.carrd.co/',
     sampleworks_images: [],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9009,
-
     circle_code: 'N-37a',
     name: 'Nano-nano',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nano-nano.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/zoruumi',
     circle_twitter: null,
     circle_other_socials: 'https://linktr.ee/zoruumi',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b7de2005-d3d3-474e-9863-ca6457eca8fd/f4b6065d-8ed8-4da6-9cac-f9c1fcaf67d0/N-37a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b7de2005-d3d3-474e-9863-ca6457eca8fd/e5a80fda-0939-4e49-836d-f4b5751d7a3d/N-37a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/b7de2005-d3d3-474e-9863-ca6457eca8fd/9e3654d9-71d1-4e70-9109-a670e7861a6d/N-37a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9010,
-
     circle_code: 'N-37b',
     name: 'Nichein',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nichein.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/nichein_nc?igsh=MTVpdWJ2cDFncXF0aA&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/nichein_nc?igsh=MTVpdWJ2cDFncXF0aA&utm_source=qr',
     circle_twitter: 'https://x.com/nichein_nc?s=21&t=Nh_FsnoaY4ccptJ3bO_5mA',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9011,
-
     circle_code: 'N-38a',
     name: 'PAPENAS',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PAPENAS.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/dum_mbee?igsh=em5sYnllajBwMHY',
     circle_twitter: 'https://x.com/dum_mbee',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9012,
-
     circle_code: 'N-38b',
     name: 'Elwiwi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Elwiwi.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/elwiwi.mart?igsh=bm5rYzAzNHRkeGZm',
+    circle_instagram: 'https://www.instagram.com/elwiwi.mart?igsh=bm5rYzAzNHRkeGZm',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9013,
-
     circle_code: 'N-39ab',
     name: 'Susu Murni Sari Boti',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Susu Murni Sari Boti.jpg',
-
     circle_facebook: 'https://www.facebook.com/Kezia.kezii',
     circle_instagram: 'https://www.instagram.com/kez.ikez/',
     circle_twitter: 'https://x.com/Keziikezz',
     circle_other_socials: 'https://www.facebook.com/Kezia.kezii',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8c2f98f1-66e0-443a-b9d9-b7e5d0154a0b/b9a8fb02-de8d-48ad-8983-b0a4ee7a6d4d/N-39ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9014,
-
     circle_code: 'N-40a',
     name: 'da3iann',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/da3iann.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/da3iann',
     circle_twitter: null,
     circle_other_socials: 'ebigoreng.weebly.com',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4ad842f8-b43a-4024-beb8-f6959277a7c9/fa12f0cd-4e60-4162-9553-bcead741a839/N-40a.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4ad842f8-b43a-4024-beb8-f6959277a7c9/53ac70ed-aeb0-4a37-aa43-6bd7b9801a0e/N-40a.jpg',
@@ -23495,22 +18113,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4ad842f8-b43a-4024-beb8-f6959277a7c9/7bbeb398-df01-4a11-91b5-d8e6a42cf2cc/N-40a.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9015,
-
     circle_code: 'N-40b',
     name: 'Lezcha',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lezcha.jpg',
-
     circle_facebook: 'https://www.facebook.com/Salsacha20',
     circle_instagram: 'https://www.instagram.com/salsacha20/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/65b27f82-030e-460f-b686-7aa0555da26a/2e0516f9-9fae-47f0-90d5-0e7990aee9fe/N-40b.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/65b27f82-030e-460f-b686-7aa0555da26a/3d2cf719-56ad-4e0e-ace2-e48f8ec52116/N-40b.jpg',
@@ -23524,100 +18138,78 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/65b27f82-030e-460f-b686-7aa0555da26a/516dfa62-d9ae-499d-a700-92d3c1b21edd/N-40b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9016,
-
     circle_code: 'N-41ab/N-42ab',
     name: 'Mau Gajian',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mau Gajian.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/magajinen?igsh=MXYxOHYwcGU0M25wOQ&utm_source=qr https://www.instagram.com/silkydaks?igsh=MXYxOHYwcGU0M25wOQ&utm_source=qr https://www.instagram.com/hinno_14?igsh=MjJ1bWJmZDM0OGwx',
     circle_twitter: 'https://x.com/magajinen , https://x.com/silkydaks',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9017,
-
     circle_code: 'N-43ab',
     name: 'We Try Our Best',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/We Try Our Best.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/rheezen9th',
     circle_twitter: null,
     circle_other_socials: null,
-
     other_fandom:
       "Spy x Family, Omniscient Reader's Viewpoint, Kimetsu no Yaiba, Jujutsu Kaisen, Haikyuu, Honkai Star Rail, Genshin Impact, Apothecary Diaries",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9018,
-
     circle_code: 'N-44ab',
     name: 'Kimy & Co.',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kimy & Co..jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/itskimyun',
     circle_twitter: 'https://x.com/AFrogInAPond',
     circle_other_socials: 'kimynco-catalog.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9019,
-
     circle_code: 'N-45a',
     name: 'Diiya X Angor',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Diiya X Angor.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/diiya.yaa/ https://www.instagram.com/theangelaorbit/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9020,
-
     circle_code: 'N-45b',
     name: 'Catnip Garden Hobby',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Catnip Garden Hobby.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/catnipgardenhobby?igsh=aHhtOTJycWplZjQw',
+    circle_instagram: 'https://www.instagram.com/catnipgardenhobby?igsh=aHhtOTJycWplZjQw',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ad937727-2d12-489c-bc01-ee114f4ad12b/19ac52e5-7699-4d7f-9cec-b21827cfc939/N-45b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ad937727-2d12-489c-bc01-ee114f4ad12b/6f3a10a5-8ae3-4769-a8c7-639e8602e7b5/N-45b.png',
@@ -23625,24 +18217,20 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ad937727-2d12-489c-bc01-ee114f4ad12b/1b411174-ed45-40ba-979e-0e4fc73c53e4/N-45b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9021,
-
     circle_code: 'N-46a',
     name: 'Husbu Project',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Husbu Project.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/xia.weeee?igsh=dWI0bjVvZ3MxYWQ2 , https://www.instagram.com/kaorenee_?igsh=MXExaDFmcDE4MjBlYg== , https://www.instagram.com/xirene.studio?igsh=dTQzeWV6NW5tOGVj',
     circle_twitter: null,
     circle_other_socials:
       'https://www.tiktok.com/@husbu.project?_r=1&_t=ZS-963eeOYq0Mp , https://www.tiktok.com/@xia.weeee?_r=1&_t=ZS-93Rnw9rYMEi',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9cdfa0c8-fb30-407a-91ad-a4c31438a0b9/dd48d5fb-a737-421d-9847-069367306e53/N-46a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9cdfa0c8-fb30-407a-91ad-a4c31438a0b9/7915abff-089c-4b9e-a5fd-a389a6fbd517/N-46a.png',
@@ -23656,78 +18244,62 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9cdfa0c8-fb30-407a-91ad-a4c31438a0b9/c2426f36-143b-496a-a294-452fce662657/N-46a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9022,
-
     circle_code: 'N-46b',
     name: 'The Djo Sisters',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/The Djo Sisters.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/eve.djo/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9023,
-
     circle_code: 'N-47ab',
     name: 'Husbando Specialist',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Husbando Specialist.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/xiaolonghecha/ https://www.instagram.com/kurocat_aoibun https://www.instagram.com/loo.na.tic/',
     circle_twitter:
       'https://x.com/xiaolonghecha https://x.com/norimilk https://x.com/kurocat_aoibun',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9024,
-
     circle_code: 'N-48ab',
     name: 'siangomi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/siangomi.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/siangomi',
     circle_twitter: 'x.com/siangomi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9025,
-
     circle_code: 'N-49ab',
     name: 'QUINN STUDIO',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/QUINN STUDIO.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://instagram.com/quinn.studio__/',
     circle_twitter: '-',
     circle_other_socials: '-',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/16fb15a3-6b1c-4acf-90ba-af2f4fa9d0cc/86c2528f-2daf-4f70-bed4-19301eb8b8af/N-49ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/16fb15a3-6b1c-4acf-90ba-af2f4fa9d0cc/a2e428fe-a7b5-4217-8448-e69602be4e59/N-49ab.jpg',
@@ -23741,59 +18313,46 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/16fb15a3-6b1c-4acf-90ba-af2f4fa9d0cc/92753490-bad1-45b2-8d15-73fd232a4645/N-49ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9026,
-
     circle_code: 'N-50ab/N-51ab',
     name: 'Vellatrelle',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Vellatrelle.jpg',
-
     circle_facebook: '-',
-    circle_instagram:
-      'https://www.instagram.com/vellatrelle?igsh=MXJ2aDluZXBqNHM1NQ&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/vellatrelle?igsh=MXJ2aDluZXBqNHM1NQ&utm_source=qr',
     circle_twitter: 'https://x.com/vellatrelle?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9027,
-
     circle_code: 'N-52ab',
     name: 'AOCHIORTA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/AOCHIORTA.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/aochiorta',
     circle_twitter: 'https://x.com/aochiorta',
     circle_other_socials: 'https://aochiorta.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9028,
-
     circle_code: 'N-53a (SAT)',
     name: 'Starlightchi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Starlightchi.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/starlightxhi/',
     circle_twitter: 'https://x.com/Starlightchi',
     circle_other_socials: 'https://starlightchi.carrd.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/765deff6-f0dc-4ae0-b53a-5f25069e7da7/affb2151-13b3-40e2-9952-cb219f5a3cfd/N-53a (SAT).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/765deff6-f0dc-4ae0-b53a-5f25069e7da7/2ce6125f-18bb-439b-9a1e-6f1fdbcd189a/N-53a (SAT).png',
@@ -23806,135 +18365,104 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/765deff6-f0dc-4ae0-b53a-5f25069e7da7/0921cc88-eef6-46ec-b6a5-91aa95b55464/N-53a (SAT).png',
     ],
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9029,
-
     circle_code: 'N-53a (SUN)',
     name: 'Floofy Paradise',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Floofy Paradise.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/floofy.paradise',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9030,
-
     circle_code: 'N-53b',
     name: 'Akazumi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Akazumi.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/akazumi09?igsh=MTlub3A0dnRjdTc0dA==',
+    circle_instagram: 'https://www.instagram.com/akazumi09?igsh=MTlub3A0dnRjdTc0dA==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9031,
-
     circle_code: 'N-54ab',
     name: 'Cari Apa Kak?',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cari Apa Kak.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'http://www.instagram.com/altr_id , http://www.instagram.com/kotaksusupisang',
+    circle_instagram: 'http://www.instagram.com/altr_id , http://www.instagram.com/kotaksusupisang',
     circle_twitter: 'http://x.com/haeyanaza',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9032,
-
     circle_code: 'N-55ab',
     name: 'WORTEL MENTAH',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/WORTEL MENTAH.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/wortelmentah',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9033,
-
     circle_code: 'N-56ab/N-57ab',
     name: 'Not Depok Anymore',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Not Depok Anymore.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://instagram.com/ppiksongs , https://instagram.com/_meowron_ , https://instagram.com/spicy_ramyun , https://instagram.com/umbiumbiann',
-    circle_twitter:
-      'https://x.com/ppiksong , https://x/com/spicy_ramyun , https://x.com/meowron_',
+    circle_twitter: 'https://x.com/ppiksong , https://x/com/spicy_ramyun , https://x.com/meowron_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9034,
-
     circle_code: 'N-58ab',
     name: 'Twinkletone',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Twinkletone.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/butterfigurenally?igsh=cnZrZXVmbjhuZnps&utm_source=qr',
     circle_twitter: 'https://x.com/nalbutterfigure?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9035,
-
     circle_code: 'N-59ab',
     name: "Haruharu's Farm & Chireng Stroberi",
     circle_cut:
       "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Haruharu's Farm & Chireng Stroberi.jpg",
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/matchireng',
     circle_twitter: 'https://x.com/haruharukin16',
     circle_other_socials: 'https://haruharukin16.carrd.co',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2fb38864-ced1-4ec9-b3df-c11776c030a5/b74fd7e2-778d-44d6-aa1d-05ff695dd353/N-59ab.jfif',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2fb38864-ced1-4ec9-b3df-c11776c030a5/861fe5e8-f069-4e40-b38c-701a5fcf988c/N-59ab.jfif',
@@ -23944,40 +18472,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2fb38864-ced1-4ec9-b3df-c11776c030a5/244c7825-e285-490d-9b59-35f3b39f8417/N-59ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9036,
-
     circle_code: 'N-60ab',
     name: 'Starfish',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Starfish.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/yuune___/',
     circle_twitter: 'https://x.com/yuune___',
     circle_other_socials: 'https://shopee.co.id/yuune___',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9037,
-
     circle_code: 'O-01a',
     name: 'Temenzone Team',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Temenzone Team.jpg',
-
     circle_facebook: 'https://facebook.com/ellarchella_',
     circle_instagram: 'https://instagram.com/temenzone.studio',
     circle_twitter: 'https://x.com/rbellarowen_',
     circle_other_socials: 'https://temenzonestudio.carrd.co',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/22ee4727-39f0-4073-a5e1-c05bbcd60e19/3614051a-b1c2-4d09-a096-1e45f47caec9/O-01a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/22ee4727-39f0-4073-a5e1-c05bbcd60e19/93002f05-3098-4ad0-b9a2-7ad1110be0f8/O-01a.png',
@@ -23991,22 +18511,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/22ee4727-39f0-4073-a5e1-c05bbcd60e19/d1fd232e-dbfe-49b8-b956-e891e10d00fe/O-01a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9038,
-
     circle_code: 'O-01b',
     name: 'ikahueki',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ikahueki.jpg',
-
     circle_facebook: 'https://www.facebook.com/Ikahueki/',
     circle_instagram: 'https://www.instagram.com/hue_ueki/',
     circle_twitter: 'https://twitter.com/ziq_ZIQA',
     circle_other_socials: 'https://ikahueki.carrd.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e685cc13-c9b3-447f-a919-589c355f56b7/3796fa6a-f913-4c33-a1a9-7fdc8d0c7591/O-01b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e685cc13-c9b3-447f-a919-589c355f56b7/74d3e127-dd89-454d-9d5c-cdb2b509de9e/O-01b.png',
@@ -24014,42 +18530,34 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e685cc13-c9b3-447f-a919-589c355f56b7/1825f43c-11dc-4bb1-8c8a-892dffc403e5/O-01b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9039,
-
     circle_code: 'O-02ab/O-03ab',
     name: 'Tim Sukses ISI 10',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tim Sukses ISI 10.jpg',
-
     circle_facebook: '-',
     circle_instagram:
       'Azu https://instagram.com/azurindavo Michi https://www.instagram.com/michiko_yuuta Akinoko https://www.instagram.com/_akinoko/',
     circle_twitter:
       'Butter https://x.com/butterbanger Piupiu https://x.com/PiuPiuMerch Terra https://x.com/pottedgreens Spencer https://x.com/E_Spencer_L Mochiel https://x.com/mochiel Hera https://x.com/shenheraya Pian https://x.com/pienpian Ramonax https://x.com/Rmnx217',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9040,
-
     circle_code: 'O-04ab',
     name: 'Zeracaeli',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Zeracaeli.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/zeracaeli/',
     circle_twitter: 'https://x.com/zeracaeli',
     circle_other_socials: 'zeracaeli.carrd.co',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4f0e02b4-9377-438b-99e8-5cb761829065/dea03273-a2b0-4ac4-b1b3-0d4a49fe4c28/O-04ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4f0e02b4-9377-438b-99e8-5cb761829065/d7d0a166-a451-4a77-af65-852a30725448/O-04ab.png',
@@ -24063,61 +18571,47 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4f0e02b4-9377-438b-99e8-5cb761829065/3b4c6408-1b82-487d-bb97-fbccd1608cd3/O-04ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9041,
-
     circle_code: 'O-05ab',
     name: 'Tearyaki',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tearyaki.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/tearyakii/',
     circle_twitter: 'https://x.com/loui_65',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9042,
-
     circle_code: 'O-06ab',
     name: 'Little Garden',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Little Garden.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/hayran_art?igsh=YWdvbjFocXZpY2ty',
+    circle_instagram: 'https://www.instagram.com/hayran_art?igsh=YWdvbjFocXZpY2ty',
     circle_twitter: 'https://x.com/hayran_art',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9043,
-
     circle_code: 'O-07ab',
     name: 'Lazy Den',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lazy Den.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/lazy.den_/ , https://www.instagram.com/nayupanpan/ , https://www.instagram.com/aemenai/ . https://www.instagram.com/cybattari/',
-    circle_twitter:
-      'https://x.com/nayupanpan , https://x.com/aemenai , https://x.com/CyBattari',
+    circle_twitter: 'https://x.com/nayupanpan , https://x.com/aemenai , https://x.com/CyBattari',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/60b5f5db-d5f1-4f47-b5f2-68a59d728827/d22dd24b-31e2-4b4f-97ec-0cd8101353d4/O-07ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/60b5f5db-d5f1-4f47-b5f2-68a59d728827/047b5ab5-c99a-4cbe-b4c7-aef09350b61e/O-07ab.png',
@@ -24131,549 +18625,422 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/60b5f5db-d5f1-4f47-b5f2-68a59d728827/5b1bb794-d387-435a-9472-d1c428547b12/O-07ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9044,
-
     circle_code: 'O-08ab',
     name: 'Kami Datang untuk Ayam Gepuk',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kami Datang untuk Ayam Gepuk.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/rakugaqis https://www.instagram.com/syaz___________/ https://www.instagram.com/mint.pudina',
-    circle_twitter:
-      'https://x.com/qis_hws https://x.com/mintypudina https://x.com/zz_syaz',
+    circle_twitter: 'https://x.com/qis_hws https://x.com/mintypudina https://x.com/zz_syaz',
     circle_other_socials: 'https://linktr.ee/eepymart',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9045,
-
     circle_code: 'O-09ab',
     name: 'HANO',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/HANO.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/cheeeen02/',
     circle_twitter: 'https://x.com/____13rxxea96',
     circle_other_socials: 'https://www.tiktok.com/@cheysi_dere',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9046,
-
     circle_code: 'O-10a',
     name: 'meowtaku',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/meowtaku.jpg',
-
     circle_facebook: null,
     circle_instagram: 'pptoniart',
     circle_twitter: null,
     circle_other_socials: 'https://vgen.co/peppetoni',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9047,
-
     circle_code: 'O-10b',
     name: 'Cheers to You!',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cheers to You!.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/geobjengi',
     circle_twitter: 'x.com/sukajuni',
     circle_other_socials: 'ctyou.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9048,
-
     circle_code: 'O-11ab/O-12ab (SAT)',
     name: 'Hibiscuit Atelier',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Hibiscuit Atelier.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/ivariart',
     circle_twitter: 'https://x.com/ivariart',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9049,
-
     circle_code: 'O-11a (SUN)',
     name: 'Marchingpetal',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Marchingpetal.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/marchingspace/',
     circle_twitter: 'https://x.com/marchingspace',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9050,
-
     circle_code: 'O-11b (SUN)',
     name: 'Kusaribone',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kusaribone.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: '19ksrbn',
     circle_other_socials: null,
-
-    fandom:
-      'Muchuu sa Kimi ni, Karaoke Iko, Famiresu Iko, Onna no Sono no Hoshi',
-
+    fandom: 'Muchuu sa Kimi ni, Karaoke Iko, Famiresu Iko, Onna no Sono no Hoshi',
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9051,
-
     circle_code: 'O-12ab (SUN)',
     name: 'Snorkmi & Friends',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Snorkmi & Friends.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter:
       'https://x.com/SaltedEgg003 | https://x.com/ThisJayIsRed | https://x.com/newidv3 | https://x.com/lieuenn | https://x.com/dizzy_ddigital',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9052,
-
     circle_code: 'O-13ab',
     name: '63/64GB',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/63_64GB.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kkinokuu/',
     circle_twitter: 'https://x.com/kkinokuu',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9053,
-
     circle_code: 'O-14a (SAT)',
     name: 'Megane Club',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Megane Club.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/kkusuke_',
     circle_other_socials: '',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c8e346fd-a22d-4a31-9c5c-aeff21829101/3c7014d0-d6d1-434e-90b2-067804d9f75f/O-14a (SAT).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c8e346fd-a22d-4a31-9c5c-aeff21829101/a3243f9b-d396-4c24-9c0f-ec0a4baf7079/O-14a (SAT).png',
     ],
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9054,
-
     circle_code: 'O-14a (SUN)',
     name: 'Warung Pecel Sunfish Barokah',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warung Pecel Sunfish Barokah.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/chelicherata?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9055,
-
     circle_code: 'O-14b (SAT)',
     name: 'HIT: Hari Ini Tobat',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/HIT Hari Ini Tobat.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter:
       'https://x.com/joseradjiman , https://x.com/frddjnz0704 , https://x.com/puchii_rollz',
     circle_other_socials: 'https://linktr.ee/hitobatbang',
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9056,
-
     circle_code: 'O-14b (SUN)',
     name: 'Warkop Prima (Warung Pengokop Pria Matang)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warkop Prima (Warung Pengokop Pria Matang).jpg',
-
     circle_facebook: '-',
     circle_instagram: '@ney_qaii',
     circle_twitter: '@mlkyzuu, @nolele930',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9057,
-
     circle_code: 'O-15a (SAT)',
     name: 'Froskits',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Froskits.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/joenaur144?igsh=MWlxdWk4Y3p0YTF6OA==',
+    circle_instagram: 'https://www.instagram.com/joenaur144?igsh=MWlxdWk4Y3p0YTF6OA==',
     circle_twitter: 'https://x.com/felipastee',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9058,
-
     circle_code: 'O-15a (SUN)',
     name: 'ZoSS (Zona Siblings Supremacy)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ZoSS (Zona Siblings Supremacy).jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/raira_nee',
     circle_twitter: 'https://x.com/raira_nee',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9059,
-
     circle_code: 'O-15b (SAT)',
     name: 'Corporate.co',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Corporate.co.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/domechart',
     circle_twitter: 'https://twitter.com/glitchedhound',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9060,
-
     circle_code: 'O-15b (SUN)',
     name: 'Sseurikaya',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sseurikaya.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/zildazol?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw - https://www.instagram.com/keythvhope?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw== - https://www.instagram.com/bluehuckle?igsh=MTM5b2Z3NjV6Y2dueQ==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9061,
-
     circle_code: 'O-16a (SAT)',
     name: 'nasty bunnies',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/nasty bunnies.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/faelna',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9062,
-
     circle_code: 'O-16a (SUN)',
     name: 'soma x chou',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/soma x chou.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'instagram.com/_____so.ma , https://www.instagram.com/for.chou',
+    circle_instagram: 'instagram.com/_____so.ma , https://www.instagram.com/for.chou',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9063,
-
     circle_code: 'O-16b (SAT)',
     name: 'Hujan Udang',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Hujan Udang.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/shrimpici',
     circle_other_socials: 'Https://x.com/bunyihujan_13',
-
     fandom:
       '괴담에 떨어져도 출근을 해야 하는구나 (괴담출근) / Got Dropped into a Ghost Story, Still Gotta Work (GSGW)',
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9064,
-
     circle_code: 'O-16b (SUN)',
     name: 'Cisauk Frontier',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cisauk Frontier.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/owl.creats',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9065,
-
     circle_code: 'O-17a (SAT)',
     name: 'Butuh my kisah',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Butuh my kisah.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/chaaruzuu_?igsh=OGJobDBqa3Vva3lr',
+    circle_instagram: 'https://www.instagram.com/chaaruzuu_?igsh=OGJobDBqa3Vva3lr',
     circle_twitter: 'https://x.com/C4an0123',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9066,
-
     circle_code: 'O-17a (SUN)',
     name: 'Bakso Malang',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bakso Malang.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/mengmen6_',
     circle_twitter: 'https://x.com/yaoisoobjun',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9067,
-
     circle_code: 'O-17b (SAT)',
     name: 'Pos Supri',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pos Supri.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/yumi.mici?igsh=bGxqOGJ0bTJpd2Fx',
+    circle_instagram: 'https://www.instagram.com/yumi.mici?igsh=bGxqOGJ0bTJpd2Fx',
     circle_twitter: 'https://x.com/yumimici?t=Ou6KYbalYDjA1zTQ49HgtA&s=09',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9068,
-
     circle_code: 'O-17b (SUN)',
     name: 'Rana-masu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Rana-masu.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/aura__15?igsh=MzZyM3ViNjd1aXNo&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/aura__15?igsh=MzZyM3ViNjd1aXNo&utm_source=qr',
     circle_twitter: 'https://x.com/mitsubasou?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9069,
-
     circle_code: 'O-18ab (SAT)',
     name: 'Nugu Corner',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nugu Corner.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: 'https://linktr.ee/nugucorner',
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9070,
-
     circle_code: 'O-18ab (SUN)',
     name: 'Sad Broke Clowns',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sad Broke Clowns.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/lyacinthus/',
     circle_twitter: 'https://x.com/SadBrokeClowns?s=20',
     circle_other_socials: null,
-
     other_fandom:
       "Genshin Impact, Persona, Kpop, My Hero Academia, Haikyuu!, Reverse 1999, Assassin's Creed, Conclave",
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9071,
-
     circle_code: 'O-19ab (SAT)',
     name: 'Everdream Garden',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Everdream Garden.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/solavuly',
     circle_twitter: 'https://x.com/solavuly',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9072,
-
     circle_code: 'O-19ab (SUN)',
     name: 'Udang Skoliosis',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Udang Skoliosis.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/udangskoliosis?igsh=MWdraXNwY3lyem5ubQ==',
+    circle_instagram: 'https://www.instagram.com/udangskoliosis?igsh=MWdraXNwY3lyem5ubQ==',
     circle_twitter: 'https://x.com/ashamsulfat',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/cf33e890-f52a-4acf-8eee-5c2fd06ecdea/f5a8c6aa-86e1-4213-8117-4654567e4d3f/O-19ab (SUN).jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/cf33e890-f52a-4acf-8eee-5c2fd06ecdea/720ad5fc-d230-4290-b7de-dcd469852587/O-19ab (SUN).jpg',
@@ -24686,108 +19053,84 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/cf33e890-f52a-4acf-8eee-5c2fd06ecdea/ac1e1efc-247e-4929-bfc4-7c06f40646e2/O-19ab (SUN).jpg',
     ],
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9073,
-
     circle_code: 'O-20ab/O-21ab',
     name: 'Sushihoshii & Gojodreee',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sushihoshii & Gojodreee.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://instagram.com/sushihoshii | https://instagram.com/gojodreee',
+    circle_instagram: 'https://instagram.com/sushihoshii | https://instagram.com/gojodreee',
     circle_twitter: 'https://x.com/sushihoshii_ | https://x.com/gojodreee',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9074,
-
     circle_code: 'O-22ab',
     name: 'PROTZ',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PROTZ.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/qloowa/',
     circle_twitter: 'https://x.com/icerimonade',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9075,
-
     circle_code: 'O-23a',
     name: 'Ashtreart',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ashtreart.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/ashtrea23/',
     circle_twitter: 'https://x.com/Ashtrea23',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9076,
-
     circle_code: 'O-23b',
     name: 'Wuvv Lab',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Wuvv Lab.jpg',
-
     circle_facebook: 'https://www.facebook.com/hidekazu.kei/',
     circle_instagram: 'https://www.instagram.com/urnaraa/',
     circle_twitter: 'https://x.com/amarashiho',
     circle_other_socials: 'https://vgen.co/HidekazuKei',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9077,
-
     circle_code: 'O-24ab',
     name: 'Nikipopz',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nikipopz.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/Nikipopz_',
     circle_other_socials: 'nikipopz.framer.website/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9078,
-
     circle_code: 'O-25ab',
     name: 'HALUPROMAXXXXX',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/HALUPROMAXXXXX.jpg',
-
     circle_facebook: '-',
     circle_instagram:
       'https://www.instagram.com/otsuusama https://www.instagram.com/kalachiizu https://www.instagram.com/acha.latus https://www.instagram.com/allene_len_',
@@ -24795,120 +19138,93 @@ export const BOOTHS = [
       'https://x.com/petrichrone https://x.com/kalachiizu https://x.com/allene_len https://x.com/korri_noko https://x.com/acha_latus',
     circle_other_socials:
       'https://drive.google.com/drive/folders/1_6qkVfnV6R9ArgcNOqYaUaoLs786Strk',
-
     other_fandom:
       "Plave, Alienstage, Genshin Impact, Honkai Star Rail, zenless zone zero, wind breaker, Tamon's B side, Frieren, Omniscient Reader Viewpoint",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9079,
-
     circle_code: 'O-26ab/O-27ab',
     name: 'KEDAI WOLFGANG',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KEDAI WOLFGANG.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/heathazedazeeee?igsh=MXBzMnVnYXI0ejE1MQ==',
+    circle_instagram: 'https://www.instagram.com/heathazedazeeee?igsh=MXBzMnVnYXI0ejE1MQ==',
     circle_twitter: 'https://x.com/325daze?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9080,
-
     circle_code: 'O-28ab/O-29ab',
     name: 'HAMBA-DOLLS',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/HAMBA-DOLLS.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/_jinxeuuu/',
     circle_twitter: 'https://x.com/_jinxeuuu',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9081,
-
     circle_code: 'O-30a',
     name: 'JeituKeituDi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/JeituKeituDi.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/dalgilatte99, https://www.instagram.com/tokkotokki_/',
     circle_twitter: 'https://x.com/dalgilatte99, https://x.com/tokkotokki_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9082,
-
     circle_code: 'O-30b',
     name: 'PSHT (Pecinta Suami Hamil Tampan)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PSHT (Pecinta Suami Hamil Tampan).jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/kinarisk',
     circle_twitter: 'https://x.com/tszukinaga',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9083,
-
     circle_code: 'O-31ab',
     name: 'Ddalkinoonars',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ddalkinoonars.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/ddalki.noonars',
     circle_twitter: 'https://x.com/ddalkinoonars',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9084,
-
     circle_code: 'O-32ab',
     name: 'BL- Booba Lelaki',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/BL- Booba Lelaki.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/Mangoo_king',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a505ae84-0a73-4373-8e61-9a10586903fb/62030a96-a40f-41c0-ae23-11e9efac57d9/O-32ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a505ae84-0a73-4373-8e61-9a10586903fb/bbf6c240-ee38-47cf-88ab-3ce566cb4e20/O-32ab.jpeg',
@@ -24916,40 +19232,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a505ae84-0a73-4373-8e61-9a10586903fb/818a8086-eca2-4d67-96f0-e351a57526b9/O-32ab.jpeg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9085,
-
     circle_code: 'O-33ab',
     name: 'Super Duper Jangki',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Super Duper Jangki.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/mausyhouse/',
     circle_twitter: 'https://x.com/hnyglzd_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9086,
-
     circle_code: 'O-34ab',
     name: 'Kedai Haha x Tedzukurida x Kadiks',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kedai Haha x Tedzukurida x Kadiks.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/tedzukurida/',
     circle_twitter: 'https://x.com/haha_kedai24/',
     circle_other_socials: 'https://www.instagram.com/kadiks_art/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3fa950de-c0d5-45b6-a06d-fc3b9e43a965/d37b11a0-791d-49d2-a882-c4eba827e007/O-34ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3fa950de-c0d5-45b6-a06d-fc3b9e43a965/575f2cea-2e41-4781-9de8-e9cb72b7bb81/O-34ab.png',
@@ -24962,60 +19270,46 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3fa950de-c0d5-45b6-a06d-fc3b9e43a965/51198d35-8687-4eb5-9fb9-6e7fdd77f9b5/O-34ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9087,
-
     circle_code: 'O-35ab',
     name: 'korban nirmana',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/korban nirmana.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/orihuhs?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9088,
-
     circle_code: 'O-36ab',
     name: 'Bbangnoona',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bbangnoona.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/bbang.noona?igsh=OXBmdXlhcXBoNmt5',
+    circle_instagram: 'https://www.instagram.com/bbang.noona?igsh=OXBmdXlhcXBoNmt5',
     circle_twitter: 'https://x.com/bbangnoona?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9089,
-
     circle_code: 'O-37a',
     name: 'Chizu-Bee',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Chizu-Bee.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/renarqv?igsh=MXN5cDVoOHB6M3hmYw&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/renarqv?igsh=MXN5cDVoOHB6M3hmYw&utm_source=qr',
     circle_twitter: 'https://x.com/renarqv?s=21',
     circle_other_socials: 'https://linktr.ee/renarqv',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9abb6efe-2a70-4822-85f2-5b5d449ca3b0/a2c96677-5659-43aa-8afc-1aa9aab96496/O-37a.jpeg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9abb6efe-2a70-4822-85f2-5b5d449ca3b0/a4b78778-fd29-4ca3-ab5e-5de7f23356dc/O-37a.jpeg',
@@ -25029,22 +19323,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/9abb6efe-2a70-4822-85f2-5b5d449ca3b0/b09970b5-356c-4efb-8764-e2619b99e1b6/O-37a.jpeg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9090,
-
     circle_code: 'O-37b',
     name: 'Hobi Sare',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Hobi Sare.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/dear_d.earn',
     circle_twitter: 'x.com/ipeuda_',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/36ee908a-262f-4e77-9059-52e3d4e1611f/6ffd2e1d-728c-44f1-a9ca-7061c6fab25c/O-37b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/36ee908a-262f-4e77-9059-52e3d4e1611f/c1878a6c-3528-498a-b70b-d0377693bdb4/O-37b.png',
@@ -25056,112 +19346,88 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/36ee908a-262f-4e77-9059-52e3d4e1611f/18f5d895-968a-4e78-9b8f-cc59d4d88052/O-37b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9091,
-
     circle_code: 'O-38a',
     name: 'Polaris',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Polaris.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/sakiskaiksiaski',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9092,
-
     circle_code: 'O-38b',
     name: 'Zell',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Zell.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/y_zell_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9093,
-
     circle_code: 'O-39ab (SAT)',
     name: 'namt00rii',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/namt00rii.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/namt00rii',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9094,
-
     circle_code: 'O-39ab (SUN)',
     name: 'Nyari Duwit',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nyari Duwit.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/nasigarem_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9095,
-
     circle_code: 'O-40ab (SAT)',
     name: 'Puzzymewmew',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Puzzymewmew.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/trxnoey',
     circle_twitter: 'https://x.com/trxnoey',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9096,
-
     circle_code: 'O-40a (SUN)',
     name: 'Neechuusho',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Neechuusho.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/neechuusho_',
     circle_twitter: 'https://x.com/Neechuusho',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/eb619401-4ff5-4303-9059-b801b4216dd9/509c4ed2-cb39-4af5-b450-30761b115d0a/O-40a (SUN).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/eb619401-4ff5-4303-9059-b801b4216dd9/c58ac13a-ec1c-4883-b6ce-c3fd19f8a1bf/O-40a (SUN).png',
@@ -25172,338 +19438,257 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/eb619401-4ff5-4303-9059-b801b4216dd9/9cf9f9e2-f262-44c2-ac79-d72cf211fae0/O-40a (SUN).png',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9097,
-
     circle_code: 'O-40b (SUN)',
     name: 'Lyre Caelestis',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lyre Caelestis.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/reunomi_illustrator/',
     circle_twitter: 'https://x.com/Reunomi_',
     circle_other_socials: 'https://www.youtube.com/@Reunomi',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9098,
-
     circle_code: 'O-41a (SAT)',
     name: 'nadjarasp / shrimpdol',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/nadjarasp_shrimpdol.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/nadjarasp/',
     circle_twitter: 'https://x.com/shrimpdol',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9099,
-
     circle_code: 'O-41a (SUN)',
     name: 'Osananajimi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Osananajimi.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/osananajimi_circle',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9100,
-
     circle_code: 'O-41b (SAT)',
     name: 'Cireng Keju',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cireng Keju.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
-    circle_twitter:
-      'x.com/gingirth, x.com/chni_a, x.com/jiannnjo, x.com/illiniear',
+    circle_twitter: 'x.com/gingirth, x.com/chni_a, x.com/jiannnjo, x.com/illiniear',
     circle_other_socials: 'shopee.co.id/gingirth',
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9101,
-
     circle_code: 'O-41b (SUN)',
     name: 'Parahouse',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/circle_cut_blank.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/the_parahouse?igsh=MWl5a3lkcHhkYjJ2bg==',
+    circle_instagram: 'https://www.instagram.com/the_parahouse?igsh=MWl5a3lkcHhkYjJ2bg==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9102,
-
     circle_code: 'O-42ab',
     name: 'ROLLROUND',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ROLLROUND.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/rollround',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9103,
-
     circle_code: 'O-43ab',
     name: 'Ornchid x Vn_Vannies',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ornchid x Vn_Vannies.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/ornchids',
     circle_twitter: 'https://x.com/vn_vannies',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9104,
-
     circle_code: 'O-44ab',
     name: 'saint and sinners',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/saint and sinners.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/yuutoren_kkun?igsh=MXh0dm4xdHdubnE2cQ==',
+    circle_instagram: 'https://www.instagram.com/yuutoren_kkun?igsh=MXh0dm4xdHdubnE2cQ==',
     circle_twitter: null,
     circle_other_socials: 'https://hiyonn.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9105,
-
     circle_code: 'O-45ab (SAT)',
     name: 'CHIBONIIE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CHIBONIIE.jpg',
-
     circle_facebook: 'https://www.facebook.com/chiboniie',
     circle_instagram: 'https://www.instagram.com/chiboniie/',
     circle_twitter: 'https://x.com/chb0n113',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9106,
-
     circle_code: 'O-45a (SUN)',
     name: 'Freakbasket',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Freakbasket.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/freak.basket?igsh=ZHlzb25jbHBuZjRr',
+    circle_instagram: 'https://www.instagram.com/freak.basket?igsh=ZHlzb25jbHBuZjRr',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9107,
-
     circle_code: 'O-45b (SUN)',
     name: 'Aku Mau Seratus!!!',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Aku Mau Seratus!!!.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/nananaruu?igsh=amFxMTcyM252bG5i',
+    circle_instagram: 'https://www.instagram.com/nananaruu?igsh=amFxMTcyM252bG5i',
     circle_twitter: 'https://x.com/Nananaru_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9108,
-
     circle_code: 'O-46a',
     name: 'maltose mill',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/maltose mill.jpg',
-
     circle_facebook: '-',
-    circle_instagram:
-      'https://instagram.com/eruukurage , https://instagram.com/maltose.mill',
+    circle_instagram: 'https://instagram.com/eruukurage , https://instagram.com/maltose.mill',
     circle_twitter: 'https://x.com/eruukurage',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9109,
-
     circle_code: 'O-46b',
     name: 'Kirari Store',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kirari Store.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kirari_store/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9110,
-
     circle_code: 'O-47ab',
     name: 'ZIPZIP',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ZIPZIP.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
-    circle_twitter:
-      'https://x.com/cumiomega, https://x.com/fillieca, https://x.com/chissu03',
+    circle_twitter: 'https://x.com/cumiomega, https://x.com/fillieca, https://x.com/chissu03',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9111,
-
     circle_code: 'O-48ab',
     name: 'Nekopedia',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nekopedia.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/neko.pedia/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9112,
-
     circle_code: 'O-49ab',
     name: 'Amai Ame',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Amai Ame.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/amaiame9904?igsh=dWpxb2U5dnMzZmxx',
+    circle_instagram: 'https://www.instagram.com/amaiame9904?igsh=dWpxb2U5dnMzZmxx',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9113,
-
     circle_code: 'O-50ab/O-51ab',
     name: 'Lluna et Ssol',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lluna et Ssol.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/lluna.et.ssol',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9114,
-
     circle_code: 'O-52ab',
     name: 'GEMBLONGRACHA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/GEMBLONGRACHA.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/kuffystudio, https://www.Instagram.com/arizuta, https://www.instagram.com/cutepaws98',
-    circle_twitter:
-      'https://x.com/kuffystudio, https://x.com/arizutaa, https://x.com/cutepaws98',
+    circle_twitter: 'https://x.com/kuffystudio, https://x.com/arizutaa, https://x.com/cutepaws98',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/257182f1-5499-49c9-9c6c-ceb122a5eafe/e16c6988-7c3c-462a-aeff-ebb5fae109ac/O-52ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/257182f1-5499-49c9-9c6c-ceb122a5eafe/70b3997d-acd0-45a9-bdba-30b46453a33a/O-52ab.png',
@@ -25511,41 +19696,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/257182f1-5499-49c9-9c6c-ceb122a5eafe/4da527f3-1bad-4654-a597-62ed233d6493/O-52ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9115,
-
     circle_code: 'O-53ab',
     name: 'Yunagiz Bar',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Yunagiz Bar.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/yunagizbar?igsh=bW9kc3I2cm51NnBh',
+    circle_instagram: 'https://www.instagram.com/yunagizbar?igsh=bW9kc3I2cm51NnBh',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9116,
-
     circle_code: 'O-54ab',
     name: 'remington',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/remington.jpg',
-
     circle_facebook: null,
     circle_instagram: ' https://www.instagram.com/reimu03/',
     circle_twitter: 'https://x.com/reimuu03',
     circle_other_socials: 'https://www.tiktok.com/@reimu033',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/83ee0944-e1dd-4e1a-a039-9040f2258cce/b164e4ec-86be-4f75-a6a3-47d7f99ff933/O-54ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/83ee0944-e1dd-4e1a-a039-9040f2258cce/62eca66d-5e4a-44f4-96d2-52d47a421c0c/O-54ab.png',
@@ -25559,402 +19735,310 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/83ee0944-e1dd-4e1a-a039-9040f2258cce/87e1c275-8d22-4d98-afc7-2c7818a95967/O-54ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9117,
-
     circle_code: 'O-55ab',
     name: 'Toko Ocrafan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Toko Ocrafan.jpg',
-
     circle_facebook: null,
     circle_instagram:
       '@reebootwind https://www.instagram.com/reebootwind?igsh=NHg2cXFzZ294azA4 | @nephodus https://www.instagram.com/nephodus?igsh=emV4NGlhbGt3MTQ4 | @yourfortunecrafts https://www.instagram.com/yourfortunecrafts?igsh=OWR5a2F3NWlnNnpk',
     circle_twitter:
       '@reebootwind https://x.com/reebootwind | @nephodus https://x.com/nephodus | @your4tunecrafts https://x.com/your4tunecrafts',
     circle_other_socials: null,
-
     fandom:
       'KPop (seventeen, enhypen, cortis, Boy Next Door), Plave, shoujo, original, crafts (clay)',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9118,
-
     circle_code: 'O-56ab',
     name: 'Warung Centil',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warung Centil.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/pevellyne , https://www.instagram.com/pinkumochiie , https://www.instagram.com/glo0mypaws',
     circle_twitter: 'https://x.com/pevellynee , https://x.com/pinkumochiiie',
-    circle_other_socials:
-      'https://pevellyne.carrd.co/ , https://pinkumochi.carrd.co/',
-
+    circle_other_socials: 'https://pevellyne.carrd.co/ , https://pinkumochi.carrd.co/',
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9119,
-
     circle_code: 'O-57ab',
     name: 'Jellato',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Jellato.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/jellato.cf/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9120,
-
     circle_code: 'O-58ab/O-59ab',
     name: 'Clownies',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Clownies.jpg',
-
     circle_facebook: null,
     circle_instagram:
       '(1) Killz - IG [k.ill.z] https://www.instagram.com/k.ill.z?igsh=MXJsNmcycmtkOTR5Zg== (2) Kolamlava - IG [@kolamlava] https://www.instagram.com/kolamlava?igsh=cWViMWs0enhybDlk (3) NdutCraft - IG [@ndut_craft] https://www.instagram.com/ndut_craft?igsh=MWtyOGIzMGtrcmJhbg==',
     circle_twitter:
       '(1) Killz - X [@k_illzz] https://x.com/k_illzz?s=21&t=j3OifjT5R0jwmy-BQJ6j_w (2) Kolamlava - X [@kolamlava] https://x.com/kolamlava?s=21&t=j3OifjT5R0jwmy-BQJ6j_w (3) NdutCraft - no X',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9121,
-
     circle_code: 'O-60ab',
     name: 'WIPhobia',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/WIPhobia.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/nourshy_?igsh=MWJoZ3VieXJ0bjljNQ==',
+    circle_instagram: 'https://www.instagram.com/nourshy_?igsh=MWJoZ3VieXJ0bjljNQ==',
     circle_twitter: 'https://x.com/mzkyz_?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9122,
-
     circle_code: 'P-01ab',
     name: 'Turu Maxxing',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Turu Maxxing.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'instagram.com/mik0chn , instagram.com/reddbeansoup_ , instagram.com/ariyayoon , instagram.com/akairoozu',
-    circle_twitter:
-      'x.com/mik0chn , x.com/reddbeansoup_ , x.com/ariyayoon , x.com/akairoozu',
+    circle_twitter: 'x.com/mik0chn , x.com/reddbeansoup_ , x.com/ariyayoon , x.com/akairoozu',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9123,
-
     circle_code: 'P-02ab/P-03ab',
     name: 'ANPAN',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ANPAN.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/torauuma/',
     circle_twitter: 'https://x.com/sayuupi_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9124,
-
     circle_code: 'P-04ab',
     name: 'Pumpkin',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pumpkin.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/chocoruu?igsh=MWZjcHNtMjNiZmNjeQ',
+    circle_instagram: 'https://www.instagram.com/chocoruu?igsh=MWZjcHNtMjNiZmNjeQ',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9125,
-
     circle_code: 'P-05ab',
     name: 'asBUN Bakery',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/asBUN Bakery.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter:
       'https://x.com/shikanoyin ; https://x.com/cloverscrbls ; https://x.com/celisoba ; https://x.com/y0nqie ; https://x.com/bamtorizz',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9126,
-
     circle_code: 'P-06ab',
     name: 'Thanos Gagal Bertaubat',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Thanos Gagal Bertaubat.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/pertaubatanthanos/',
     circle_twitter: null,
     circle_other_socials: 'https://www.instagram.com/pertaubatanthanos/',
-
     other_fandom:
       "original, kpop, BL, GL, magical girl, my little pony, southpark, hololive, Alien stage, LaDS, HSR, Nijien, XXL Woofia, RuPaul's Drag Race",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9127,
-
     circle_code: 'P-07a',
     name: 'StableMerchants',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/StableMerchants.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/sharkiepio_',
     circle_twitter: 'https://x.com/sharkiepio_',
     circle_other_socials: 'https://sharkiepio.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9128,
-
     circle_code: 'P-07b',
     name: 'ROMUSA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ROMUSA.jpg',
-
     circle_facebook: 'https://www.facebook.com/suu.clover.9',
     circle_instagram: 'https://www.instagram.com/serbetmerah_/',
     circle_twitter: 'https://x.com/serbetmerah',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9129,
-
     circle_code: 'P-08a',
     name: 'Kuromatchanooki',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kuromatchanooki.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kuro.ate',
     circle_twitter: 'https://x.com/tatanooki?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9130,
-
     circle_code: 'P-08b',
     name: 'Blue Tetsu Arts',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Blue Tetsu Arts.jpg',
-
     circle_facebook: '-',
     circle_instagram: '-',
     circle_twitter: 'https://x.com/itsbluetetsu',
     circle_other_socials: 'https://bluetetsuarts.bigcartel.com',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9131,
-
     circle_code: 'P-09ab',
     name: '24/7 ENCOK',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/24-7_encok.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/anggaxsbay_ackerman/',
     circle_twitter: 'https://x.com/ShiraValkyrie_',
     circle_other_socials: 'https://www.pixiv.net/en/users/5661835',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9132,
-
     circle_code: 'P-10ab',
     name: 'Elgatomo Creative',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Elgatomo Creative.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/aawiess._?igsh=OGhoNzZkdWE0MWQy',
+    circle_instagram: 'https://www.instagram.com/aawiess._?igsh=OGhoNzZkdWE0MWQy',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9133,
-
     circle_code: 'P-11ab/P-12ab',
     name: "kdj's wives",
     circle_cut:
       "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/kdj's wives.jpg",
-
     circle_facebook: null,
-    circle_instagram:
-      'http://instagram.com/anddalusia instagram.com/bylittlextar',
+    circle_instagram: 'http://instagram.com/anddalusia instagram.com/bylittlextar',
     circle_twitter: 'x.com/anddalusia x.com/bylittlextar',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9134,
-
     circle_code: 'P-13ab',
     name: 'Chaos Theory Circle',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Chaos Theory Circle.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/miruu_.30/',
     circle_twitter: 'https://x.com/MirituVH',
     circle_other_socials:
       'https://miruu30.straw.page/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnMWKGEGIoGLjc-X_tYh_NIXJb0I-rr0LKj7LrKsPI5fwnIluqAexnWkg23Yk_aem_yuu3ax3cjgKqA-i3izDz7A',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9135,
-
     circle_code: 'P-14ab',
     name: '5 Sinners of Depok',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/5 Sinners of Depok.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/plenenstuff',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9136,
-
     circle_code: 'P-15a',
     name: 'Bakso Kelinci',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bakso Kelinci.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/te_ran_sit',
     circle_twitter: 'https://x.com/chatooruse',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9137,
-
     circle_code: 'P-15b',
     name: 'moonsoda mart',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/moonsoda mart.jpg',
-
     circle_facebook: null,
     circle_instagram: '@nyacatchan',
     circle_twitter: '@nyacatchan',
     circle_other_socials: 'https://linktr.ee/moonsodamart',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6838591e-0019-449e-bddf-6c3390fa2b60/dd31f4ad-e647-4759-9761-ceee2e442233/P-15b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6838591e-0019-449e-bddf-6c3390fa2b60/f4ae99d2-ed93-4893-b15c-0ce7482b5276/P-15b.png',
@@ -25966,116 +20050,91 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/6838591e-0019-449e-bddf-6c3390fa2b60/a7224028-5f48-43af-8972-0e39cc8ed88e/P-15b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9138,
-
     circle_code: 'P-16a',
     name: 'Mantan Dekapeh',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mantan Dekapeh.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/laviran_nightray/',
     circle_twitter: 'https://x.com/claire_scientia',
     circle_other_socials: 'https://shopee.co.id/moriartyroom',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9139,
-
     circle_code: 'P-16b',
     name: 'Chi-Ra Market',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Chi-Ra Market.jpg',
-
     circle_facebook: '-',
     circle_instagram:
       'https://www.instagram.com/pirutetsu/ | https://www.instagram.com/chirei_tic/',
     circle_twitter: 'https://x.com/pirutetsu?s=21',
     circle_other_socials: 'https://chiramarketco.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9140,
-
     circle_code: 'P-17ab',
     name: 'Maltmochie',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Maltmochie.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/maltmochie',
     circle_twitter: 'x.com/maltmochie',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9141,
-
     circle_code: 'P-18ab',
     name: 'nama booth sesuai kepercayaan-masing masing',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/nama booth sesuai kepercayaan-masing masing.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'instagram.com/soyusoda , https://www.instagram.com/rubacou?igsh=MTU0bGI2d250cG1rbQ==',
-    circle_twitter:
-      'twitter.com/soyusoda , https://x.com/erieririin , https://x.com/riikaruuu',
+    circle_twitter: 'twitter.com/soyusoda , https://x.com/erieririin , https://x.com/riikaruuu',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9142,
-
     circle_code: 'P-19ab',
     name: 'bebekpacking',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/bebekpacking.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.tiktok.com/@shinsiren',
     circle_twitter: 'https://x.com/shinsiren_',
     circle_other_socials: 'https://shinsiren.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9143,
-
     circle_code: 'P-20ab/P-21ab',
     name: 'Dailylouisbella x Sunnymomochi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Dailylouisbella x Sunnymomochi.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/dailylouisbella/ , https://www.instagram.com/sunnymomochi/',
     circle_twitter: 'https://x.com/dailylouisbella, https://x.com/sunnymomochi',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f7c9af4d-c526-4df6-989f-adae121d026f/3919e704-75c5-4e9f-945a-89d255efccfa/P-20ab/P-21ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f7c9af4d-c526-4df6-989f-adae121d026f/e80d3a6a-449e-4e08-8d06-9dd6b854ad38/P-20ab/P-21ab.jpg',
@@ -26089,130 +20148,102 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f7c9af4d-c526-4df6-989f-adae121d026f/95bcfec5-d05f-4412-a82a-b053d4152c48/P-20ab/P-21ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9144,
-
     circle_code: 'P-22ab',
     name: '3SC4MPUR',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/3SC4MPUR.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/coquettebladie/',
     circle_twitter: 'https://x.com/coquettebladie?s=21',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9145,
-
     circle_code: 'P-23a',
     name: "Kiko's collection",
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kikos collection.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/its.kori.cos/',
     circle_twitter: 'https://x.com/itskoricos',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9146,
-
     circle_code: 'P-23b',
     name: 'flowowoo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/flowowoo.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/flowowoo',
     circle_twitter: 'https://x.com/flowowoo',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9147,
-
     circle_code: 'P-24a',
     name: 'NOIR:WAV3',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/NOIRWAV3.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/noir.wav3',
     circle_twitter: 'https://x.com/Onerdrlix',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9148,
-
     circle_code: 'P-24b',
     name: 'Hexen',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Hexen.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: 'https://linktr.ee/hexen888',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9149,
-
     circle_code: 'P-25ab',
     name: 'BUBBLE6UM',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/BUBBLE6UM.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/beewl021/',
     circle_twitter: 'https://x.com/miraclescape?s=11',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9150,
-
     circle_code: 'P-26ab/P-27ab',
     name: 'NataEliza',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/NataEliza.jpg',
-
     circle_facebook: 'https://www.facebook.com/natapunch',
     circle_instagram: 'https://www.instagram.com/nataeliza',
     circle_twitter: 'https://x.com/silvernata',
     circle_other_socials: 'https://nataeliza.carrd.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f559cb82-77de-4136-8f98-0c405bc9e3dc/584d5a6f-fb52-4e3b-8e1d-fd03eca70065/P-26ab/P-27ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f559cb82-77de-4136-8f98-0c405bc9e3dc/e218685a-9a0f-4fb5-916d-ee73715f0578/P-26ab/P-27ab.jpg',
@@ -26221,23 +20252,19 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f559cb82-77de-4136-8f98-0c405bc9e3dc/898dfe2f-bea1-4c1b-9cba-f6edebd082ef/P-26ab/P-27ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9151,
-
     circle_code: 'P-28ab',
     name: 'SOLO BALAPAN',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SOLO BALAPAN.jpg',
-
     circle_facebook:
       'https://www.facebook.com/nakatsukiii/posts/pfbid02jbmDAYnodW9GZhC2qVkjjnyvH6shXtN7UELrmFV3c46hDDQLB4JNdRSaRGXMHbsPl',
     circle_instagram: 'https://www.instagram.com/nakatsukiii/',
     circle_twitter: 'https://x.com/nakatsukiii',
     circle_other_socials: 'https://www.pixiv.net/en/users/29208999',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/615a4c7c-ea53-4339-bf23-d2058ee917d3/8a6b9e34-520a-4f98-b478-ec9cfda70e09/P-28ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/615a4c7c-ea53-4339-bf23-d2058ee917d3/881553e3-65a4-4466-90c1-18fab2ea46c3/P-28ab.jpg',
@@ -26248,188 +20275,147 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/615a4c7c-ea53-4339-bf23-d2058ee917d3/60b5f4e4-743d-46ef-88da-ef46289d7cfb/P-28ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9152,
-
     circle_code: 'P-29ab',
     name: 'taotaoren',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/taotaoren.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/taotaomerch',
     circle_twitter: 'https://x.com/taotao_ren',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9153,
-
     circle_code: 'P-30ab',
     name: 'Randomnessthink',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Randomnessthink.jpg',
-
     circle_facebook: 'https://facebook.com/randomnessthink',
     circle_instagram: 'https://www.instagram.com/randomnessthink/',
     circle_twitter: 'https://x.com/CentarumLake',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9154,
-
     circle_code: 'P-31ab',
     name: 'Weleh Weleh',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Weleh Weleh.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/zhouliun/',
     circle_twitter: 'https://x.com/Airyuchuu',
     circle_other_socials: null,
-
     other_fandom:
       "Honkai: Star Rail, Alien stage, Valorant, ORV, Lout of Count's Family, Phantom buster, The Summer Hikaru Died, Stardew Valley, GL/Yuri, BL/Yaoi Original",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9155,
-
     circle_code: 'P-32ab/P-33ab',
     name: 'nona-nona',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/nona-nona.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/rupparuppi/',
     circle_twitter: 'https://x/com/rupparuppi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9156,
-
     circle_code: 'P-34ab',
     name: 'Pee Paw Kleb',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pee Paw Kleb.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/mawcens',
     circle_twitter: 'https://x.com/mawcens_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9157,
-
     circle_code: 'P-35ab',
     name: 'Tiga Dongo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tiga Dongo.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/autumn5kye/',
     circle_twitter: 'https://x.com/Autumn5kye',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9158,
-
     circle_code: 'P-36ab',
     name: 'Maple Kitchen',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Maple Kitchen.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/cerealwumps',
     circle_twitter: 'https://x.com/saintcereals',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9159,
-
     circle_code: 'P-37a',
     name: 'Budak Loker (Lowongan Kerajinan)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Budak Loker (Lowongan Kerajinan).jpg',
-
     circle_facebook: '-',
     circle_instagram:
       'https://www.instagram.com/not_kitchenset/ / https://www.instagram.com/ohgeezhan/',
     circle_twitter: 'https://x.com/not_kitchenset / https://x.com/ohgeezhan',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9160,
-
     circle_code: 'P-37b',
     name: 'Dua Hari bersama NPC',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Dua Hari bersama NPC.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/natnot4127',
     circle_twitter: 'https://x.com/natnot4127',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9161,
-
     circle_code: 'P-38b',
     name: 'Koyuh',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Koyuh.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/n0t_u73',
     circle_twitter: null,
     circle_other_socials: 'https://koyuh.carrd.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/60a85a9f-0a4f-455d-b0a6-79158ac73cc7/a273c891-2ba0-4259-b603-73989e260818/P-38b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/60a85a9f-0a4f-455d-b0a6-79158ac73cc7/d7b11b8d-3900-48af-81c5-e3ca615a6800/P-38b.png',
@@ -26440,42 +20426,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/60a85a9f-0a4f-455d-b0a6-79158ac73cc7/11726219-adb3-426c-a260-a0478e8c0ed0/P-38b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9162,
-
     circle_code: 'P-39ab',
     name: 'Cttnuxu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Cttnuxu.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/cttnuxu?igsh=cnhncTkxNWF3cXBp&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/cttnuxu?igsh=cnhncTkxNWF3cXBp&utm_source=qr',
     circle_twitter: 'https://x.com/cttnuxuu?s=21&t=R85GT2IFFptzlx2QLIK8-A',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9163,
-
     circle_code: 'P-40ab',
     name: 'CINOSZIRKEL',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CINOSZIRKEL.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/cinoszirkel?igsh=MXZmZHNxeDZzZnc2bQ==',
+    circle_instagram: 'https://www.instagram.com/cinoszirkel?igsh=MXZmZHNxeDZzZnc2bQ==',
     circle_twitter: 'https://x.com/cinoszirkel?s=21&t=egCzizviFlLyvA10DANAVg',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2a6050a3-867c-4f1b-b952-04cef93b4e9d/c2469616-cf83-49e0-99c7-76b43c7be2a6/P-40ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2a6050a3-867c-4f1b-b952-04cef93b4e9d/89366901-26bd-4c19-bcf4-0debc6ea78b0/P-40ab.png',
@@ -26483,114 +20459,89 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2a6050a3-867c-4f1b-b952-04cef93b4e9d/a68321b7-1b75-4b7f-834b-d76a6ed5f95d/P-40ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9164,
-
     circle_code: 'P-41ab',
     name: 'Susu Beruang Liar',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Susu Beruang Liar.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/emorenjimaru',
     circle_twitter: 'https://x.com/orenjimaru_',
     circle_other_socials: 'https://bsky.app/profile/frikadeller.bsky.social',
-
     other_fandom: ", baldur's gate, original, furries, holostars",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9165,
-
     circle_code: 'P-42ab',
     name: 'Akachou x Lecita',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Akachou x Lecita.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/byakachou/',
     circle_twitter: 'https://x.com/akachou_tweet',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9166,
-
     circle_code: 'P-43ab',
     name: 'Vinji & Licialurie',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Vinji & Licialurie.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/licialurie/',
     circle_twitter: 'https://x.com/licialurie, https://x.com/VinjiVtuber',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9167,
-
     circle_code: 'P-44ab',
     name: 'LenPinky x Meropotato',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/LenPinky x Meropotato.jpg',
-
     circle_facebook: 'https://www.facebook.com/len.berry.18',
     circle_instagram: 'https://www.instagram.com/lenpinky_uwu/',
     circle_twitter: 'https://x.com/LenPinky273',
     circle_other_socials: 'https://lenlenthuphan.wixsite.com/my-site',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9168,
-
     circle_code: 'P-45a',
     name: 'Catelier',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Catelier.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/lycheesodas',
     circle_twitter: 'https://x.com/lycheesodas',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9169,
-
     circle_code: 'P-45b',
     name: 'The Coons',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/The Coons.jpg',
-
     circle_facebook: 'https://www.facebook.com/bloodshedera888/',
     circle_instagram: null,
     circle_twitter: 'https://x.com/bloodshedera',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/24763d21-c81d-4ce3-a3c8-7eeab65a4dc8/5005da3d-5c1d-4548-8072-eaa9fa28c9cf/P-45b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/24763d21-c81d-4ce3-a3c8-7eeab65a4dc8/05a32005-fcd1-4dcb-be37-ce054075eeb4/P-45b.png',
@@ -26600,177 +20551,137 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/24763d21-c81d-4ce3-a3c8-7eeab65a4dc8/539361d1-1daa-4644-b65d-8c1e55e6f0db/P-45b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9170,
-
     circle_code: 'P-46a',
     name: 'Ririkaru Studios',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ririkaru Studios.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'x.com/felicitarika',
     circle_other_socials: 'https://felicitarika.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9171,
-
     circle_code: 'P-46b',
     name: 'The Three Monketeers',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/The Three Monketeers.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/bluukki',
     circle_twitter: 'https://x.com/202niishi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9172,
-
     circle_code: 'P-47ab',
     name: 'Behind the Sin',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Behind the Sin.jpg',
-
     circle_facebook: 'https://www.facebook.com/share/1BmcfsyVDg/',
     circle_instagram: 'https://instagram.com/hanr00skz',
     circle_twitter: 'https://x.com/_10_555',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9173,
-
     circle_code: 'P-48ab',
     name: 'Bebek Lele',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bebek Lele.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/perdizzion',
     circle_twitter:
       'https://x.com/perdizzion, https://x.com/raztberry, https://x.com/muxlee, https://x.com/exhaustedpillow',
     circle_other_socials: 'https://perdizzion.bigcartel.com/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a64c21a9-d34d-4c88-a3bf-78f1ce81eaf3/4215c160-7a56-49bc-a6a1-262bbb411649/P-48ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9174,
-
     circle_code: 'P-49ab',
     name: 'Kulinara',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kulinara.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kuli.nara',
     circle_twitter: 'https://x.com/kuli_nara',
     circle_other_socials: '',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9175,
-
     circle_code: 'P-50ab/P-51ab',
     name: 'Tian An & M',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tian An & M.jpg',
-
     circle_facebook: 'https://www.facebook.com/hoang.tran.tu.uyen',
     circle_instagram: 'https://www.instagram.com/tianan69_art/',
     circle_twitter: 'https://www.facebook.com/an.tian.58173#',
-    circle_other_socials:
-      'https://www.facebook.com/profile.php?id=100063263438730',
-
+    circle_other_socials: 'https://www.facebook.com/profile.php?id=100063263438730',
     fandom:
       "Genshin Impact, Honkai Star Rail, Wuthering waves, Detective Conan, Omniscient Reader's Viewpoint.",
     other_fandom:
       "Jojo's Bizarre Adventure, love and deepspace, solar, lightandnight, arknight, valorant,..",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9176,
-
     circle_code: 'P-52ab (SAT)',
     name: 'DIGEPENGINAJA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/DIGEPENGINAJA.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/__cara_melll__?igsh=MXYycjR6c3pwbHh6aQ==',
+    circle_instagram: 'https://www.instagram.com/__cara_melll__?igsh=MXYycjR6c3pwbHh6aQ==',
     circle_twitter: 'https://x.com/__cara_MELLL__',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9177,
-
     circle_code: 'P-52ab (SUN)',
     name: '6ambling mashou',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/6ambling mashou.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/alycheew?igsh=MWw2M20zdXRhdWZnMA==',
+    circle_instagram: 'https://www.instagram.com/alycheew?igsh=MWw2M20zdXRhdWZnMA==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9178,
-
     circle_code: 'P-53a',
     name: 'Blue Bunnies',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Blue Bunnies.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/yochishimizu2024',
     circle_twitter: 'https://x.com/ergosumn https://x.com/tksnrnt',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7d1e10e1-5dfd-4b50-b35f-a4ecf0db4a02/d7b4cce8-c228-4e57-896d-de9d4f2cd5a9/P-53a.JPG',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7d1e10e1-5dfd-4b50-b35f-a4ecf0db4a02/e41b240e-9ea7-427f-8617-75861d98730c/P-53a.jpg',
@@ -26780,95 +20691,75 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7d1e10e1-5dfd-4b50-b35f-a4ecf0db4a02/7211628c-0c7f-49da-a9ca-8655a9a8d08b/P-53a.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9179,
-
     circle_code: 'P-53b',
     name: 'Kumpulan Anak Kuliah Gamer',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kumpulan Anak Kuliah Gamer.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/potato.taco_craft https://www.instagram.com/penguin_bacot https://www.instagram.com/smabble_wabble',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9180,
-
     circle_code: 'P-54ab',
     name: 'Mencari Cuan Di sini',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mencari Cuan Di sini.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/choccopom',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9181,
-
     circle_code: 'P-55ab',
     name: 'The Sticker Seeker',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/The Sticker Seeker.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/thestickerseeker/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9182,
-
     circle_code: 'P-56ab',
     name: 'Toko Sumber Khilaf',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Toko Sumber Khilaf.jpg',
-
     circle_facebook: null,
     circle_instagram: '',
     circle_twitter: '',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9183,
-
     circle_code: 'P-57a',
     name: 'Mixcu.co',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mixcu.co.jpg',
-
     circle_facebook: 'https://www.facebook.com/noru.chishiki/',
     circle_instagram: 'https://www.instagram.com/noru_chishiki91',
     circle_twitter: 'https://x.com/AochiiY',
     circle_other_socials: 'https://www.instagram.com/mixcu.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2387b2e2-3e73-44b3-8a91-dd0b2a2f3606/06039608-096e-47c9-8d7f-25b5cc97a64a/P-57a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2387b2e2-3e73-44b3-8a91-dd0b2a2f3606/16dd3c14-204d-4af5-abc9-ceb3dd1d9116/P-57a.png',
@@ -26877,136 +20768,104 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/2387b2e2-3e73-44b3-8a91-dd0b2a2f3606/8bddcd9c-ca29-493a-b375-ca8aa901bdb6/P-57a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9184,
-
     circle_code: 'P-57b',
     name: 'Eimimay',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Eimimay.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/eimimay/',
     circle_twitter: 'https://x.com/eimimay',
-    circle_other_socials:
-      'https://www.facebook.com/profile.php?id=100080932684979',
-
+    circle_other_socials: 'https://www.facebook.com/profile.php?id=100080932684979',
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9185,
-
     circle_code: 'P-58ab/P-59ab',
     name: 'ILLY.ART x yukinayee x Fenrishion',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ILLY.ART x yukinayee x Fenrishion.jpg',
-
     circle_facebook:
       '(Member A: https://www.facebook.com/illyart.nugget), (Member C: http://fb.com/Fenrishion)',
     circle_instagram: '(Member A: http://www.instagram.com/illy.art)',
     circle_twitter:
       '(Member A: https://x.com/illytto), (Member B: https://x.com/_yukinayee), (Member C: http://x.com/fenrishion)',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9186,
-
     circle_code: 'P-60ab (SAT)',
     name: 'Lunacerra',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lunacerra.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/lunacerra',
     circle_twitter: 'https://x.com/lunacerra',
     circle_other_socials: 'https://lunacerra.carrd.co/',
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9187,
-
     circle_code: 'P-60a (SUN)',
     name: 'Tina Elida Shiny Things',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tina Elida Shiny Things.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/tina.elida',
     circle_twitter: 'https://x.com/wretchedhoax',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9188,
-
     circle_code: 'P-60b (SUN)',
     name: 'Tchaiko@Beikazu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tchaiko@Beikazu.jpg',
-
-    circle_facebook:
-      'https://web.facebook.com/people/Kallua-Zeruk/100031093958336/',
+    circle_facebook: 'https://web.facebook.com/people/Kallua-Zeruk/100031093958336/',
     circle_instagram: 'https://www.instagram.com/kalluazeruk/',
     circle_twitter: 'https://x.com/kalluazeruk',
     circle_other_socials: 'https://www.pixiv.net/users/1386755',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9189,
-
     circle_code: 'Q-01ab',
     name: 'Meng Rosallete',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Meng Rosallete.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/HAKUBI_CHAN',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9190,
-
     circle_code: 'Q-02ab/Q-03ab',
     name: 'Doggy style',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Doggy style.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/doggy_stylecf22?igsh=dHY0OXZ3ajJvcXJh',
+    circle_instagram: 'https://www.instagram.com/doggy_stylecf22?igsh=dHY0OXZ3ajJvcXJh',
     circle_twitter: '',
-    circle_other_socials:
-      'https://www.instagram.com/doggy_stylecf22?igsh=dHY0OXZ3ajJvcXJh',
-
+    circle_other_socials: 'https://www.instagram.com/doggy_stylecf22?igsh=dHY0OXZ3ajJvcXJh',
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/11b61e9c-26f1-40e2-bfd4-d2d3cbe00231/6557b452-9796-4d20-904f-e28b9daf3de4/Q-02ab/Q-03ab.jpeg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/11b61e9c-26f1-40e2-bfd4-d2d3cbe00231/077c8be0-5363-4055-a5fc-72439ce70640/Q-02ab/Q-03ab.jpeg',
@@ -27019,118 +20878,92 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/11b61e9c-26f1-40e2-bfd4-d2d3cbe00231/64dcb92e-3d1a-4182-be88-4ca4da59a8d6/Q-02ab/Q-03ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9191,
-
     circle_code: 'Q-04ab',
     name: 'Beyond Logos',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Beyond Logos.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61572309307889',
     circle_instagram: null,
     circle_twitter:
       'https://x.com/mystfrea , https://x.com/stellarastrelis , https://x.com/aaruatelier , https://x.com/m131444',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/97f8aa98-1ef2-4476-8e5a-62948798cc94/d780793f-8f9f-40c7-9b2d-012cfedb2817/Q-04ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/97f8aa98-1ef2-4476-8e5a-62948798cc94/2f6e6aad-556f-4650-b7aa-a529df042d9d/Q-04ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9192,
-
     circle_code: 'Q-05ab',
     name: 'DOIFUKU',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/DOIFUKU.jpg',
-
-    circle_facebook:
-      'https://www.facebook.com/share/182ikFiCGy/?mibextid=wwXIfr',
+    circle_facebook: 'https://www.facebook.com/share/182ikFiCGy/?mibextid=wwXIfr',
     circle_instagram: 'https://instagram.com/dokiokio',
     circle_twitter: 'https://x.com/dokiokio',
     circle_other_socials: 'https://linktr.ee/dokiokio',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9193,
-
     circle_code: 'Q-06ab',
     name: 'Raccoon Cinema',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Raccoon Cinema.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kagurinne/',
     circle_twitter: 'https://x.com/bbytak0',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9194,
-
     circle_code: 'Q-07a',
     name: 'Kanehoshi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kanehoshi.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/everleynn, https://www.instagram.com/noon_aokii',
+    circle_instagram: 'https://www.instagram.com/everleynn, https://www.instagram.com/noon_aokii',
     circle_twitter: 'https://x.com/Everleynn, https://x.com/noon_aokii',
     circle_other_socials: 'https://id.shp.ee/jYU6XVr',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9195,
-
     circle_code: 'Q-07b',
     name: 'Holluette Corner',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Holluette Corner.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/wnasl3p/',
     circle_twitter: 'https://x.com/wnasl3p',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9196,
-
     circle_code: 'Q-08a',
     name: 'Warhus (warung husbu)',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warhus (warung husbu).jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/commsbykim/',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/fc4ce16a-0782-48d4-b84a-04c200dde34e/494e14fe-007d-42f0-a9b2-ad8192b1f5bd/Q-08a.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/fc4ce16a-0782-48d4-b84a-04c200dde34e/7f66994d-532b-4175-8b82-081f73eaad18/Q-08a.jpg',
@@ -27144,59 +20977,47 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/fc4ce16a-0782-48d4-b84a-04c200dde34e/d6d711a4-61a8-4c4e-8174-fd6a9f90ef95/Q-08a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9197,
-
     circle_code: 'Q-08b',
     name: 'Artlyco',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Artlyco.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/kodano_co',
     circle_twitter: 'https://x.com/kodano_co',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9198,
-
     circle_code: 'Q-09ab',
     name: 'Melon Soda',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Melon Soda.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter:
       'https://x.com/TrashsamaRE , https://x.com/amemonm , https://x.com/themaakii , https://x.com/lesprince__ , https://x.com/garamtsuki',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9199,
-
     circle_code: 'Q-10ab',
     name: 'Arudelu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Arudelu.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/arudelux/',
     circle_twitter: 'https://x.com/arudeluu',
     circle_other_socials: 'https://arudelu.carrd.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f79f4955-c12c-43d2-9559-245f618274b6/239ae475-5b1c-491a-a2f9-3e991e928368/Q-10ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f79f4955-c12c-43d2-9559-245f618274b6/c9fda871-bf52-4064-97ef-f427389624fc/Q-10ab.png',
@@ -27210,22 +21031,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/f79f4955-c12c-43d2-9559-245f618274b6/e2ea004e-9ca9-4fe4-aa7d-72c73bc82cae/Q-10ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9200,
-
     circle_code: 'Q-11ab/Q-12ab',
     name: 'Paper Panci',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Paper Panci.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/shiromochito',
     circle_twitter: 'x.com/shiromochito',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1a39b9c2-a0b7-44d7-98bc-dd1499e9aab6/18537562-ef2f-4702-a400-8d799aac9886/Q-11ab/Q-12ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1a39b9c2-a0b7-44d7-98bc-dd1499e9aab6/5481862e-c1cc-4c2d-958d-08712fc9a98c/Q-11ab/Q-12ab.jpg',
@@ -27237,99 +21054,77 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/1a39b9c2-a0b7-44d7-98bc-dd1499e9aab6/b675bda7-df0d-4dd8-8fe0-6c4f292aa4f6/Q-11ab/Q-12ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9201,
-
     circle_code: 'Q-13ab',
     name: 'ES CAMPUR DIGITAL',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ES CAMPUR DIGITAL.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/mochiipomm https://www.instagram.com/meisoup_art https://www.instagram.com/suneri359 https://www.instagram.com/queenof_persona https://www.instagram.com/vaniselle.studio https://www.instagram.com/pflanii https://www.instagram.com/retro.craftminiatures',
     circle_twitter: null,
     circle_other_socials: null,
-
     other_fandom:
       "Military, Baldur's Gate 3, The Witcher, DnD, Better Call Saul / Breaking Bad, Dispatch, Valorant, Shoujo, Original, Handmade Crafts",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9202,
-
     circle_code: 'Q-14ab',
     name: 'COW-PORATION',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/COW-PORATION.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/pawtty__?igsh=MXN3Zm1haWlvcnZnNQ==',
+    circle_instagram: 'https://www.instagram.com/pawtty__?igsh=MXN3Zm1haWlvcnZnNQ==',
     circle_twitter: 'https://x.com/Pawtty_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9203,
-
     circle_code: 'Q-15a',
     name: 'Ateleia',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ateleia.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/lol_leia',
     circle_twitter: 'https://x.com/lolleia_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9204,
-
     circle_code: 'Q-15b',
     name: 'Nessez_Puffz',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nessez_Puffz.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/nessez_puffz/',
     circle_twitter: 'https://x.com/neessez',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9205,
-
     circle_code: 'Q-16a',
     name: 'Aster Catto',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Aster Catto.jpg',
-
     circle_facebook: 'https://www.facebook.com/astercatto/',
     circle_instagram: null,
     circle_twitter: 'https://x.com/AsterCatto',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5e4ebe87-aae3-46e4-ab03-0b5ed72f60d0/a223ca6e-5dd1-419d-a88a-3c5f953f8d95/Q-16a.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5e4ebe87-aae3-46e4-ab03-0b5ed72f60d0/7c8b7f9f-9d0b-4ff3-9888-3003d68c74a1/Q-16a.png',
@@ -27340,79 +21135,62 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5e4ebe87-aae3-46e4-ab03-0b5ed72f60d0/20188880-66cc-4766-aa11-d9ce21429631/Q-16a.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9206,
-
     circle_code: 'Q-16b',
     name: 'Nichony and Devy',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nichony and Devy.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9207,
-
     circle_code: 'Q-17ab',
     name: 'PonDéPon',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PonDePon.jpg',
-
     circle_facebook: 'https://www.facebook.com/MeikaNova',
     circle_instagram: 'https://www.instagram.com/meikanova/',
     circle_twitter: 'https://x.com/_riuri',
     circle_other_socials: 'pondepon.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9208,
-
     circle_code: 'Q-18ab',
     name: 'madstefu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/madstefu.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/madstefu',
     circle_twitter: 'https://x.com/madstefu',
     circle_other_socials: 'https://linktr.ee/MADSTEFU',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9209,
-
     circle_code: 'Q-19ab',
     name: 'Goner Gongyuan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Goner Gongyuan.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/frwru?igsh=djEyZWEyaGlybzZz',
     circle_twitter: 'https://x.com/Purpleiny__',
     circle_other_socials: null,
-
     other_fandom:
       "Limbus Company, Projectmoon, lobotomy Corporation, Library of ruina, Fate Grand Order, Arknights, Deltarune, UTMV, TADC, silksong, object show, R! Grace, Dandy's world, Honkai Starrail",
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/74cd668b-8972-479b-8c8c-f4439e8cfb11/55797b5b-bc92-4043-a02f-cee2b3f441bd/Q-19ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/74cd668b-8972-479b-8c8c-f4439e8cfb11/41e8545c-24eb-42d5-b60a-a71d8d161724/Q-19ab.png',
@@ -27421,155 +21199,120 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/74cd668b-8972-479b-8c8c-f4439e8cfb11/dca3300f-3c0e-4a07-b309-7f3865c16c15/Q-19ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9210,
-
     circle_code: 'Q-20ab/Q-21ab',
     name: 'EveSky',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/EveSky.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/eutheciel',
     circle_twitter: 'https://x.com/eutheciel',
     circle_other_socials: 'https://evesky-portfolio.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9211,
-
     circle_code: 'Q-22ab',
     name: 'Shuucreaming',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Shuucreaming.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/tkm_shuu',
     circle_twitter: 'https://x.com/tkm_shuu',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9212,
-
     circle_code: 'Q-23ab',
     name: 'PIRONA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/PIRONA.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/pironahandmade?igsh=MWIwdHpqdDdwNXg4Zw==',
+    circle_instagram: 'https://www.instagram.com/pironahandmade?igsh=MWIwdHpqdDdwNXg4Zw==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9213,
-
     circle_code: 'Q-23ab',
     name: 'Kath and chris',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kath and chris.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/kathmudkip?igsh=ZDR2b2J4bWdlZ3Y0&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/kathmudkip?igsh=ZDR2b2J4bWdlZ3Y0&utm_source=qr',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8b16448f-d233-46d0-b9c7-a8a6571543ab/e5adb5ad-6049-4800-9f8c-f5dd2abf8b09/Q-23ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8b16448f-d233-46d0-b9c7-a8a6571543ab/7e086801-9dee-40d5-a23b-41762c46ddd4/Q-23ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/8b16448f-d233-46d0-b9c7-a8a6571543ab/ee1dfb27-173e-4730-a6f6-2a078b3c055f/Q-23ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9214,
-
     circle_code: 'Q-24a',
     name: 'Runaria',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Runaria.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/runaria_croix?s=21&t=lTrnnxRl-rM9UZfIVvKXAQ',
     circle_other_socials: 'https://www.pixiv.net/users/109922508',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9215,
-
     circle_code: 'Q-24b',
     name: 'Yagataw Store',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Yagataw Store.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/yagatawstore',
     circle_twitter: 'https://x.com/Volcer_Bruh',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9216,
-
     circle_code: 'Q-25ab',
     name: 'Delfiaz',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Delfiaz.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/bebek_.putih?igsh=MXV0Mjh5ZXBxaTU0NA==',
+    circle_instagram: 'https://www.instagram.com/bebek_.putih?igsh=MXV0Mjh5ZXBxaTU0NA==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9217,
-
     circle_code: 'Q-26ab',
     name: 'chamomilac',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/chamomilac.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/chamomilac',
     circle_twitter: 'https://x.com/chamomilac',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/15717116-9a27-45ee-ade0-cf852fed8098/2df0c662-8ed4-4dad-b026-2a7eb0d15b53/Q-26ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/15717116-9a27-45ee-ade0-cf852fed8098/cd929c04-ea68-48f8-a38d-174c06c5185f/Q-26ab.jpg',
@@ -27581,250 +21324,193 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/15717116-9a27-45ee-ade0-cf852fed8098/569c1e0f-14b6-4664-a72c-a2a5b44031a4/Q-26ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9218,
-
     circle_code: 'Q-27ab',
     name: 'Lunette',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lunette.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/lunette_team?igsh=MWVudmJjMDRiYTQxZw==',
+    circle_instagram: 'https://www.instagram.com/lunette_team?igsh=MWVudmJjMDRiYTQxZw==',
     circle_twitter: 'https://x.com/koffieaulait1',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9219,
-
     circle_code: 'Q-28ab/Q-29ab',
     name: 'Budak Segitiga',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Budak Segitiga.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/michiierry/',
     circle_twitter: 'https://x.com/Wasabi_hijau',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a82db8dc-8483-4489-8339-e503b50b7a20/99627cb7-26d3-4aad-8ec4-bc9ae7f03295/Q-28ab/Q-29ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9220,
-
     circle_code: 'Q-30a',
     name: 'Sibuk Berkarya',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sibuk Berkarya.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/eelehcim',
     circle_twitter: 'https://x.com/maogicians , https://x.com/Alcoveroticanai',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9221,
-
     circle_code: 'Q-30b',
     name: 'Renta Abadi Express',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Renta Abadi Express.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/sun.to.his.moon',
     circle_twitter: 'https://x.com/sun_to_his_moon',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9222,
-
     circle_code: 'Q-31ab',
     name: 'SOOO.MAR',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SOOO.MAR.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/berrysooo.da/ & https://www.instagram.com/m.y.mart_o_o/',
     circle_twitter: 'https://x.com/berrysoooda & https://x.com/mycollagemiddly',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9223,
-
     circle_code: 'Q-32ab/Q-33ab',
     name: 'Trio Kwek-Kwek',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Trio Kwek-Kwek.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/kejiyaa21 , https://www.instagram.com/thegrey.sun , https://www.instagram.com/exelleonora',
     circle_twitter:
       'https://x.com/kejiyaa21 , https://x.com/thegreysun1 , https://x.com/exelleonora',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9224,
-
     circle_code: 'Q-34ab',
     name: 'Malewife Bergizi & Ganteng',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Malewife Bergizi & Ganteng.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/larvynn_?igsh=c3h2N2o3NG5vcGxp',
+    circle_instagram: 'https://www.instagram.com/larvynn_?igsh=c3h2N2o3NG5vcGxp',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9225,
-
     circle_code: 'Q-35ab',
     name: 'XY ZOOTH',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/XY ZOOTH.jpg',
-
     circle_facebook: 'https://www.facebook.com/zen.min.568?',
     circle_instagram:
       'https://www.instagram.com/xozyrel?igsh=YzVsaHRld284bXp2 & https://www.instagram.com/yukinerashi?igsh=aDZqbXg0cWxneXhl',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9226,
-
     circle_code: 'Q-36ab',
     name: '3 Musketeers',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/3 Musketeers.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/flo__ofiee?igsh=eHdtYWkwbmdka3Jn&utm_source=qr, https://www.instagram.com/disartery?igsh=MW14Zm42YjZhdTY2bw==, https://www.instagram.com/kkar_u?igsh=MWhyZjh4M25tNXc5NA==',
     circle_twitter: 'https://x.com/kkaru0616',
-    circle_other_socials:
-      'https://www.tiktok.com/@flo_0fie?_r=1&_t=ZS-93RizpLHEg8',
-
+    circle_other_socials: 'https://www.tiktok.com/@flo_0fie?_r=1&_t=ZS-93RizpLHEg8',
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9227,
-
     circle_code: 'Q-37a',
     name: 'Pamiri Mart',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pamiri Mart.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/yuuzurinn_?igsh=MWd0eWFpcHh5b2tjbg==',
+    circle_instagram: 'https://www.instagram.com/yuuzurinn_?igsh=MWd0eWFpcHh5b2tjbg==',
     circle_twitter: 'https://x.com/yuuzurinn_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9228,
-
     circle_code: 'Q-37b',
     name: 'byBapang',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/byBapang.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/bybapang/',
     circle_twitter: 'https://x.com/byBapang',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9229,
-
     circle_code: 'Q-38ab (SAT)',
     name: 'Mahasigma Anomali',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mahasigma Anomali.jpg',
-
     circle_facebook: 'https://www.instagram.com/leyo_pxl/',
-    circle_instagram:
-      'https://www.instagram.com/demam_digital?igsh=aTNxNDAyMWR3b2V1',
+    circle_instagram: 'https://www.instagram.com/demam_digital?igsh=aTNxNDAyMWR3b2V1',
     circle_twitter: 'https://x.com/leo_pxll',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9230,
-
     circle_code: 'Q-38a (SUN)',
     name: 'Sussy Side Up!',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sussy Side Up!.jpg',
-
     circle_facebook: "(Don't have any)",
     circle_instagram: 'https://www.instagram.com/fresh_cocomilk/',
     circle_twitter: 'https://x.com/fresh_cocomilk',
     circle_other_socials: "(Don't have any)",
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/023d507d-27e3-4ee5-b81e-ca391555a980/71aa6035-a96b-451d-881d-8efdf70f4e1a/Q-38a (SUN).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/023d507d-27e3-4ee5-b81e-ca391555a980/fa655653-f2a8-4201-bef1-f16c0c017459/Q-38a (SUN).png',
@@ -27832,188 +21518,148 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/023d507d-27e3-4ee5-b81e-ca391555a980/42a3d66c-5a4e-4192-912b-3b68caa35613/Q-38a (SUN).png',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9231,
-
     circle_code: 'Q-38b (SUN)',
     name: 'Teajir',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Teajir.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/piyumel',
     circle_twitter: 'https://x.com/ikuyodas',
     circle_other_socials: 'https://timesnewnoir.tumblr.com/',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9232,
-
     circle_code: 'Q-39a (SAT)',
     name: 'Warung jmk',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warung jmk.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/kyooami/',
     circle_twitter: 'https://x.com/Jinkousk',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9233,
-
     circle_code: 'Q-39a (SUN)',
     name: 'Warung BOJOlali',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warung BOJOlali.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/nasikarii/',
     circle_twitter: 'https://x.com/Mallooowy',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9234,
-
     circle_code: 'Q-39b (SAT)',
     name: 'Interkets',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Interkets.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/sev.elvnn',
     circle_twitter: 'https://x.com/sev_elvnn',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9235,
-
     circle_code: 'Q-39b (SUN)',
     name: 'Delulu Famiglia',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Delulu Famiglia.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/catnshrimp',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9236,
-
     circle_code: 'Q-40ab (SAT)',
     name: 'CafeFujo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CafeFujo.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/goldifeesh?igsh=dG9pcmE1ZHR2Z3Vp&utm_source=qr , https://www.instagram.com/nchouvy?igsh=YWFsdHp2M2l0aTl6',
     circle_twitter:
       'https://x.com/lanmingshi?s=21 , https://x.com/albeitart?s=21 , https://x.com/goldifeesh?s=21',
     circle_other_socials: 'goldifeesh.carrd.co',
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9237,
-
     circle_code: 'Q-40a (SUN)',
     name: 'CANG DI',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CANG DI.jpg',
-
     circle_facebook: 'https://www.facebook.com/cang.di.65140/',
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9238,
-
     circle_code: 'Q-40b (SUN)',
     name: 'KETEK-BEBEK',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KETEK-BEBEK.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/zupastaaa',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9239,
-
     circle_code: 'Q-41ab/Q-42ab',
     name: 'Lopyu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lopyu.jpg',
-
     circle_facebook: 'https://www.facebook.com/0lasochan',
     circle_instagram: null,
     circle_twitter: 'https://x.com/OukaLeo69508',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/e20842d9-ea8e-442a-a946-1df96d95b6cb/a8155d80-0cf2-4995-b725-1c7647aca332/Q-41ab/Q-42ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9240,
-
     circle_code: 'Q-43ab',
     name: 'KOMPLOTAN',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KOMPLOTAN.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/pwukkuppuu',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/be984b6b-d706-4658-a659-bf27e4410adc/11ec9761-8a0d-49fb-a53a-9ad14005a1af/Q-43ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/be984b6b-d706-4658-a659-bf27e4410adc/ed233089-a263-47e7-8479-b15ff93bfce9/Q-43ab.png',
@@ -28023,22 +21669,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/be984b6b-d706-4658-a659-bf27e4410adc/c339f3cf-25bd-473d-a068-7b222567f288/Q-43ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9241,
-
     circle_code: 'Q-44ab (SAT)',
     name: 'The Four Hjönkmen',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/The Four Hjonkmen.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://instagram.com/rangerungu_',
     circle_twitter: 'https://x.com/rangerungu_',
     circle_other_socials: '-',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7c07094d-eace-48f0-b5ec-4a64339a695b/c56dbd83-c091-4798-b31b-ba7831a1b85a/Q-44ab (SAT).jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7c07094d-eace-48f0-b5ec-4a64339a695b/0969810b-b9f2-4dba-9c78-16ecbfdb4c8f/Q-44ab (SAT).jpg',
@@ -28052,22 +21694,18 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/7c07094d-eace-48f0-b5ec-4a64339a695b/79eec211-d165-4583-9f03-7e5469d3b8bd/Q-44ab (SAT).jpg',
     ],
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9242,
-
     circle_code: 'Q-44ab (SUN)',
     name: 'Halo & Holster',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Halo & Holster.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61553127249032',
     circle_instagram: null,
     circle_twitter: 'https://x.com/mindyoursugarlv',
     circle_other_socials: '',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3a8fc502-117a-4734-b73f-d7d96b44c9e8/2303fc50-8622-4093-85be-990cc1a04bd7/Q-44ab (SUN).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3a8fc502-117a-4734-b73f-d7d96b44c9e8/262c15d0-8267-403d-a9fa-6deb4b86f286/Q-44ab (SUN).png',
@@ -28076,64 +21714,50 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3a8fc502-117a-4734-b73f-d7d96b44c9e8/b8225e60-691b-4daf-8764-590b62f639ac/Q-44ab (SUN).png',
     ],
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9243,
-
     circle_code: 'Q-45ab (SAT)',
     name: 'Mekis Pukis',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mekis Pukis.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/mekispukis/?utm_source=ig_web_button_share_sheet',
+    circle_instagram: 'https://www.instagram.com/mekispukis/?utm_source=ig_web_button_share_sheet',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ed99c88c-4a46-4067-ab2f-0fbbad8719e0/2161ca6a-0611-4962-bc94-c0224065649c/Q-45ab (SAT).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ed99c88c-4a46-4067-ab2f-0fbbad8719e0/8770cd7b-a1df-4d30-a524-cf91443cbec2/Q-45ab (SAT).jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ed99c88c-4a46-4067-ab2f-0fbbad8719e0/cfac0691-e2c3-4161-90ff-83ba57f75868/Q-45ab (SAT).jpg',
     ],
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9244,
-
     circle_code: 'Q-45a (SUN)',
     name: 'Kocheng Goshonk',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kocheng Goshonk.jpg',
-
     circle_facebook: '-',
-    circle_instagram:
-      'https://www.instagram.com/thi_arthi_?igsh=ZXlnNTM0M2djYmQ0&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/thi_arthi_?igsh=ZXlnNTM0M2djYmQ0&utm_source=qr',
     circle_twitter: 'https://x.com/ryuu131306?s=21&t=SxcP9i7U_TPTQYR0PajSKw',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9245,
-
     circle_code: 'Q-45b (SUN)',
     name: 'Nyandere',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nyandere.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/dere_nyan70327',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3d83b0f0-d87e-4f3d-94f0-0f0fa24a1690/d21bf298-4a6b-4cf2-8939-bc0de216fd02/Q-45b (SUN).png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3d83b0f0-d87e-4f3d-94f0-0f0fa24a1690/d46a2e14-39db-407f-96cd-6772f5c9ef33/Q-45b (SUN).png',
@@ -28141,195 +21765,153 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/3d83b0f0-d87e-4f3d-94f0-0f0fa24a1690/cca3b5f4-d670-4461-8f9b-5b236e0d0291/Q-45b (SUN).png',
     ],
     day: 'SUN',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9246,
-
     circle_code: 'Q-46a',
     name: 'Kikisaurus & Chindleion',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kikisaurus & Chindleion.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/chindleion',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9247,
-
     circle_code: 'Q-46b',
     name: 'Seonmul Aegis',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Seonmul Aegis.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/seonmul_aegis',
     circle_twitter: 'https://x.com/seonmul_aegis',
     circle_other_socials: 'https://seonmulaegis.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9248,
-
     circle_code: 'Q-47ab',
     name: 'Dreamscape Lounge',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Dreamscape Lounge.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/chesshiya',
     circle_twitter: 'https://x.com/chesshiya',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9249,
-
     circle_code: 'Q-48ab',
     name: 'CLAVIARENE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CLAVIARENE.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'Irene/Rincchu (https://www.instagram.com/cchu_world), Claviore (https://www.instagram.com/claviore), Navia (https://www.instagram.com/navianavillera)',
     circle_twitter:
       'Irene/Rincchu (https://x.com/cchu_world & https://x.com/rincchu_), Claviore (https://x.com/claviore), Navia (https://x.com/NaviaNavillera)',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9250,
-
     circle_code: 'Q-49ab',
     name: 'Panti Oshi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Panti Oshi.jpg',
-
     circle_facebook: 'https://www.facebook.com/cikjooo',
     circle_instagram: 'https://www.instagram.com/cikjo',
     circle_twitter: 'https://x.com/cikjoo',
     circle_other_socials:
       'https://linktr.ee/cikjo?utm_source=linktree_profile_share&ltsid=7af1ded3-23b4-4170-8828-2e877a1e35b8',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9251,
-
     circle_code: 'Q-50ab/Q-51ab',
     name: 'Fartist x Tatonary',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Fartist x Tatonary.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/tatonary/',
     circle_twitter: 'https://x.com/Tatonary',
     circle_other_socials: 'https://www.instagram.com/fartist_lea',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/61202448-5fef-46bd-8239-747799296a44/35446504-6cdd-45dd-9e75-4950733b8a28/Q-50ab/Q-51ab.jpeg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/61202448-5fef-46bd-8239-747799296a44/d3c5ccef-4faf-48cd-a86b-ce927b12693b/Q-50ab/Q-51ab.jpeg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/61202448-5fef-46bd-8239-747799296a44/e02a2f53-94b4-413a-b4ee-bd256ead2b50/Q-50ab/Q-51ab.jpeg',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9252,
-
     circle_code: 'Q-52ab',
     name: 'nananasleep',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/nananasleep.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/nananasleep',
     circle_other_socials: null,
-
     other_fandom: "Omniscient Reader's Viewpoint, Arknights",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9253,
-
     circle_code: 'Q-53ab',
     name: 'Solanum',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Solanum.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9254,
-
     circle_code: 'Q-54a',
     name: 'Warung si oyen',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warung si oyen.jpg',
-
     circle_facebook: 'https://www.facebook.com/share/189F6JZcVY/',
-    circle_instagram:
-      'https://www.instagram.com/warungsioyen?igsh=MTRnaXg4b3lpOWdoMg==',
+    circle_instagram: 'https://www.instagram.com/warungsioyen?igsh=MTRnaXg4b3lpOWdoMg==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9255,
-
     circle_code: 'Q-54b',
     name: 'Tokuration',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Tokuration.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/tokuraart/',
     circle_twitter: 'https://x.com/tokura_arts',
     circle_other_socials:
       'https://www.instagram.com/tokuraart/ https://www.instagram.com/tokuration/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5feec164-8a57-4895-bfa9-30142289e1f2/85191977-fd9c-4d4d-ae31-957dee5754f7/Q-54b.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5feec164-8a57-4895-bfa9-30142289e1f2/84ec7b9c-bbb4-40b4-822a-7b33b0aeb9a6/Q-54b.jpg',
@@ -28343,112 +21925,88 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5feec164-8a57-4895-bfa9-30142289e1f2/4e30a8ba-c217-4de2-9d98-50c960658604/Q-54b.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9256,
-
     circle_code: 'Q-55ab',
     name: 'CHEESY',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/CHEESY.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9257,
-
     circle_code: 'Q-56ab (SAT)',
     name: 'Fartsquad',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Fartsquad.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/fart5quad/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9258,
-
     circle_code: 'Q-56ab (SUN)/Q-57ab (SUN)',
     name: 'Warung TB',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warung TB.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/the_names_vrass',
     circle_twitter: 'https://x.com/VAnisherbushmey',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9259,
-
     circle_code: 'Q-58ab/Q-59ab',
     name: 'Mchii0 x Nekonekomii',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mchii0 x Nekonekomii.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/mchii0',
     circle_twitter: 'https://x.com/nekonekomiii',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9260,
-
     circle_code: 'Q-60ab',
     name: '绝不菇息',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/jue_bu.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: '@tuzaixia',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9261,
-
     circle_code: 'R-01ab',
     name: 'illilyeon',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/illilyeon.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/illilyeon',
     circle_twitter: 'https://x.com/illilyeon',
     circle_other_socials: 'https://linktr.ee/illilyeon',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/318e1ad7-f162-4cc0-bfad-ead82684e0f0/cdb8af6e-da4c-4c34-b624-f6734de00e8c/R-01ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/318e1ad7-f162-4cc0-bfad-ead82684e0f0/0167adf4-c851-4e20-a9fc-286e31316b04/R-01ab.png',
@@ -28458,76 +22016,60 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/318e1ad7-f162-4cc0-bfad-ead82684e0f0/f73eddb9-852b-4189-95a8-b518905a8e50/R-01ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9262,
-
     circle_code: 'R-02ab/R-03ab',
     name: 'Terima Kos Janda x tsumetaku sakusaku',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Terima Kos Janda x tsumetaku sakusaku.jpg',
-
     circle_facebook: 'https://www.facebook.com/asyin.tyerusu.1',
     circle_instagram: null,
     circle_twitter: 'https://x.com/yuuichin_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9263,
-
     circle_code: 'R-04ab',
     name: 'meng mimi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/meng mimi.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/as_kooz/',
     circle_twitter: 'https://x.com/yuriha314',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9264,
-
     circle_code: 'R-06ab',
     name: 'Hamburgir Panas!',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Hamburgir Panas!.jpg',
-
     circle_facebook: '-',
     circle_instagram: 'https://instagram.com/hamburgirpanas/',
     circle_twitter: 'https://x.com/hamburgirpanas',
     circle_other_socials: 'hamburgirpanas.carrd.co',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9265,
-
     circle_code: 'R-07ab',
     name: 'Poppy Studio',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Poppy Studio.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/poppystudio.id',
     circle_twitter: 'https://x.com/poppystudio_id',
     circle_other_socials: 'https://poppystudio-id.carrd.co/',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/28b65a17-fffd-4d52-a23b-19dd7870e51a/71344cd4-ca53-41c6-bc75-2c53a36370b7/R-07ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/28b65a17-fffd-4d52-a23b-19dd7870e51a/c75c9b08-8153-4b79-81bf-10ebaef48d27/R-07ab.png',
@@ -28541,98 +22083,77 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/28b65a17-fffd-4d52-a23b-19dd7870e51a/92c8a85d-dd71-4a1e-8165-7ac62227c89f/R-07ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9266,
-
     circle_code: 'R-08ab',
     name: 'nautikal misu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/nautikal misu.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/nnmsu_/',
     circle_twitter: 'https://x.com/misu_025 , https://x.com/nautikalmiles',
-    circle_other_socials:
-      'https://misucorner.carrd.co/ . https://nautikalmiles.carrd.co/',
-
+    circle_other_socials: 'https://misucorner.carrd.co/ . https://nautikalmiles.carrd.co/',
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9267,
-
     circle_code: 'R-09ab',
     name: 'TOKEK MELAYANG',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/TOKEK MELAYANG.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/max.in.time, https://www.instagram.com/collirioux, https://www.instagram.com/staritty_, https://www.instagram.com/yuenilune, https://www.instagram.com/sadrianwng, https://www.instagram.com/deuce_minus',
     circle_twitter:
       'https://x.com/maxintime_, https://x.com/Collirioux, https://x.com/staritty_, https://x.com/yuenilune, https://x.com/sadrianwng, https://x.com/deuce_minus',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9268,
-
     circle_code: 'R-10ab',
     name: 'Lindung Cah Fumak',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Lindung Cah Fumak.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/portalane.prod/',
     circle_twitter: null,
     circle_other_socials: 'https://portalane-shop.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9269,
-
     circle_code: 'R-11ab/R-12ab',
     name: 'Transaki Musang',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Transaki Musang.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/trea_co/',
     circle_twitter:
       'https://x.com/NasyBabhat | https://x.com/unemaki | https://x.com/treaa_co |https://x.com/hicchi_23 | https://x.com/faalia_art',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9270,
-
     circle_code: 'R-13ab',
     name: 'Pungumart',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pungumart.jpg',
-
     circle_facebook: 'https://www.facebook.com/pungupungubox/',
     circle_instagram: 'https://www.instagram.com/pungupungu_box/',
     circle_twitter: 'https://x.com/pungupungu_box',
     circle_other_socials: 'https://linktr.ee/pungupungu_box',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c8d969b9-dc63-4bad-b54e-aa5a1e67342f/2efd8063-2918-4619-974e-d4a0035085b0/R-13ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c8d969b9-dc63-4bad-b54e-aa5a1e67342f/9fa22efc-e4e7-4c6a-9ca6-2f9cef7a1640/R-13ab.jpg',
@@ -28645,76 +22166,60 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c8d969b9-dc63-4bad-b54e-aa5a1e67342f/38c2dbc1-6fbe-4a7d-b776-bb3697c3d586/R-13ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9271,
-
     circle_code: 'R-14ab',
     name: 'Nakama Tachi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Nakama Tachi.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/nakamatachi_id',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9272,
-
     circle_code: 'R-15ab',
     name: 'ODGG Circle',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ODGG Circle.jpg',
-
     circle_facebook: null,
     circle_instagram: 'Instagram.com/necoyamii',
     circle_twitter: 'https://x.com/necoyamii?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9273,
-
     circle_code: 'R-16ab',
     name: 'KUCING GULING',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/KUCING GULING.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: 'http://kucingguling.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9274,
-
     circle_code: 'R-17ab',
     name: 'Iraehiraeth',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Iraehiraeth.jpg',
-
     circle_facebook: 'https://www.facebook.com/share/1FuzjcLFuA/',
     circle_instagram: 'https://www.instagram.com/iraehiraeth',
     circle_twitter: '',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c58c35aa-803e-4a83-ae5f-c3c58d69cc2d/936492b2-bcd6-475f-abfa-bde151a07824/R-17ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c58c35aa-803e-4a83-ae5f-c3c58d69cc2d/908142a3-6f7d-437f-abd1-ac88af798faf/R-17ab.png',
@@ -28725,173 +22230,135 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/c58c35aa-803e-4a83-ae5f-c3c58d69cc2d/9a951cb5-a035-4b2d-831f-83c8fa42cdc2/R-17ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9275,
-
     circle_code: 'R-18ab',
     name: "Syl's Art Corner",
     circle_cut:
       "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Syl's Art Corner.jpg",
-
     circle_facebook: 'https://web.facebook.com/syln.951724/',
     circle_instagram: 'https://www.instagram.com/syls.artcorner/',
     circle_twitter: 'https://x.com/sylnyexne',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9276,
-
     circle_code: 'R-19ab',
     name: 'Sekte Lebong Ngepet',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sekte Lebong Ngepet.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/gryffee',
     circle_twitter: 'x.com/gryffee',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9277,
-
     circle_code: 'R-20ab/R-21ab',
     name: 'Asbuners x PHT',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Asbuners x PHT.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/refuuwa',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9278,
-
     circle_code: 'R-22ab',
     name: 'imajinyasachi',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/imajinyasachi.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/imajinya.sachi',
     circle_twitter: 'https://x.com/imajinyasachi',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9279,
-
     circle_code: 'R-23ab',
     name: 'Noire Lumiere',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Noire Lumiere.jpg',
-
-    circle_facebook:
-      'https://www.instagram.com/dea.yuniaa_?igsh=MXR6MjdxeTRud2wyMg==',
+    circle_facebook: 'https://www.instagram.com/dea.yuniaa_?igsh=MXR6MjdxeTRud2wyMg==',
     circle_instagram:
       'https://www.instagram.com/noirelumiere.studios?igsh=MW1ja3Rsc3hzY2Q0bQ==;https://www.instagram.com/dea.yuniaa_?igsh=MXR6MjdxeTRud2wyMg==; https://www.instagram.com/nindyk ; https://www.instagram.com/recapt2an?igsh=MXhmYmVjczViaG0yaA== ; x_?igsh=MWEzaGJrbGNycXEycw== ; https://www.instagram.com/z.yuna_li?igsh=MTRiN3plZG00MG9paw== ; https://www.instagram.com/hhhanea?igsh=MWV6NDIzNDEwamQ5dQ==',
-    circle_twitter:
-      'https://www.tiktok.com/@noirelumiere.studios?_r=1&_t=ZS-93RnR14sJTJ',
+    circle_twitter: 'https://www.tiktok.com/@noirelumiere.studios?_r=1&_t=ZS-93RnR14sJTJ',
     circle_other_socials:
       'https://drive.google.com/drive/folders/12y-KAu1l2GjdnyZUeGxHDe0jUVfljZpr',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9280,
-
     circle_code: 'R-24a',
     name: 'Moonlight Bunny',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Moonlight Bunny.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/moonlight_bunny12?igsh=enJjNTA5dzR0dnM3&utm_source=qr',
     circle_twitter: 'https://x.com/moonlightbunyyy?s=21',
     circle_other_socials: 'https://vgen.co/moonlightbunyyy',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9281,
-
     circle_code: 'R-24b',
     name: 'Pasar Ikan jl. Arapaima',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Pasar Ikan jl. Arapaima.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/fishcaakes/',
     circle_twitter: 'https://x.com/pyrranha',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9282,
-
     circle_code: 'R-25ab',
     name: 'Warung Adalah Pokoknya',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warung Adalah Pokoknya.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/feliarty/, https://www.instagram.com/dextriell/, https://www.instagram.com/25thsraven/',
     circle_twitter:
       'https://x.com/nosalyLilly, https://x.com/honey_spriites, https://x.com/persikemas',
     circle_other_socials: 'https://linktr.ee/feliarty',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9283,
-
     circle_code: 'R-27ab',
     name: 'SOKI',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SOKI.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/soki_px',
     circle_twitter: 'https://x.com/soki_px',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/88ec6a82-786c-425b-9413-040ee53876eb/07714c70-c70d-4836-9458-5b0301c617b5/R-27ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/88ec6a82-786c-425b-9413-040ee53876eb/da4f97d6-f20d-44a1-85cb-73c8a9f40342/R-27ab.jpg',
@@ -28903,263 +22370,204 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/88ec6a82-786c-425b-9413-040ee53876eb/c69c163d-230d-4745-aa9d-f14566ca109d/R-27ab.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9284,
-
     circle_code: 'R-28ab/R-29ab',
     name: 'Biji Bundal Bandul',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Biji Bundal Bandul.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/pponzumi, https://www.instagram.com/topiorca',
+    circle_instagram: 'https://www.instagram.com/pponzumi, https://www.instagram.com/topiorca',
     circle_twitter: 'https://x.com/topiorca',
     circle_other_socials: 'https://linktr.ee/bijibundalbandul',
-
     other_fandom:
       "Genshin Impact, Zenless Zone Zero, Love and Deepspace, Original, Hana Kimi, Tamon's B side",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9285,
-
     circle_code: 'R-30ab',
     name: 'Warung Pojokan',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Warung Pojokan.jpg',
-
     circle_facebook: 'https://www.facebook.com/maigo.sirose.7',
     circle_instagram: 'https://www.instagram.com/warungpojokan23/',
     circle_twitter: 'https://twitter.com/meixallen',
     circle_other_socials: 'https://warungpojokan23.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9286,
-
     circle_code: 'R=31ab',
     name: 'Udang Mentega',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Udang Mentega.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/hannycho12',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9287,
-
     circle_code: 'R-32ab/R-33ab',
     name: 'Kaveh’s Back Window',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kavehs Back Window.jpg',
-
     circle_facebook: null,
     circle_instagram: 'Https://instagram.com/onlytruepain',
     circle_twitter: 'HTTPS://x.com/ukanomiyaki',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9288,
-
     circle_code: 'R-34ab',
     name: 'Rumah Bersalin Omega',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Rumah Bersalin Omega.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://instagram.com/garekinclong',
     circle_twitter: 'https://x.com/ciarasaarim',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9289,
-
     circle_code: 'R-36ab',
     name: '寻酱工坊',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/wobuxiang.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: null,
     circle_other_socials: 'https://xhslink.com/m/EYHajiLcpe',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9290,
-
     circle_code: 'R-37ab',
     name: 'Plenger Plangor',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Plenger Plangor.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/ireshie1/ https://www.instagram.com/toastedcorgi_/ https://www.instagram.com/saeramoon_/ https://www.instagram.com/timmrphl/',
-    circle_twitter:
-      'https://x.com/ireshiee1 https://x.com/toastedcorgi_ https://x.com/saeramoon_',
+    circle_twitter: 'https://x.com/ireshiee1 https://x.com/toastedcorgi_ https://x.com/saeramoon_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9291,
-
     circle_code: 'R-38a',
     name: 'Aqua Regia',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Aqua Regia.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/erasterios, https://x.com/_Tangdonggua_',
     circle_other_socials: 'https://aquaregiaartist.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9292,
-
     circle_code: 'R-38b',
     name: 'Rezearch Hub',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Rezearch Hub.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/rezilism/',
     circle_twitter: 'https://x.com/rezilism',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9293,
-
     circle_code: 'R-39ab',
     name: 'TakoDoko',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/TakoDoko.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/nekon_illust/',
     circle_twitter: 'https://x.com/Elyzerda',
     circle_other_socials: 'https://lit.link/en/reelyzerda',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9294,
-
     circle_code: 'R-40a',
     name: 'My Kurafuto',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/My Kurafuto.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/my_kurafuto?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9295,
-
     circle_code: 'R-40b',
     name: 'kArbiter',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/kArbiter.jpg',
-
     circle_facebook: 'https://www.facebook.com/Karbiter.project',
     circle_instagram: 'https://www.instagram.com/project.karbiter/',
     circle_twitter: 'https://x.com/karbiterpro',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9296,
-
     circle_code: 'R-41ab/R-42ab',
     name: 'Brogen',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Brogen.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61559456137355',
     circle_instagram: null,
     circle_twitter: 'https://x.com/Brogeners',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9297,
-
     circle_code: 'R-43ab/R-44ab',
     name: 'chuchu.logy',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/chuchu.logy.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/chuchu.logy',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ce9b414d-b6e4-4ab5-97ab-5948283d0e09/90f56b13-d9e9-493e-99c3-22e94823b169/R-43ab/R-44ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ce9b414d-b6e4-4ab5-97ab-5948283d0e09/e429e187-db7e-4440-8bdc-ffe8751103f5/R-43ab/R-44ab.png',
@@ -29168,60 +22576,46 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ce9b414d-b6e4-4ab5-97ab-5948283d0e09/8a04e9d8-0c79-44e5-9707-4c0a350026ba/R-43ab/R-44ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9298,
-
     circle_code: 'R-45ab',
     name: 'Eva Violetta',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Eva Violetta.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/evart13?igsh=MTczb2JxNHo2ZnFrNA==',
+    circle_instagram: 'https://www.instagram.com/evart13?igsh=MTczb2JxNHo2ZnFrNA==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9299,
-
     circle_code: 'R-46a',
     name: 'Din ai Fang',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Din ai Fang.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/henidoodle?igsh=MWszYjlxbmhjazZwNA&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/henidoodle?igsh=MWszYjlxbmhjazZwNA&utm_source=qr',
     circle_twitter: 'https://x.com/henidoodle?s=21&t=hizU7IdYnslm0qojhh3LAA',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9300,
-
     circle_code: 'R-46b',
     name: 'The Corporate Weeb',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/The Corporate Weeb.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/stancepizza/?hl=en',
     circle_twitter: 'https://x.com/Leovinc_',
     circle_other_socials: 'https://www.instagram.com/nerdvana.inc/?hl=en',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a000addf-2dcd-47b9-8176-41b381ab6f65/2a9ce53a-073e-4006-af99-37bb7f6164f4/R-46b.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a000addf-2dcd-47b9-8176-41b381ab6f65/175ec15a-ea62-4ad6-9964-2cd1f2090740/R-46b.png',
@@ -29230,265 +22624,204 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/a000addf-2dcd-47b9-8176-41b381ab6f65/efde1484-cbff-484d-8fef-b09d912a6665/R-46b.png',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9301,
-
     circle_code: 'R-47a',
     name: 'ProJect Ibuki',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ProJect Ibuki.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/project.ibuki?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9302,
-
     circle_code: 'R-47b',
     name: 'QIANLESS',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/QIANLESS.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/qian.less/',
     circle_twitter: 'https://x.com/qianlesssquad?s=21',
     circle_other_socials: null,
-
     other_fandom: "Wuthering Waves, ZZZ, Umamusume, Baldur's Gate 3",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9303,
-
     circle_code: 'R-48ab/R-49ab',
     name: 'Federasi BIJI x Trinkets Guild',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Federasi BIJI x Trinkets Guild.jpg',
-
     circle_facebook: 'https://www.facebook.com/FederasiBIJI',
     circle_instagram: 'https://www.instagram.com/trinkets.guild/',
     circle_twitter: 'https://x.com/federasi_biji',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9304,
-
     circle_code: 'R-50ab/R-51ab',
     name: 'Utopia',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Utopia.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/to.the.utopia',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9305,
-
     circle_code: 'R-52ab',
     name: 'ITABAKA',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ITABAKA.jpg',
-
     circle_facebook: 'https://www.facebook.com/itaregbandung',
     circle_instagram: 'https://www.instagram.com/ita_reg_bandung/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9306,
-
     circle_code: 'R-53ab',
     name: 'hyouyawn',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/hyouyawn.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/hyouyawn',
     circle_twitter: 'x.com/hyouyawn',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9307,
-
     circle_code: 'R-54a',
     name: 'SimLxCutessyp',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/SimLxCutessyp.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/siml.0102/',
     circle_twitter: null,
     circle_other_socials: 'https://siml-0102.carrd.co/',
-
     other_fandom:
       "LADS, Baldur's Gate, The Invincible, Sky CoTL, Gachiakuta, Jujutsu Kaisen, Vocaloid, Originals",
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9308,
-
     circle_code: 'R-54b',
     name: 'Gepeng Corner',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Gepeng Corner.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/shiruchi13?igsh=bWFpMDdianRkM3Zt',
+    circle_instagram: 'https://www.instagram.com/shiruchi13?igsh=bWFpMDdianRkM3Zt',
     circle_twitter: 'https://x.com/shiruchi13?t=jiFsGS8jeyrqbONskG7InA&s=09',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9309,
-
     circle_code: 'R-55ab',
     name: 'Bebeq Quartet',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Bebeq Quartet.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/phaletlia?igsh=bzE0bjN4cjlscDBo',
+    circle_instagram: 'https://www.instagram.com/phaletlia?igsh=bzE0bjN4cjlscDBo',
     circle_twitter: 'https://x.com/rigel020',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9310,
-
     circle_code: 'R-57ab (SAT)',
     name: 'We Are Wong Jowo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/We Are Wong Jowo.jpg',
-
     circle_facebook: null,
     circle_instagram: 'instagram.com/shirakuras',
     circle_twitter: 'https://x.com/carnelise',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'SAT',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9311,
-
     circle_code: 'R-57ab (SUN)',
     name: "Saka & Som's",
     circle_cut:
       "https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Saka & Som's.jpg",
-
     circle_facebook: '-',
     circle_instagram: 'https://www.instagram.com/saka.and.soms/',
     circle_twitter: 'https://x.com/saka_and_soms?s=20',
     circle_other_socials: '-',
-
     sampleworks_images: null,
     day: 'SUN',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9312,
-
     circle_code: 'R-58ab/R-59ab',
     name: 'ESTV',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/ESTV.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/rhasri_art, https://www.instagram.com/tosc.art',
+    circle_instagram: 'https://www.instagram.com/rhasri_art, https://www.instagram.com/tosc.art',
     circle_twitter: 'https://x.com/VindNyxx, https://x.com/eulyin',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9313,
-
     circle_code: 'R-60ab',
     name: 'Katvish',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Katvish.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/vinxin/',
     circle_twitter: 'https://x.com/vinxin_',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9314,
-
     circle_code: 'S-08ab',
     name: 'Stellatine',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Stellatine.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/stella_tine/',
     circle_twitter: 'https://x.com/Cle_menntine',
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/02d4c9c0-a737-486e-85db-296ec1a5b97f/8bf45731-d299-45c5-9e0b-c63611d11dbb/S-08ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/02d4c9c0-a737-486e-85db-296ec1a5b97f/17cadb3b-a0ae-4a00-b8ec-ecc9de797800/S-08ab.png',
@@ -29498,79 +22831,61 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/02d4c9c0-a737-486e-85db-296ec1a5b97f/db2a7aea-71ea-4982-a66a-dd14cfe6f5ac/S-08ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9315,
-
     circle_code: 'S-09ab/S-10ab',
     name: 'Jujurly Authentic',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Jujurly Authentic.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/heyasa_17?igsh=MW05MDloOGNrcnYzNQ==',
+    circle_instagram: 'https://www.instagram.com/heyasa_17?igsh=MW05MDloOGNrcnYzNQ==',
     circle_twitter: 'https://x.com/heyasa_17?t=Qn22tKrN7nD1WsKQ8vOvKg&s=09',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9316,
-
     circle_code: 'S-11ab/S-12ab',
     name: 'Craftelier Corner',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Craftelier Corner.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/bibaastore/ , https://www.instagram.com/craftelier_corner/',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9317,
-
     circle_code: 'S-13ab/S-14ab',
     name: 'Crisis Quarter',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Crisis Quarter.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/crisis.quarter?igsh=bGYxeWU5ajRjMnpi',
+    circle_instagram: 'https://www.instagram.com/crisis.quarter?igsh=bGYxeWU5ajRjMnpi',
     circle_twitter: 'https://x.com/mojangow?s=21',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9318,
-
     circle_code: 'S-15a',
     name: 'Wibu Sejati',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Wibu Sejati.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/heavenlisc/',
     circle_twitter: 'https://x.com/heavenlisc',
     circle_other_socials: 'https://x.com/inthezonezi https://x.com/kukikeikii ',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ef58d29a-27a1-4a89-a699-232cded412b3/bf4391d7-930b-437f-944c-7016d0f42aa6/S-15a.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ef58d29a-27a1-4a89-a699-232cded412b3/b4899a62-74d4-4e27-97f3-afc455261a5d/S-15a.jpg',
@@ -29584,41 +22899,32 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/ef58d29a-27a1-4a89-a699-232cded412b3/21e523a9-deab-4ed4-91b2-c0ac97339800/S-15a.jpg',
     ],
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9319,
-
     circle_code: 'S-15b',
     name: 'BARDIC NOODLE',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/BARDIC NOODLE.jpg',
-
     circle_facebook: null,
     circle_instagram: null,
     circle_twitter: 'https://x.com/alienisnear',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9320,
-
     circle_code: 'S-16ab',
     name: 'Alolo',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Alolo.jpg',
-
     circle_facebook: null,
-    circle_instagram:
-      'https://www.instagram.com/alolonyaa?igsh=dWl5bGhoaTA1Zzhs&utm_source=qr',
+    circle_instagram: 'https://www.instagram.com/alolonyaa?igsh=dWl5bGhoaTA1Zzhs&utm_source=qr',
     circle_twitter: 'https://x.com/na_unyaa?s=21',
     circle_other_socials: 'https://www.tiktok.com/@na_unyaa',
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4c19190c-65b1-4a9e-9ff6-acfce2c34d30/bb6dac4b-fdfa-4ab7-b7a3-fb9c6c152883/S-16ab.png',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4c19190c-65b1-4a9e-9ff6-acfce2c34d30/5c328445-4c25-472b-81a0-9155ab7f19fb/S-16ab.png',
@@ -29628,78 +22934,62 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/4c19190c-65b1-4a9e-9ff6-acfce2c34d30/347583de-2188-4edf-b9f4-5f399985aa71/S-16ab.png',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9321,
-
     circle_code: 'S-17ab/S-18ab',
     name: 'Girl Dinner',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Girl Dinner.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/myowonin/, https://www.instagram.com/emiaegi/, https://www.instagram.com/diuwukan/, https://www.instagram.com/oririnxx_/, https://www.instagram.com/pit_a__pat___/,',
     circle_twitter:
       'https://x.com/myowonin, https://x.com/emiaegi, https://x.com/sumiioz, https://x.com/PlT_A_PAT, https://x.com/diuwukan, https://x.com/oririnxx',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9322,
-
     circle_code: 'S-43ab/S-44ab',
     name: 'Sky Tower Visual Works',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Sky Tower Visual Works.jpg',
-
     circle_facebook: 'https://www.facebook.com/profile.php?id=61576372080293',
     circle_instagram: null,
     circle_twitter: '@coldsyruup',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9323,
-
     circle_code: 'S-45a',
     name: 'TOOT N’ BOOTH',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/TOOT N BOOTH.jpg',
-
     circle_facebook: null,
     circle_instagram: 'Instagram.com/milkybiskie',
     circle_twitter: 'X.com/milkybiskie',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '1 Space(s)',
   },
   {
     id: 9324,
-
     circle_code: 'S-46ab',
     name: 'Mayoi Cafe',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Mayoi Cafe.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/mayoi.cafe23',
     circle_twitter: null,
     circle_other_socials: null,
-
     sampleworks_images: [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/fff2e2f6-f997-419b-a204-0175c4b3439c/2e3edcce-b673-4283-b740-1f97f71957bd/S-46ab.jpg',
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/fff2e2f6-f997-419b-a204-0175c4b3439c/f6b9130e-f94f-41c3-a38d-c0fcb7245902/S-46ab.jpg',
@@ -29708,82 +22998,65 @@ export const BOOTHS = [
       'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/fff2e2f6-f997-419b-a204-0175c4b3439c/ae6bf0e0-11ec-45c0-ac75-b6f463106816/S-46ab.jfif',
     ],
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
   {
     id: 9325,
-
     circle_code: 'S-47ab/S-48ab',
     name: 'Luxeria x Ivertryst',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Luxeria x Ivertryst.jpg',
-
     circle_facebook: null,
     circle_instagram:
       'https://www.instagram.com/ivertryst/ ; https://www.instagram.com/cee.luxuris/',
     circle_twitter: 'https://x.com/anggorabun ; https://x.com/ivertryst',
     circle_other_socials: null,
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9326,
-
     circle_code: 'S-49ab/S-50ab',
     name: 'Ellenic',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ellenic.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/elleellenic/',
     circle_twitter: 'https://twitter.com/elleellenic',
     circle_other_socials: 'https://ellenicarts.com/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9327,
-
     circle_code: 'S-51ab/S-52ab',
     name: 'Ayam Bara',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Ayam Bara.jpg',
-
     circle_facebook: 'https://www.facebook.com/eXetic?locale=id_ID',
     circle_instagram:
       'https://www.instagram.com/feyy_art/ | https://www.instagram.com/infinitelinesx/',
     circle_twitter:
       'https://x.com/Feyy_Incognito | https://x.com/aichiibasreng/media | https://x.com/kurosh00kie/media',
     circle_other_socials: 'https://feliciaportfolio.my.canva.site/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '4 Space(s)',
   },
   {
     id: 9328,
-
     circle_code: 'S-53ab',
     name: 'Artkuzu',
     circle_cut:
       'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Artkuzu.jpg',
-
     circle_facebook: null,
     circle_instagram: 'https://www.instagram.com/art_kuzu/',
     circle_twitter: 'https://x.com/artkuzu',
     circle_other_socials: 'https://artkuzu.carrd.co/',
-
     sampleworks_images: null,
     day: 'Both Days',
-
     circle_type: '2 Space(s)',
   },
 ];

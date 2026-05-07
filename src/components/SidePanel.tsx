@@ -28,6 +28,11 @@ export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelPro
   const [query, setQuery] = useState('');
   const [activeDay, setActiveDay] = useState('Both Days');
 
+  // debug
+  const latestBooths = useMemo(() => {
+    return [...BOOTHS].sort((a, b) => b.id - a.id).slice(0, 3);
+  }, []);
+
   const filtered = useMemo(() => {
     const q = query.toLowerCase();
     return BOOTHS.filter((b) => {
@@ -159,6 +164,51 @@ export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelPro
           ))}
         </div>
 
+        {/* Results */}
+        <div className="flex-1 overflow-y-auto p-2">
+          {/* DEBUG: Latest 3 booths by ID */}
+          {!query && (
+            <div className="mb-3">
+              <p className="px-1 pb-1.5 text-[11px] text-muted-foreground font-medium uppercase tracking-wide">
+                🆕 Latest (debug)
+              </p>
+              {latestBooths.map((booth) => {
+                const isActive = selectedBoothName === booth.name;
+                return (
+                  <div
+                    key={booth.id}
+                    onPointerDown={(e) => e.stopPropagation()}
+                    onClick={() => (isActive ? onClear() : handleLocate(booth))}
+                    className={[
+                      'flex items-start gap-2 rounded-md border p-2 mb-1.5 cursor-pointer transition-colors border-dashed',
+                      isActive
+                        ? 'border-primary/50 bg-primary/5'
+                        : 'border-amber-400/60 bg-amber-50/40 hover:bg-amber-50',
+                    ].join(' ')}
+                  >
+                    <div className="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-md bg-amber-200 text-[11px] font-bold text-amber-800">
+                      #{booth.id}
+                    </div>
+                    <div className="min-w-0 flex-1">
+                      <p className="text-xs font-medium truncate">{booth.name}</p>
+                      <div className="mt-0.5 flex flex-wrap items-center gap-1">
+                        <span className="rounded-full px-1.5 py-px text-[10px] bg-amber-100 text-amber-800">
+                          {booth.day}
+                        </span>
+                        <span className="text-sm text-muted-foreground font-mono">
+                          {booth.circle_code}
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                );
+              })}
+              <hr className="my-2 border-border" />
+            </div>
+          )}
+        </div>
+        {/* existing filtered list... */}
+
         {/* Results  */}
         <div className="flex-1 overflow-y-auto p-2">
           {filtered.length === 0 ? (
@@ -211,26 +261,11 @@ export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelPro
                         >
                           {booth.day}
                         </span>
-                        {/* <span className="rounded-full border border-border bg-muted/60 px-1.5 py-px text-[10px] text-muted-foreground">
-                          {booth.circle_type}
-                        </span> */}
                         <span className="text-sm text-muted-foreground font-mono">
                           {booth.circle_code}
                         </span>
                       </div>
                     </div>
-                    {/* Locate button */}
-                    {/* <button
-                      className="flex-shrink-0 text-muted-foreground hover:text-foreground transition-colors p-0.5 rounded"
-                      onPointerDown={(e) => e.stopPropagation()}
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        handleLocate(booth);
-                      }}
-                      aria-label={`Find ${booth.name} on map`}
-                    >
-                      <MapPin className="h-3.5 w-3.5" />
-                    </button> */}
                   </div>
                 );
               })}
