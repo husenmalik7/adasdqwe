@@ -550,7 +550,7 @@ const GridCanvas = () => {
       />
 
       {/* ── Navigation panel  */}
-      <div className="absolute bottom-12 right-4 flex flex-col gap-2">
+      <div className="absolute bottom-20 right-4 flex flex-col gap-2">
         <Button
           size="icon"
           variant="secondary"
