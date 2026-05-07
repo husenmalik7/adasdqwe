@@ -7,6 +7,8 @@ import denah from '@/assets/comifuro.jpg';
 import { BOOTHS } from '@/data/booths';
 import { SidePanel } from './SidePanel';
 
+import { BoothModal } from './BoothModal';
+
 const GRID_COLS = 1920;
 const GRID_ROWS = 1080;
 
@@ -73,14 +75,13 @@ const GridCanvas = () => {
 
   // Highlight: pakai ref supaya draw() bisa baca tanpa deps
   const highlightedBoothRef = useRef<Booth | null>(null);
-  const [selectedBoothName, setSelectedBoothName] = useState<string | null>(
-    null
-  );
+  const [selectedBoothName, setSelectedBoothName] = useState<string | null>(null);
 
   const animRef = useRef<number | null>(null);
 
   const [isInsideGrid, setIsInsideGrid] = useState(false);
   const [isDragging, setIsDragging] = useState(false);
+  const [modalBooth, setModalBooth] = useState<Booth | null>(null);
 
   const pointersRef = useRef<Map<number, { x: number; y: number }>>(new Map());
   const dragStateRef = useRef<{
@@ -120,9 +121,7 @@ const GridCanvas = () => {
 
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
 
-    const bg = getComputedStyle(document.documentElement)
-      .getPropertyValue('--background')
-      .trim();
+    const bg = getComputedStyle(document.documentElement).getPropertyValue('--background').trim();
     ctx.fillStyle = bg ? `hsl(${bg})` : '#ffffff';
     ctx.fillRect(0, 0, w, h);
 
@@ -284,10 +283,7 @@ const GridCanvas = () => {
       // Hitung skala supaya booth mengisi ~30% layar, min 10 max 40
       const boothW = maxX - minX;
       const boothH = maxY - minY;
-      const fitScale = Math.min(
-        (w * 0.3) / Math.max(boothW, 1),
-        (h * 0.3) / Math.max(boothH, 1)
-      );
+      const fitScale = Math.min((w * 0.3) / Math.max(boothW, 1), (h * 0.3) / Math.max(boothH, 1));
       // const TARGET_SCALE = Math.max(10, Math.min(40, fitScale));
       const TARGET_SCALE = Math.max(4, Math.min(8, fitScale));
 
@@ -298,8 +294,7 @@ const GridCanvas = () => {
       const DURATION = 650;
       const startTime = performance.now();
 
-      const easeInOut = (t: number) =>
-        t < 0.5 ? 2 * t * t : -1 + (4 - 2 * t) * t;
+      const easeInOut = (t: number) => (t < 0.5 ? 2 * t * t : -1 + (4 - 2 * t) * t);
 
       if (animRef.current) cancelAnimationFrame(animRef.current);
 
@@ -453,12 +448,7 @@ const GridCanvas = () => {
     }
 
     const cell = screenToCell(x, y);
-    if (
-      cell.x >= 0 &&
-      cell.x < GRID_COLS &&
-      cell.y >= 0 &&
-      cell.y < GRID_ROWS
-    ) {
+    if (cell.x >= 0 && cell.x < GRID_COLS && cell.y >= 0 && cell.y < GRID_ROWS) {
       setHover({ x: cell.x, y: cell.y, sx: x, sy: y });
       setIsInsideGrid(true);
     } else {
@@ -466,10 +456,7 @@ const GridCanvas = () => {
       setIsInsideGrid(false);
     }
 
-    if (
-      pointersRef.current.size === 2 &&
-      dragStateRef.current.pinchDist != null
-    ) {
+    if (pointersRef.current.size === 2 && dragStateRef.current.pinchDist != null) {
       const pts = Array.from(pointersRef.current.values());
       const dx = pts[0].x - pts[1].x;
       const dy = pts[0].y - pts[1].y;
@@ -501,8 +488,7 @@ const GridCanvas = () => {
 
   const onPointerUp = (e: React.PointerEvent) => {
     const el = containerRef.current!;
-    if (el.hasPointerCapture(e.pointerId))
-      el.releasePointerCapture(e.pointerId);
+    if (el.hasPointerCapture(e.pointerId)) el.releasePointerCapture(e.pointerId);
     const wasPointers = pointersRef.current.size;
     pointersRef.current.delete(e.pointerId);
 
@@ -513,17 +499,13 @@ const GridCanvas = () => {
         const x = e.clientX - rect.left;
         const y = e.clientY - rect.top;
         const cell = screenToCell(x, y);
-        if (
-          cell.x >= 0 &&
-          cell.x < GRID_COLS &&
-          cell.y >= 0 &&
-          cell.y < GRID_ROWS
-        ) {
+        if (cell.x >= 0 && cell.x < GRID_COLS && cell.y >= 0 && cell.y < GRID_ROWS) {
           const key = `${cell.x},${cell.y}`;
           const booth = CELL_MAP.get(key);
           if (booth) {
             // alert(`${booth.name}\n${booth.description}\n${booth.instagram}`);
-            alert(`${booth.name}\n`);
+            // alert(`${booth.name}\n`);
+            setModalBooth(booth);
           }
         }
       }
@@ -596,10 +578,7 @@ const GridCanvas = () => {
         onClear={handleClearHighlight}
       />
       {/* ── Show Booth panel ── */}
-      <div
-        className="absolute bottom-4 left-4 flex flex-col gap-1.5"
-        style={{ maxWidth: 180 }}
-      >
+      <div className="absolute bottom-4 left-4 flex flex-col gap-1.5" style={{ maxWidth: 180 }}>
         <p className="rounded-md border border-border bg-card/90 px-2 py-1 text-xs font-mono text-muted-foreground shadow-sm backdrop-blur">
           Show Booth
         </p>
@@ -659,6 +638,11 @@ const GridCanvas = () => {
         </Button>
       </div>
       {/* ── End Navigation panel  */}
+      <BoothModal
+        booth={modalBooth}
+        onClose={() => setModalBooth(null)}
+        onLocate={handleShowBooth}
+      />
     </div>
   );
 };
