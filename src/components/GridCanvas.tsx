@@ -5,6 +5,7 @@ import { Plus, Minus, RotateCcw } from 'lucide-react';
 import denah from '@/assets/comifuro.jpg';
 // import { generateCells } from '@/lib/utils';
 import { BOOTHS } from '@/data/booths';
+import { SidePanel } from './SidePanel';
 
 const GRID_COLS = 1920;
 const GRID_ROWS = 1080;
@@ -574,7 +575,6 @@ const GridCanvas = () => {
       }}
     >
       <canvas ref={canvasRef} className="block" />
-
       {hover && (
         <div
           className="pointer-events-none absolute rounded-md border border-border bg-card px-2 py-1 text-xs font-mono text-card-foreground shadow-md"
@@ -586,11 +586,15 @@ const GridCanvas = () => {
           X: {hover.x}, Y: {hover.y}
         </div>
       )}
-
       <div className="absolute right-4 top-4 rounded-md border border-border bg-card/90 px-3 py-1.5 text-xs font-mono text-muted-foreground shadow-sm backdrop-blur">
         1920 × 1080 grid
       </div>
-
+      // Hapus panel Show Booth lama, tambahkan ini di dalam return
+      <SidePanel
+        selectedBoothName={selectedBoothName}
+        onLocate={handleShowBooth}
+        onClear={handleClearHighlight}
+      />
       {/* ── Show Booth panel ── */}
       <div
         className="absolute bottom-4 left-4 flex flex-col gap-1.5"
@@ -624,7 +628,6 @@ const GridCanvas = () => {
         )}
       </div>
       {/* ── End Show Booth panel ── */}
-
       {/* ── Navigation panel  */}
       <div className="absolute bottom-4 right-4 flex flex-col gap-2">
         <Button
