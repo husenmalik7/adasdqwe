@@ -128,11 +128,6 @@ export const BoothModal = ({ booth, onClose, onLocate }: BoothModalProps) => {
                   {booth.day}
                 </span>
               )}
-              {booth.circle_type && (
-                <span className="rounded-full bg-blue-200 px-2 py-0.5 text-[10px] font-medium text-muted-foreground">
-                  {booth.circle_type}
-                </span>
-              )}
             </div>
           </div>
 
@@ -140,24 +135,6 @@ export const BoothModal = ({ booth, onClose, onLocate }: BoothModalProps) => {
           <h2 className="text-lg sm:text-xl font-bold text-foreground leading-tight pr-6">
             {booth.name}
           </h2>
-
-          {/* Description */}
-          {/* {booth.circle_cut && (
-            <p className="text-xs text-muted-foreground leading-relaxed line-clamp-4">
-              {booth.circle_cut}
-            </p>
-          )} */}
-
-          {/* Sample works grid */}
-          {/* {booth.sampleworks_images && booth.sampleworks_images.length > 1 && (
-            <div className="grid grid-cols-3 gap-1 rounded-lg overflow-hidden">
-              {booth.sampleworks_images.slice(1, 4).map((img, i) => (
-                <div key={i} className="aspect-square overflow-hidden bg-muted">
-                  <img src={img} alt={`Sample ${i + 1}`} className="h-full w-full object-cover" />
-                </div>
-              ))}
-            </div>
-          )} */}
 
           {/* Spacer — push socials & buttons to bottom on desktop */}
           <div className="flex-1" />
