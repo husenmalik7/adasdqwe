@@ -8,6 +8,10 @@ type Booth = (typeof BOOTHS)[number];
 
 const DAYS = ['Semua', 'Hari 1', 'Hari 2'];
 
+// day: 'Both Days',
+// day: 'SAT',
+// day: 'SUN',
+
 interface SidePanelProps {
   selectedBoothName: string | null;
   onLocate: (booth: Booth) => void;
@@ -27,7 +31,6 @@ export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelPro
   const [open, setOpen] = useState(true);
   const [query, setQuery] = useState('');
   const [activeDay, setActiveDay] = useState('Semua');
-  const [activeType, setActiveType] = useState('Semua');
 
   const filtered = useMemo(() => {
     const q = query.toLowerCase();
@@ -38,10 +41,10 @@ export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelPro
         activeDay === 'Semua' ||
         (activeDay === 'Hari 1' && b.day === '1') ||
         (activeDay === 'Hari 2' && b.day === '2');
-      const matchType = activeType === 'Semua' || b.circle_type === activeType;
-      return matchQ && matchDay && matchType;
+
+      return matchQ && matchDay;
     });
-  }, [query, activeDay, activeType]);
+  }, [query, activeDay]);
 
   const highlight = (text: string) => {
     if (!query) return <>{text}</>;
@@ -84,7 +87,7 @@ export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelPro
           ) : (
             <PanelLeftOpen className="h-4 w-4 mr-1.5" />
           )}
-          {open ? 'Sembunyikan' : 'Cari Booth'}
+          {open ? 'Hide Panel' : 'Search Booth'}
         </Button>
       </div>
 
@@ -103,12 +106,12 @@ export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelPro
         {/* Header */}
         <div className="flex items-center gap-2 px-3 py-2.5 border-b border-border flex-shrink-0">
           <Store className="h-4 w-4 text-muted-foreground" />
-          <span className="text-sm font-medium flex-1">Cari Booth</span>
+          <span className="text-sm font-medium flex-1">Search Booth</span>
           <button
             className="rounded-md p-1 text-muted-foreground hover:bg-muted transition-colors"
             onPointerDown={(e) => e.stopPropagation()}
             onClick={() => setOpen(false)}
-            aria-label="Tutup panel"
+            aria-label="Close panel"
           >
             <X className="h-4 w-4" />
           </button>
@@ -122,14 +125,14 @@ export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelPro
               type="text"
               value={query}
               onChange={(e) => setQuery(e.target.value)}
-              placeholder="Cari nama circle..."
+              placeholder="Search booth name..."
               className="w-full rounded-md border border-input bg-muted/40 py-1.5 pl-8 pr-7 text-sm outline-none focus:ring-1 focus:ring-ring placeholder:text-muted-foreground"
             />
             {query && (
               <button
                 className="absolute right-2 text-muted-foreground hover:text-foreground"
                 onClick={() => setQuery('')}
-                aria-label="Hapus pencarian"
+                aria-label="Clear search"
                 onPointerDown={(e) => e.stopPropagation()} // ← tambahkan ini
               >
                 <X className="h-3.5 w-3.5" />
@@ -162,12 +165,12 @@ export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelPro
           {filtered.length === 0 ? (
             <div className="flex flex-col items-center gap-2 py-10 text-muted-foreground text-xs">
               <Store className="h-8 w-8 opacity-30" />
-              Booth tidak ditemukan
+              Booth not found
             </div>
           ) : (
             <>
               <p className="px-1 pb-2 text-[11px] text-muted-foreground">
-                {filtered.length} booth ditemukan
+                {filtered.length} booth found
               </p>
               {filtered.map((booth) => {
                 const isActive = selectedBoothName === booth.name;
@@ -224,7 +227,7 @@ export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelPro
                         e.stopPropagation();
                         handleLocate(booth);
                       }}
-                      aria-label={`Temukan ${booth.name} di peta`}
+                      aria-label={`Find ${booth.name} on map`}
                     >
                       <MapPin className="h-3.5 w-3.5" />
                     </button>
