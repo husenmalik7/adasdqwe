@@ -6,8 +6,6 @@ import boothIcon from '@/assets/booth.png';
 
 type Booth = (typeof BOOTHS)[number];
 
-const DAYS = ['Both Days', 'SAT', 'SUN'];
-
 interface SidePanelProps {
   selectedBoothName: string | null;
   onLocate: (booth: Booth) => void;
@@ -32,7 +30,6 @@ export const SidePanel = ({
 }: SidePanelProps) => {
   const [open, setOpen] = useState(true);
   const [query, setQuery] = useState('');
-  const [activeDay, setActiveDay] = useState('Both Days');
 
   // debug
   const latestBooths = useMemo(() => {
@@ -42,17 +39,9 @@ export const SidePanel = ({
   const filtered = useMemo(() => {
     const q = query.toLowerCase();
     return BOOTHS.filter((b) => {
-      const matchQ =
-        !q || b.name.toLowerCase().includes(q) || b.circle_code?.toLowerCase().includes(q);
-
-      const matchDay =
-        activeDay === 'Both Days'
-          ? b.day === 'Both Days'
-          : b.day === activeDay || b.day === 'Both Days';
-
-      return matchQ && matchDay;
+      return !q || b.name.toLowerCase().includes(q) || b.circle_code?.toLowerCase().includes(q);
     });
-  }, [query, activeDay]);
+  }, [query]);
 
   const highlight = (text: string) => {
     if (!query) return <>{text}</>;
@@ -151,25 +140,6 @@ export const SidePanel = ({
               </button>
             )}
           </div>
-        </div>
-
-        {/* Filter chips */}
-        <div className="flex flex-wrap gap-1.5 px-3 py-2 border-b border-border flex-shrink-0">
-          {DAYS.map((d) => (
-            <button
-              key={d}
-              onPointerDown={(e) => e.stopPropagation()}
-              onClick={() => setActiveDay(d)}
-              className={[
-                'rounded-full border px-2.5 py-0.5 text-xs transition-colors',
-                activeDay === d
-                  ? 'bg-primary text-primary-foreground border-primary'
-                  : 'border-border text-muted-foreground hover:border-foreground/30',
-              ].join(' ')}
-            >
-              {d}
-            </button>
-          ))}
         </div>
 
         {/* Results */}
