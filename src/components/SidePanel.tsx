@@ -71,6 +71,14 @@ export const SidePanel = ({
     );
   };
 
+  const handleLocate = (booth: Booth) => {
+    if (window.innerWidth < 640) {
+      // sm breakpoint
+      setOpen(false);
+    }
+    onLocate(booth);
+  };
+
   return (
     <>
       {/* Toggle button — selalu tampil di atas canvas */}
@@ -134,6 +142,7 @@ export const SidePanel = ({
                 className="absolute right-2 text-muted-foreground hover:text-foreground"
                 onClick={() => setQuery('')}
                 aria-label="Hapus pencarian"
+                onPointerDown={(e) => e.stopPropagation()} // ← tambahkan ini
               >
                 <X className="h-3.5 w-3.5" />
               </button>
@@ -178,7 +187,7 @@ export const SidePanel = ({
                   <div
                     key={booth.id}
                     onPointerDown={(e) => e.stopPropagation()}
-                    onClick={() => (isActive ? onClear() : onLocate(booth))}
+                    onClick={() => (isActive ? onClear() : handleLocate(booth))}
                     className={[
                       'flex items-start gap-2 rounded-md border p-2 mb-1.5 cursor-pointer transition-colors',
                       isActive
@@ -225,7 +234,7 @@ export const SidePanel = ({
                       onPointerDown={(e) => e.stopPropagation()}
                       onClick={(e) => {
                         e.stopPropagation();
-                        onLocate(booth);
+                        handleLocate(booth);
                       }}
                       aria-label={`Temukan ${booth.name} di peta`}
                     >
