@@ -13,7 +13,7 @@ export const BOOTHS = [
     circle_twitter: 'https://x.com/ichigowarano',
     circle_other_socials: null,
     sampleworks_images: null,
-    day: 'Both Days',
+    day: 'SAT',
     circle_type: 'Booth_B',
   },
   {

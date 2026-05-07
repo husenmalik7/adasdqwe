@@ -6,11 +6,7 @@ import { BOOTHS } from '@/data/booths';
 
 type Booth = (typeof BOOTHS)[number];
 
-const DAYS = ['Semua', 'Hari 1', 'Hari 2'];
-
-// day: 'Both Days',
-// day: 'SAT',
-// day: 'SUN',
+const DAYS = ['Both Days', 'SAT', 'SUN'];
 
 interface SidePanelProps {
   selectedBoothName: string | null;
@@ -30,17 +26,18 @@ function initials(name: string) {
 export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelProps) => {
   const [open, setOpen] = useState(true);
   const [query, setQuery] = useState('');
-  const [activeDay, setActiveDay] = useState('Semua');
+  const [activeDay, setActiveDay] = useState('Both Days');
 
   const filtered = useMemo(() => {
     const q = query.toLowerCase();
     return BOOTHS.filter((b) => {
       const matchQ =
         !q || b.name.toLowerCase().includes(q) || b.circle_code?.toLowerCase().includes(q);
+
       const matchDay =
-        activeDay === 'Semua' ||
-        (activeDay === 'Hari 1' && b.day === '1') ||
-        (activeDay === 'Hari 2' && b.day === '2');
+        activeDay === 'Both Days'
+          ? b.day === 'Both Days'
+          : b.day === activeDay || b.day === 'Both Days';
 
       return matchQ && matchDay;
     });
@@ -209,7 +206,7 @@ export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelPro
                               : 'bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200',
                           ].join(' ')}
                         >
-                          Hari {booth.day}
+                          {booth.day}
                         </span>
                         <span className="rounded-full border border-border bg-muted/60 px-1.5 py-px text-[10px] text-muted-foreground">
                           {booth.circle_type}
@@ -220,7 +217,7 @@ export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelPro
                       </div>
                     </div>
                     {/* Locate button */}
-                    <button
+                    {/* <button
                       className="flex-shrink-0 text-muted-foreground hover:text-foreground transition-colors p-0.5 rounded"
                       onPointerDown={(e) => e.stopPropagation()}
                       onClick={(e) => {
@@ -230,7 +227,7 @@ export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelPro
                       aria-label={`Find ${booth.name} on map`}
                     >
                       <MapPin className="h-3.5 w-3.5" />
-                    </button>
+                    </button> */}
                   </div>
                 );
               })}
