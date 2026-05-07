@@ -6,6 +6,8 @@ AE - clear
 AF - clear
 AG - clear
 
+A - clear with doubt, sabtu dan minggunya belum kefilter
+
 
 
 
@@ -18,47 +20,8 @@ beungeut sia hurung
 
 
 
-A
-A-01a - Cessa
-A-01b -Babu OC
-A-02ab - Forte Comics
-A-03ab - Talerian Comics
-A-04ab - Miilki Cookies
-A-05ab - Collabcanvas
-A-06ab - Mimi N x SUN Project
-A-07ab - Archfriend
-A-08ab - Yellow Duckling
-A-09ab/A-10ab - Puine &
-PENG☆PENG
-A-11ab/A-12ab - Cafetivation
-A-13ab/A-14ab - Arteins
-A-15ab/A-16ab - CAP TIGA DARA
-A-17ab - Padepokan Cilok
-A-18ab - Whim Circle
-A-19ab/A-20ab - Hello Vita
-A-21ab - TCG JANOK
-A-22ab - Is Yuniarto x Luii Lafete
-A-23ab - 4 Anak Ayam
-A-24ab - Memorhyme*
-A-25ab -Benda Mati Universe
-A-26ab - Leker Meses
-A-28ab - Omorphia Visual
-A-29ab/A-30ab - Zerotabi
-A-31a -Bagi loker🥺
-A-31b - TESTDDEVICE &
-A-32ab - GEPENGERS
-A-33ab/A-34ab -Bakwan Merch
-A-35ab - Konbineko
-A-36a - Chocolatte
-A-36b - OtsuyonXRythae
-A-37ab - Whalekun777
-A-38a (SAT) - FeyMori
-A-38ab (SUN) - Favoritea
-A-39ab (SAT) - Darkavey
-A-39ab (SUN) -Baishuang Literary
-Studio
-A-40ab (SAT) - APHIN123
-A-40ab (SUN) - KrapirafaS
+
+
 Z
 Z-01ab/Z-02ab - IDK!? x catnichiwa
 Z-03ab/Z-04ab -
@@ -87,6 +50,11 @@ Z-27ab/Z-28ab - Salmontachi
 Z-29ab/Z-30ab - Salty Eggs
 Z-31ab/Z-32ab - Hot Coffee and
 Noodle
+
+
+
+
+
 B
 B-01a - Risaghana
 B-01b - JAYXCE
