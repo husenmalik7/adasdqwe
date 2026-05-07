@@ -119,22 +119,29 @@ export const BoothModal = ({ booth, onClose, onLocate }: BoothModalProps) => {
           </button>
 
           {/* Badges */}
-          <div className="flex gap-1.5 flex-wrap pr-8">
+          <div className="flex flex-col gap-2 pr-8">
+            {/* Baris 1: Circle code */}
             {booth.circle_code && (
-              <span className="rounded-full bg-primary/10 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-primary">
-                {booth.circle_code}
-              </span>
+              <div>
+                <span className="rounded-full bg-primary/10 px-2 py-0.5 text-xl font-semibold uppercase tracking-wide text-primary">
+                  {booth.circle_code}
+                </span>
+              </div>
             )}
-            {booth.day && (
-              <span className="rounded-full bg-muted px-2 py-0.5 text-[10px] font-medium text-muted-foreground">
-                {booth.day}
-              </span>
-            )}
-            {booth.circle_type && (
-              <span className="rounded-full bg-muted px-2 py-0.5 text-[10px] font-medium text-muted-foreground">
-                {booth.circle_type}
-              </span>
-            )}
+
+            {/* Baris 2: Day & Circle type */}
+            <div className="flex gap-1.5 flex-wrap">
+              {booth.day && (
+                <span className="rounded-full bg-blue-200 px-2 py-0.5 text-[10px] font-medium text-muted-foreground">
+                  {booth.day}
+                </span>
+              )}
+              {booth.circle_type && (
+                <span className="rounded-full bg-blue-200 px-2 py-0.5 text-[10px] font-medium text-muted-foreground">
+                  {booth.circle_type}
+                </span>
+              )}
+            </div>
           </div>
 
           {/* Name */}
@@ -143,14 +150,14 @@ export const BoothModal = ({ booth, onClose, onLocate }: BoothModalProps) => {
           </h2>
 
           {/* Description */}
-          {booth.circle_cut && (
+          {/* {booth.circle_cut && (
             <p className="text-xs text-muted-foreground leading-relaxed line-clamp-4">
               {booth.circle_cut}
             </p>
-          )}
+          )} */}
 
           {/* Sample works grid */}
-          {booth.sampleworks_images && booth.sampleworks_images.length > 1 && (
+          {/* {booth.sampleworks_images && booth.sampleworks_images.length > 1 && (
             <div className="grid grid-cols-3 gap-1 rounded-lg overflow-hidden">
               {booth.sampleworks_images.slice(1, 4).map((img, i) => (
                 <div key={i} className="aspect-square overflow-hidden bg-muted">
@@ -158,7 +165,7 @@ export const BoothModal = ({ booth, onClose, onLocate }: BoothModalProps) => {
                 </div>
               ))}
             </div>
-          )}
+          )} */}
 
           {/* Spacer — push socials & buttons to bottom on desktop */}
           <div className="flex-1" />
@@ -197,8 +204,16 @@ export const BoothModal = ({ booth, onClose, onLocate }: BoothModalProps) => {
                 Tunjukkan di Peta
               </Button>
             )}
-            <Button size="sm" variant="outline" className="flex-1 text-xs" onClick={onClose}>
-              Tutup
+
+            <Button size="sm" variant="outline" className="flex-1 text-xs" asChild>
+              <a
+                href={booth.id ? `https://catalog.comifuro.net/circle/${booth.id}` : '#'}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Detail Catalog
+                <ExternalLink className="ml-1 h-3 w-3" />
+              </a>
             </Button>
           </div>
         </div>
