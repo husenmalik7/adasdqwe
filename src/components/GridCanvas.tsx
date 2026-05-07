@@ -1,13 +1,10 @@
 import { useEffect, useRef, useState, useCallback } from 'react';
 import { Button } from '@/components/ui/button';
 import { Plus, Minus, RotateCcw } from 'lucide-react';
-// import denah from '@/assets/denah.svg';
-import denah from '@/assets/comifuro.jpg';
-// import { generateCells } from '@/lib/utils';
 import { BOOTHS } from '@/data/booths';
 import { SidePanel } from './SidePanel';
-
 import { BoothModal } from './BoothModal';
+import denah from '@/assets/comifuro.jpg';
 
 const GRID_COLS = 1920;
 const GRID_ROWS = 1080;
@@ -33,30 +30,6 @@ type Booth = {
   day: string;
   circle_type: string;
 };
-
-// const BOOTHS: Booth[] = [
-//   {
-//     cells: generateCells(438, 323, 446, 327),
-//     name: 'Livium',
-//     description: 'Merupakan VTuber agency dari Indo',
-//     instagram: 'https://www.instagram.com/livium',
-//     image: '[link gambar]',
-//     detailUrl: '[link detail booth]',
-//   },
-//   {
-//     cells: [
-//       { x: 10, y: 10 },
-//       { x: 9, y: 9 },
-//       { x: 9, y: 10 },
-//       { x: 10, y: 9 },
-//     ],
-//     name: 'Tanomiya',
-//     description: 'Merupakan gerai merch jejepangan',
-//     instagram: 'https://www.instagram.com/tanomiya',
-//     image: '[link gambar]',
-//     detailUrl: '[link detail booth]',
-//   },
-// ];
 
 const CELL_MAP = new Map<string, Booth>();
 for (const booth of BOOTHS) {
@@ -503,8 +476,6 @@ const GridCanvas = () => {
           const key = `${cell.x},${cell.y}`;
           const booth = CELL_MAP.get(key);
           if (booth) {
-            // alert(`${booth.name}\n${booth.description}\n${booth.instagram}`);
-            // alert(`${booth.name}\n`);
             setModalBooth(booth);
           }
         }
@@ -571,12 +542,13 @@ const GridCanvas = () => {
       <div className="absolute right-4 top-4 rounded-md border border-border bg-card/90 px-3 py-1.5 text-xs font-mono text-muted-foreground shadow-sm backdrop-blur">
         1920 × 1080 grid
       </div>
-      // Hapus panel Show Booth lama, tambahkan ini di dalam return
+
       <SidePanel
         selectedBoothName={selectedBoothName}
         onLocate={handleShowBooth}
         onClear={handleClearHighlight}
       />
+
       {/* ── Navigation panel  */}
       <div className="absolute bottom-12 right-4 flex flex-col gap-2">
         <Button

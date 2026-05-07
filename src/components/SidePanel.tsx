@@ -1,6 +1,5 @@
-// SidePanel.tsx
 import { useState, useMemo } from 'react';
-import { Search, X, MapPin, Store, PanelLeftClose, PanelLeftOpen } from 'lucide-react';
+import { Search, X, PanelLeftClose, PanelLeftOpen } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { BOOTHS } from '@/data/booths';
 import boothIcon from '@/assets/booth.png';

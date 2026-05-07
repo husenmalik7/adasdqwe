@@ -50,7 +50,6 @@ export const BoothModal = ({ booth, onClose, onLocate }: BoothModalProps) => {
     if (e.target === overlayRef.current) onClose();
   };
 
-  // const coverImage = booth.sampleworks_images?.[0] ?? null;
   const coverImage = booth.circle_cut ?? null;
 
   const socials = [
@@ -84,14 +83,7 @@ export const BoothModal = ({ booth, onClose, onLocate }: BoothModalProps) => {
         onClick={(e) => e.stopPropagation()}
       >
         {/* Image — top on mobile (fixed height), left panel on desktop (full height) */}
-        <div
-          className="relative bg-slate-200 shrink-0 bg-muted overflow-hidden"
-          style={
-            {
-              // mobile: fixed height; desktop handled by sm: below
-            }
-          }
-        >
+        <div className="relative bg-slate-200 shrink-0 bg-muted overflow-hidden">
           <div className="h-72 sm:h-full sm:w-[260px]">
             {coverImage ? (
               <img
