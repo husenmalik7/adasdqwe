@@ -24,6 +24,7 @@ AC - clear
 AD - clear
 AE - clear
 AF - clear
+AG - clear
 
 
 
@@ -32,39 +33,6 @@ AF - clear
 
 beungeut sia hurung
 
-
-
-
-
-
-
-
-
-AG
-AG-07 - Seirabel
-AG-08 - RYONEESAN
-AG-09 - Usami usa
-AG-10 - Rue Netta
-AG-11 - Micaanesan
-AG-12 - 相葉(Aiba)
-AG-13 - Meltedfoxx
-AG-14 - Dai Dairy X Queen Airie
-AG-15 - Miyuki Yoruna
-AG-16 - Airine Panpan
-AG-17 - Operation Sengkle
-AG-18 - KEVIN OINKY x JAY.AGT
-AG-19/AG-20 - cxiela
-AG-33/AG-34 - YingTze
-AG-35/AG-36 - Punipun
-AG-37/AG-38 - Erria Eri
-AG-39 - Azulacan
-AG-40 - Meenfox
-AG-41 - Nekonoi Katsu
-AG-42 - Janine Intansari
-AG-43 - Rithe Daddy
-AG-44 - Taotan Cos
-AG-45 - Ruri琉璃
-AG-46 - Sherry Moe
 
 
 
