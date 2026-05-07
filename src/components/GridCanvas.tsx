@@ -108,23 +108,6 @@ const GridCanvas = () => {
     sy: number;
   } | null>(null);
 
-  const scheduleDraw = useCallback(() => {
-    if (rafRef.current != null) return;
-    rafRef.current = requestAnimationFrame(() => {
-      rafRef.current = null;
-      draw();
-    });
-  }, []);
-
-  useEffect(() => {
-    const img = new Image();
-    img.src = denah;
-    img.onload = () => {
-      imageRef.current = img;
-      scheduleDraw();
-    };
-  }, [scheduleDraw]);
-
   const draw = useCallback(() => {
     const canvas = canvasRef.current;
     if (!canvas) return;
@@ -266,6 +249,23 @@ const GridCanvas = () => {
       Math.round(GRID_ROWS * scale)
     );
   }, []);
+
+  const scheduleDraw = useCallback(() => {
+    if (rafRef.current != null) return;
+    rafRef.current = requestAnimationFrame(() => {
+      rafRef.current = null;
+      draw();
+    });
+  }, [draw]);
+
+  useEffect(() => {
+    const img = new Image();
+    img.src = denah;
+    img.onload = () => {
+      imageRef.current = img;
+      scheduleDraw();
+    };
+  }, [scheduleDraw]);
 
   // ── flyTo: animasi pan + zoom ke center booth ────────────────────────────
   const flyTo = useCallback(
