@@ -1,13 +1,6 @@
 // SidePanel.tsx
 import { useState, useMemo } from 'react';
-import {
-  Search,
-  X,
-  MapPin,
-  Store,
-  PanelLeftClose,
-  PanelLeftOpen,
-} from 'lucide-react';
+import { Search, X, MapPin, Store, PanelLeftClose, PanelLeftOpen } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { BOOTHS } from '@/data/booths';
 
@@ -30,11 +23,7 @@ function initials(name: string) {
     .toUpperCase();
 }
 
-export const SidePanel = ({
-  selectedBoothName,
-  onLocate,
-  onClear,
-}: SidePanelProps) => {
+export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelProps) => {
   const [open, setOpen] = useState(true);
   const [query, setQuery] = useState('');
   const [activeDay, setActiveDay] = useState('Semua');
@@ -44,9 +33,7 @@ export const SidePanel = ({
     const q = query.toLowerCase();
     return BOOTHS.filter((b) => {
       const matchQ =
-        !q ||
-        b.name.toLowerCase().includes(q) ||
-        b.circle_code?.toLowerCase().includes(q);
+        !q || b.name.toLowerCase().includes(q) || b.circle_code?.toLowerCase().includes(q);
       const matchDay =
         activeDay === 'Semua' ||
         (activeDay === 'Hari 1' && b.day === '1') ||
@@ -87,6 +74,7 @@ export const SidePanel = ({
         <Button
           size="sm"
           variant="secondary"
+          style={{ background: '#FFB399' }}
           onPointerDown={(e) => e.stopPropagation()}
           onClick={() => setOpen((o) => !o)}
           aria-label={open ? 'Sembunyikan panel' : 'Tampilkan panel'}

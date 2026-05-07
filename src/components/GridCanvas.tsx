@@ -577,41 +577,12 @@ const GridCanvas = () => {
         onLocate={handleShowBooth}
         onClear={handleClearHighlight}
       />
-      {/* ── Show Booth panel ── */}
-      <div className="absolute bottom-4 left-4 flex flex-col gap-1.5" style={{ maxWidth: 180 }}>
-        <p className="rounded-md border border-border bg-card/90 px-2 py-1 text-xs font-mono text-muted-foreground shadow-sm backdrop-blur">
-          Show Booth
-        </p>
-        {BOOTHS.map((booth) => (
-          <Button
-            key={booth.name}
-            size="sm"
-            variant={selectedBoothName === booth.name ? 'default' : 'secondary'}
-            className="justify-start text-xs"
-            onPointerDown={(e) => e.stopPropagation()}
-            onClick={() => handleShowBooth(booth)}
-          >
-            {booth.name}
-          </Button>
-        ))}
-        {selectedBoothName && (
-          <Button
-            size="sm"
-            variant="ghost"
-            className="text-xs text-muted-foreground"
-            onPointerDown={(e) => e.stopPropagation()}
-            onClick={handleClearHighlight}
-          >
-            ✕ Clear
-          </Button>
-        )}
-      </div>
-      {/* ── End Show Booth panel ── */}
       {/* ── Navigation panel  */}
-      <div className="absolute bottom-4 right-4 flex flex-col gap-2">
+      <div className="absolute bottom-12 right-4 flex flex-col gap-2">
         <Button
           size="icon"
           variant="secondary"
+          style={{ background: 'rgba(237, 231, 225, 1)' }}
           onPointerDown={(e) => e.stopPropagation()}
           onClick={() => zoomCenter(1.25)}
           aria-label="Zoom in"
@@ -621,6 +592,7 @@ const GridCanvas = () => {
         <Button
           size="icon"
           variant="secondary"
+          style={{ background: 'rgba(237, 231, 225, 1)' }}
           onPointerDown={(e) => e.stopPropagation()}
           onClick={() => zoomCenter(1 / 1.25)}
           aria-label="Zoom out"
@@ -629,6 +601,7 @@ const GridCanvas = () => {
         </Button>
         <Button
           size="icon"
+          style={{ background: 'rgba(237, 231, 225, 1)' }}
           variant="secondary"
           onPointerDown={(e) => e.stopPropagation()}
           onClick={fitToScreen}
