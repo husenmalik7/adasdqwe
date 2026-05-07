@@ -23,6 +23,7 @@ AB - clear
 AC - clear
 AD - clear
 AE - clear
+AF - clear
 
 
 
@@ -31,42 +32,7 @@ AE - clear
 
 beungeut sia hurung
 
-AF
-AF-01 - Riela_2
-AF-02 - AESTHYIA
-AF-03 - Freetime
-AF-04 - SeiJuuXei Corner
-AF-05/AF-06 - Myavi
-AF-07/AF-08 - CIRCUS OF THE
-FOOL
-AF-09/AF-10 - Chaldea Picnic Club
-AF-11/AF-12 - fey_cia
-AF-13 - Triple O Crafts
-AF-14 - Seraphelia
-AF-15/AF-16 - EVESOEN
-AF-17/AF-18 - CUANZAII!!
-AF-19 - SEEUNANDA
-AF-20 - The Commonwealth
-AF-21/AF-22 - HZKSH x Mala Gurls
-AF-23/AF-24 - apemask
-AF-25/AF-26 - RV! & GEMIMIMO
-AF-27/AF-28 - Munoko x Senyuki
-AF-29/AF-30 - 小桃 SiuTao X
-Silver✱Here
-AF-31/AF-32 - Paguyuban Anomali
-AF-33/AF-34 - O.D.G.J.
-AF-35/AF-36 - THE PLENGERZ
-AF-37 - Takodesss
-AF-38/AF-39 - KopoyoPop x
-Andyphebe x Limcosfit
-AF-40/AF-41 - yuura X karam.elt
-AF-42 - Sushii Cosplayer
-AF-43/AF-44 - Ivy (Faixvey)
-AF-45/AF-46 - YukirexFam
-AF-47 - JILI♡
-AF-48 - ViKU猫梨梨
-AF-49/AF-50 - Jetsukii x Carol x Iris
-AF-51/AF-52 - XIAOYUKIKO小魚
+
 
 
 
