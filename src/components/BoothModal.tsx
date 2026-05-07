@@ -113,7 +113,7 @@ export const BoothModal = ({ booth, onClose, onLocate }: BoothModalProps) => {
           <button
             onClick={onClose}
             className="absolute right-3 top-3 z-10 flex h-7 w-7 items-center justify-center rounded-full bg-muted text-muted-foreground transition hover:bg-accent hover:text-foreground"
-            aria-label="Tutup modal"
+            aria-label="Close modal"
           >
             <X className="h-4 w-4" />
           </button>
@@ -201,7 +201,7 @@ export const BoothModal = ({ booth, onClose, onLocate }: BoothModalProps) => {
                 }}
               >
                 <MapPin className="h-3.5 w-3.5" />
-                Tunjukkan di Peta
+                Show on Map
               </Button>
             )}
 
@@ -211,7 +211,7 @@ export const BoothModal = ({ booth, onClose, onLocate }: BoothModalProps) => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Detail Catalog
+                Catalog Detail
                 <ExternalLink className="ml-1 h-3 w-3" />
               </a>
             </Button>
