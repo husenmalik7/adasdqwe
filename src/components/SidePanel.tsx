@@ -3,6 +3,7 @@ import { useState, useMemo } from 'react';
 import { Search, X, MapPin, Store, PanelLeftClose, PanelLeftOpen } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { BOOTHS } from '@/data/booths';
+import boothIcon from '@/assets/booth.png';
 
 type Booth = (typeof BOOTHS)[number];
 
@@ -102,7 +103,9 @@ export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelPro
       >
         {/* Header */}
         <div className="flex items-center gap-2 px-3 py-2.5 border-b border-border flex-shrink-0">
-          <Store className="h-4 w-4 text-muted-foreground" />
+          {/* <Store className="h-4 w-4 text-muted-foreground" /> */}
+          <img src={boothIcon} alt="Booth" className="h-4 w-4" />
+
           <span className="text-sm font-medium flex-1">Search Booth</span>
           <button
             className="rounded-md p-1 text-muted-foreground hover:bg-muted transition-colors"
@@ -161,7 +164,8 @@ export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelPro
         <div className="flex-1 overflow-y-auto p-2">
           {filtered.length === 0 ? (
             <div className="flex flex-col items-center gap-2 py-10 text-muted-foreground text-xs">
-              <Store className="h-8 w-8 opacity-30" />
+              {/* <Store className="h-8 w-8 opacity-30" /> */}
+              <img src={boothIcon} alt="Booth" className="h-8 w-8" />
               Booth not found
             </div>
           ) : (
@@ -184,7 +188,7 @@ export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelPro
                     ].join(' ')}
                   >
                     {/* Avatar */}
-                    <div className="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-md bg-muted text-[11px] font-medium text-muted-foreground">
+                    <div className="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-md bg-muted text-[11px] font-medium text-muted-foreground bg-gray-300">
                       {initials(booth.name)}
                     </div>
                     {/* Info */}
@@ -208,10 +212,10 @@ export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelPro
                         >
                           {booth.day}
                         </span>
-                        <span className="rounded-full border border-border bg-muted/60 px-1.5 py-px text-[10px] text-muted-foreground">
+                        {/* <span className="rounded-full border border-border bg-muted/60 px-1.5 py-px text-[10px] text-muted-foreground">
                           {booth.circle_type}
-                        </span>
-                        <span className="text-[10px] text-muted-foreground font-mono">
+                        </span> */}
+                        <span className="text-sm text-muted-foreground font-mono">
                           {booth.circle_code}
                         </span>
                       </div>
