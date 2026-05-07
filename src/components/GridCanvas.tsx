@@ -583,7 +583,7 @@ const GridCanvas = () => {
         1920 × 1080 grid
       </div>
 
-      <div className="absolute right-4 top-12 flex gap-1.5">
+      <div className="absolute right-4 top-12 flex flex-col gap-1.5">
         {(['Both Days', 'SAT', 'SUN'] as DayFilter[]).map((day) => (
           <button
             key={day}
