@@ -21,6 +21,7 @@ AA-20 -Bichi Mao
 
 AB - clear
 AC - clear
+AD - clear
 
 
 
@@ -30,48 +31,10 @@ AC - clear
 
 
 
-AD
-AD-01/AD-02 - Naini X Pitamanis
-AD-03/AD-04 - Artura Camp
-AD-05/AD-06 - Myth-Ink Studio
-AD-07/AD-08 - StudioBumbu
-Kentang
-AD-09 - Gerobak Naga
-AD-10 - Lismanida Suhirman & Rekan
-AD-11/AD-12 - Sweetlil Gems
-AD-13 - Hacyra
-AD-14 - Pica Pica
-AD-15/AD-16 - HORIZON
-AD-17 - MadebyHenk Studio
-AD-18 - IKI
-AD-19 - Sonata InC
-AD-20 - Allbakaziy
-AD-21 - Vitamiinshi + GoodSheep
-AD-22 - Dreamscape of Love
-AD-23 - HaloMiyu
-AD-24 - Asobi
-AD-25/AD-26 - Re:Memories
-AD-27 - NONIKARTS
-AD-28 - GBStudio RPG
-AD-29/AD-30 - WizDream Games
-AD-31/AD-32 - Gamedev Jakarta
-AD-33/AD-34 - Talkvern x
-Evitapetals
-AD-35 - Ataraxia Gear
-AD-36 - LOREDANGOO
-AD-37 - Canaveil
-AD-38/AD-39 -Bnuuy
-AD-40/AD-41 - KITC
-AD-42 - Frutiger Lapak Studio
-AD-43 - Gumu'sBedroom Studio
-AD-44 - The Cure to Male Loneliness
-AD-45/AD-46 - Oentukmu x
-Popejoyy
-AD-47 - Prismatic Collections
-AD-48 - CLAYBY VET
-AD-50 - Dear Sun Hand
-AD-51 - Manusia Pagi
-AD-52 - Rise Production
+
+
+
+
 AE
 AE-01 - Squash Alternative Works
 AE-02 - Euforia Visual Works
