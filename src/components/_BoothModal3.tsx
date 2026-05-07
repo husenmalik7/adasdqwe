@@ -52,7 +52,6 @@ export const BoothModal = ({ booth, onClose, onLocate }: BoothModalProps) => {
 
   // const coverImage = booth.sampleworks_images?.[0] ?? null;
   const coverImage = booth.circle_cut ?? null;
-
   const socials = [
     booth.circle_instagram && { label: 'Instagram', url: booth.circle_instagram },
     booth.circle_twitter && { label: 'Twitter / X', url: booth.circle_twitter },
@@ -70,16 +69,20 @@ export const BoothModal = ({ booth, onClose, onLocate }: BoothModalProps) => {
       ref={overlayRef}
       onPointerDown={(e) => e.stopPropagation()}
       onClick={handleOverlayClick}
-      className="fixed inset-0 z-50 flex items-center justify-center sm:p-4"
-      style={{ padding: 'clamp(1rem, 15vh, 15vh) clamp(1rem, 10vw, 10vw)' }}
+      className="fixed inset-0 z-50 flex items-end justify-center sm:items-center sm:p-4"
       style={{ background: 'rgba(0,0,0,0.55)', backdropFilter: 'blur(4px)' }}
     >
       {/* Modal card */}
       <div
-        className="relative flex w-full flex-col overflow-hidden rounded-2xl bg-card shadow-2xl border border-border sm:flex-row sm:max-w-[680px]"
-        style={{ maxHeight: '100%' }}
+        className="relative flex w-full flex-col overflow-hidden rounded-t-2xl bg-card shadow-2xl border border-border sm:flex-row sm:rounded-2xl sm:max-w-[680px]"
+        style={{ maxHeight: '92dvh' }}
         onClick={(e) => e.stopPropagation()}
       >
+        {/* Drag handle — mobile only */}
+        <div className="flex shrink-0 justify-center pt-3 pb-1 sm:hidden">
+          <div className="h-1 w-10 rounded-full bg-muted-foreground/30" />
+        </div>
+
         {/* Image — top on mobile (fixed height), left panel on desktop (full height) */}
         <div
           className="relative shrink-0 bg-muted overflow-hidden"

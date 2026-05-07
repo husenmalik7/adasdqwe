@@ -61,51 +61,38 @@ export const BoothModal = ({ booth, onClose, onLocate }: BoothModalProps) => {
   ].filter(Boolean) as { label: string; url: string }[];
 
   return (
-    /*
-     * Overlay
-     * Mobile  : bottom sheet (items-end), rounded top corners only
-     * Desktop : center modal (sm:items-center), side-by-side layout
-     */
+    /* Overlay */
     <div
       ref={overlayRef}
       onPointerDown={(e) => e.stopPropagation()}
       onClick={handleOverlayClick}
-      className="fixed inset-0 z-50 flex items-center justify-center sm:p-4"
-      style={{ padding: 'clamp(1rem, 15vh, 15vh) clamp(1rem, 10vw, 10vw)' }}
+      className="fixed inset-0 z-50 flex items-center justify-center p-4"
       style={{ background: 'rgba(0,0,0,0.55)', backdropFilter: 'blur(4px)' }}
     >
-      {/* Modal card */}
+      {/* Modal card — side by side */}
       <div
-        className="relative flex w-full flex-col overflow-hidden rounded-2xl bg-card shadow-2xl border border-border sm:flex-row sm:max-w-[680px]"
-        style={{ maxHeight: '100%' }}
+        className="relative flex w-full overflow-hidden rounded-2xl bg-card shadow-2xl border border-border"
+        style={{ maxWidth: 680, maxHeight: '90vh' }}
         onClick={(e) => e.stopPropagation()}
       >
-        {/* Image — top on mobile (fixed height), left panel on desktop (full height) */}
-        <div
-          className="relative shrink-0 bg-muted overflow-hidden"
-          style={
-            {
-              // mobile: fixed height; desktop handled by sm: below
-            }
-          }
-        >
-          <div className="h-56 sm:h-full sm:w-[260px]">
-            {coverImage ? (
-              <img
-                src={coverImage}
-                alt={`Cover ${booth.name}`}
-                className="h-full w-full object-contain"
-              />
-            ) : (
-              <div className="flex h-full w-full items-center justify-center text-muted-foreground text-sm px-4 text-center">
-                Tidak ada gambar
-              </div>
-            )}
-          </div>
+        {/* ── Left: portrait image ── */}
+        <div className="relative shrink-0 bg-muted" style={{ width: 260 }}>
+          {coverImage ? (
+            <img
+              src={coverImage}
+              alt={`Cover ${booth.name}`}
+              className="h-full w-full object-contain"
+              style={{ display: 'block' }}
+            />
+          ) : (
+            <div className="flex h-full w-full items-center justify-center text-muted-foreground text-sm px-4 text-center">
+              Tidak ada gambar
+            </div>
+          )}
         </div>
 
-        {/* Info panel */}
-        <div className="flex flex-1 flex-col gap-3 overflow-y-auto p-4 sm:p-5 min-w-0">
+        {/* ── Right: info ── */}
+        <div className="flex flex-1 flex-col gap-3 overflow-y-auto p-5 min-w-0">
           {/* Close button */}
           <button
             onClick={onClose}
@@ -135,11 +122,9 @@ export const BoothModal = ({ booth, onClose, onLocate }: BoothModalProps) => {
           </div>
 
           {/* Name */}
-          <h2 className="text-lg sm:text-xl font-bold text-foreground leading-tight pr-6">
-            {booth.name}
-          </h2>
+          <h2 className="text-xl font-bold text-foreground leading-tight">{booth.name}</h2>
 
-          {/* Description */}
+          {/* circle_cut / description */}
           {booth.circle_cut && (
             <p className="text-xs text-muted-foreground leading-relaxed line-clamp-4">
               {booth.circle_cut}
@@ -157,7 +142,7 @@ export const BoothModal = ({ booth, onClose, onLocate }: BoothModalProps) => {
             </div>
           )}
 
-          {/* Spacer — push socials & buttons to bottom on desktop */}
+          {/* Spacer push socials & buttons to bottom */}
           <div className="flex-1" />
 
           {/* Socials */}
@@ -179,7 +164,7 @@ export const BoothModal = ({ booth, onClose, onLocate }: BoothModalProps) => {
           )}
 
           {/* Action buttons */}
-          <div className="flex gap-2 pb-1">
+          <div className="flex gap-2">
             {onLocate && (
               <Button
                 size="sm"
