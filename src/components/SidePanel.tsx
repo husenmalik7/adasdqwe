@@ -74,7 +74,7 @@ export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelPro
         <Button
           size="sm"
           variant="secondary"
-          style={{ background: '#FFB399' }}
+          style={{ background: '#FFD6A6' }}
           onPointerDown={(e) => e.stopPropagation()}
           onClick={() => setOpen((o) => !o)}
           aria-label={open ? 'Sembunyikan panel' : 'Tampilkan panel'}
