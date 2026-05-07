@@ -12,6 +12,7 @@ interface SidePanelProps {
   selectedBoothName: string | null;
   onLocate: (booth: Booth) => void;
   onClear: () => void;
+  onDayChange: (day: 'SAT' | 'SUN' | 'Both Days') => void; // ← tambah ini
 }
 
 function initials(name: string) {
@@ -23,7 +24,12 @@ function initials(name: string) {
     .toUpperCase();
 }
 
-export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelProps) => {
+export const SidePanel = ({
+  selectedBoothName,
+  onLocate,
+  onClear,
+  onDayChange,
+}: SidePanelProps) => {
   const [open, setOpen] = useState(true);
   const [query, setQuery] = useState('');
   const [activeDay, setActiveDay] = useState('Both Days');
@@ -64,6 +70,8 @@ export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelPro
   };
 
   const handleLocate = (booth: Booth) => {
+    const boothDay = booth.day as 'SAT' | 'SUN' | 'Both Days';
+    onDayChange(boothDay); // ← tambah ini
     if (window.innerWidth < 640) {
       // sm breakpoint
       setOpen(false);

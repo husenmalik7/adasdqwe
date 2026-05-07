@@ -14,6 +14,7 @@ const MAX_SCALE = 60;
 const DRAG_THRESHOLD = 4;
 const GRID_OPACITY = 1;
 
+type DayFilter = 'SAT' | 'SUN' | 'Both Days';
 type Transform = { scale: number; offsetX: number; offsetY: number };
 type Booth = {
   cells: { x: number; y: number }[];
@@ -31,12 +32,34 @@ type Booth = {
   circle_type: string;
 };
 
-const CELL_MAP = new Map<string, Booth>();
-for (const booth of BOOTHS) {
-  for (const cell of booth.cells) {
-    CELL_MAP.set(`${cell.x},${cell.y}`, booth);
+const buildCellMap = (day: DayFilter): Map<string, Booth> => {
+  const map = new Map<string, Booth>();
+  for (const booth of BOOTHS) {
+    // Booth tampil jika:
+    // - filter "Both Days" → semua booth
+    // - filter "SAT" → booth yang day === 'SAT' atau 'Both Days'
+    // - filter "SUN" → booth yang day === 'SUN' atau 'Both Days'
+    const boothDay = booth.day;
+    const shouldShow = day === 'Both Days' || boothDay === day || boothDay === 'Both Days';
+
+    if (shouldShow) {
+      for (const cell of booth.cells) {
+        // Untuk cell yang sama, yang lebih spesifik (SAT/SUN) menang atas Both Days
+        const key = `${cell.x},${cell.y}`;
+        const existing = map.get(key);
+        if (!existing) {
+          map.set(key, booth);
+        } else {
+          // Jika existing adalah Both Days dan ini lebih spesifik, override
+          if (existing.day === 'Both Days' && boothDay !== 'Both Days') {
+            map.set(key, booth);
+          }
+        }
+      }
+    }
   }
-}
+  return map;
+};
 
 const GridCanvas = () => {
   const canvasRef = useRef<HTMLCanvasElement>(null);
@@ -45,6 +68,9 @@ const GridCanvas = () => {
   const rafRef = useRef<number | null>(null);
   const sizeRef = useRef({ w: 0, h: 0 });
   const imageRef = useRef<HTMLImageElement | null>(null);
+
+  const [activeDay, setActiveDay] = useState<DayFilter>('Both Days');
+  const cellMapRef = useRef<Map<string, Booth>>(buildCellMap('Both Days'));
 
   // Highlight: pakai ref supaya draw() bisa baca tanpa deps
   const highlightedBoothRef = useRef<Booth | null>(null);
@@ -474,7 +500,7 @@ const GridCanvas = () => {
         const cell = screenToCell(x, y);
         if (cell.x >= 0 && cell.x < GRID_COLS && cell.y >= 0 && cell.y < GRID_ROWS) {
           const key = `${cell.x},${cell.y}`;
-          const booth = CELL_MAP.get(key);
+          const booth = cellMapRef.current.get(key);
           if (booth) {
             setModalBooth(booth);
           }
@@ -486,6 +512,20 @@ const GridCanvas = () => {
     if (pointersRef.current.size < 2) {
       dragStateRef.current.pinchDist = null;
     }
+  };
+
+  const handleDayFilter = (day: DayFilter) => {
+    setActiveDay(day);
+    cellMapRef.current = buildCellMap(day);
+    // Clear highlight jika booth yang di-highlight tidak ada di filter baru
+    if (highlightedBoothRef.current) {
+      const booth = highlightedBoothRef.current;
+      if (day !== 'Both Days' && booth.day !== day && booth.day !== 'Both Days') {
+        highlightedBoothRef.current = null;
+        setSelectedBoothName(null);
+      }
+    }
+    scheduleDraw();
   };
 
   const zoomCenter = (factor: number) => {
@@ -543,10 +583,28 @@ const GridCanvas = () => {
         1920 × 1080 grid
       </div>
 
+      <div className="absolute right-4 top-12 flex gap-1.5">
+        {(['Both Days', 'SAT', 'SUN'] as DayFilter[]).map((day) => (
+          <button
+            key={day}
+            onPointerDown={(e) => e.stopPropagation()}
+            onClick={() => handleDayFilter(day)}
+            className={`rounded-md border px-2.5 py-1 text-xs font-medium shadow-sm backdrop-blur transition-colors ${
+              activeDay === day
+                ? 'border-amber-400 bg-amber-400/20 text-amber-700 dark:text-amber-300'
+                : 'border-border bg-card/90 text-muted-foreground hover:bg-card'
+            }`}
+          >
+            {day}
+          </button>
+        ))}
+      </div>
+
       <SidePanel
         selectedBoothName={selectedBoothName}
         onLocate={handleShowBooth}
         onClear={handleClearHighlight}
+        onDayChange={handleDayFilter} // ← tambah ini
       />
 
       {/* ── Navigation panel  */}
