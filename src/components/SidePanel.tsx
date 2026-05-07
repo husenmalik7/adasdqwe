@@ -160,7 +160,7 @@ export const SidePanel = ({ selectedBoothName, onLocate, onClear }: SidePanelPro
           ))}
         </div>
 
-        {/* Results */}
+        {/* Results  */}
         <div className="flex-1 overflow-y-auto p-2">
           {filtered.length === 0 ? (
             <div className="flex flex-col items-center gap-2 py-10 text-muted-foreground text-xs">
