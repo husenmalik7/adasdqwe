@@ -7,6 +7,7 @@ AF - clear
 AG - clear
 A - clear
 Z - clear
+B - clear
 
 
 
@@ -18,97 +19,6 @@ beungeut sia hurung
 
 
 
-
-
-
-
-
-
-
-
-
-
-B
-B-01a - Risaghana
-B-01b - JAYXCE
-B-02ab/B-03ab - NONCONMAN
-B-04a (SAT) - Warkop KKN
-B-04a (SUN) - Rikonikonomi
-B-04b (SAT) - Kameonk
-B-04b (SUN) - sssaltygum
-B-06a (SAT) - Kucing Kecebur
-B-06a (SUN) - Mucho's Little Corner
-B-06b (SAT) - Cimol Sbubu
-B-06b (SUN) - TheBloons Club
-B-07a (SAT) - PT. Cari Cuan
-B-07a (SUN) - caffeiline
-B-07b (SAT) -ByBawi
-B-07b (SUN) - Planet Frofo
-B-08ab (SAT) - Merch Merona
-B-08ab (SUN) - 1608 verse
-B-09ab (SAT) - KUCING KAYANG
-B-09ab (SUN) - Kegabutan Hqq
-B-10ab (SAT) - Hotaru Goodies
-B-10ab (SUN) - Artlabs
-B-11ab/B-12ab - ink chords
-B-13ab/B-14ab - PASAR TUMPAH
-B-15ab -BOXERS CLUB
-B-16ab - Koalisi Komikus Musiman
-B-17ab/B-18ab - Ruruu.run
-B-19ab/B-20ab - Konfetti Kolektif
-B-21ab (SAT) -BEBAS SERAH
-B-21ab (SUN) - tik★ dewe & naolo
-B-22ab (SAT) - FHB Circle
-B-22ab (SUN) - Mokki: The Soft Dept
-B-23ab - Akumado x Perakit komik
-B-24ab - Lentera Komik Studio
-B-25ab - RGBTeam
-B-27ab - bunbun studio
-B-28a - PINKIN
-B-28b - Potlucky
-B-29a - Deruupanda
-B-29b - Telat Gajian Co.
-B-30ab - Risza Perdhana
-B-31ab - Gajah Ngomik
-B-32ab/B-33ab - Happykrel &
-Dooraruu
-B-34a - airenaiy
-B-34b - Superlery
-B-36ab - NGNGKNG ACT!ON X
-WARUNG MAK IJAH
-B-37a - CikiTora
-B-37b - Sunponny
-B-38a - Seblak Kencoor
-B-38b - xuemart
-B-39ab - HONEYYPEACH X
-HUMAN_DRAWN
-B-40a - Demi Cuan Nikah
-B-40b - Waroeng2an
-B-41ab/B-42ab - Antariksa
-B-43ab/B-44ab - Jambu Racil
-Sugyh
-B-45ab - All Niche NoBit
-B-46ab - SereniSea
-B-47ab/B-48ab - Jualan Demi
-Modal Gacha x SamaLilia
-B-49ab/B-50ab - Maquire x
-Milky&Me
-B-51ab (SAT) -BisaJadi Studio
-B-51a (SUN) - Space Craft
-B-51b (SUN) - Lolatelone
-B-52ab (SAT) - pecinta uban duda
-muda
-B-52a (SUN) - Yakin Makmur
-B-53ab -Basakila
-B-54ab - Suaka Warga Stress
-B-55a -Bubble Mumble
-B-55b -Balai Pengkajian Wibu dan
-Jejepangan
-B-57a - Kuroketto
-B-57b - Warung Kokop
-B-58ab/B-59ab - Anse &
-MUTAMAKES & Lisa
-B-60ab - Winter Tide
 C
 C-01ab - Afterhours Antics
 C-02ab/C-03ab -Braincell Attack
