@@ -8,6 +8,7 @@ AG - clear
 A - clear
 Z - clear
 B - clear
+C - clear
 
 
 
@@ -19,80 +20,8 @@ beungeut sia hurung
 
 
 
-C
-C-01ab - Afterhours Antics
-C-02ab/C-03ab -Braincell Attack
-C-04a - Humaville
-C-04b - Pugibuni
-C-05ab - Innervalue X STRAY GODS
-C-06ab - Jondeenart x kmgllry
-C-07a - AYRChan Merchandising
-C-07b - CRUSTISSUES
-C-08a - mini bao
-C-08b - TasikPositivity
-C-09ab - Amatears Studio
-C-10ab - Velvetive
-C-11ab/C-12ab - Namanya Apa Ya
-C-13ab/C-14ab - Asylum Cinta x
-Caream
-C-15ab - Lameloen
-C-16ab - StillWIP
-C-17ab/C-18ab - Yaminoya
-C-19ab/C-20ab - TokoBerima Ria
-C-21ab - uforabits
-C-22ab - Toko Mayochi
-C-23a -Buatanku.13
-C-23b - The Nerds
-C-24a - Wairovers
-C-24b - Jeen_nyaa
-C-25ab - Yumelicious
-C-26ab - tealpinkblue x veriwinklle x
-cold.summerday
-C-27ab - rinchanted
-C-28ab/C-29ab - Little Pleasure x
-Lunaquete
-C-30ab (SAT) - Nyunyunyanya
-C-30ab (SUN) - Freshly drawn
-C-31ab - Yapoo Studio
-C-32ab/C-33ab - Aricato x
-Barkandwooffle
-C-34a - Archie Eka
-C-34b - Reneosyare
-C-35ab - DAN NAGA
-C-36ab - KIDFUTURE STUDIO
-C-37a - Xycariven
-C-37b - NauCa Lacquarent
-C-38a - CCAROL XBrunch Catto
-C-38b - CUAN TOGETHER
-C-39ab - tan2w & saengart
-C-40ab - CalonBesan
-C-41ab/C-42ab - TokoBonbeen x
-Story of Nature
-C-43ab - Moachimo x Chutopiaaa
-C-44ab - Faunafu x ☆ZORA
-C-45ab - Pliyuna
-C-46a - peppertarii
-C-46b (SAT) - feila
-C-46b (SUN) - Komik.Biru
-C-47ab/C-48ab - Matchaos
-C-49ab/C-50ab -
-Posizeetringkriung
-C-51ab -Bleak City
-C-52ab - Jualan Demi Oshi Lu
-C-53a - Chi San Shimai
-C-53b - Sunshine Tonic
-C-54a - Pip Napsalot
-C-54b - jjajan
-C-55ab - Paw Paw Cafe
-C-56ab - Sekte Gelap
-C-57ab - D.D.L Omega
-C-58ab/C-59ab - Luth_Art Author
-of OMEGA Comic
-C-60ab (SAT) -Bakenekow
-C-60a (SUN) -
-AnimalsDoReadManga
-C-60b (SUN) - Asik Taman
-Dinosaurus
+
+
 D
 D-01ab - Ada Ayangmu Disini Cihuy
 (AADC)
