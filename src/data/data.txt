@@ -5,8 +5,8 @@ AD - clear
 AE - clear
 AF - clear
 AG - clear
-
-A - clear with doubt, sabtu dan minggunya belum kefilter
+A - clear
+Z - clear
 
 
 
@@ -22,34 +22,7 @@ beungeut sia hurung
 
 
 
-Z
-Z-01ab/Z-02ab - IDK!? x catnichiwa
-Z-03ab/Z-04ab -
-KaejunnixInkotorixKuro018Rin
-Z-05ab/Z-06ab - miothle's atelier
-Z-07ab/Z-08ab - Kongsi YBBA
-Z-09ab/Z-10ab - 70Yii Kanishiima
-Z-11a - SynzMayu
-Z-11b - WittleRed
-Z-12ab - shenkous
-Z-13ab - Tri KoroBaka
-Z-14a - Gambarinman
-Z-14b - PB & J
-Z-15ab - Three Wolves One Pig
-Z-16ab - Afelise x ixac.art
-Z-17ab/Z-18ab - Lemon Choux x
-Vioarry
-Z-19ab - GOMxTAE
-Z-20ab - LiNKARIA
-Z-21ab - Hknwsymphony
-Z-22ab - LOST 50/50
-Z-23ab - MIKAN
-Z-24ab - Nestvirgo
-Z-25ab/Z-26ab - Miraimei
-Z-27ab/Z-28ab - Salmontachi
-Z-29ab/Z-30ab - Salty Eggs
-Z-31ab/Z-32ab - Hot Coffee and
-Noodle
+
 
 
 
