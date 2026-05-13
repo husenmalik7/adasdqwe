@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react';
 import { X, ExternalLink, MapPin } from 'lucide-react';
 import { Button } from '@/components/ui/button';
+import { Bookmark, BookmarkCheck } from 'lucide-react';
 
 type Booth = {
   cells: { x: number; y: number }[];
@@ -21,9 +22,17 @@ type BoothModalProps = {
   booth: Booth | null;
   onClose: () => void;
   onLocate?: (booth: Booth) => void;
+  isBookmarked?: boolean; // ← baru
+  onToggleBookmark?: (booth: Booth) => void; // ← baru
 };
 
-export const BoothModal = ({ booth, onClose, onLocate }: BoothModalProps) => {
+export const BoothModal = ({
+  booth,
+  onClose,
+  onLocate,
+  isBookmarked,
+  onToggleBookmark,
+}: BoothModalProps) => {
   const overlayRef = useRef<HTMLDivElement>(null);
 
   // Close on Escape key
@@ -173,6 +182,23 @@ export const BoothModal = ({ booth, onClose, onLocate }: BoothModalProps) => {
                 Show on Map
               </Button>
             )}
+
+            <Button
+              size="sm"
+              variant={isBookmarked ? 'default' : 'outline'}
+              className={`gap-1.5 text-xs ${isBookmarked ? 'bg-violet-600 hover:bg-violet-700 border-violet-600' : ''}`}
+              onClick={() => onToggleBookmark?.(booth)}
+            >
+              {isBookmarked ? (
+                <>
+                  <BookmarkCheck className="h-3.5 w-3.5" /> Bookmarked
+                </>
+              ) : (
+                <>
+                  <Bookmark className="h-3.5 w-3.5" /> Bookmark
+                </>
+              )}
+            </Button>
 
             <Button size="sm" variant="outline" className="flex-1 text-xs" asChild>
               <a

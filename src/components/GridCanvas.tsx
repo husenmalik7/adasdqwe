@@ -5,6 +5,7 @@ import { BOOTHS } from '@/data/booths';
 import { SidePanel } from './SidePanel';
 import { BoothModal } from './BoothModal';
 import denah from '@/assets/comifuro.jpg';
+import { useBookmarks } from '@/hooks/useBookmarks'; // sesuaikan path
 
 const GRID_COLS = 1920;
 const GRID_ROWS = 1080;
@@ -81,6 +82,8 @@ const GridCanvas = () => {
   const [isInsideGrid, setIsInsideGrid] = useState(false);
   const [isDragging, setIsDragging] = useState(false);
   const [modalBooth, setModalBooth] = useState<Booth | null>(null);
+
+  const { bookmarkedIds, toggle: toggleBookmark, isBookmarked } = useBookmarks();
 
   const pointersRef = useRef<Map<number, { x: number; y: number }>>(new Map());
   const dragStateRef = useRef<{
@@ -255,6 +258,19 @@ const GridCanvas = () => {
       draw();
     });
   }, [draw]);
+
+  //! for debug: copy hovered cell coords to clipboard on 'w' press
+  useEffect(() => {
+    const onKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'w' || e.key === 'W') {
+        if (hover) {
+          navigator.clipboard.writeText(`${hover.x},${hover.y}`);
+        }
+      }
+    };
+    window.addEventListener('keydown', onKeyDown);
+    return () => window.removeEventListener('keydown', onKeyDown);
+  }, [hover]);
 
   useEffect(() => {
     const img = new Image();
@@ -605,6 +621,8 @@ const GridCanvas = () => {
         onLocate={handleShowBooth}
         onClear={handleClearHighlight}
         onDayChange={handleDayFilter} // ← tambah ini
+        bookmarkedIds={bookmarkedIds}
+        onToggleBookmark={(booth) => toggleBookmark(booth.id)}
       />
 
       {/* ── Navigation panel  */}
@@ -645,6 +663,8 @@ const GridCanvas = () => {
         booth={modalBooth}
         onClose={() => setModalBooth(null)}
         onLocate={handleShowBooth}
+        isBookmarked={modalBooth ? isBookmarked(modalBooth.id) : false}
+        onToggleBookmark={(booth) => toggleBookmark(booth.id)}
       />
     </div>
   );

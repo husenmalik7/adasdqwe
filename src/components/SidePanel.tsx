@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react';
-import { Search, X, PanelLeftClose, PanelLeftOpen } from 'lucide-react';
+import { Search, X, PanelLeftClose, PanelLeftOpen, Bookmark } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { BOOTHS } from '@/data/booths';
 import boothIcon from '@/assets/booth.png';
@@ -11,6 +11,8 @@ interface SidePanelProps {
   onLocate: (booth: Booth) => void;
   onClear: () => void;
   onDayChange: (day: 'SAT' | 'SUN' | 'Both Days') => void; // ← tambah ini
+  bookmarkedIds: Set<number>;
+  onToggleBookmark: (booth: Booth) => void;
 }
 
 function initials(name: string) {
@@ -27,9 +29,18 @@ export const SidePanel = ({
   onLocate,
   onClear,
   onDayChange,
+  bookmarkedIds,
+  onToggleBookmark,
 }: SidePanelProps) => {
   const [open, setOpen] = useState(true);
   const [query, setQuery] = useState('');
+
+  const bookmarkedBooths = useMemo(() => {
+    return BOOTHS.filter((b) => bookmarkedIds.has(b.id)).filter((b) => {
+      const q = query.toLowerCase();
+      return !q || b.name.toLowerCase().includes(q) || b.circle_code?.toLowerCase().includes(q);
+    });
+  }, [bookmarkedIds, query]);
 
   // debug
   const latestBooths = useMemo(() => {
@@ -39,7 +50,9 @@ export const SidePanel = ({
   const filtered = useMemo(() => {
     const q = query.toLowerCase();
     return BOOTHS.filter((b) => {
-      return !q || b.name.toLowerCase().includes(q) || b.circle_code?.toLowerCase().includes(q);
+      const matchQuery =
+        !q || b.name.toLowerCase().includes(q) || b.circle_code?.toLowerCase().includes(q);
+      return matchQuery;
     });
   }, [query]);
 
@@ -66,6 +79,89 @@ export const SidePanel = ({
       setOpen(false);
     }
     onLocate(booth);
+  };
+
+  const BoothCard = ({
+    booth,
+    variant = 'default',
+  }: {
+    booth: Booth;
+    variant?: 'default' | 'bookmark';
+  }) => {
+    const isActive = selectedBoothName === booth.name;
+    const isBookmarked = bookmarkedIds.has(booth.id);
+
+    return (
+      <div
+        onPointerDown={(e) => e.stopPropagation()}
+        className={[
+          'flex items-start gap-2 rounded-md border p-2 mb-1.5 cursor-pointer transition-colors',
+          variant === 'bookmark'
+            ? isActive
+              ? 'border-violet-400 bg-violet-100 dark:bg-violet-950'
+              : 'border-violet-200 bg-violet-50/60 hover:bg-violet-50 dark:border-violet-800 dark:bg-violet-950/40 dark:hover:bg-violet-950'
+            : isActive
+              ? 'border-primary/50 bg-primary/5'
+              : 'border-border hover:border-border/80 hover:bg-muted/40',
+        ].join(' ')}
+      >
+        {/* Avatar */}
+        <div
+          className={[
+            'flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-md text-[11px] font-medium',
+            variant === 'bookmark'
+              ? 'bg-violet-200 text-violet-800 dark:bg-violet-800 dark:text-violet-200'
+              : 'bg-muted text-muted-foreground bg-gray-300',
+          ].join(' ')}
+          onClick={() => (isActive ? onClear() : handleLocate(booth))}
+        >
+          {initials(booth.name)}
+        </div>
+
+        {/* Info */}
+        <div
+          className="min-w-0 flex-1"
+          onClick={() => (isActive ? onClear() : handleLocate(booth))}
+        >
+          <p className={['text-xs font-medium truncate', isActive ? 'text-primary' : ''].join(' ')}>
+            {highlight(booth.name)}
+          </p>
+          <div className="mt-0.5 flex flex-wrap items-center gap-1">
+            <span
+              className={[
+                'rounded-full px-1.5 py-px text-[10px]',
+                variant === 'bookmark'
+                  ? 'bg-violet-100 text-violet-700 dark:bg-violet-900 dark:text-violet-300'
+                  : booth.day === 'SAT'
+                    ? 'bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-200'
+                    : 'bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200',
+              ].join(' ')}
+            >
+              {booth.day}
+            </span>
+            <span className="text-[10px] text-muted-foreground font-mono">{booth.circle_code}</span>
+          </div>
+        </div>
+
+        {/* Bookmark toggle button */}
+        <button
+          onPointerDown={(e) => e.stopPropagation()}
+          onClick={(e) => {
+            e.stopPropagation();
+            onToggleBookmark(booth);
+          }}
+          className={[
+            'flex-shrink-0 rounded-md p-1 transition-colors',
+            isBookmarked
+              ? 'text-violet-600 hover:text-violet-800 dark:text-violet-400'
+              : 'text-muted-foreground hover:text-violet-500',
+          ].join(' ')}
+          aria-label={isBookmarked ? 'Remove bookmark' : 'Add bookmark'}
+        >
+          <Bookmark className={['h-3.5 w-3.5', isBookmarked ? 'fill-current' : ''].join(' ')} />
+        </button>
+      </div>
+    );
   };
 
   return (
@@ -126,7 +222,7 @@ export const SidePanel = ({
               type="text"
               value={query}
               onChange={(e) => setQuery(e.target.value)}
-              placeholder="Search booth name..."
+              placeholder="Search booth name or code..."
               className="w-full rounded-md border border-input bg-muted/40 py-1.5 pl-8 pr-7 text-sm outline-none focus:ring-1 focus:ring-ring placeholder:text-muted-foreground"
             />
             {query && (
@@ -189,6 +285,20 @@ export const SidePanel = ({
 
         {/* Results  */}
         <div className="flex-1 overflow-y-auto p-2">
+          {/* ── Bookmark section ── */}
+          {bookmarkedBooths.length > 0 && (
+            <div className="mb-3">
+              <p className="px-1 pb-1.5 text-[11px] font-medium uppercase tracking-wide text-violet-600 dark:text-violet-400 flex items-center gap-1">
+                <Bookmark className="h-3 w-3 fill-current" />
+                Bookmarks ({bookmarkedBooths.length})
+              </p>
+              {bookmarkedBooths.map((booth) => (
+                <BoothCard key={booth.id} booth={booth} variant="bookmark" />
+              ))}
+              <hr className="my-2 border-border" />
+            </div>
+          )}
+
           {filtered.length === 0 ? (
             <div className="flex flex-col items-center gap-2 py-10 text-muted-foreground text-xs">
               {/* <Store className="h-8 w-8 opacity-30" /> */}
