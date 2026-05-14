@@ -167,12 +167,12 @@ export const BoothModal = ({
           )}
 
           {/* Action buttons */}
-          <div className="flex gap-2 pb-1">
+          <div className="flex flex-col lg:flex-row gap-2 pb-1">
             {onLocate && (
               <Button
                 size="sm"
                 variant="default"
-                className="flex-1 gap-1.5 text-xs"
+                className="gap-1.5 text-xs"
                 onClick={() => {
                   onLocate(booth);
                   onClose();
@@ -200,7 +200,7 @@ export const BoothModal = ({
               )}
             </Button>
 
-            <Button size="sm" variant="outline" className="flex-1 text-xs" asChild>
+            <Button size="sm" variant="outline" className="text-xs" asChild>
               <a
                 href={booth.id ? `https://catalog.comifuro.net/circle/${booth.id}` : '#'}
                 target="_blank"
