@@ -5,6 +5,8 @@ import { BOOTHS } from '@/data/booths';
 import { SidePanel } from './SidePanel';
 import { BoothModal } from './BoothModal';
 import denah from '@/assets/comifuro.jpg';
+// import denah from '@/assets/cfsah.webp';
+
 import { useBookmarks } from '@/hooks/useBookmarks'; // sesuaikan path
 
 const GRID_COLS = 1920;

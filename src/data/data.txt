@@ -14,10 +14,11 @@ E - clear
 F - clear
 G - clear
 H - clear
+I - clear
 
 
 
-i
+
 j
 k
 l
@@ -41,83 +42,11 @@ beungeut sia hurung
 
 
 
-I
-I-01a - Circle Penggambar
-I-01b - Dexiaos
-I-02ab/I-03ab - GOSANKE
-I-04ab - Saru Sanctuary
-I-05ab -Belka
-I-06ab - Tambourine Club
-I-07a (SAT) - Halusial
-I-07a (SUN) - Shounen Society
-I-07b (SAT) - Gumi’s Favorite
-I-07b (SUN) - Nyawit: Nyari Duwit
-I-08ab (SAT) - Pasar Yaouri
-I-08a (SUN) - Aku Suka Makaroni
-I-08b (SUN) - No Corner
-I-09ab (SAT) - NTC Department
-I-09a (SUN) - FISHSOUP
-I-09b (SUN) - nasi merah
-I-10ab - Shrimphosis
-I-11a - Xiun x Elle
-I-11b - TampanCrew
-I-12ab - Kopi Susu
-I-13ab - LitLit OwO
-I-14ab - Shinju Leaf
-I-15a - FederasiBarudak Introvert
-I-15b - Orcherion
-I-16a - One Han
-I-16b - P!BALAP SENTINEL
-I-17ab - Gilang Mukandi x
-Supermachi
-I-18ab - Goleran Sekai
-I-19ab - S.pr (Sarjana Pencari Rezeki)
-I-20ab - Japan Trip 2026 GC
-I-21ab - ManusiaBerjualan Gambar
-I-22ab - Fukujin_Merchandise
-I-23a - Haru & Carrots
-I-23b - Exit 0
-I-24ab - fishcake:3
-I-25ab - UMA LUMPING
-I-26ab/I-27ab - Uma Sekai Project
-I-28ab/I-29ab - Aiiromori
-I-30a - Cozy Production
-I-30b - MIKOCHI
-I-31a - Hachiman Works
-I-31b - Aquarks
-I-32ab/I-33ab - IIWII x Studio
-I-34ab/I-35ab - KAKE-DASHI
-I-36ab (SAT) -Booth of
-MIGHTYYYY!!!!
-I-36ab (SUN) - Ilolonggg
-I-37ab (SAT) - ChocoTiger
-I-37ab (SUN) - Gambar-Gambar
-I-38a - Pabrik Crochet Originium
-I-38b - VoidColors
-I-39ab - Prism:NOVA Lingkarya
-I-40ab - SO.LID Circle
-I-41ab/I-42ab - Kaukau X Seizoens
-Mix
-I-43ab - Asinan Jabodetabek
-I-44ab - Cuanisme
-I-45ab - J-Illustration
-I-46ab - Kiosk Hantu
-I-47ab - PeepsMart
-I-48a - S.G.X
-I-48b (SAT) -Bor Catalogue
-I-48b (SUN) - KIIRO NEXT
-I-49ab - Warkop Simping
-I-50ab - RED RIBBON REVENGER
-I-51ab - Stasiun Chireiden x Foxtale
-I-52ab - Tempat Lupa Nabung (TLN)
-I-53ab - Dukun Jompo
-I-54ab - EWA
-I-55ab - Yakksan
-I-56ab/I-57ab - Pabpel Studio x
-Clariyoselab
-I-58ab - 我不想工作
-I-59ab - Six Petal Flower
-I-60ab - Jeruk Asin
+
+
+
+
+
 J
 J-01a - Stellaaa_uwu
 J-01b - CULTON LOPLEP
