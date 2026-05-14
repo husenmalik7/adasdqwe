@@ -46,26 +46,7 @@ J
 
 
 
-J-16ab - CTS (ChamomileTea Studio)
-J-17a - Possessivenight
-J-17b -Beban Keluarga Creative
-Guild
-J-18ab - Agency Tapi Dagang
-J-19ab - Overcooked Jesters
-J-20ab - Smol Circle
-J-21ab - AffinityBlessing
-J-22a - Magic Hatch
-J-22b - Dungeon Me-Ship
-J-23a - PADUSISTA
 
-
-
-
-
-
-
-
-J-23b - Mythpunk
 J-24a - Lester Manor
 J-24b (SAT) - I.O.U
 J-24b (SUN) - WAIFU PERKASA
@@ -78,6 +59,14 @@ J-27ab - Epicentury
 J-28ab/J-29ab - delarave
 J-30a - Wedank
 J-30b - [me:approve]
+
+
+
+
+
+
+
+
 J-31ab - Kincrot Corporation
 J-32ab/J-33ab - Gogo Peanuts!
 J-34ab - Two Gents Crafts
