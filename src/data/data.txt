@@ -12,6 +12,7 @@ C - clear
 D - clear
 E - clear
 F - clear
+G - clear
 
 
 
@@ -28,79 +29,7 @@ beungeut sia hurung
 
 
 
-G
-G-01ab - hellomayu x yankasmiles
-G-02ab/G-03ab - Mirurin x Starry
-Messenger
-G-04ab/G-05ab - Sapoto Studio
-G-06ab - KAPOW!
-G-07ab - MariBelanja GuyZ (MBG)
-G-08ab - Maso Gang
-G-09a - Tsuinn22
-G-09b - Tiny Lune
-G-10ab - Art-Nerds in Crime
-G-11ab/G-12ab - sam yaong
-G-13ab - Lebah Gantenk
-G-14ab - Miisuboru
-G-15a - Witri's Project × Addorable
-Mii
-G-15b - Haluverse
-G-16ab - Jupiterbear
-G-17ab - LancarJaya Abadi
-G-18ab - fejufej
-G-19ab - Grey Rabbit
-G-20ab -Bebek Pitak
-G-21ab - zeamayo
-G-22ab - Aktifis Lele
-G-23a - Pandao Express
-G-23b - Chareo.art
-G-24ab (SAT) - Skena Gado-Gado
-G-24a (SUN) - Takasihmurah
-G-24b (SUN) - hanoki.id
-G-25a (SAT) - Muム
-G-25a (SUN) - Smol Nation
-G-25b - Membangun Harapan
-Kehidupan
-G-26ab/G-27ab -Bigmadamee
-G-28ab/G-29ab - Orenmania
-G-30a - ASOPEDAI
-G-30b - Fruity Volleyball Corner
-G-31ab - HALU Corner
-G-32ab/G-33ab - Kakap Studio
-G-34ab/G-35ab - TBA x MNK
-G-36ab - TOSERBA
-G-37a - Silly Mates
-G-37b -Bucin Donat
-G-38ab - Lingkaran Kecil
-G-39ab - Sugar Aunties
-G-40ab - Dreamycafe
-G-41ab - Lyn & Pich
-G-42ab - SweetJourney x
-Katsukitsch
-G-43ab - Pucuk Dodolan
-G-44ab - TERIDI
-G-45a - Warteg husbu-waifu
-G-45b - Di Sudut Kerling Matamu
-G-46a (SAT) -Brondong well done
-G-46a (SUN) - VGNchan
-G-46b (SAT) - Freakytiw
-G-46b (SUN) - Cringe Pookies
-G-47ab - doodle by deedee
-G-48ab - Kekentang Merch
-G-49ab -Beerahi
-G-50ab - Mengburu cuan
-G-51ab - Aobyss
-G-52ab - Lan's Craft
-G-53a - Kurosacy Studio
-G-53b - Riuploot
-G-54ab (SAT) - Anggrek Mekar
-Kasablanka
-G-54a (SUN) - Jump!!Boat!
-G-54b (SUN) - Silver Cafe
-G-55ab - Freaky Mart
-G-56ab/G-57ab - STAY WARAS
-G-58ab/G-59ab - Astristicworks
-G-60ab - Makonyan
+
 H
 H-01ab - LIME+
 H-02ab/H-03ab - MOEMORI
@@ -109,6 +38,9 @@ H-06a - LucuLucuWan
 H-06b - NOIRIN
 H-07a -BawangSenang
 H-07b - JVCveritas
+
+
+
 H-08ab - dollyink.official
 H-09ab - RAPOK!
 H-10ab - Meja Gueh
@@ -120,6 +52,12 @@ H-14b - Pinkxmatcha
 H-15ab (SAT) - Homoglobin
 H-15a (SUN) - Majik Pemutih
 H-15b (SUN) - Cae_ppuccino
+
+
+
+
+
+
 H-16ab (SAT) - Hidup Mati
 H-17ab - Mx. Iwa
 H-18ab - Yudistira x Zura Kura
