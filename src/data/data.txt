@@ -46,43 +46,6 @@ J
 
 
 
-
-J-01a - Stellaaa_uwu
-J-01b - CULTON LOPLEP
-J-02ab - Glitchbyte.exe
-J-03ab - Haniwa Garden
-J-04ab -Bulung Pules
-J-06ab - GEROBAK
-J-07ab - Niche Knicknacks Corner
-
-
-
-800,772,804,777
-805,772,809,777
-805,754,809,764
-805,742,809,752
-805,731,809,740
-805,706,809,716
-800,694,809,698
-
-
-
-
-
-
-
-J-08ab - guinndel
-J-09ab (SAT) - MichiMerch
-J-09ab (SUN) - MichiMumu
-J-10a (SAT) - Cutesy Missy
-J-10a (SUN) - Pejuang Finansial
-J-10b (SAT) - Pickled Yams
-J-10b (SUN) - Ilus Digi
-J-11ab/J-12ab - Outside Studio
-J-13ab/J-14ab - Frootea Patootea
-J-15b - Padepokan Pertemanan
-Perempuan
-J-15a - MawlFey
 J-16ab - CTS (ChamomileTea Studio)
 J-17a - Possessivenight
 J-17b -Beban Keluarga Creative
@@ -94,6 +57,14 @@ J-21ab - AffinityBlessing
 J-22a - Magic Hatch
 J-22b - Dungeon Me-Ship
 J-23a - PADUSISTA
+
+
+
+
+
+
+
+
 J-23b - Mythpunk
 J-24a - Lester Manor
 J-24b (SAT) - I.O.U
