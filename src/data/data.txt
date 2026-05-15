@@ -47,14 +47,6 @@ J
 
 
 
-
-
-J-31ab - Kincrot Corporation
-J-32ab/J-33ab - Gogo Peanuts!
-J-34ab - Two Gents Crafts
-J-36ab -BlueBassBand
-J-37a - AbuBelang
-J-37b - MEATBUCKET
 J-38ab - Sea Angels
 J-39ab - berrybooze
 J-40ab - Warung Tural
@@ -62,34 +54,87 @@ J-41ab - Kelvin_TrainerK x Koji.Kun
 J-43ab - kreatian
 J-44ab - Craterium
 J-45ab - Ametrine Neko
+
+
+
+790,424,799,428
+790,436,793,446
+790,448,793,458
+790,461,793,470
+790,484,793,494
+790,497,793,506
+790,514,798,518
+
+
+
 J-46ab - Zwelff Creates
 J-47ab - biohazardbin
 J-48ab - sop kucing
 J-49ab - Kuroojuu
-J-50ab/J-51ab - Warung Seblak
-Cikur
+J-50ab/J-51ab - Warung SeblakCikur
 J-52ab - pee pee poo poo
 J-53a (SAT) - Meness
 J-53a (SUN) - PRO-CAST-INATOR
 J-53b (SAT) - mweng & fwens
 J-53b (SUN) - Asep Stroberi Works
+
+
+790,575,799,579
+790,587,793,597
+790,600,793,609
+790,612,793,621
+790,624,793,646
+790,648,793,657
+790,666,793,669
+790,666,793,669
+795,666,799,669
+795,666,799,669
+
+
+
+
+
+
+
+
 J-54a - Waktu Indonesia Yearning
 J-54b - dried fish.
-J-55ab (SAT) - Ganteng Ganteng
-Salonpas
+J-55ab (SAT) - Ganteng Ganteng Salonpas
 J-55ab (SUN) - Lapangan Kerja
-J-57a (SUN) - @tepoma.id &
-@riiibo.draws
+J-57a (SUN) - @tepoma.id & @riiibo.draws
 J-57ab (SAT) -Bumcle
-J-57b (SUN) - Random Ahh
-Merchants
+J-57b (SUN) - Random Ahh Merchants
 J-58ab - The First Checkpoint
 J-59ab - HUMANAND STORE
 J-60a (SAT) - Shin Tegami Mensei
 J-60a (SUN) -BEBEJ
 J-60b (SAT) - berryarose
-J-60b (SUN) - Warung Nasi Kucing
-WLW
+J-60b (SUN) - Warung Nasi Kucing WLW
+
+
+
+
+
+
+
+795,694,799,698
+790,694,793,698
+790,706,793,716
+790,706,793,716
+790,731,793,735
+790,731,793,740
+790,736,793,740
+790,743,793,752
+790,755,793,764
+790,773,793,777
+790,773,793,777
+795,773,799,777
+795,773,799,777
+
+
+
+
+
 K
 K-01ab -Balls Inspector
 K-02ab/K-03ab - YL. ENTERPRISE

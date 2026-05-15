@@ -7,114 +7,8 @@ beungeut sia hurung
 
 
 
-beungeut sia botak
 
 
-
-
-  {
-    id: 8699,
-    circle_code: 'J-31ab',
-    name: 'Kincrot Corporation',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Kincrot Corporation.jpg',
-    circle_facebook: null,
-    circle_instagram: 'https://www.instagram.com/kepalasawith/?hl=en',
-    circle_twitter: 'https://x.com/smilingspectra',
-    circle_other_socials: null,
-    sampleworks_images: null,
-    day: 'Both Days',
-    circle_type: '2 Space(s)',
-  },
-  {
-    id: 8700,
-    circle_code: 'J-32ab/J-33ab',
-    name: 'Gogo Peanuts!',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Gogo Peanuts!.jpg',
-    circle_facebook: '-',
-    circle_instagram: 'https://www.instagram.com/oetuy/',
-    circle_twitter: 'https://x.com/oetuyy',
-    circle_other_socials: '-',
-    sampleworks_images: null,
-    day: 'Both Days',
-    circle_type: '4 Space(s)',
-  },
-  {
-    id: 8701,
-    circle_code: 'J-34ab',
-    name: 'Two Gents Crafts',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Two Gents Crafts.jpg',
-    circle_facebook: null,
-    circle_instagram: 'https://www.instagram.com/twogents_crafts/',
-    circle_twitter: null,
-    circle_other_socials: null,
-    sampleworks_images: [
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0e3341ae-7707-48d7-b7d4-cf4500809fb6/f12a26d4-910f-4f86-b93d-8800bf28a60f/J-34ab.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0e3341ae-7707-48d7-b7d4-cf4500809fb6/3ff30958-e029-4bad-adfd-c5505ff1ba12/J-34ab.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0e3341ae-7707-48d7-b7d4-cf4500809fb6/b3521904-1255-4cd1-967a-28570646d73f/J-34ab.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0e3341ae-7707-48d7-b7d4-cf4500809fb6/d315b118-d778-4355-bba9-6e95cad49eb0/J-34ab.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0e3341ae-7707-48d7-b7d4-cf4500809fb6/eea25fbe-a9a5-45ee-92b9-28f2678d97e0/J-34ab.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0e3341ae-7707-48d7-b7d4-cf4500809fb6/fa40fbba-cc19-4221-a389-1db095e52ad5/J-34ab.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0e3341ae-7707-48d7-b7d4-cf4500809fb6/3d440527-ff0f-41d8-8650-7deb2f23bbe6/J-34ab.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0e3341ae-7707-48d7-b7d4-cf4500809fb6/a493a3f1-00f4-4433-857f-8cd286c290e8/J-34ab.jpg',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/0e3341ae-7707-48d7-b7d4-cf4500809fb6/6cfb8a59-e528-4f8d-b7b6-26955bb5c905/J-34ab.jpg',
-    ],
-    day: 'Both Days',
-    circle_type: '2 Space(s)',
-  },
-  {
-    id: 8702,
-    circle_code: 'J-36ab',
-    name: 'Blue Bass Band',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Blue Bass Band.jpg',
-    circle_facebook: null,
-    circle_instagram: 'https://www.instagram.com/_athy.na_?igsh=bGl4cTNyNjV1eXhv',
-    circle_twitter: 'https://x.com/rqaiiden, https://x.com/Shenanigans_kes',
-    circle_other_socials: null,
-    sampleworks_images: null,
-    day: 'Both Days',
-    circle_type: '2 Space(s)',
-  },
-  {
-    id: 8703,
-    circle_code: 'J-37a',
-    name: 'Abu Belang',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/Abu Belang.jpg',
-    circle_facebook: null,
-    circle_instagram: 'https://instagram.com/kyla_aurell',
-    circle_twitter: 'https://x.com/aorkve__',
-    circle_other_socials: null,
-    sampleworks_images: [
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5056db05-60ad-43f2-b0df-0db9bd2e13e6/b1246cd8-d432-4348-9b2b-eb984b2f9f66/J-37a.png',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5056db05-60ad-43f2-b0df-0db9bd2e13e6/33b669bd-3d31-45a9-abe9-73213a214589/J-37a.png',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5056db05-60ad-43f2-b0df-0db9bd2e13e6/165ec185-3bb7-400d-bbde-32eb770c5083/J-37a.png',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5056db05-60ad-43f2-b0df-0db9bd2e13e6/f584bdc8-8915-435f-8ab9-20402d1e641f/J-37a.png',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5056db05-60ad-43f2-b0df-0db9bd2e13e6/e8d819fc-bcb2-4499-b27b-7704e2d19ace/J-37a.png',
-      'https://kumxjefxtrrpzalmwvvr.supabase.in/storage/v1/object/public/circle-sampleworks-22/5056db05-60ad-43f2-b0df-0db9bd2e13e6/f8795594-857b-42b0-8b20-b2da4ae016e1/J-37a.png',
-    ],
-    day: 'Both Days',
-    circle_type: '1 Space(s)',
-  },
-  {
-    id: 8704,
-    circle_code: 'J-37b',
-    name: 'MEATBUCKET',
-    circle_cut:
-      'https://kumxjefxtrrpzalmwvvr.supabase.co/storage/v1/object/public/circle-cut-22/MEATBUCKET.jpg',
-    circle_facebook: null,
-    circle_instagram: 'https://www.instagram.com/rindomi3/',
-    circle_twitter: 'https://x.com/rindomi3',
-    circle_other_socials: null,
-    other_fandom:
-      "Chainsaw Man, Genshin Impact, Saiki K, My Chemical Romance, The Beatles, Deltarune, Jojo's Bizarre Adventure",
-    sampleworks_images: null,
-    day: 'Both Days',
-    circle_type: '1 Space(s)',
-  },
   {
     id: 8705,
     circle_code: 'J-38ab',
@@ -609,6 +503,11 @@ beungeut sia botak
     day: 'SUN',
     circle_type: '1 Space(s)',
   },
+
+
+beungeut sia botak
+
+
   {
     id: 8735,
     circle_code: 'K-01ab',
