@@ -4,8 +4,8 @@ import { Plus, Minus, RotateCcw } from 'lucide-react';
 import { BOOTHS } from '@/data/booths';
 import { SidePanel } from './SidePanel';
 import { BoothModal } from './BoothModal';
-import denah from '@/assets/comifuro.jpg';
-// import denah from '@/assets/cfsah.webp';
+// import denah from '@/assets/comifuro.jpg';
+import denah from '@/assets/cfsah.webp';
 
 import { useBookmarks } from '@/hooks/useBookmarks'; // sesuaikan path
 
@@ -15,7 +15,7 @@ const GRID_ROWS = 1080;
 const MIN_SCALE = 0.1;
 const MAX_SCALE = 60;
 const DRAG_THRESHOLD = 4;
-const GRID_OPACITY = 1;
+const GRID_OPACITY = 0;
 
 type DayFilter = 'SAT' | 'SUN' | 'Both Days';
 type Transform = { scale: number; offsetX: number; offsetY: number };
