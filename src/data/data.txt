@@ -15,11 +15,12 @@ F - clear
 G - clear
 H - clear
 I - clear
+J - clear
 
 
 
 
-j
+
 k
 l
 m
@@ -41,101 +42,8 @@ beungeut sia hurung
 
 
 
-J
-
-
-
-
-
-J-38ab - Sea Angels
-J-39ab - berrybooze
-J-40ab - Warung Tural
-J-41ab - Kelvin_TrainerK x Koji.Kun
-J-43ab - kreatian
-J-44ab - Craterium
-J-45ab - Ametrine Neko
-
-
-
-790,424,799,428
-790,436,793,446
-790,448,793,458
-790,461,793,470
-790,484,793,494
-790,497,793,506
-790,514,798,518
-
-
-
-J-46ab - Zwelff Creates
-J-47ab - biohazardbin
-J-48ab - sop kucing
-J-49ab - Kuroojuu
-J-50ab/J-51ab - Warung SeblakCikur
-J-52ab - pee pee poo poo
-J-53a (SAT) - Meness
-J-53a (SUN) - PRO-CAST-INATOR
-J-53b (SAT) - mweng & fwens
-J-53b (SUN) - Asep Stroberi Works
-
-
-790,575,799,579
-790,587,793,597
-790,600,793,609
-790,612,793,621
-790,624,793,646
-790,648,793,657
-790,666,793,669
-790,666,793,669
-795,666,799,669
-795,666,799,669
-
-
-
-
-
-
-
-
-J-54a - Waktu Indonesia Yearning
-J-54b - dried fish.
-J-55ab (SAT) - Ganteng Ganteng Salonpas
-J-55ab (SUN) - Lapangan Kerja
-J-57a (SUN) - @tepoma.id & @riiibo.draws
-J-57ab (SAT) -Bumcle
-J-57b (SUN) - Random Ahh Merchants
-J-58ab - The First Checkpoint
-J-59ab - HUMANAND STORE
-J-60a (SAT) - Shin Tegami Mensei
-J-60a (SUN) -BEBEJ
-J-60b (SAT) - berryarose
-J-60b (SUN) - Warung Nasi Kucing WLW
-
-
-
-
-
-
-
-795,694,799,698
-790,694,793,698
-790,706,793,716
-790,706,793,716
-790,731,793,735
-790,731,793,740
-790,736,793,740
-790,743,793,752
-790,755,793,764
-790,773,793,777
-790,773,793,777
-795,773,799,777
-795,773,799,777
-
-
-
-
-
 K
+
 K-01ab -Balls Inspector
 K-02ab/K-03ab - YL. ENTERPRISE
 K-04ab - .ONE
@@ -143,17 +51,41 @@ K-05ab - Sal & Pals
 K-06ab - Paestrie
 K-07a - J&C General Goods
 K-07b -Bangsal de Solulu
+
+762,772,772,777
+767,742,772,764
+767,731,772,740
+767,718,772,728
+767,706,772,716
+767,694,772,698
+762,694,766,698
+
+
+
+
 K-08ab - FUJOHIME MART
-K-09ab - Gaji USD (United States of
-Depok)
-K-10ab - Duo Kucing x Loomia
-Studio
-K-11ab/K-12ab -BuntelanBebek x
-Kawaiiku x Kerirynn
+K-09ab - Gaji USD (United States ofDepok)
+K-10ab - Duo Kucing x LoomiaStudio
+K-11ab/K-12ab -BuntelanBebek xKawaiiku x Kerirynn
 K-13ab -Brewek Time
 K-14ab - Vnzmia by Ogloo Studio
 K-15a - Pikusapi
 K-15b - spirealle
+
+
+762,665,772,669
+767,647,772,657
+767,635,772,646
+767,611,772,633
+767,600,772,609
+767,587,772,597
+767,575,771,579
+762,575,766,579
+
+
+
+
+
 K-16a - Terminal
 K-16b - d.atlastudio
 K-17ab - mmeiccaa x peachy
@@ -162,6 +94,23 @@ K-19ab - Papeda Gulung Enak
 K-20ab/K-21ab - SNGARILA
 K-22ab - Calamipheion
 K-23ab - bonbunny N homies
+
+762,514,766,518
+767,514,772,518
+767,496,772,506
+767,484,772,494
+767,472,772,482
+767,448,772,470
+767,436,772,446
+762,424,772,428
+
+
+
+
+
+
+
+
 K-24a - CRLY
 K-24b -Bejirlicious
 K-25ab - The Yeyes
@@ -170,6 +119,24 @@ K-28ab - CallMeCia
 K-29ab - sagtavilia
 K-30a - Save Ass.PNG
 K-30b - Critter Cranny
+
+
+
+762,395,766,399
+767,395,772,399
+767,377,772,387
+767,353,772,375
+767,341,772,351
+767,328,772,339
+767,317,772,321
+762,317,766,321
+
+
+
+
+
+
+
 K-31ab - Kiibete
 K-32ab/K-33ab - Purizilla &
 Darumatama
