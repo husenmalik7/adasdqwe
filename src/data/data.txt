@@ -16,12 +16,13 @@ G - clear
 H - clear
 I - clear
 J - clear
+K - clear
 
 
 
 
 
-k
+
 l
 m
 n
@@ -38,133 +39,6 @@ s
 
 beungeut sia hurung
 
-
-
-
-
-K
-
-
-
-
-K-31ab - Kiibete
-K-32ab/K-33ab - Purizilla &Darumatama
-K-34ab - Duckieology x Tamagodoodle
-K-35ab - WoeBray
-K-36ab - Sirkel Kebut Semalam(SKS)
-K-37ab - Kompor Gas Emoji Api
-
-
-
-
-752,317,761,321
-752,329,756,351
-752,353,756,363
-752,365,756,375
-752,378,756,387
-752,395,761,399
-
-
-
-
-K-38a (SAT) - Kandang Wawan
-K-38a (SUN) - r0tt3n.com
-K-38b (SAT) - fishball
-K-38b (SUN) - SNAS_CHILLedBROs
-K-39ab (SAT) - MarkasBesar Cewe Cakep
-K-39a (SUN) - PeptoBismores
-K-39b (SUN) - Kentut Goreng
-K-40ab - Manisan Wibu
-K-41ab/K-42ab - MASC X KAWAII
-K-43ab - GaroZaguBodega
-K-44a - Yummy Taiyaki
-K-44b - 4Foks
-K-45a (SAT) - KUKURUYUK
-K-45a (SUN) - Fyoiret
-K-45b (SAT) - TakkunHole
-K-45b (SUN) - Negative Sanity
-
-
-
-
-758,424,761,428
-758,424,761,428
-752,424,756,428
-752,424,756,428
-752,436,756,446
-752,436,756,440
-752,442,756,446
-752,448,756,458
-752,461,756,482
-752,484,756,494
-752,497,756,501
-752,502,756,506
-752,514,756,518
-752,514,756,518
-757,514,761,518
-757,514,761,518
-
-
-
-
-K-46ab (SAT) - Cap 5 Udang
-K-46ab (SUN) - Fih Fellas
-K-47a - Atsukirei
-K-47b - Suvmagnolia
-K-48ab - Unidentified Silly Sealiens
-K-49ab - Noct's Art Corner
-K-50ab - PHOTOCAPY
-K-51ab -Breath of Lilac
-K-52ab - Shervealism x Artescale
-K-53a - MISARE
-K-53b - The Dream Witnessing
-
-
-
-
-
-
-
-
-
-752,575,761,579
-752,575,761,579
-752,587,756,591
-752,593,756,597
-752,600,756,609
-752,612,756,621
-752,624,756,633
-752,636,756,645
-752,648,756,657
-752,666,756,669
-757,665,761,669
-
-
-
-
-
-
-
-
-
-K-54a - the.fishvan
-K-54b - Salted Coffee Club
-K-55a - cheju
-K-55b - SiMeong
-K-56ab/K-57ab - Telemiette
-K-58ab - Krisis Identitas
-K-59ab - KFC (Kedai FandomCampuran)
-K-60ab - Colorful Pitik
-
-
-757,694,761,698
-752,694,756,698
-752,706,756,710
-752,712,756,716
-752,718,756,740
-752,743,756,752
-752,755,756,764
-752,772,761,777
 
 
 
